@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.tmp/
+.venv/
+node_modules/
+dist/
+build/
+.env
+.env.*
+*.log
+# Historial de conversaciones exportado de OpenCode (local)
+docs/opencode-history/
+test-results/
+playwright-report/
