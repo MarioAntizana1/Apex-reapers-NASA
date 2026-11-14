@@ -1,0 +1,99 @@
+{
+  "layers": [
+    {
+      "id": "ctx-ortho-5m",
+      "name": "Jezero · ortomosaico CTX",
+      "source": "https://planetarymaps.usgs.gov/mosaic/mars2020_trn/CTX/ScienceInvestigationMaps_JPL/",
+      "description": "Ortomosaico visible del cráter Jezero y su región, base cartográfica para comparar capas.",
+      "mission": "Mars 2020 / MRO",
+      "instrument": "CTX (Context Camera)",
+      "resolution": "5 m/px nativo; 4096 px para web",
+      "date": "2021-10-14",
+      "license": "Dominio público NASA/USGS (Mangold et al., 2021; DOI 10.1126/science.abl4051)",
+      "limitations": "Mosaico de contexto, no de detalle; costuras y zonas con distinta iluminación.",
+      "url": "maps/jezero_ctx_5m.jpg",
+      "extent": [
+        -25254.6,
+        -51486.5,
+        63620.5,
+        49729.3
+      ]
+    },
+    {
+      "id": "ctx-dem-color",
+      "name": "Topografía · MDE CTX 20 m",
+      "source": "https://doi.org/10.1126/science.abl4051",
+      "description": "Modelo digital de elevación del cráter y su región, coloreado por altura y sombreado.",
+      "mission": "Mars 2020 / MRO",
+      "instrument": "CTX (fotogrametría estéreo)",
+      "resolution": "20 m/px",
+      "date": "2021-10-14",
+      "license": "Dominio público NASA/USGS (Mangold et al., 2021)",
+      "limitations": "Pendientes suavizadas a 20 m; no resuelve rocas ni escalones menores de ~40 m.",
+      "url": "maps/jezero_ctx_dem_20m_color.jpg",
+      "extent": [
+        -25446.7,
+        -51538.2,
+        63681.8,
+        49801.8
+      ]
+    },
+    {
+      "id": "ctx-dem-hillshade",
+      "name": "Relieve · sombreado CTX",
+      "source": "https://doi.org/10.1126/science.abl4051",
+      "description": "Sombreado del relieve calculado con luz desde el noroeste (315°, 45°).",
+      "mission": "Mars 2020 / MRO",
+      "instrument": "CTX (fotogrametría estéreo)",
+      "resolution": "20 m/px",
+      "date": "2021-10-14",
+      "license": "Dominio público NASA/USGS (Mangold et al., 2021)",
+      "limitations": "Iluminación sintética; no es una imagen real y exagera el relieve.",
+      "url": "maps/jezero_ctx_dem_20m_hillshade.jpg",
+      "extent": [
+        -25446.7,
+        -51538.2,
+        63681.8,
+        49801.8
+      ]
+    },
+    {
+      "id": "ctx-dem-slope",
+      "name": "Pendientes · MDE CTX",
+      "source": "https://doi.org/10.1126/science.abl4051",
+      "description": "Pendiente del terreno en grados, calculada a partir del MDE CTX de 20 m.",
+      "mission": "Mars 2020 / MRO",
+      "instrument": "CTX (fotogrametría estéreo)",
+      "resolution": "20 m/px",
+      "date": "2021-10-14",
+      "license": "Dominio público NASA/USGS (Mangold et al., 2021)",
+      "limitations": "Pendiente media por píxel; no apta para navegación ni para estabilidad local.",
+      "url": "maps/jezero_ctx_dem_20m_slope.jpg",
+      "extent": [
+        -25446.7,
+        -51538.2,
+        63681.8,
+        49801.8
+      ]
+    },
+    {
+      "id": "overlay-travesia",
+      "name": "Superposición · travesía y geología",
+      "source": "https://trek.nasa.gov/mars/",
+      "description": "Capa transparente con travesía, elipse de aterrizaje, ROI, minerales hidratados y contactos geológicos.",
+      "mission": "Mars 2020 / Mars Trek",
+      "instrument": "Vectores GIS (NASA/JPL/ASU)",
+      "resolution": "vector",
+      "date": "2026-11-14",
+      "license": "NASA/JPL/ASU Mars Trek; uso educativo con atribución",
+      "limitations": "Trazados aproximados y simplificados; no sustituyen datos oficiales.",
+      "url": "maps/jezero_overlay_travesia.png",
+      "extent": [
+        -25254.6,
+        -51486.5,
+        63620.5,
+        49729.3
+      ]
+    }
+  ]
+}
