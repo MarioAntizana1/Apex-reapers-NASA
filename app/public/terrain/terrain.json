@@ -1,0 +1,103 @@
+{
+  "id": "terrain-60m",
+  "name": "Mallas de terreno · pendiente y altura relativa (CTX)",
+  "extent": [
+    -25446.7,
+    -51538.2,
+    63681.8,
+    49801.8
+  ],
+  "width": 1485,
+  "height": 1689,
+  "resolution": {
+    "x": 60.0192,
+    "y": 60.0
+  },
+  "origin": "top-left",
+  "noData": null,
+  "generated": "2026-11-15",
+  "slope": {
+    "grid": "terrain/slope_index_60m.png",
+    "sourceLayer": "ctx-dem-slope",
+    "sourceImage": "maps/jezero_ctx_dem_20m_slope.jpg",
+    "units": "relative-index-0-255",
+    "ramp": [
+      {
+        "hue": 0.0,
+        "index": 0.97
+      },
+      {
+        "hue": 15.0,
+        "index": 0.88
+      },
+      {
+        "hue": 35.0,
+        "index": 0.66
+      },
+      {
+        "hue": 55.0,
+        "index": 0.42
+      },
+      {
+        "hue": 75.0,
+        "index": 0.18
+      },
+      {
+        "hue": 95.0,
+        "index": 0.04
+      },
+      {
+        "hue": 110.0,
+        "index": 0.0
+      },
+      {
+        "hue": 180.0,
+        "index": 0.0
+      },
+      {
+        "hue": 200.0,
+        "index": 0.55
+      },
+      {
+        "hue": 260.0,
+        "index": 1.0
+      },
+      {
+        "hue": 300.0,
+        "index": 1.0
+      }
+    ],
+    "notes": [
+      "Índice relativo 0-255 derivado del tono de la capa de pendientes; no son grados validados.",
+      "Rejilla agregada por área desde 20 m a ~60 m para que el cálculo quepa en el navegador."
+    ]
+  },
+  "elevation": {
+    "grid": "terrain/elevation_60m.png",
+    "sourceLayer": "ctx-dem-20m-color",
+    "sourceImage": "maps/jezero_ctx_dem_20m_color.jpg",
+    "units": "relative-height-index-0-255",
+    "metresPerIndex": 7.8431,
+    "reliefMetres": 2000.0,
+    "smoothCells": 4.0,
+    "ramp": {
+      "lowHue": 215.0,
+      "highHue": 35.0,
+      "minSaturation": 0.15
+    },
+    "calibration": {
+      "assumption": "el desnivel total de la ventana se toma como 2000 m",
+      "reliefMetres": 2000.0
+    },
+    "notes": [
+      "Índice de altura relativa decodificado del tono de la rampa hipsométrica a resolución nativa.",
+      "Relieve suavizado ~240 m: interesa el relieve de gran escala, no el moteado de 20 m.",
+      "El desnivel en metros es aproximado: sale de un desnivel total supuesto, no de una cota del MDE.",
+      "0 = cota más baja de la ventana, 255 = cota más alta; no es altura sobre el elipsoide."
+    ]
+  },
+  "notes": [
+    "Ambas mallas comparten extensión, tamaño y origen: la celda (fila, columna) es la misma en las dos.",
+    "No sustituyen un MDE con unidades verticales verificadas. No apto para navegación real."
+  ]
+}

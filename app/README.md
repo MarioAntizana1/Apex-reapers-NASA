@@ -67,6 +67,32 @@ relative local image URLs, and HTTPS provenance links. This structural check
 does **not** verify scientific accuracy, licensing or actual georeferencing.
 Image load failures appear next to the layer.
 
+## Route planner — shortest path over terrain
+
+`src/routing/` adds planning on top of the 2D map: the user places waypoints and
+an A\* search returns the cheapest traverse across the CTX slope grid instead of
+the straight line.
+
+- `scripts/build_slope_index.py` converts `public/maps/jezero_ctx_dem_20m_slope.jpg`
+  into `public/terrain/slope_index_60m.png` (one byte per ~60 m cell) plus
+  `public/terrain/slope_index.json` (extent, resolution, assumptions). Run it
+  from `app/` with `python scripts/build_slope_index.py`.
+- `src/routing/terrain.ts` loads and decodes that grid in the browser.
+- `src/routing/planner.ts` is the planner: A\* over 8 neighbours without cutting
+  diagonal corners, cell cost `1 + penalty · (index/255)²`, cells above the
+  tolerance are impassable, Douglas–Peucker plus Chaikin smooth the trace.
+- `src/routing/worker.ts` runs the search in a Web Worker and
+  `useRoutePlanner.ts` owns the state and debounces slider changes, so the map
+  stays responsive.
+- 0 in the index is smooth terrain, 255 the strongest tone of the source ramp.
+  **Relative values, not validated degrees**: the source layer has no numeric
+  legend and there is no vertical datum.
+
+Panel figures (distance, detour, max index, cost per metre, cells explored) come
+from the same grid, so they match the drawn line — they are not a rover traverse
+simulation: no rocks, energy model, communications or slope-limit validation.
+Unit tests live in `src/routing/*.test.ts`, browser tests in `tests/route.spec.ts`.
+
 ## Shared coordinates — initial assumption
 
 `MARS:JEZERO` in `src/MapView.tsx` is a local spherical equirectangular
@@ -89,12 +115,14 @@ handling is still needed. A color image or slope map does not replace it.
 
 ## Layout
 
-- `src/App.tsx`: layer controls and metadata.
-- `src/MapView.tsx`: OpenLayers map and image lifecycle.
+- `src/App.tsx`: layer controls, route panel and metadata.
+- `src/MapView.tsx`: OpenLayers map, image lifecycle and route drawing.
 - `src/layers.ts`: catalog contract and validation.
+- `src/routing/`: terrain grid, A\* planner, worker and React hook.
+- `scripts/build_slope_index.py`: builds `public/terrain/` from the slope layer.
 - `public/layers.json`: resource catalog, populated by the data pipeline.
 - `tests/`: browser tests using synthetic resources only.
 
-Limits: Spanish UI only for this delivery; scientific POIs, routes, EVA,
-brief, offline cache and 3D are not implemented. No external font, terrestrial
-basemap or runtime image service is required.
+Limits: Spanish UI only for this delivery; scientific POIs, EVA, brief, offline
+cache and 3D are not implemented. No external font, terrestrial basemap or
+runtime image service is required.

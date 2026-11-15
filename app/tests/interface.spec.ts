@@ -1,4 +1,11 @@
-import { expect, test } from '@playwright/test'
+import { expect, test, type Page } from '@playwright/test'
+
+/** La app abre en modo «solo mapa»; los paneles se despliegan con el botón. */
+async function openApp(page: Page) {
+  await page.goto('/')
+  await page.locator('.panels-toggle').click()
+  await expect(page.locator('.sidebar')).toBeVisible()
+}
 
 const testLayer = {
   id: 'test', name: 'Imagen de prueba', url: 'maps/test.svg',
@@ -12,7 +19,7 @@ test.beforeEach(async ({ page }) => {
 })
 
 test('presenta Apex-Mars y atribuye el equipo Apex-Reapers', async ({ page }) => {
-  await page.goto('/')
+  await openApp(page)
   await expect(page).toHaveTitle('Apex-Mars · Jezero')
   await expect(page.getByRole('link', { name: 'Apex-Mars, inicio' })).toBeVisible()
   await expect(page.getByText('Apex-Reapers', { exact: true })).toBeVisible()
@@ -21,7 +28,7 @@ test('presenta Apex-Mars y atribuye el equipo Apex-Reapers', async ({ page }) =>
 test('el catálogo local carga sus imágenes reales sin errores', async ({ page }) => {
   await page.unroute('**/layers.json')
   const response = page.waitForResponse('**/layers.json')
-  await page.goto('/')
+  await openApp(page)
   const catalog = await (await response).json()
   expect(catalog.layers.length).toBeGreaterThan(0)
   for (const layer of catalog.layers) {
@@ -34,7 +41,7 @@ test('el catálogo local carga sus imágenes reales sin errores', async ({ page 
 })
 
 test('sin recursos muestra el estado vacío y no promete 3D', async ({ page }) => {
-  await page.goto('/')
+  await openApp(page)
   await expect(page.getByRole('heading', { name: 'Mapa pendiente de cargar' })).toBeVisible()
   await expect(page.getByRole('button', { name: '3D' })).toBeDisabled()
   await expect(page.getByRole('region', { name: 'Mapa de Jezero' })).toBeVisible()
@@ -48,7 +55,7 @@ test('carga una imagen, muestra su ficha y permite ocultarla y cambiar opacidad'
     contentType: 'image/svg+xml',
     body: '<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100" height="100" fill="tan"/></svg>',
   }))
-  await page.goto('/')
+  await openApp(page)
   await expect(page.getByText('Imagen sintética de prueba.')).toBeVisible()
   await expect(page.getByText('Capa cargada')).toBeVisible()
   const map = page.getByRole('region', { name: 'Mapa de Jezero' })
@@ -66,20 +73,20 @@ test('carga una imagen, muestra su ficha y permite ocultarla y cambiar opacidad'
 test('informa de una imagen ausente junto a su capa', async ({ page }) => {
   await page.route('**/layers.json', route => route.fulfill({ json: { layers: [testLayer] } }))
   await page.route('**/maps/test.svg', route => route.fulfill({ status: 404 }))
-  await page.goto('/')
+  await openApp(page)
   await expect(page.getByRole('alert')).toContainText('No se pudo cargar la imagen')
   await expect(page.getByText('Capa cargada')).toHaveCount(0)
 })
 
 test('informa del fallo del catálogo', async ({ page }) => {
   await page.route('**/layers.json', route => route.fulfill({ status: 503 }))
-  await page.goto('/')
+  await openApp(page)
   await expect(page.getByRole('alert')).toContainText('No se pudo cargar')
 })
 
 test('el estado vacío es usable en móvil y no desborda la pantalla', async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 })
-  await page.goto('/')
+  await openApp(page)
   await expect(page.getByRole('heading', { name: 'Mapa pendiente de cargar' })).toBeVisible()
   expect(await page.evaluate(() => document.documentElement.scrollWidth)).toBeLessThanOrEqual(390)
   await page.screenshot({ path: 'test-results/mobile.png', fullPage: true })
@@ -89,8 +96,22 @@ test('la interfaz de escritorio no genera errores de JavaScript', async ({ page 
   const errors: string[] = []
   page.on('pageerror', error => errors.push(error.message))
   await page.setViewportSize({ width: 1440, height: 1000 })
-  await page.goto('/')
+  await openApp(page)
   await expect(page.getByRole('heading', { name: 'Mapa pendiente de cargar' })).toBeVisible()
   await page.screenshot({ path: 'test-results/desktop.png', fullPage: true })
   expect(errors).toEqual([])
+})
+
+test('la vista inicial muestra solo el mapa, a pantalla completa', async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 })
+  await page.goto('/')
+  await expect(page.locator('.sidebar')).toBeHidden()
+  await expect(page.locator('.header')).toBeHidden()
+  const box = await page.locator('.map').boundingBox()
+  expect(box?.x).toBe(0)
+  expect(box?.y).toBe(0)
+  expect(Math.round(box?.width ?? 0)).toBe(1440)
+  expect(Math.round(box?.height ?? 0)).toBe(900)
+  await page.locator('.panels-toggle').click()
+  await expect(page.locator('.sidebar')).toBeVisible()
 })
