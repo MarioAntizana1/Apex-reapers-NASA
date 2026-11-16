@@ -22,6 +22,7 @@ Evidencias/**
 !Evidencias/**/*.xml
 !Evidencias/**/*.lbl
 !Evidencias/README.md
+Evidencias/**/*.CSV
 Evidencias/datos/meda/*.CSV
 Evidencias/datos/meda/*.csv
 !Evidencias/datos/meda/manifiesto*.csv
