@@ -1,0 +1,11 @@
+{
+  "consultado": "2026-11-14T14:03:44-0500",
+  "url": "https://science.nasa.gov/resource/curiositys-proposed-path-up-mount-sharp/",
+  "titulo": "Curiosity's Proposed Path up Mount Sharp - NASA Science",
+  "descripcion": "This animation shows a proposed route for NASA's Curiosity rover, which is climbing lower Mount Sharp on Mars. The annotated version of the map labels different regions that scientists working with the rover would like to explore in coming years.",
+  "animacion": "curiosity_mount_sharp_route.gif",
+  "credito": "NASA/JPL-Caltech/ESA/University of Arizona/JHUAPL/MSSS/USGS Astrogeology Science Center",
+  "relevancia": "media",
+  "uso": "Referencia visual de cómo se comunica una ruta y sus paradas. Es Gale, no Jezero: no se usa como capa del mapa.",
+  "limitaciones": "Animación ilustrativa de una ruta propuesta, no un dataset georreferenciado ni una travesía validada."
+}

@@ -1,0 +1,1195 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 2216,
+    "db_response_time_ms": 146,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Mars exploration zone landing site human mission) in the full text",
+      "x_new_oql": "get works with (Mars exploration zone landing site human mission) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Mars exploration zone landing site human mission",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Mars exploration zone landing site human mission&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2176726147",
+      "doi": null,
+      "title": "Noctis Landing: A Proposed Landing Site/Exploration Zone for Human Missions to the Surface of Mars",
+      "publication_year": 2015,
+      "cited_by_count": 1,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5087316341",
+            "display_name": "Pascal Lee",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I872623138",
+              "display_name": "Search for Extraterrestrial Intelligence",
+              "ror": "https://ror.org/02dxgk712",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I872623138"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Pascal Lee",
+          "raw_affiliation_strings": [
+            "Search for Extraterrestrial Intelligence Inst. Moffett Field, CA, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Search for Extraterrestrial Intelligence Inst. Moffett Field, CA, United States",
+              "institution_ids": [
+                "https://openalex.org/I872623138"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5056761990",
+            "display_name": "S. M. M. Acedillo",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S. M. M. Acedillo",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108370288",
+            "display_name": "Stephen P. Braham",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Stephen Braham",
+          "raw_affiliation_strings": [
+            "Mars Inst. Moffett Field, CA, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Mars Inst. Moffett Field, CA, United States",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5012574220",
+            "display_name": "Adrian Jon Brown",
+            "orcid": "https://orcid.org/0000-0002-9352-6989",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9352-6989"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A. J. Brown",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-9352-6989",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5084602402",
+            "display_name": "Richard C. Elphic",
+            "orcid": "https://orcid.org/0009-0008-3020-801X",
+            "observed_orcids": [
+              "https://orcid.org/0009-0008-3020-801X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. C. Elphic",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center Moffett field, CA, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center Moffett field, CA, United States",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5001914278",
+            "display_name": "Terry W. Fong",
+            "orcid": "https://orcid.org/0000-0003-0924-8195",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0924-8195"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Terry Fong",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center Moffett field, CA, United States"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-0924-8195",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center Moffett field, CA, United States",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002444504",
+            "display_name": "B. Glass",
+            "orcid": "https://orcid.org/0000-0002-3559-5249",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3559-5249"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "B. Glass",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center Moffett field, CA, United States"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-3559-5249",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center Moffett field, CA, United States",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5068958282",
+            "display_name": "C. Hoftun",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "C. Hoftun",
+          "raw_affiliation_strings": [
+            "Mars Inst. Moffett Field, CA, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Mars Inst. Moffett Field, CA, United States",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5065563814",
+            "display_name": "B. W. Johansen",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "B. W. Johansen",
+          "raw_affiliation_strings": [
+            "Mars Inst. Moffett Field, CA, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Mars Inst. Moffett Field, CA, United States",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5065684979",
+            "display_name": "K. Lorber",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "K. Lorber",
+          "raw_affiliation_strings": [
+            "Mars Inst. Moffett Field, CA, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Mars Inst. Moffett Field, CA, United States",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5068134550",
+            "display_name": "David W. Mittlefehldt",
+            "orcid": "https://orcid.org/0000-0002-5920-8987",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5920-8987"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "David W. Mittlefehldt",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center Houston, TX, United States"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-5920-8987",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center Houston, TX, United States",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5079782249",
+            "display_name": "Yuta A. Takagi",
+            "orcid": "https://orcid.org/0000-0001-5173-7609",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5173-7609"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Yuta A. Takagi",
+          "raw_affiliation_strings": [
+            "Mars Inst. Moffett Field, CA, United States"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5173-7609",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Mars Inst. Moffett Field, CA, United States",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5011232501",
+            "display_name": "Peter C Thomas",
+            "orcid": "https://orcid.org/0000-0003-3072-7131",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3072-7131",
+              "https://orcid.org/0009-0003-1442-2124"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I205783295",
+              "display_name": "Cornell University",
+              "ror": "https://ror.org/05bnh6r87",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I205783295"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "P. C. Thomas",
+          "raw_affiliation_strings": [
+            "Cornell University, Ithaca, NY, United States#TAB#"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-3072-7131",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Cornell University, Ithaca, NY, United States#TAB#",
+              "institution_ids": [
+                "https://openalex.org/I205783295"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008580136",
+            "display_name": "Michael D. West",
+            "orcid": "https://orcid.org/0000-0002-4842-5468",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4842-5468",
+              "https://orcid.org/0009-0009-9328-8800"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Michael D. West",
+          "raw_affiliation_strings": [
+            "Mars Inst. Moffett Field, CA, United States"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4842-5468",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Mars Inst. Moffett Field, CA, United States",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112566555",
+            "display_name": "Stephen T. West",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Stephen West",
+          "raw_affiliation_strings": [
+            "Mars Inst. Moffett Field, CA, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Mars Inst. Moffett Field, CA, United States",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5033176490",
+            "display_name": "MICHAEL E. ZOLENSKY",
+            "orcid": "https://orcid.org/0000-0002-3181-1303",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3181-1303"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. E. Zolensky",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center Houston, TX, United States"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-3181-1303",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center Houston, TX, United States",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "mag:2176726147",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://ntrs.nasa.gov/api/citations/20150021128/downloads/20150021128.pdf",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402118",
+          "display_name": "NASA Technical Reports Server (NASA)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1305493378",
+          "host_organization_name": "NASA Headquarters",
+          "host_organization_lineage": [
+            "https://openalex.org/I1305493378"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W3174317596",
+      "doi": null,
+      "title": "Haughton-Mars Project: Lessons for the Selection of Landing Site/Exploration Zone for Human Missions to the Surface of Mars",
+      "publication_year": 2015,
+      "cited_by_count": 0,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5074891804",
+            "display_name": "P. Lee",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "P. Lee",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108918654",
+            "display_name": "S. Braham",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S. Braham",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5001914278",
+            "display_name": "Terry W. Fong",
+            "orcid": "https://orcid.org/0000-0003-0924-8195",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0924-8195"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Terry Fong",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-0924-8195",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002444504",
+            "display_name": "B. Glass",
+            "orcid": "https://orcid.org/0000-0002-3559-5249",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3559-5249"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "B. Glass",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-3559-5249",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Stanley Hoffman",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Stanley Hoffman",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5068958282",
+            "display_name": "C. Hoftun",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "C. Hoftun",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067414269",
+            "display_name": "S. Huffman",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S. Huffman",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5065563814",
+            "display_name": "B. W. Johansen",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "B. W. Johansen",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5065684979",
+            "display_name": "K. Lorber",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "K. Lorber",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5030306707",
+            "display_name": "Christopher P. McKay",
+            "orcid": "https://orcid.org/0000-0002-6243-1362",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6243-1362"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Christopher P. McKay",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-6243-1362",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036602551",
+            "display_name": "R. P. Mueller",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R. P. Mueller",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5025366882",
+            "display_name": "J. W. Schutt",
+            "orcid": "https://orcid.org/0009-0007-3922-641X",
+            "observed_orcids": [
+              "https://orcid.org/0009-0007-3922-641X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "J. W. Schutt",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108442651",
+            "display_name": "K. Schwartz",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "K. Schwartz",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5021625761",
+            "display_name": "J. T. Weaver",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "J. T. Weaver",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "mag:3174317596",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://ui.adsabs.harvard.edu/abs/2015LPICo1879.1058L/abstract",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2282398609",
+      "doi": "https://doi.org/10.1109/aero.2016.7500775",
+      "title": "Human Mars landing site and impacts on Mars surface operations",
+      "publication_year": 2016,
+      "cited_by_count": 24,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5110170790",
+            "display_name": "Ben J. Bussey",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ben Bussey",
+          "raw_affiliation_strings": [
+            "NASA HQ - 7R76, Washington, DC"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA HQ - 7R76, Washington, DC",
+              "institution_ids": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5103540635",
+            "display_name": "Stephen J. Hoffman",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Stephen J. Hoffman",
+          "raw_affiliation_strings": [
+            "Science Applications International Corp., Houston, TX"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Science Applications International Corp., Houston, TX",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1109/aero.2016.7500775",
+        "doi": "https://doi.org/10.1109/aero.2016.7500775",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/aero.2016.7500775",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210171417",
+          "display_name": "Proceedings - IEEE Aerospace Conference",
+          "issn_l": "1095-323X",
+          "issn": [
+            "1095-323X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2016 IEEE Aerospace Conference",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ntrs.nasa.gov/api/citations/20150013826/downloads/20150013826.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2113789589",
+      "doi": null,
+      "title": "Human Landing Sites/Exploration Zones on Mars Workshop Oct. 27-30",
+      "publication_year": 2015,
+      "cited_by_count": 0,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5037318632",
+            "display_name": "Sarah M. Ramsey",
+            "orcid": "https://orcid.org/0000-0001-8068-8439",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8068-8439"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Sarah Ramsey",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-8068-8439",
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "mag:2113789589",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://www.nasa.gov/press-release/nasas-first-human-landing-sitesexploration-zones-on-mars-workshop-oct-27-30-in-houston/",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2111723997",
+      "doi": null,
+      "title": "Human Exploration of Mars: The Reference Mission of the NASA Mars Exploration Study Team",
+      "publication_year": 1997,
+      "cited_by_count": 250,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5103540635",
+            "display_name": "Stephen J. Hoffman",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Stephen J. Hoffman",
+          "raw_affiliation_strings": [
+            "Science Applications International Corp. Houston, TX., United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Science Applications International Corp. Houston, TX., United States",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5104361534",
+            "display_name": "David I. Kaplan",
+            "orcid": "https://orcid.org/0009-0002-1183-5647",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-1183-5647"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "David Kaplan",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center Houston, TX United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center Houston, TX United States",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:casi.ntrs.nasa.gov:19980037039",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/2060/19980037039",
+        "pdf_url": "http://hdl.handle.net/2060/19980037039",
+        "source": {
+          "id": "https://openalex.org/S4306402118",
+          "display_name": "NASA Technical Reports Server (NASA)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1305493378",
+          "host_organization_name": "NASA Headquarters",
+          "host_organization_lineage": [
+            "https://openalex.org/I1305493378"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "CASI",
+        "raw_type": "NASA-SP-6107"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2060/19980037039",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W3040039191",
+      "doi": "https://doi.org/10.15982/j.issn.2095-7777.2017.04.002",
+      "title": "The Status of NASA Mars 2020 Rover Landing Site Selection and Some Thoughts on the Landing Part of China 2020 Mars Mission",
+      "publication_year": 2017,
+      "cited_by_count": 1,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5000388964",
+            "display_name": "Binlong Ye",
+            "orcid": "https://orcid.org/0000-0002-7177-8982",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7177-8982"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Binlong Ye",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-7177-8982",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5001448369",
+            "display_name": "Zhao Jiannan",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Zhao Jiannan",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5027817387",
+            "display_name": "Huang Jun",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Huang Jun",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "mag:3040039191",
+        "doi": "https://doi.org/10.15982/j.issn.2095-7777.2017.04.002",
+        "is_oa": false,
+        "landing_page_url": "http://jdse.bit.edu.cn/sktcxb/en/article/doi/10.15982/j.issn.2095-7777.2017.04.002",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306554077",
+          "display_name": "深空探测学报(中英文）",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "深空探测学报(中英文）",
+        "raw_type": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    }
+  ],
+  "group_by": []
+}

@@ -1,0 +1,22 @@
+{
+  "page_size": 8,
+  "download_pdfs": true,
+  "max_pdf_mb": 12,
+  "queries": [
+    {"category": "Mision humana", "query": "Mars human landing site exploration zone"},
+    {"category": "EVA", "query": "Mars EVA traverse planning"},
+    {"category": "EVA", "query": "Mars surface science operations"},
+    {"category": "Atmosfera", "query": "Mars surface radiation environment"},
+    {"category": "Recursos", "query": "Mars water ice in situ resource utilization"},
+    {"category": "Comunicaciones", "query": "Mars relay network communications"},
+    {"category": "Habitabilidad", "query": "Mars habitat human factors"},
+    {"category": "Planetario", "query": "Mars planetary protection human exploration"},
+    {"category": "Terreno", "query": "Mars terrain trafficability rover"},
+    {"category": "EVA", "query": "Mars spacesuit design mobility"},
+    {"category": "Ciencia", "query": "Mars sample return"},
+    {"category": "Atmosfera", "query": "Mars climate database"},
+    {"category": "Planetario", "query": "Moon to Mars architecture"},
+    {"category": "Atmosfera", "query": "Mars dust storm"},
+    {"category": "Recursos", "query": "Mars perchlorate regolith"}
+  ]
+}

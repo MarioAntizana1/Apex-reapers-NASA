@@ -1,0 +1,3067 @@
+{
+  "stats": {
+    "took": 110,
+    "total": 155,
+    "estimate": false,
+    "maxScore": 289.02356
+  },
+  "results": [
+    {
+      "_meta": {
+        "score": 289.02356
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20050245096,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "a4d19b6825a745c2869836a75b3d2b31",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20050245096,
+        "ear": "NO",
+        "id": "742c8bb4ca714245be5ac8e0509e6d66",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-08-27T13:34:24.7430000+00:00",
+      "otherReportNumbers": [
+        "A-0513375",
+        "NASA/CP-2005-213461",
+        "Report Number: A-0513375",
+        "Report Number: NASA/CP-2005-213461"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "SSX-A63616",
+          "submissionId": 20050245096,
+          "id": "d87517264569494e8d0fc498a5c8615c",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "RTOP 344-42-02",
+          "submissionId": 20050245096,
+          "id": "afb1d832b3c34a38ac5906e4e1ef84d1",
+          "type": "PROJECT"
+        },
+        {
+          "number": "RTOP 21-344-42-1F",
+          "submissionId": 20050245096,
+          "id": "239f27c6622f417eb273ce6621402ed6",
+          "type": "PROJECT"
+        }
+      ],
+      "title": "Planetary Protection Issues in the Human Exploration of Mars",
+      "stiType": "CONFERENCE_PUBLICATION",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-09-07T10:52:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20050245096,
+          "meta": {
+            "author": {
+              "name": "Criswell, Marvin E."
+            },
+            "organization": {
+              "name": "Colorado State Univ.",
+              "location": "Fort Collins, CO, United States"
+            }
+          },
+          "id": "f550022618474761b8e63a4d0931a989"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20050245096,
+          "meta": {
+            "author": {
+              "name": "Race, M. S."
+            },
+            "organization": {
+              "name": "Search for Extraterrestrial Intelligence Inst.",
+              "location": "Mountain View, CA, United States"
+            }
+          },
+          "id": "fcb2b80a6d2949658d6781c2e28ea89c"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20050245096,
+          "meta": {
+            "author": {
+              "name": "Rummel, J. D."
+            },
+            "organization": {
+              "name": "NASA Headquarters",
+              "location": "Washington, DC United States"
+            }
+          },
+          "id": "dbb3708807514f6c883d604f4e33f5d0"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20050245096,
+          "meta": {
+            "author": {
+              "name": "Baker, A."
+            },
+            "organization": {
+              "name": "Technical Administrative Services",
+              "location": "Littleton, CO, United States"
+            }
+          },
+          "id": "bfd926a96cfc4b2ea7c7cb8925934206"
+        }
+      ],
+      "stiTypeDetails": "Conference Publication (CP)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20050245096,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-09-07T10:52:00.0000000+00:00",
+      "center": {
+        "code": "ARC",
+        "name": "Ames Research Center",
+        "id": "4540cd94d24c4bf29f8773a27faf96b2"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "This workshop report, long delayed, is the first 21st century contribution to what will likely be a series of reports examining the effects of human exploration on the overall scientific study of Mars. The considerations of human-associated microbial contamination were last studied in a 1990 workshop (\"Planetary Protection Issues and Future Mars Missions,\" NASA CP-10086, 1991), but the timing of that workshop allowed neither a careful examination of the full range of issues, nor an appreciation for the Mars that has been revealed by the Mars Global Surveyor and Mars Pathfinder missions. Future workshops will also have the advantage of Mars Odyssey, the Mars Exploration Rover missions, and ESA's Mars Express, but the Pingree Park workshop reported here had both the NCR's (1992) concern that \"Missions carrying humans to Mars will contaminate the planet\" and over a decade of careful study of human exploration objectives to guide them and to reconcile. A daunting challenge, and one that is not going to be simple (as the working title of this meeting, \"When Ecologies Collide?\" might suggest), it is clear that the planetary protection issues will have to be addressed to enable human explorers to safely and competently extend out knowledge about Mars, and its potential as a home for life whether martian or human.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "publications": [
+        {
+          "submissionId": 20050245096,
+          "id": "fe1a5d5a806b48299e28a858e3f83e88",
+          "publicationDate": "2005-06-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20050245096.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20050245096/downloads/20050245096.pdf",
+            "pdf": "/api/citations/20050245096/downloads/20050245096.pdf",
+            "fulltext": "/api/citations/20050245096/downloads/20050245096.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 283.0503
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20205010563,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "8a4066b3a413414b988990e512544c00",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "Mars",
+        "Human exploration",
+        "planetary protection"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20205010563,
+        "ear": "NO",
+        "id": "00374b6ab08349098ca08dcee137051e",
+        "itar": "NO"
+      },
+      "distributionDate": "2020-12-07T06:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "452582.81.72",
+          "submissionId": 20205010563,
+          "id": "1844f9b39c9c4e6babd74de4d689f1a8",
+          "type": "WBS"
+        }
+      ],
+      "title": "Human Missions to Mars; Surface Concept of Operations for Dec 2020 COSPAR PP Workshop",
+      "stiType": "PRESENTATION",
+      "distribution": "PUBLIC",
+      "submittedDate": "2020-11-23T16:15:48.0697220+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 0,
+          "submissionId": 20205010563,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "M Rucker"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "62409dbffb9940d685533313ddd60489",
+          "userType": "CIVIL",
+          "userId": "72674de5a9184bb7be425ac5b78d73a6"
+        },
+        {
+          "organizationId": "02643c9e9b525162877c70e4c186571b",
+          "sequence": 1,
+          "submissionId": 20205010563,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "S Hoffman"
+            },
+            "organization": {
+              "name": "The Aerospace Corporation",
+              "location": "El Segundo, California, United States"
+            }
+          },
+          "id": "2c40f73c7f3e4910ab54425814bfd65f",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "fa4d05d0105c4b25970d2883ff9656db"
+        }
+      ],
+      "stiTypeDetails": "Presentation",
+      "technicalReviewType": "SINGLE_EXPERT",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20205010563,
+      "created": "2020-11-23T15:05:51.9839050+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The purpose of this presentation is to provide insight into NASA’s current thinking for human exploration on the surface of Mars as part of a December 2020 joint NASA/COSPAR workshop addressing planetary protection issues.  This presentation has two major sections.  The first section provides a general overview of human Mars missions.  This includes major mission events typical of these missions and anticipated range of mission durations.  The second section summarizes expected environmental conditions and operations on the surface of Mars and some of the planetary protection related question of current interest in planning for these human missions.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20205010563,
+          "endDate": "2020-12-03T06:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "COSPAR"
+                }
+              },
+              "meetingId": "d872fae6f9584267bb94be6a96c9af20",
+              "id": "0d2b170e62eb43128220b9742f634467"
+            }
+          ],
+          "name": "COSPAR/NASA virtual meeting on PP for Human Missions to Mars",
+          "location": "Virtual",
+          "id": "d872fae6f9584267bb94be6a96c9af20",
+          "startDate": "2020-12-01T06:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "COSPAR PP workshop Dec2020 v6.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20205010563/downloads/COSPAR%20PP%20workshop%20Dec2020%20v6.pdf",
+            "pdf": "/api/citations/20205010563/downloads/COSPAR%20PP%20workshop%20Dec2020%20v6.pdf",
+            "fulltext": "/api/citations/20205010563/downloads/COSPAR%20PP%20workshop%20Dec2020%20v6.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 278.3559
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 19920004437,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "8830928f58e5434493c142848d9c4573",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 19920004437,
+        "ear": "NO",
+        "id": "cb1bd8d2845a439eaf460ce1db88144c",
+        "itar": "NO"
+      },
+      "distributionDate": "2013-08-29T00:00:00.0000000+00:00",
+      "title": "Planetary protection issues and human exploration of Mars",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-09-06T16:58:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 19920004437,
+          "meta": {
+            "author": {
+              "name": "Devincenzi, D. L."
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "151928ebb52b466c87ee0484dd425586"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 19920004437,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": "92N13655"
+      },
+      "created": "2013-09-06T16:58:00.0000000+00:00",
+      "center": {
+        "code": "CDMS",
+        "name": "Legacy CDMS",
+        "id": "092d6e0881874968859b972d39a888dc"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "A key feature of the Space Exploration Initiative involves human missions to Mars. The report describing the initiative cites the search for life on Mars, extant or extinct, as one of the five science themes for such an endeavor. Because of this, concerns for planetary protection (PP) have arisen of two fronts: (1) forward contamination of Mars by spacecraft-borne terrestrial microbes which could interfere with exobiological analyses; and (2) back contamination of Earth by species that may be present in returned Mars samples. The United States is also signatory to an international treaty designed to protect Earth and planets from harmful cross-contamination during exploration. Therefore, it is timely to assess the necessity for, and impact of, PP procedures on the mission set comprising the human exploration of Mars. The ground-rules adopted at a recent workshop which addressed PP questions of this type are presented. In addition, the workshop produced several recommendations for dealing with forward and back contamination concerns for non-scientific perspectives, including public relations, legal, regulatory, international, and environmental.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "publications": [
+        {
+          "submissionId": 19920004437,
+          "id": "72efc9b57b2c4d98bfc00024c828ca32",
+          "publicationName": "NASA, Washington, Fourth Symposium on Chemical Evolution and the Origin and Evolution of Life",
+          "publicationDate": "1991-10-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "19920004437.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/19920004437/downloads/19920004437.pdf",
+            "pdf": "/api/citations/19920004437/downloads/19920004437.pdf",
+            "fulltext": "/api/citations/19920004437/downloads/19920004437.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 274.14407
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "submissionId": 20250009522,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "44e461c536d447358ef0687067432114",
+        "belongsToUsGov": false,
+        "determinationType": "MAY_INCLUDE_COPYRIGHT_MATERIAL",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar and Planetary Science and Exploration"
+      ],
+      "keywords": [
+        "Planetary Protection",
+        "Crewed Missions",
+        "Mars",
+        "Mars Science",
+        "Workshop"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20250009522,
+        "ear": "NO",
+        "id": "bcaabd4e931f4e8188a6841867d2aab4",
+        "category": [
+          {
+            "submissionExportControlId": "bcaabd4e931f4e8188a6841867d2aab4",
+            "id": "7065b4f3cce1488c9e1e01dc2ee8e58e",
+            "category": 0
+          }
+        ],
+        "itar": "NO"
+      },
+      "distributionDate": "2025-12-15T05:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "NASA/CP-20250009522"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "811073.02.09.03.26",
+          "submissionId": 20250009522,
+          "id": "0a3e8d5c8b764da4a1551558cb8142a5",
+          "type": "WBS"
+        }
+      ],
+      "title": "Science Mission Directorate's Science and Planetary Protection in Advance of Human Missions Workshop Report ",
+      "stiType": "CONFERENCE_PUBLICATION",
+      "distribution": "PUBLIC",
+      "submittedDate": "2025-09-25T11:42:58.8540010+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "e53641f275f15469a1b19a8980e09171",
+          "sequence": 0,
+          "submissionId": 20250009522,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Lindsay Hays"
+            },
+            "organization": {
+              "name": "National Aeronautics and Space Administration",
+              "location": "Washington, United States"
+            }
+          },
+          "id": "f19273ddfe584b0d9a6d7dfc54e14a7c",
+          "userType": "CIVIL",
+          "userId": "403ebba9846e48b79bcbd180a80eaaa9"
+        },
+        {
+          "organizationId": "e53641f275f15469a1b19a8980e09171",
+          "sequence": 1,
+          "submissionId": 20250009522,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Nick Benardini"
+            },
+            "organization": {
+              "name": "National Aeronautics and Space Administration",
+              "location": "Washington, United States"
+            }
+          },
+          "id": "7fa40c5187344f86818a611bb363e428",
+          "userType": "CIVIL",
+          "userId": "6b63a5d1585b483796771f201a0faee0"
+        },
+        {
+          "organizationId": "e53641f275f15469a1b19a8980e09171",
+          "sequence": 2,
+          "submissionId": 20250009522,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Becky McCauley Rench"
+            },
+            "organization": {
+              "name": "National Aeronautics and Space Administration",
+              "location": "Washington, United States"
+            }
+          },
+          "id": "ff92bad460c94201bf42d63c5720cd7b",
+          "userType": "CIVIL",
+          "userId": "742532644da44b4a944280e3ae3a5f4f"
+        },
+        {
+          "organizationId": "e53641f275f15469a1b19a8980e09171",
+          "sequence": 3,
+          "submissionId": 20250009522,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Kennda Lynch"
+            },
+            "organization": {
+              "name": "National Aeronautics and Space Administration",
+              "location": "Washington, United States"
+            }
+          },
+          "id": "8a3d5b4141634706a7a287343b5cb777",
+          "userType": "CIVIL",
+          "userId": "ae35f295a75541799187ae8e71b52acb"
+        },
+        {
+          "organizationId": "e081fcbdcd5059fa8fa7b6c5c6a2c483",
+          "sequence": 4,
+          "submissionId": 20250009522,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Erin Lalime"
+            },
+            "organization": {
+              "name": "Goddard Space Flight Center",
+              "location": "Greenbelt, United States"
+            }
+          },
+          "id": "19e5a36944c243ea80d161311092b1d1",
+          "userType": "CIVIL",
+          "userId": "bc69a07e9b0b41cd913e519b1b3dcf8d"
+        },
+        {
+          "organizationId": "79ea4444fc745f948f6100ab10ee0967",
+          "sequence": 5,
+          "submissionId": 20250009522,
+          "meta": {
+            "author": {
+              "name": "Lane Painter"
+            },
+            "organization": {
+              "name": "Logistics Management Institute (United States)",
+              "location": "Tysons Corner, United States"
+            }
+          },
+          "id": "268c691cb4704280a0b58a189a7dda8c",
+          "userType": "OTHER",
+          "userId": "664c996ff48c4f1a9d811c3937214314"
+        },
+        {
+          "organizationId": "1c8ed93f744f4223ae7e2cff537c032b",
+          "sequence": 6,
+          "submissionId": 20250009522,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Andy Spry"
+            },
+            "organization": {
+              "name": "Banner Quality Management",
+              "location": "Friendswood, Texas, United States"
+            }
+          },
+          "id": "e33a14d38efd4cfab8a51948d46f1a1f",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "70f9ec760f874508b3bdca104a224a3d"
+        },
+        {
+          "organizationId": "ff293352e05b51ca965411fc94f5e325",
+          "sequence": 7,
+          "submissionId": 20250009522,
+          "meta": {
+            "author": {
+              "name": "Chelsi Cassilly"
+            },
+            "organization": {
+              "name": "Marshall Space Flight Center",
+              "location": "Redstone Arsenal, United States"
+            }
+          },
+          "id": "932280a71b45456ca7cff8293781f20c",
+          "userType": "CIVIL",
+          "userId": "7eac813ad1884ea99e6807f1480e6e4f"
+        },
+        {
+          "organizationId": "3266b85157d85dcb96be76f66da6339b",
+          "sequence": 8,
+          "submissionId": 20250009522,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Sara Johnson"
+            },
+            "organization": {
+              "name": "Georgetown University",
+              "location": "Washington, United States"
+            }
+          },
+          "id": "ab3446eb3067438d935e5395257cac7b",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "a8d7acc1c9ff5839b96b1612d3658546",
+          "sequence": 9,
+          "submissionId": 20250009522,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Matheus Correia Casotti"
+            },
+            "organization": {
+              "name": "Universidade Federal do Espírito Santo",
+              "location": "Vitória, Brazil"
+            }
+          },
+          "id": "4add286843fb40a19964223eb18dca22",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "7f9c4cf9cb6f517db6b0fb40eb584c03",
+          "sequence": 10,
+          "submissionId": 20250009522,
+          "meta": {
+            "author": {
+              "name": "Jessica Lee"
+            },
+            "organization": {
+              "name": "Ames Research Center",
+              "location": "Mountain View, United States"
+            }
+          },
+          "id": "916606c42bdd46b29984801edb4ce1d2",
+          "userType": "CIVIL",
+          "userId": "043ef0b5b12d4efcab87a3ed7cd40cab"
+        },
+        {
+          "organizationId": "5e631db619525eb8858f690a44f2c4e5",
+          "sequence": 11,
+          "submissionId": 20250009522,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Heather Smith"
+            },
+            "organization": {
+              "name": "KISS Institute for Practical Robotics",
+              "location": "Norman, United States"
+            }
+          },
+          "id": "d5d0cacdbdff45b69858b2b74d48e41d",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "288f3d82f7da4951b33c0363bb58a739"
+        },
+        {
+          "organizationId": "135c85afe04a5b00a0e46f14f6a1de48",
+          "sequence": 12,
+          "submissionId": 20250009522,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Joel S Levine"
+            },
+            "organization": {
+              "name": "William & Mary",
+              "location": "Williamsburg, United States"
+            }
+          },
+          "id": "0b6a4e0a5f2b409697336ef898af8631",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "a8d7acc1c9ff5839b96b1612d3658546",
+          "sequence": 13,
+          "submissionId": 20250009522,
+          "meta": {
+            "author": {
+              "name": "Débora Dummer Meira"
+            },
+            "organization": {
+              "name": "Universidade Federal do Espírito Santo",
+              "location": "Vitória, Brazil"
+            }
+          },
+          "id": "f787667e96d848f9a9d9bfe099b0fd90",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "38c0f836d7044a3daaf458b76274fca4",
+          "sequence": 14,
+          "submissionId": 20250009522,
+          "meta": {
+            "author": {
+              "name": "Edgard G Rivera-Valentín"
+            },
+            "organization": {
+              "name": "John Hopkins Applied Physics Laboratory"
+            }
+          },
+          "id": "ceead3b053c74548abbcaba0c58bbe87",
+          "userType": "OTHER"
+        },
+        {
+          "sequence": 15,
+          "submissionId": 20250009522,
+          "meta": {
+            "author": {
+              "name": "Christopher Temby"
+            },
+            "organization": {
+              "name": "Agnostic Life Finding Association"
+            }
+          },
+          "id": "1c97d12cc36f4971b9d35d89850a4275",
+          "userType": "OTHER"
+        }
+      ],
+      "stiTypeDetails": "Conference Publication (CP)",
+      "technicalReviewType": "NASA_PEER_COMMITTEE",
+      "modified": "2025-12-15T19:15:42.1484870+00:00",
+      "id": 20250009522,
+      "created": "2025-09-24T14:14:13.9665810+00:00",
+      "center": {
+        "code": "HQ",
+        "name": "Headquarters",
+        "id": "f0865a34ba1f474d865ab51f212fc69f"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "NASA's Mars Exploration Program hosted the Science and Planetary Protection in Advance of Human Missions to Mars Workshop as the first in a new series developed to engage the Mars science community in the planning process for precursor science, and ultimately human exploration, on Mars.  The PP discipline focuses on preventing harmful contamination during space exploration activities as well as eliminating adverse impacts to Earth’s biosphere from returned materials, referred to as forward and backward PP, respectively. Unlike robotic exploration where the potential for harmful contamination can be controlled and mitigated prior to launch and during operations, the unique requirements of human exploration introduce elevated and fluctuating levels of microbial bioburden and organic loads.  When humans go to Mars, they will not be living in a closed system; the crew will be exposed to Martian materials, and the Martian surface will be exposed to terrestrial materials.  With these considerations in mind, MEP asked workshop participants to discuss the overall sequence of Martian exploration. Among many findings, attendees placed significant emphasis on the importance of returning samples collected by the Perseverance rover to Earth in advance of crewed exploration, as a path to closing key knowledge gaps such as contamination transport (weather) and dust characteristics with implications for human mission execution. Additionally, a significant segment of the participants recommended that NASA make further attempts to look for life on Mars using robotic missions before sending crewed missions. This would be a conservative strategy for mitigating against unprecedented potential for terrestrial contamination associated with a crewed mission. However, there was not unanimity among attendees on whether it should be mandatory for such investigations to be completed before the first crewed mission.  Beyond knowledge gap closure and life detection, participants argued strongly for preparatory precursor activities to support the science activities that would be conducted on a crewed mission. For example, attendees highlighted high-fidelity surveillance of human landing sites (using orbital assets or drones, for example) as one method to increase efficiency of crewed traverses. Contributors also advocated for NASA to send robotic missions to pre-select samples and pre-deploy drilling payloads in the interest of maximizing efficient use of crew time.  Overall, the workshop continued to reinforce the need for precursor missions to characterize Mars and determine the presence or absence of human-affective biohazards from the Mars environment. Ideally, this would happen before crew arrives on the surface, with Mars weather, landing site characterization, and pristine science being the three principal drivers.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20250009522,
+        "id": "9151e2a80ea04728a528f28b9dbc4bc1"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20250009522,
+          "endDate": "2024-11-01T04:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "e53641f275f15469a1b19a8980e09171",
+              "meta": {
+                "organization": {
+                  "name": "National Aeronautics and Space Administration",
+                  "location": "Washington, United States"
+                }
+              },
+              "meetingId": "edfe9fda9820451e853c0f0379d6249e",
+              "id": "cfb93415a804421f9bb429193540e4aa"
+            }
+          ],
+          "name": "Science and Planetary Protection in Advance of Human Missions to Mars Workshop ",
+          "location": "Virtual",
+          "id": "edfe9fda9820451e853c0f0379d6249e",
+          "url": "https://sma.nasa.gov/sma-disciplines/planetary-protection/smd-workshop-fall/",
+          "startDate": "2024-10-30T04:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20250009522,
+          "id": "043f7dfdaf2541d0831e0196d7aab1ab",
+          "publicationDate": "2025-12-01T05:00:00.0000000+00:00",
+          "doi": "10.64631/GDIQ7452"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20250009522_v4.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20250009522/downloads/20250009522_v4.pdf",
+            "pdf": "/api/citations/20250009522/downloads/20250009522_v4.pdf",
+            "fulltext": "/api/citations/20250009522/downloads/20250009522_v4.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 250.90054
+      },
+      "copyright": {
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20000012695,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "a9b2940cbc15496fa76aa97b039c7dbd",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20000012695,
+        "ear": "NO",
+        "id": "4df3c85ff03c433590dcc14b296f5eaa",
+        "category": [
+          {
+            "submissionExportControlId": "4df3c85ff03c433590dcc14b296f5eaa",
+            "id": "17e97b6df616438ea57084b1244a0cc5",
+            "category": 0
+          }
+        ],
+        "itar": "NO"
+      },
+      "distributionDate": "2019-08-14T14:14:25.3530000+00:00",
+      "otherReportNumbers": [
+        "LPI-Contrib-991",
+        "Report Number: LPI-Contrib-991"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "NASW-4574",
+          "submissionId": 20000012695,
+          "id": "91d1f593d1d644ec8e119ea4c814d5fe",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Workshop on Mars 2001: Integrated Science in Preparation for Sample Return and Human Exploration",
+      "stiType": "CONFERENCE_PROCEEDINGS",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-09-07T12:20:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "c48d8d5db08e4b80b5f256cdcd1360dd",
+          "sequence": 0,
+          "submissionId": 20000012695,
+          "meta": {
+            "author": {
+              "name": "John Marshall"
+            },
+            "organization": {
+              "name": "Lunar and Planetary Inst.",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "88f052c6ab0e4573ab8cfd1e34a519d0",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "97d621506c804545b5cef2b20933723e",
+          "sequence": 1,
+          "submissionId": 20000012695,
+          "meta": {
+            "author": {
+              "name": "Cathy Weitz"
+            },
+            "organization": {
+              "name": "Lunar and Planetary Inst.",
+              "location": "Houston, TX United States"
+            }
+          },
+          "id": "0feb6d70e04e4892866366fdb353e0dd",
+          "userType": "OTHER"
+        }
+      ],
+      "stiTypeDetails": "Conference Proceedings",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-12-01T23:30:07.0788750+00:00",
+      "id": 20000012695,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-09-07T12:20:00.0000000+00:00",
+      "center": {
+        "code": "HQ",
+        "name": "Headquarters",
+        "id": "f0865a34ba1f474d865ab51f212fc69f"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The Workshop on Mars 2001: Integrated Science in Preparation for Sample Return and Human Exploration was held on October 2-4, 1999, at the Lunar and Planetary Institute in Houston, Texas. The workshop was sponsored by the Lunar and Planetary Institute, the Mars Program Office of the Jet Propulsion Laboratory, and the National Aeronautics and Space Administration. The three-day meeting was attended by 133 scientists whose purpose was to share results from recent missions, to share plans for the 2001 mission, and to come to an agreement on a landing site for this mission.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "submissionId": 20000012695,
+        "id": "d1a000081d4b443f8903629f8ef8aafc"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20000012695,
+          "endDate": "1999-10-04T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "0bba4b66c88d4f6b9af09a68495f6606",
+              "meta": {
+                "organization": {
+                  "name": "Lunar and Planetary Inst.",
+                  "location": "Houston, TX United States"
+                }
+              },
+              "meetingId": "37204c8f3c8e41b487a85e97d2ef4753",
+              "id": "db2b338b4629461098b6ce5a58724c3e"
+            },
+            {
+              "organizationId": "97d621506c804545b5cef2b20933723e",
+              "meta": {
+                "organization": {
+                  "name": "NASA Headquarters",
+                  "location": "Washington, DC, United States"
+                }
+              },
+              "meetingId": "37204c8f3c8e41b487a85e97d2ef4753",
+              "id": "a56df6aa19e54481bc7cf3dd697bfe53"
+            },
+            {
+              "organizationId": "ad66494a9ecc4a53a86e78f08475e60a",
+              "meta": {
+                "organization": {
+                  "name": "Jet Propulsion Lab., California Inst. of Tech.",
+                  "location": "Pasadena, CA United States"
+                }
+              },
+              "meetingId": "37204c8f3c8e41b487a85e97d2ef4753",
+              "id": "7f16f35d18e24ad4a577f3558c19eca5"
+            }
+          ],
+          "name": "Mars 2001: Integrated Science in Preparation for Sample Return and Human Exploration",
+          "location": "Houston, TX",
+          "id": "37204c8f3c8e41b487a85e97d2ef4753",
+          "startDate": "1999-10-02T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20000012695,
+          "publisher": "Lunar and Planetary Institute LPI",
+          "id": "55615b02b5c04c1a896ddad5adefe11c",
+          "publicationName": "Workshop on Mars 2001: Integrated Science in Preparation for Sample Return and Human Exploration",
+          "publicationDate": "1999-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012724,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Mars Environmental Compatibility Assessment (MECA)",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012740,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Mars Surface Ionizing Radiation Environment: Need for Validation",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012697,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Mars Surveyor 2001 21-Sol Plan",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012700,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Composition and Origin of Martian Surface Material, Remote Detection of Minerals, and Applications to Astrobiology",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012704,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Thermal Emission Imaging System (THEMIS) Instrument for the Mars 2001 Orbiter",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012725,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Thermal Infrared Spectroscopy from Mars Landers and Rovers: A New Angle on Remote Sensing",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012699,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Martian Radiation Environment Experiment (MARIE)",
+          "stiType": "ABSTRACT",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012720,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Triboelectric Charging in Simulated Mars Environment",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012730,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Martian Radiation Environment from Orbit and on the Surface",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012729,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "HEDS Goals",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012726,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Mars 2003-2005: Mission Outline, Science Goals, and Planetary Protection Issues",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012737,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Mars 2001 Cruise Phase Radiation Measurments",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012715,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Mars In-Situ-Propellant-Production Precursor (MIP) Flight Demonstration",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012739,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Looking for Fossil Bacteria in Martian Materials",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012707,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Mars Pathfinder Mission and Science Results",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012728,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Mission Plan for the Mars Surveyor 2001 Orbiter and Lander",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012703,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Evolution of Lacustrine Environments on Mars and Their Significance: The Case for the Brazos Lakes and East Terra Meridiani Basins as Landing Sites for Surveyor 2001",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012696,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Mars Surveyor Program 2001 Mission Overview",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012697,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Mars Surveyor 2001 21-Sol Plan",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012699,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Martian Radiation Environment Experiment (MARIE)",
+          "stiType": "ABSTRACT",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012700,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Composition and Origin of Martian Surface Material, Remote Detection of Minerals, and Applications to Astrobiology",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012701,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Geologic Measurements using Rover Images: Lessons from Pathfinder with Application to Mars 2001",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012703,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Evolution of Lacustrine Environments on Mars and Their Significance: The Case for the Brazos Lakes and East Terra Meridiani Basins as Landing Sites for Surveyor 2001",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012704,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Thermal Emission Imaging System (THEMIS) Instrument for the Mars 2001 Orbiter",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012707,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Mars Pathfinder Mission and Science Results",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012708,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Constraints, Approach and Present Status for Selecting the Mars Surveyor 2001 Landing Site",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012709,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Mars Environmental Compatibility Assessment (MECA) Wet Chemistry Experiment on the Mars 2001 Lander",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012710,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Hypothesis of Caves on Mars Revisited Through MGS Data; Their Potential as Targets for the Surveyor Program",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012711,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Rock Statistics at the Mars Pathfinder Landing Site, Roughness and Roving on Mars",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012715,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Mars In-Situ-Propellant-Production Precursor (MIP) Flight Demonstration",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012717,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "MOD: An Organic Detector for the Future Exploration of Mars",
+          "stiType": "ABSTRACT",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012718,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Measuring the Chemical Potential of the Martian Regolith to Generate and Sustain Life",
+          "stiType": "ABSTRACT",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012719,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Characterization of Settled Atmospheric Dust by the DART Experiment",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012720,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Triboelectric Charging in Simulated Mars Environment",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012710,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Hypothesis of Caves on Mars Revisited Through MGS Data; Their Potential as Targets for the Surveyor Program",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012717,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "MOD: An Organic Detector for the Future Exploration of Mars",
+          "stiType": "ABSTRACT",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012731,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Sedimentological Investigations of the Martian Surface using the Mars 2001 Robotic Arm Camera and MECA Optical Microscope",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012701,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Geologic Measurements using Rover Images: Lessons from Pathfinder with Application to Mars 2001",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012733,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "NASA AMES Remote Operations Center for 2001",
+          "stiType": "ABSTRACT",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012732,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Compositions of Mars Rocks: SNC Meteorites, Differentiates, and Soils",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012696,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Mars Surveyor Program 2001 Mission Overview",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012709,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Mars Environmental Compatibility Assessment (MECA) Wet Chemistry Experiment on the Mars 2001 Lander",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012708,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Constraints, Approach and Present Status for Selecting the Mars Surveyor 2001 Landing Site",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012718,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Measuring the Chemical Potential of the Martian Regolith to Generate and Sustain Life",
+          "stiType": "ABSTRACT",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012724,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Mars Environmental Compatibility Assessment (MECA)",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012725,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Thermal Infrared Spectroscopy from Mars Landers and Rovers: A New Angle on Remote Sensing",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012726,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Mars 2003-2005: Mission Outline, Science Goals, and Planetary Protection Issues",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012728,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Mission Plan for the Mars Surveyor 2001 Orbiter and Lander",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012729,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "HEDS Goals",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012730,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Martian Radiation Environment from Orbit and on the Surface",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012731,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Sedimentological Investigations of the Martian Surface using the Mars 2001 Robotic Arm Camera and MECA Optical Microscope",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012732,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Compositions of Mars Rocks: SNC Meteorites, Differentiates, and Soils",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012733,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "NASA AMES Remote Operations Center for 2001",
+          "stiType": "ABSTRACT",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012735,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Mars 2001 Athena Precursor Experiment (APEX)",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012737,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Mars 2001 Cruise Phase Radiation Measurments",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012739,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Looking for Fossil Bacteria in Martian Materials",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012740,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Mars Surface Ionizing Radiation Environment: Need for Validation",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012719,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Characterization of Settled Atmospheric Dust by the DART Experiment",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012711,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Rock Statistics at the Mars Pathfinder Landing Site, Roughness and Roving on Mars",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20000012735,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Mars 2001 Athena Precursor Experiment (APEX)",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20000012695.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20000012695/downloads/20000012695.pdf",
+            "pdf": "/api/citations/20000012695/downloads/20000012695.pdf",
+            "fulltext": "/api/citations/20000012695/downloads/20000012695.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 246.77637
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20220005545,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "4faa224735194e50a934708161b1a4a0",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20220005545,
+        "ear": "NO",
+        "id": "952c19a968fc42109ac53f90a056a1fa",
+        "itar": "NO"
+      },
+      "distributionDate": "2022-04-30T04:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "GA000",
+          "submissionId": 20220005545,
+          "id": "4484fea9e48f4ede9affe82e334201d6",
+          "type": "OTHER"
+        }
+      ],
+      "title": "Planetary Protection Policy and Technology Developments for the Crewed Exploration of Mars",
+      "stiType": "ABSTRACT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2022-04-08T20:19:55.7207740+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "e53641f275f15469a1b19a8980e09171",
+          "sequence": 0,
+          "submissionId": 20220005545,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "James N Benardini"
+            },
+            "organization": {
+              "name": "National Aeronautics and Space Administration",
+              "location": "Washington D.C., District of Columbia, United States"
+            }
+          },
+          "id": "6df3d3ccd5bb4e74838aabf21acc9a49",
+          "userType": "CIVIL",
+          "userId": "6b63a5d1585b483796771f201a0faee0"
+        },
+        {
+          "organizationId": "e53641f275f15469a1b19a8980e09171",
+          "sequence": 1,
+          "submissionId": 20220005545,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Elaine Ellen Seasly"
+            },
+            "organization": {
+              "name": "National Aeronautics and Space Administration",
+              "location": "Washington D.C., District of Columbia, United States"
+            }
+          },
+          "id": "5b13b16a0c1245468e186471fe305857",
+          "userType": "CIVIL",
+          "userId": "159865b3ee6040d1b921b7632298f43e"
+        },
+        {
+          "organizationId": "60dec8a55c6e53cb99acf3519042174c",
+          "sequence": 2,
+          "submissionId": 20220005545,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "James A Spry"
+            },
+            "organization": {
+              "name": "Search for Extraterrestrial Intelligence",
+              "location": "Mountain View, California, United States"
+            }
+          },
+          "id": "4b1e8567201e485caaa32ff0fd7702e7",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "70f9ec760f874508b3bdca104a224a3d"
+        }
+      ],
+      "stiTypeDetails": "Abstract",
+      "technicalReviewType": "NASA_PEER_COMMITTEE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20220005545,
+      "created": "2022-04-08T20:12:36.9357770+00:00",
+      "center": {
+        "code": "HQ",
+        "name": "Headquarters",
+        "id": "f0865a34ba1f474d865ab51f212fc69f"
+      },
+      "onlyAbstract": true,
+      "sensitiveInformation": 2,
+      "abstract": "As part of planning for potential future crewed exploration of Mars, NASA is developing its planetary protection policy for crewed missions, building on concepts developed within the international space exploration community. COSPAR (The Committee on Space Research), together with participating space agencies, has over the last several years organized and held interdisciplinary meetings to consider next steps in addressing knowledge gaps for planetary protection for the first human missions to Mars. Beginning with these workshop discussions as a base, NASA has held follow-on planning activities to identify the necessary steps to be accomplished to close those knowledge gaps. Significant overlap was identified between the planetary protection needs, including; microbial monitoring requirements for crew health and medical systems; studies of the microbiome of the built environment; environmental control and life support system (ECLSS) venting and disinfection strategies; waste management, and; planetary surface operations. In many cases, efforts to mature exploration systems for Mars that are occurring in other technology domains can be leveraged with minor changes to address planetary protection gaps as well. In other cases, work planned for testing on ISS as an analog for Mars transit, or on the lunar surface as an analog for Mars surface operations, can be used to close gaps in current planetary protection capabilities. This presentation provides a status update on the findings of the COSPAR Meetings on this topic to date, together with NASA’s responses in terms of agency-level plans and activities.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20220005545,
+        "id": "aca1263818ab4615919d523c19ed2ce5"
+      },
+      "meetings": [
+        {
+          "country": "FR",
+          "submissionId": 20220005545,
+          "endDate": "2022-09-22T04:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "b0221f1ce1ef51ee8a631a09496c2364",
+              "meta": {
+                "organization": {
+                  "name": "Centre National D'Etudes Spatiales",
+                  "location": "Paris, France"
+                }
+              },
+              "meetingId": "a27d353a45ee4a2ca15b80bd24b86bec",
+              "id": "8cafeb3817444b08b0264345c9bca271"
+            }
+          ],
+          "name": "73rd International Astronautical Congress",
+          "location": "Paris",
+          "id": "a27d353a45ee4a2ca15b80bd24b86bec",
+          "url": "https://www.iafastro.org/events/iac/iac-2022/",
+          "startDate": "2022-09-18T04:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20220005545,
+          "id": "9f54f8139f5b4d52b6252bbcabde806e",
+          "publicationDate": "2022-06-30T04:00:00.0000000+00:00",
+          "url": "https://iac2022.org/"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "IAC PP for Humans to Mars (002).pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20220005545/downloads/IAC%20PP%20for%20Humans%20to%20Mars%20(002).pdf",
+            "pdf": "/api/citations/20220005545/downloads/IAC%20PP%20for%20Humans%20to%20Mars%20(002).pdf",
+            "fulltext": "/api/citations/20220005545/downloads/IAC%20PP%20for%20Humans%20to%20Mars%20(002).pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 245.8084
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20220008060,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "12771ff04b51413eb3f7aa46f02edd64",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "Mars",
+        "Human Mars Mission",
+        "Planetary Protection",
+        "Human Mars Surface Mission Description",
+        "Mars Surface Mission"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20220008060,
+        "ear": "NO",
+        "id": "d204be7d9e444596a95727e97e3a1ecc",
+        "itar": "NO"
+      },
+      "distributionDate": "2022-07-20T05:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "WBS 452582.81.72",
+          "submissionId": 20220008060,
+          "id": "0188c29d8d0441ef9cde392606fbdfc1",
+          "type": "WBS"
+        }
+      ],
+      "title": "Reference Surface Activities for Crewed Mars Mission Systems and Utilization",
+      "stiType": "PRESENTATION",
+      "distribution": "PUBLIC",
+      "submittedDate": "2022-05-23T23:09:51.4181980+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "02643c9e9b525162877c70e4c186571b",
+          "sequence": 0,
+          "submissionId": 20220008060,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Stephen J Hoffman"
+            },
+            "organization": {
+              "name": "The Aerospace Corporation",
+              "location": "El Segundo, California, United States"
+            }
+          },
+          "id": "22398dc9187d49dfa14be069ab9b5c04",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "fa4d05d0105c4b25970d2883ff9656db"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 1,
+          "submissionId": 20220008060,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Michelle A Rucker"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "ab807f9cab3c4d578c81d04e40d42d60",
+          "userType": "CIVIL",
+          "userId": "72674de5a9184bb7be425ac5b78d73a6"
+        },
+        {
+          "organizationId": "02643c9e9b525162877c70e4c186571b",
+          "sequence": 2,
+          "submissionId": 20220008060,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Alida D Andrews"
+            },
+            "organization": {
+              "name": "The Aerospace Corporation",
+              "location": "El Segundo, California, United States"
+            }
+          },
+          "id": "5ffa1ed6b9af4306a8a56f467a2d7920",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "1aea5a5061b24c7ab7571f0109121c39"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 3,
+          "submissionId": 20220008060,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Kevin D Watts"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "f6684ece349441558618bc8effdb1839",
+          "userType": "CIVIL",
+          "userId": "3abaf42cbb534f57a00808d1d9de81de"
+        }
+      ],
+      "stiTypeDetails": "Presentation",
+      "technicalReviewType": "SINGLE_EXPERT",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20220008060,
+      "created": "2022-05-23T21:48:53.4798160+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "This presentation was made at the “COSPAR Planetary Protection Knowledge Gaps for Human Missions to Mars” virtual workshop.  As the workshop title implies, the presentation is intended to explain basic features of current human Mars surface mission scenarios being analyzed by NASA.  The specific scenario details described is documented in HEOMD-415 “Reference Surface Activities for Crewed Mars Mission Systems and Utilization.”  Other workshop presentations will expand on details related to scientific investigations that could have planetary protection impacts.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20220008060,
+        "id": "64f9ed080ce543bd9eea49ce60ebd538"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20220008060,
+          "endDate": "2022-06-02T05:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "COSPAR"
+                }
+              },
+              "meetingId": "90efdc098dd248e38d189266dff3a46d",
+              "id": "47f242628ebf444a9d81c3659506e91a"
+            }
+          ],
+          "name": "COSPAR Planetary Protection Knowledge Gaps for Human Missions to Mars Workshop",
+          "location": "Virtual",
+          "id": "90efdc098dd248e38d189266dff3a46d",
+          "url": "https://sma.nasa.gov/sma-disciplines/planetary-protection/",
+          "startDate": "2022-06-01T05:00:00.0000000+00:00"
+        },
+        {
+          "country": "GR",
+          "submissionId": 20220008060,
+          "endDate": "2022-07-24T05:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "Committee on Space Research (COSPAR)"
+                }
+              },
+              "meetingId": "c8756d8dd033496daa86c24a331f3c0e",
+              "id": "83643a957c0b4f7fbed297d941816a0e"
+            }
+          ],
+          "name": "44th COSPAR Scientific Assembly ",
+          "location": "Athens / Virtual",
+          "id": "c8756d8dd033496daa86c24a331f3c0e",
+          "url": "https://www.cosparathens2022.org/",
+          "startDate": "2022-07-16T05:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "redistributedDate": "2022-06-28T15:10:42.2420690",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "COSPAR 2022 July 2022 v4.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20220008060/downloads/COSPAR%202022%20July%202022%20v4.pdf",
+            "pdf": "/api/citations/20220008060/downloads/COSPAR%202022%20July%202022%20v4.pdf",
+            "fulltext": "/api/citations/20220008060/downloads/COSPAR%202022%20July%202022%20v4.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 236.70386
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20150003489,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "8b7124734ede4a3488621e08025ccd3d",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Man/System Technology And Life Support",
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20150003489,
+        "ear": "NO",
+        "id": "75572b3b522c4192ac04053d45771050",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "JSC-CN-33067",
+        "Report Number: JSC-CN-33067"
+      ],
+      "title": "Mars Soil-Based Resource Processing and Planetary Protection",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2015-03-24T08:57:29.4430000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20150003489,
+          "meta": {
+            "author": {
+              "name": "Sanders, G. B."
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "e465e091ffa74b8782788d753fa88bf5"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20150003489,
+          "meta": {
+            "author": {
+              "name": "Mueller, R. P."
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "8e9c27bf4e94443d8d903801385eda17"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20150003489,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2015-03-24T08:57:29.4430000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The ability to extract and process resources at the site of exploration into products and services, commonly referred to as In Situ Resource Utilization (ISRU), can have significant benefits for robotic and human exploration missions. In particular, the ability to use in situ resources to make propellants, fuel cell reactants, and life support consumables has been shown in studies to significantly reduce mission mass, cost, and risk, while enhancing or enabling missions not possible without the incorporation of ISRU. In December 2007, NASA completed the Mars Human Design Reference Architecture (DRA) 5.0 study. For the first time in a large scale Mars architecture study, water from Mars soil was considered as a potential resource. At the time of the study, knowledge of water resources (their form, concentration, and distribution) was extremely limited. Also, due to lack of understanding of how to apply planetary protection rules and requirements to ISRU soil-based excavation and processing, an extremely conservative approach was incorporated where only the top several centimeters of ultraviolet (UV) radiated soil could be processed (assumed to be 3% water by mass). While results of the Mars DRA 5.0 study showed that combining atmosphere processing to make oxygen and methane with soil processing to extract water provided the lowest mission mass, atmosphere processing to convert carbon dioxide (CO2) into oxygen was baselined for the mission since it was the lowest power and risk option. With increased knowledge and further clarification of Mars planetary protection rules, and the recent release of the Mars Exploration Program Analysis Group (MEPAG) report on \"Special Regions and the Human Exploration of Mars\", it is time to reexamine potential water resources on Mars, options for soil processing to extract water, and the implications with respect to planetary protection and Special Regions on Mars. ",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "submissionId": 20150003489,
+          "name": "American Inst. of Aeronautics and Astronautics",
+          "location": "Reston, VA, United States",
+          "id": "a59c20373ebf448d8c55cb35e9523eff"
+        },
+        {
+          "country": "United States",
+          "submissionId": 20150003489,
+          "endDate": "2015-03-26T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "American Inst. of Aeronautics and Astronautics",
+                  "location": "Reston, VA, United States"
+                }
+              },
+              "meetingId": "c6fd307aed654a11a9f2ba1b379eb3a4",
+              "id": "e3438f8e1e7746ed93939f3404ee978f"
+            }
+          ],
+          "name": "Workshop on Planetary Protection Knowledge Gaps for Human Extraterrestrial Missions",
+          "location": "Moffett Field, CA",
+          "id": "c6fd307aed654a11a9f2ba1b379eb3a4",
+          "startDate": "2015-03-24T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20150003489,
+          "id": "5b6fd23e2bb64f75bdd900b1e59d5733",
+          "publicationDate": "2015-03-25T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20150003489.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20150003489/downloads/20150003489.pdf",
+            "pdf": "/api/citations/20150003489/downloads/20150003489.pdf",
+            "fulltext": "/api/citations/20150003489/downloads/20150003489.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    }
+  ],
+  "aggregations": {
+    "created": {
+      "buckets": [
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 66
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 15
+        },
+        {
+          "key_as_string": "2023",
+          "key": 1672531200000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 10
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 8
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 8
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 7
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2021",
+          "key": 1609459200000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2020",
+          "key": 1577836800000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 2
+        }
+      ]
+    },
+    "author": {
+      "doc_count_error_upper_bound": 5,
+      "sum_other_doc_count": 664,
+      "buckets": [
+        {
+          "key": "Cucinotta, F. A.",
+          "doc_count": 6
+        },
+        {
+          "key": "Kim, M. H.",
+          "doc_count": 5
+        },
+        {
+          "key": "Bette Siegel",
+          "doc_count": 4
+        },
+        {
+          "key": "Race, Margaret S.",
+          "doc_count": 4
+        },
+        {
+          "key": "Bell, M. S.",
+          "doc_count": 3
+        },
+        {
+          "key": "Devincenzi, D. L.",
+          "doc_count": 3
+        },
+        {
+          "key": "Dworkin, Jason P.",
+          "doc_count": 3
+        },
+        {
+          "key": "Elaine Seasly",
+          "doc_count": 3
+        },
+        {
+          "key": "Glavin, Daniel P.",
+          "doc_count": 3
+        },
+        {
+          "key": "J Andy Spry",
+          "doc_count": 3
+        },
+        {
+          "key": "J Nick Benardini",
+          "doc_count": 3
+        },
+        {
+          "key": "Kminek, Gerhard",
+          "doc_count": 3
+        },
+        {
+          "key": "Lupisella, Mark",
+          "doc_count": 3
+        },
+        {
+          "key": "Rummel, John D.",
+          "doc_count": 3
+        },
+        {
+          "key": "Wilson, J. W.",
+          "doc_count": 3
+        },
+        {
+          "key": "Alex Baughman",
+          "doc_count": 2
+        },
+        {
+          "key": "Andy Spry",
+          "doc_count": 2
+        },
+        {
+          "key": "Arney, Dale",
+          "doc_count": 2
+        },
+        {
+          "key": "Arnold, James O.",
+          "doc_count": 2
+        },
+        {
+          "key": "Bradley Hoffmann",
+          "doc_count": 2
+        }
+      ]
+    },
+    "reportNumber": {
+      "doc_count_error_upper_bound": 2,
+      "sum_other_doc_count": 158,
+      "buckets": [
+        {
+          "key": "ISSN: 0273-1177",
+          "doc_count": 5
+        },
+        {
+          "key": "ISSN: 0094-5765",
+          "doc_count": 4
+        },
+        {
+          "key": "20250010239",
+          "doc_count": 1
+        },
+        {
+          "key": "3249",
+          "doc_count": 1
+        },
+        {
+          "key": "A-0513375",
+          "doc_count": 1
+        },
+        {
+          "key": "A-0513522",
+          "doc_count": 1
+        },
+        {
+          "key": "A-06004",
+          "doc_count": 1
+        },
+        {
+          "key": "A-92032",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN10842",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN10854",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN21385",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN24342",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN3572",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN3591",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN46348",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN4896",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN4987",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN5367",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN69900",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN73182",
+          "doc_count": 1
+        }
+      ]
+    },
+    "center": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "JSC",
+          "doc_count": 47
+        },
+        {
+          "key": "ARC",
+          "doc_count": 30
+        },
+        {
+          "key": "CDMS",
+          "doc_count": 22
+        },
+        {
+          "key": "MSFC",
+          "doc_count": 17
+        },
+        {
+          "key": "HQ",
+          "doc_count": 15
+        },
+        {
+          "key": "GSFC",
+          "doc_count": 8
+        },
+        {
+          "key": "LaRC",
+          "doc_count": 7
+        },
+        {
+          "key": "JPL",
+          "doc_count": 4
+        },
+        {
+          "key": "KSC",
+          "doc_count": 4
+        },
+        {
+          "key": "GRC",
+          "doc_count": 1
+        }
+      ]
+    },
+    "index": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "submissions-2026-10-22-05-25",
+          "doc_count": 155
+        }
+      ]
+    },
+    "fundingNumber": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 67,
+      "buckets": [
+        {
+          "key": "NNJ15HK11B",
+          "doc_count": 7
+        },
+        {
+          "key": "GA000",
+          "doc_count": 5
+        },
+        {
+          "key": "80HQTR20D0005",
+          "doc_count": 4
+        },
+        {
+          "key": "NNA10DE12C",
+          "doc_count": 3
+        },
+        {
+          "key": "NNA15BB15C",
+          "doc_count": 3
+        },
+        {
+          "key": "048290.02.01.01.05",
+          "doc_count": 2
+        },
+        {
+          "key": "089407.05.03.02",
+          "doc_count": 2
+        },
+        {
+          "key": "10449.2.03.02.34.2043",
+          "doc_count": 2
+        },
+        {
+          "key": "452582.81.72",
+          "doc_count": 2
+        },
+        {
+          "key": "596118.04.64.23",
+          "doc_count": 2
+        },
+        {
+          "key": "NCC5-679",
+          "doc_count": 2
+        },
+        {
+          "key": "NNA14AB82C",
+          "doc_count": 2
+        },
+        {
+          "key": "NNK11EA08C",
+          "doc_count": 2
+        },
+        {
+          "key": "NNL12AA09C",
+          "doc_count": 2
+        },
+        {
+          "key": "SAA2401923",
+          "doc_count": 2
+        },
+        {
+          "key": "089407",
+          "doc_count": 1
+        },
+        {
+          "key": "089407.01.21.02",
+          "doc_count": 1
+        },
+        {
+          "key": "10448.8C.ID021FSI.05.783",
+          "doc_count": 1
+        },
+        {
+          "key": "10449.2.03.01.32.2161",
+          "doc_count": 1
+        },
+        {
+          "key": "10449.2.04.04.08.1560",
+          "doc_count": 1
+        }
+      ]
+    },
+    "published": {
+      "buckets": [
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 18
+        },
+        {
+          "key_as_string": "2005",
+          "key": 1104537600000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 7
+        },
+        {
+          "key_as_string": "2004",
+          "key": 1072915200000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2010",
+          "key": 1262304000000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2011",
+          "key": 1293840000000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2012",
+          "key": 1325376000000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "1991",
+          "key": 662688000000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1992",
+          "key": 694224000000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1999",
+          "key": 915148800000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2003",
+          "key": 1041379200000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2000",
+          "key": 946684800000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "1989",
+          "key": 599616000000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1993",
+          "key": 725846400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2006",
+          "key": 1136073600000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2007",
+          "key": 1167609600000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1990",
+          "key": 631152000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1998",
+          "key": 883612800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2001",
+          "key": 978307200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2002",
+          "key": 1009843200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2008",
+          "key": 1199145600000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2009",
+          "key": 1230768000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2020",
+          "key": 1577836800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2021",
+          "key": 1609459200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2023",
+          "key": 1672531200000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "distribution": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "PUBLIC",
+          "doc_count": 155
+        }
+      ]
+    },
+    "stiType": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "CONFERENCE_PAPER",
+          "doc_count": 43
+        },
+        {
+          "key": "PRESENTATION",
+          "doc_count": 30
+        },
+        {
+          "key": "ABSTRACT",
+          "doc_count": 19
+        },
+        {
+          "key": "REPRINT",
+          "doc_count": 17
+        },
+        {
+          "key": "PREPRINT",
+          "doc_count": 10
+        },
+        {
+          "key": "CONFERENCE_PROCEEDINGS",
+          "doc_count": 8
+        },
+        {
+          "key": "POSTER",
+          "doc_count": 8
+        },
+        {
+          "key": "OTHER",
+          "doc_count": 6
+        },
+        {
+          "key": "ACCEPTED_MANUSCRIPT",
+          "doc_count": 2
+        },
+        {
+          "key": "CONFERENCE_PUBLICATION",
+          "doc_count": 2
+        },
+        {
+          "key": "CONTRACTOR_OR_GRANTEE_REPORT",
+          "doc_count": 2
+        },
+        {
+          "key": "EXTENDED_ABSTRACT",
+          "doc_count": 2
+        },
+        {
+          "key": "TECHNICAL_PUBLICATION",
+          "doc_count": 2
+        },
+        {
+          "key": "BOOK",
+          "doc_count": 1
+        },
+        {
+          "key": "CONTRACTOR_REPORT",
+          "doc_count": 1
+        },
+        {
+          "key": "SPECIAL_PUBLICATION",
+          "doc_count": 1
+        },
+        {
+          "key": "TECHNICAL_MEMORANDUM",
+          "doc_count": 1
+        }
+      ]
+    },
+    "subjectCategory": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 16,
+      "buckets": [
+        {
+          "key": "Lunar And Planetary Science And Exploration",
+          "doc_count": 79
+        },
+        {
+          "key": "Man/System Technology And Life Support",
+          "doc_count": 16
+        },
+        {
+          "key": "Lunar and Planetary Science and Exploration",
+          "doc_count": 15
+        },
+        {
+          "key": "Aerospace Medicine",
+          "doc_count": 6
+        },
+        {
+          "key": "Life Sciences (General)",
+          "doc_count": 6
+        },
+        {
+          "key": "Space Sciences (General)",
+          "doc_count": 6
+        },
+        {
+          "key": "Exobiology",
+          "doc_count": 5
+        },
+        {
+          "key": "Spacecraft Design, Testing And Performance",
+          "doc_count": 5
+        },
+        {
+          "key": "Ground Support Systems and Facilities (Space)",
+          "doc_count": 4
+        },
+        {
+          "key": "Space Biology",
+          "doc_count": 4
+        },
+        {
+          "key": "Space Radiation",
+          "doc_count": 4
+        },
+        {
+          "key": "Cybernetics, Artificial Intelligence And Robotics",
+          "doc_count": 3
+        },
+        {
+          "key": "Engineering (General)",
+          "doc_count": 3
+        },
+        {
+          "key": "Fluid Mechanics And Thermodynamics",
+          "doc_count": 3
+        },
+        {
+          "key": "Instrumentation And Photography",
+          "doc_count": 3
+        },
+        {
+          "key": "Lunar And Planetary Exploration",
+          "doc_count": 3
+        },
+        {
+          "key": "Space Transportation And Safety",
+          "doc_count": 3
+        },
+        {
+          "key": "Astronomy",
+          "doc_count": 2
+        },
+        {
+          "key": "Composite Materials",
+          "doc_count": 2
+        },
+        {
+          "key": "Computer Systems",
+          "doc_count": 2
+        }
+      ]
+    },
+    "disseminated": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "DOCUMENT_AND_METADATA",
+          "doc_count": 117
+        },
+        {
+          "key": "METADATA_ONLY",
+          "doc_count": 38
+        }
+      ]
+    },
+    "stiTypeDetails": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Conference Paper",
+          "doc_count": 43
+        },
+        {
+          "key": "Presentation",
+          "doc_count": 30
+        },
+        {
+          "key": "Abstract",
+          "doc_count": 19
+        },
+        {
+          "key": "Reprint (Version printed in journal)",
+          "doc_count": 17
+        },
+        {
+          "key": "Preprint (Draft being sent to journal)",
+          "doc_count": 10
+        },
+        {
+          "key": "Conference Proceedings",
+          "doc_count": 8
+        },
+        {
+          "key": "Poster",
+          "doc_count": 8
+        },
+        {
+          "key": "Other",
+          "doc_count": 5
+        },
+        {
+          "key": "Accepted Manuscript (Version with final changes)",
+          "doc_count": 2
+        },
+        {
+          "key": "Conference Publication (CP)",
+          "doc_count": 2
+        },
+        {
+          "key": "Contractor or Grantee Report",
+          "doc_count": 2
+        },
+        {
+          "key": "Extended Abstract",
+          "doc_count": 2
+        },
+        {
+          "key": "Technical Publication (TP)",
+          "doc_count": 2
+        },
+        {
+          "key": "Book",
+          "doc_count": 1
+        },
+        {
+          "key": "Contractor Report (CR)",
+          "doc_count": 1
+        },
+        {
+          "key": "Other - Journal Issue",
+          "doc_count": 1
+        },
+        {
+          "key": "Special Publication (SP)",
+          "doc_count": 1
+        },
+        {
+          "key": "Technical Memorandum (TM)",
+          "doc_count": 1
+        }
+      ]
+    },
+    "organization": {
+      "doc_count_error_upper_bound": 4,
+      "sum_other_doc_count": 191,
+      "buckets": [
+        {
+          "key": "NASA Johnson Space Center",
+          "doc_count": 35
+        },
+        {
+          "key": "NASA Ames Research Center",
+          "doc_count": 26
+        },
+        {
+          "key": "Johnson Space Center",
+          "doc_count": 19
+        },
+        {
+          "key": "NASA Marshall Space Flight Center",
+          "doc_count": 18
+        },
+        {
+          "key": "Ames Research Center",
+          "doc_count": 16
+        },
+        {
+          "key": "NASA Headquarters",
+          "doc_count": 13
+        },
+        {
+          "key": "NASA Langley Research Center",
+          "doc_count": 13
+        },
+        {
+          "key": "NASA Goddard Space Flight Center",
+          "doc_count": 11
+        },
+        {
+          "key": "National Aeronautics and Space Administration",
+          "doc_count": 10
+        },
+        {
+          "key": "Jet Propulsion Lab., California Inst. of Tech.",
+          "doc_count": 8
+        },
+        {
+          "key": "Langley Research Center",
+          "doc_count": 8
+        },
+        {
+          "key": "Search for Extraterrestrial Intelligence",
+          "doc_count": 8
+        },
+        {
+          "key": "Search for Extraterrestrial Intelligence Inst.",
+          "doc_count": 8
+        },
+        {
+          "key": "Analytical Mechanics Associates (United States)",
+          "doc_count": 6
+        },
+        {
+          "key": "Jacobs Technology, Inc.",
+          "doc_count": 6
+        },
+        {
+          "key": "NASA Kennedy Space Center",
+          "doc_count": 6
+        },
+        {
+          "key": "European Space Agency",
+          "doc_count": 5
+        },
+        {
+          "key": "Engineering Research and Consulting, Inc.",
+          "doc_count": 4
+        },
+        {
+          "key": "Goddard Space Flight Center",
+          "doc_count": 4
+        },
+        {
+          "key": "KBR (United States)",
+          "doc_count": 4
+        }
+      ]
+    },
+    "modified": {
+      "buckets": [
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 150
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 5
+        }
+      ]
+    },
+    "keyword": {
+      "doc_count_error_upper_bound": 4,
+      "sum_other_doc_count": 264,
+      "buckets": [
+        {
+          "key": "Mars",
+          "doc_count": 20
+        },
+        {
+          "key": "Human",
+          "doc_count": 11
+        },
+        {
+          "key": "NASA Discipline Radiation Health",
+          "doc_count": 8
+        },
+        {
+          "key": "Cosmic Radiation",
+          "doc_count": 7
+        },
+        {
+          "key": "Radiation Protection",
+          "doc_count": 7
+        },
+        {
+          "key": "Extraterrestrial Environment",
+          "doc_count": 6
+        },
+        {
+          "key": "Solar Activity",
+          "doc_count": 5
+        },
+        {
+          "key": "planetary protection",
+          "doc_count": 5
+        },
+        {
+          "key": "ISRU",
+          "doc_count": 4
+        },
+        {
+          "key": "Mars Sample Return",
+          "doc_count": 4
+        },
+        {
+          "key": "Moon",
+          "doc_count": 4
+        },
+        {
+          "key": "NASA Center LaRC",
+          "doc_count": 4
+        },
+        {
+          "key": "Non-NASA Center",
+          "doc_count": 4
+        },
+        {
+          "key": "Aerospace Medicine",
+          "doc_count": 3
+        },
+        {
+          "key": "EVA",
+          "doc_count": 3
+        },
+        {
+          "key": "Forecasting",
+          "doc_count": 3
+        },
+        {
+          "key": "NASA Center HQS",
+          "doc_count": 3
+        },
+        {
+          "key": "Planetary Protection",
+          "doc_count": 3
+        },
+        {
+          "key": "Space Flight",
+          "doc_count": 3
+        },
+        {
+          "key": "Spacecraft",
+          "doc_count": 3
+        }
+      ]
+    }
+  }
+}

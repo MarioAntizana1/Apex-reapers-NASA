@@ -1,0 +1,2206 @@
+{
+  "stats": {
+    "took": 83,
+    "total": 11,
+    "estimate": false,
+    "maxScore": 137.51666
+  },
+  "results": [
+    {
+      "_meta": {
+        "score": 137.51666
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "thirdPartyPermissionsProduced": true,
+        "submissionId": 20250006519,
+        "containsThirdPartyMaterial": true,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "58c845933a2f451f8daae63cb17ee6e8",
+        "belongsToUsGov": false,
+        "determinationType": "MAY_INCLUDE_COPYRIGHT_MATERIAL",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Man/System Technology and Life Support"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20250006519,
+        "ear": "NO",
+        "id": "7ee323e1408f4512a16488e7534003ec",
+        "itar": "NO"
+      },
+      "distributionDate": "2025-07-17T05:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "ICES-2025-129"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "80NSSC24M0008",
+          "submissionId": 20250006519,
+          "id": "408fe081a02a44c181d1773c79cfcb28",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "NNJ15HK11B",
+          "submissionId": 20250006519,
+          "id": "8a0492c56c324847bd95d46fc233a9bd",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "10449.2.03.02.55.2527",
+          "submissionId": 20250006519,
+          "id": "bc8faaaeb1cc47139d5a9bcec83f2d20",
+          "type": "WBS"
+        }
+      ],
+      "title": "A Consolidated Tool for Planning and Analyzing Simulated Exploration Traverses and Associated Metabolic Workload ",
+      "stiType": "PRESENTATION",
+      "distribution": "PUBLIC",
+      "submittedDate": "2025-06-25T16:39:36.8715220+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 0,
+          "submissionId": 20250006519,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Kyoung Jae Kim"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "38746ad1a88f4f498236370c4902f9c0",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "9f84c756a0974e70b09b79d813e5d2f6"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 1,
+          "submissionId": 20250006519,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Bradley Hoffmann"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "e9fac89d87ac409baec6598806f4b78d",
+          "userType": "CIVIL",
+          "userId": "153623ac271442d6bec8addc9fb19a31"
+        },
+        {
+          "organizationId": "3a940b0bfec05d248fc6372a10e69788",
+          "sequence": 2,
+          "submissionId": 20250006519,
+          "meta": {
+            "author": {
+              "orcidId": "0009-0005-8621-1494",
+              "name": "Patrick Estep"
+            },
+            "organization": {
+              "name": "GeoControl Systems (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "2a0df7591a4741b0a328749f6b294ace",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "c532ec4104e84d55a16b9412fd895c0e"
+        },
+        {
+          "organizationId": "caba028024835183ac5ceb068aa86384",
+          "sequence": 3,
+          "submissionId": 20250006519,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "David Kring"
+            },
+            "organization": {
+              "name": "Lunar and Planetary Institute",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "20102c84a7f24112859b3f42ca3fd7c5",
+          "userType": "OTHER",
+          "userId": "8923014a966347d4884ef2855eaf83d7"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 4,
+          "submissionId": 20250006519,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0002-5240-7625",
+              "name": "Karina Marshall-Goebel"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, United States"
+            }
+          },
+          "id": "84535d35b5cd47a6ad61214686fef63e",
+          "userType": "CIVIL",
+          "userId": "d306465b9b514ffa9c16d9c39c336ad2"
+        },
+        {
+          "organizationId": "2124795aedb35b25a21b40ec1cc6d926",
+          "sequence": 5,
+          "submissionId": 20250006519,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0001-5274-3840",
+              "name": "Dan Buckland"
+            },
+            "organization": {
+              "name": "Duke University",
+              "location": "Durham, United States"
+            }
+          },
+          "id": "28060671dc854d9d8da8c20317dc73ea",
+          "userType": "OTHER",
+          "userId": "f88e4acab0ac4584a31ef2fd236d277f"
+        }
+      ],
+      "stiTypeDetails": "Presentation",
+      "technicalReviewType": "PROFESSIONAL_REVIEW",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20250006519,
+      "created": "2025-06-25T16:24:47.0142500+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Planning exploration extravehicular activity (xEVA) traverses on the lunar surface requires the identification of an optimized path that meets scientific and mission objectives with consideration of obstacles or restricted areas. It is also essential to estimate the physical and metabolic effort the crew members will expend as they navigate more complex and challenging Lunar south polar terrain, characterized by intricate features such as craters and mountains while conducting geologic and in situ resource utilization tasks. An accurate estimation of  metabolic expenditure is necessary to inform mission planning as it relates to spacesuit life support consumables. This paper describes a novel xEVA traverse model with a pathfinding function based on a hybrid A* algorithm that includes elevation, gradient, and rollover heuristics. The traverse model incorporates estimates of crewmember metabolic rate during traverse, enabling the planning of safe, efficient, and successful xEVA across terrestrial, Lunar, and Martian terrains. Model inputs and outputs are summarized, showing the terrestrial traverse model equations' progression to improve accuracy in estimating metabolic cost compared to measured metabolic cost, with a linear regression coefficient of 0.95 (p < 0.01) and a mean reduction of 354 BTU/h compared to the metabolic rate estimation method  used in the conventional EVA traverse planning tools. This consolidated tool for planning and analyzing simulated xEVA traverses and associated metabolic workload enables mission planning for energy-efficient path determination and can be further modified in the future to add additional suit and planning constraints for various mission concepts of operations.",
+      "isLessonsLearned": true,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20250006519,
+        "id": "a1a4f81c916e4062839d766dc066f171"
+      },
+      "meetings": [
+        {
+          "country": "CZ",
+          "submissionId": 20250006519,
+          "endDate": "2025-07-17T05:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "8a4c6bb4d92d4b57b245023ae13c7536",
+              "meta": {
+                "organization": {
+                  "name": "International Conference on Environmental Systems",
+                  "location": "Emmaus, Pennsylvania, United States"
+                }
+              },
+              "meetingId": "0affb5202bad4215be16de09d3fdedec",
+              "id": "21555454303849f38ef8d4fabfba2e22"
+            }
+          ],
+          "name": "54th International Conference on Environmental Systems (ICES)",
+          "location": "Prague",
+          "id": "0affb5202bad4215be16de09d3fdedec",
+          "url": "https://ices.space/",
+          "startDate": "2025-07-13T05:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20250006519,
+          "publisher": "International Conference on Environmental Systems",
+          "id": "305d7bd1ff4a417ea16b001b7fef41ea",
+          "publicationDate": "2025-07-13T04:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20250001829,
+          "type": "SEE_ALSO",
+          "title": "A Consolidated Tool for Planning and Analyzing Simulated Exploration Traverses and Associated Metabolic Workload ",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20240013763,
+          "type": "SEE_ALSO",
+          "title": "A Consolidated Tool for Planning and Analyzing Simulated Exploration Traverses and Associated Metabolic Workload  ",
+          "stiType": "ABSTRACT",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "ICES_final.pdf",
+          "notes": "Dan Buckland is an IPA. Related to Conference Paper 20250001829 and Abstract 20240013763.",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20250006519/downloads/ICES_final.pdf",
+            "pdf": "/api/citations/20250006519/downloads/ICES_final.pdf",
+            "fulltext": "/api/citations/20250006519/downloads/ICES_final.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 137.04486
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "submissionId": 20250001829,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "a2e6281002e74f5a8ee93b0dcab8ce90",
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Man/System Technology and Life Support"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20250001829,
+        "ear": "NO",
+        "id": "3e5410f0d10a45c8b3ce2f0dbdacaeea",
+        "itar": "NO"
+      },
+      "distributionDate": "2025-07-13T05:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "ICES-2025-129"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "10449.2.03.02.55.2527",
+          "submissionId": 20250001829,
+          "id": "60d1131f32664f00bfa56e40423d6ff6",
+          "type": "WBS"
+        }
+      ],
+      "title": "A Consolidated Tool for Planning and Analyzing Simulated Exploration Traverses and Associated Metabolic Workload ",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2025-02-18T21:10:44.4746920+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 0,
+          "submissionId": 20250001829,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Kyoung Jae Kim"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "8632b76a8bcf4957afd9a720a2828eb2",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "9f84c756a0974e70b09b79d813e5d2f6"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 1,
+          "submissionId": 20250001829,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Bradley Hoffmann"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "c7e5bf9c1f264fac9617c891f4e91d4c",
+          "userType": "CIVIL",
+          "userId": "153623ac271442d6bec8addc9fb19a31"
+        },
+        {
+          "organizationId": "3a940b0bfec05d248fc6372a10e69788",
+          "sequence": 2,
+          "submissionId": 20250001829,
+          "meta": {
+            "author": {
+              "orcidId": "0009-0005-8621-1494",
+              "name": "Patrick Estep"
+            },
+            "organization": {
+              "name": "GeoControl Systems (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "1e8d53acce8b4290b71f27688436521b",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "c532ec4104e84d55a16b9412fd895c0e"
+        },
+        {
+          "organizationId": "caba028024835183ac5ceb068aa86384",
+          "sequence": 3,
+          "submissionId": 20250001829,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "David A Kring"
+            },
+            "organization": {
+              "name": "Lunar and Planetary Institute",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "b029f4021cd84c4b861acd26c93f887e",
+          "userType": "OTHER",
+          "userId": "8923014a966347d4884ef2855eaf83d7"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 4,
+          "submissionId": 20250001829,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0002-5240-7625",
+              "name": "Karina Marshall-Goebel"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, United States"
+            }
+          },
+          "id": "372e069bb74e45f8b7eca5fa0731653a",
+          "userType": "CIVIL",
+          "userId": "d306465b9b514ffa9c16d9c39c336ad2"
+        },
+        {
+          "organizationId": "2124795aedb35b25a21b40ec1cc6d926",
+          "sequence": 5,
+          "submissionId": 20250001829,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0001-5274-3840",
+              "name": "Daniel Buckland"
+            },
+            "organization": {
+              "name": "Duke University",
+              "location": "Durham, United States"
+            }
+          },
+          "id": "43ce20c0bd994f5b9f4d426e716d7d48",
+          "userType": "OTHER",
+          "userId": "f88e4acab0ac4584a31ef2fd236d277f"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "PROFESSIONAL_REVIEW",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20250001829,
+      "created": "2025-02-18T20:52:18.0460570+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Planning exploration extravehicular activity (xEVA) traverses on the lunar surface requires the identification of an optimized path that meets scientific and mission objectives with consideration of obstacles or restricted areas. It is also essential to estimate the physical and metabolic effort the crew members will expend as they navigate more complex and challenging Lunar south polar terrain, characterized by intricate features such as craters and mountains while conducting geologic and in situ resource utilization tasks. An accurate estimation of  metabolic expenditure is necessary to inform mission planning as it relates to spacesuit life support consumables. This paper describes a novel xEVA traverse model with a pathfinding function based on a hybrid A* algorithm that includes elevation, gradient, and rollover heuristics. The traverse model incorporates estimates of crewmember metabolic rate during traverse, enabling the planning of safe, efficient, and successful xEVA across terrestrial, Lunar, and Martian terrains. Model inputs and outputs are summarized, showing the terrestrial traverse model equations' progression to improve accuracy in estimating metabolic cost compared to measured metabolic cost, with a linear regression coefficient of 0.95 (p < 0.01) and a mean reduction of 354 BTU/h compared to the metabolic rate estimation method  used in the conventional EVA traverse planning tools. This consolidated tool for planning and analyzing simulated xEVA traverses and associated metabolic workload enables mission planning for energy-efficient path determination and can be further modified in the future to add additional suit and planning constraints for various mission concepts of operations.",
+      "isLessonsLearned": true,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20250001829,
+        "id": "7d3083e26ba04875ba9a12646719493e"
+      },
+      "meetings": [
+        {
+          "country": "CZ",
+          "submissionId": 20250001829,
+          "endDate": "2025-07-17T05:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "8a4c6bb4d92d4b57b245023ae13c7536",
+              "meta": {
+                "organization": {
+                  "name": "International Conference on Environmental Systems",
+                  "location": "Emmaus, Pennsylvania, United States"
+                }
+              },
+              "meetingId": "564670a0ee93413db75b16e03a7d254a",
+              "id": "1899a998d13e4e71be969b57df7193bc"
+            }
+          ],
+          "name": "54th International Conference on Environmental Systems (ICES)",
+          "location": "Prague",
+          "id": "564670a0ee93413db75b16e03a7d254a",
+          "url": "https://ices.space/",
+          "startDate": "2025-07-13T05:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20250001829,
+          "publisher": "International Conference on Environmental Systems",
+          "id": "ca7ff94de40448969d1cb899a155afac",
+          "publicationDate": "2025-07-13T04:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20240013763,
+          "type": "SEE_ALSO",
+          "title": "A Consolidated Tool for Planning and Analyzing Simulated Exploration Traverses and Associated Metabolic Workload  ",
+          "stiType": "ABSTRACT",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20250006519,
+          "type": "SEE_ALSO",
+          "title": "A Consolidated Tool for Planning and Analyzing Simulated Exploration Traverses and Associated Metabolic Workload ",
+          "stiType": "PRESENTATION",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "ICES 2025 TraverseModel.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20250001829/downloads/ICES%202025%20TraverseModel.pdf",
+            "pdf": "/api/citations/20250001829/downloads/ICES%202025%20TraverseModel.pdf",
+            "fulltext": "/api/citations/20250001829/downloads/ICES%202025%20TraverseModel.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 131.14635
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20100033095,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "8b2a6b4a9624458080d0894857ba11d9",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Cybernetics, Artificial Intelligence And Robotics"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20100033095,
+        "ear": "NO",
+        "id": "4848e3f180ef47758bf829e635d54aee",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "JSC-CN-7773",
+        "Report Number: JSC-CN-7773"
+      ],
+      "title": "Experiments with an EVA Assistant Robot",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-25T00:16:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20100033095,
+          "meta": {
+            "author": {
+              "name": "Burridge, Robert R."
+            },
+            "organization": {
+              "name": "Georgia Inst. of Tech.",
+              "location": "Atlanta, GA, United States"
+            }
+          },
+          "id": "736f3c505d704bf08e967597d6ff3033"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20100033095,
+          "meta": {
+            "author": {
+              "name": "Graham, Jeffrey"
+            },
+            "organization": {
+              "name": "Titan Beta",
+              "location": "United States"
+            }
+          },
+          "id": "be1c148e24cf42ea9d6aa5de3b7c03ef"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20100033095,
+          "meta": {
+            "author": {
+              "name": "Shillcutt, Kim"
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "4712165bb4194fc2a3fee6994d53b599"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20100033095,
+          "meta": {
+            "author": {
+              "name": "Hirsh, Robert"
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "c9966e368b2a466fbdce1cd40bb565bd"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20100033095,
+          "meta": {
+            "author": {
+              "name": "Kortenkamp, David"
+            },
+            "organization": {
+              "name": "Metrica, Inc.",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "7db7cdda071c4b6d8556b200979cbd85"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20100033095,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-25T00:16:00.0000000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Human missions to the Moon or Mars will likely be accompanied by many useful robots that will assist in all aspects of the mission, from construction to maintenance to surface exploration. Such robots might scout terrain, carry tools, take pictures, curate samples, or provide status information during a traverse. At NASA/JSC, the EVA Robotic Assistant (ERA) project has developed a robot testbed for exploring the issues of astronaut-robot interaction. Together with JSC's Advanced Spacesuit Lab, the ERA team has been developing robot capabilities and testing them with space-suited test subjects at planetary surface analog sites. In this paper, we describe the current state of the ERA testbed and two weeks of remote field tests in Arizona in September 2002. A number of teams with a broad range of interests participated in these experiments to explore different aspects of what must be done to develop a program for robotic assistance to surface EVA. Technologies explored in the field experiments included a fuel cell, new mobility platform and manipulator, novel software and communications infrastructure for multi-agent modeling and planning, a mobile science lab, an \"InfoPak\" for monitoring the spacesuit, and delayed satellite communication to a remote operations team. In this paper, we will describe this latest round of field tests in detail.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "submissionId": 20100033095,
+          "name": "Institute of Electrical and Electronics Engineers",
+          "location": "United States",
+          "id": "df38b813912a439e9a5b8bdeb02143a3"
+        },
+        {
+          "submissionId": 20100033095,
+          "name": "European Space Agency",
+          "location": "France",
+          "id": "0e6f9b4b09844f72b6632869d1f37636"
+        },
+        {
+          "country": "Japan",
+          "submissionId": 20100033095,
+          "endDate": "2003-05-23T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "dae874b8f91e458abb7404cce4e96dd3",
+              "meta": {
+                "organization": {
+                  "name": "Institute of Electrical and Electronics Engineers",
+                  "location": "United States"
+                }
+              },
+              "meetingId": "59d337877cae4d0bb7939c12b87f6f86",
+              "id": "824ec305f36c492fb987d539ce97153c"
+            },
+            {
+              "organizationId": "fc12c50430ea465e86261d7784d5b4a8",
+              "meta": {
+                "organization": {
+                  "name": "Jet Propulsion Lab., California Inst. of Tech.",
+                  "location": "Pasadena, CA, United States"
+                }
+              },
+              "meetingId": "59d337877cae4d0bb7939c12b87f6f86",
+              "id": "048ab39f8d9a4f9795fae0454882e2a1"
+            },
+            {
+              "meta": {
+                "organization": {
+                  "name": "National Space Development Agency",
+                  "location": "Japan"
+                }
+              },
+              "meetingId": "59d337877cae4d0bb7939c12b87f6f86",
+              "id": "3922cf8e433f4c099850fc1bf325774f"
+            },
+            {
+              "meta": {
+                "organization": {
+                  "name": "European Space Agency",
+                  "location": "France"
+                }
+              },
+              "meetingId": "59d337877cae4d0bb7939c12b87f6f86",
+              "id": "92d44ebe61094166bfe0941d3752bbee"
+            }
+          ],
+          "name": "Intemational Symposium on Artificial Intelligence, Robotics and Automation in Space (iSAIRAS 2003)",
+          "location": "Nara",
+          "id": "59d337877cae4d0bb7939c12b87f6f86",
+          "startDate": "2003-05-19T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20100033095,
+          "id": "9a1189ab93ee4224ae82d410edb50abc",
+          "publicationDate": "2003-05-19T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20100033095.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20100033095/downloads/20100033095.pdf",
+            "pdf": "/api/citations/20100033095/downloads/20100033095.pdf",
+            "fulltext": "/api/citations/20100033095/downloads/20100033095.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 124.458176
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "MAY_INCLUDE_COPYRIGHT_MATERIAL",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20240001423,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "25cddeba870d467b8f6de2325644390a",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Aerospace Medicine"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20240001423,
+        "ear": "NO",
+        "id": "c0c39c51e63c4a398bea67ab5f10affa",
+        "itar": "NO"
+      },
+      "distributionDate": "2024-07-15T05:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "10449.2.03.02.34.2043",
+          "submissionId": 20240001423,
+          "id": "779902c4b6b84aa4aa5fe8de18e81d74",
+          "type": "TASK"
+        }
+      ],
+      "title": "Improving Metabolic Workload Estimation Accuracy for Planning and Analyzing Exploration Traverses",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2024-01-31T18:23:33.2868060+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 0,
+          "submissionId": 20240001423,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Kyoung Jae Kim"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "b7a4f98ddcb64e7e8435f742acdb8365",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "9f84c756a0974e70b09b79d813e5d2f6"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 1,
+          "submissionId": 20240001423,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Bradley Hoffmann"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "fe95b65e8bd64ce0b88ccad1c9c02788",
+          "userType": "CIVIL",
+          "userId": "153623ac271442d6bec8addc9fb19a31"
+        },
+        {
+          "organizationId": "3a940b0bfec05d248fc6372a10e69788",
+          "sequence": 2,
+          "submissionId": 20240001423,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Patrick Estep"
+            },
+            "organization": {
+              "name": "GeoControl Systems (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "79cf0804f4454eabad8c0b89f8b28757",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "c532ec4104e84d55a16b9412fd895c0e"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 3,
+          "submissionId": 20240001423,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Karina Marshall"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, United States"
+            }
+          },
+          "id": "1bd508153c2d4720bb2640e5717a3d8d",
+          "userType": "CIVIL",
+          "userId": "d306465b9b514ffa9c16d9c39c336ad2"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 4,
+          "submissionId": 20240001423,
+          "meta": {
+            "author": {
+              "name": "Daniel Buckland"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, United States"
+            }
+          },
+          "id": "1364e55bde324df6a90421e402673a4e",
+          "userType": "OTHER",
+          "userId": "f88e4acab0ac4584a31ef2fd236d277f"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "PROFESSIONAL_REVIEW",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20240001423,
+      "created": "2024-01-31T17:57:42.5991530+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": true,
+      "sensitiveInformation": 2,
+      "abstract": "A novel method is suggested to reduce estimation error on metabolic workload during surface extravehicular activity (EVA) traverse.",
+      "isLessonsLearned": true,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20240001423,
+        "id": "aa9525ec32354092bd898381bf96cf51"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20240001423,
+          "endDate": "2024-07-19T05:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "1e665bedc00a5085af284bcc4cd5c4fd",
+              "meta": {
+                "organization": {
+                  "name": "Institute of Electrical and Electronics Engineers",
+                  "location": "Paris, France"
+                }
+              },
+              "meetingId": "b0a457bbd0474f719a6940f9c241bd1a",
+              "id": "b2bff770849841dd8e3e68c995b214e7"
+            }
+          ],
+          "name": "46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society ",
+          "location": "Orlando, FL ",
+          "id": "b0a457bbd0474f719a6940f9c241bd1a",
+          "url": "https://embc.embs.org/2024/",
+          "startDate": "2024-07-15T05:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "IEEE EMBC 2024.pdf",
+          "type": "ABSTRACT",
+          "links": {
+            "original": "/api/citations/20240001423/downloads/IEEE%20EMBC%202024.pdf",
+            "pdf": "/api/citations/20240001423/downloads/IEEE%20EMBC%202024.pdf",
+            "fulltext": "/api/citations/20240001423/downloads/IEEE%20EMBC%202024.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 104.48066
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20240004235,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "9210317f2d8b459bbeff934abb728966",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Computer Systems",
+        "Ground Support Systems and Facilities (Space)"
+      ],
+      "keywords": [
+        "Human Performance",
+        "Virtual Reality",
+        "Mixed Reality",
+        "EVA",
+        "Exploration EVA"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20240004235,
+        "ear": "NO",
+        "id": "014e164569e5438496fb85ba413299f4",
+        "itar": "NO"
+      },
+      "distributionDate": "2024-07-28T05:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "NNJ15HK11B",
+          "submissionId": 20240004235,
+          "id": "4e9ed4b0ac524e278ec6ef0bb330453e",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Assessments of Physiology and Cognition in Hybrid-Reality Environments (APACHE) – A VR “Sandbox” for Planetary Spacewalk Research",
+      "stiType": "POSTER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2024-04-09T19:44:30.8737650+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "3a940b0bfec05d248fc6372a10e69788",
+          "sequence": 0,
+          "submissionId": 20240004235,
+          "meta": {
+            "author": {
+              "orcidId": "0009-0004-0967-8173",
+              "name": "Paul Smith"
+            },
+            "organization": {
+              "name": "GeoControl Systems (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "0a9ae05e6d2b4a39b2ecd28ae679af51",
+          "userType": "OTHER",
+          "userId": "e3ddf68b651445c786fbcfd3b1442a8a"
+        },
+        {
+          "organizationId": "3a940b0bfec05d248fc6372a10e69788",
+          "sequence": 1,
+          "submissionId": 20240004235,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0002-0324-7709",
+              "name": "Alex Baughman"
+            },
+            "organization": {
+              "name": "GeoControl Systems (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "127116ecbaed48d59c4d63f75cb7eb39",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "62214d9625e048e29846ce0530bb13ec"
+        },
+        {
+          "organizationId": "eef3e1a6698b41f99fd3a177d84ac5b5",
+          "sequence": 2,
+          "submissionId": 20240004235,
+          "meta": {
+            "author": {
+              "name": "Caleb Cram"
+            },
+            "organization": {
+              "name": "Aegis Aerospace (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "29e217a438b243359248c1716a892bf4",
+          "userType": "OTHER",
+          "userId": "8c32c54e2ba2423ca15220218f15bcb8"
+        },
+        {
+          "organizationId": "3a940b0bfec05d248fc6372a10e69788",
+          "sequence": 3,
+          "submissionId": 20240004235,
+          "meta": {
+            "author": {
+              "orcidId": "0009-0005-8621-1494",
+              "name": "Patrick Estep"
+            },
+            "organization": {
+              "name": "GeoControl Systems (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "95ff7a14e0c44d8abfafb2d3e9834d58",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "c532ec4104e84d55a16b9412fd895c0e"
+        },
+        {
+          "organizationId": "0415473548245a358dd3febb4040cc58",
+          "sequence": 4,
+          "submissionId": 20240004235,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0001-5274-3840",
+              "name": "Daniel Buckland"
+            },
+            "organization": {
+              "name": "Duke University School of Medicine",
+              "location": "Durham, United States"
+            }
+          },
+          "id": "8487769599a648af8b38738760dd8ca4",
+          "userType": "OTHER",
+          "userId": "f88e4acab0ac4584a31ef2fd236d277f"
+        }
+      ],
+      "stiTypeDetails": "Poster",
+      "technicalReviewType": "NASA_TECHNICAL_MANAGEMENT",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20240004235,
+      "created": "2024-04-09T19:22:42.5393100+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": true,
+      "sensitiveInformation": 2,
+      "abstract": "NASA is planning to return to the Moon in the mid-2020s as a steppingstone to Mars missions in the 2030s. Spacewalks, or extravehicular activities (EVAs), performed on the Moon and Mars will differ in a variety of ways from those that have been performed in decades past. NASA has identified multiple risks to human health and performance associated with a crewed mission to Mars, especially those associated with exploration EVAs which are expected to be a primary mission activity. Crew may be expected to conduct up to 24 hours of EVA per person per week, where the likelihood of injury and/or mental mistakes are increased compared to ground-based training or current microgravity EVAs and the consequences of which can be catastrophic. Current test environments for exploration EVA research and technology development are large, costly facilities that are limited in their availability or capabilities. Spacesuit testing in a reduced gravity environment such as NASA’s Neutral Buoyancy Laboratory, while a good representation of the crew’s physical workload during exploration EVAs, typically has small datasets and is difficult to integrate physiological sensors or other types of crew performance measures. Meanwhile, scientific field-based testing such as NASA’s Desert Research and Technology Studies offers an operationally relevant environment for exploration EVAs, particularly for cognitive workload, but is also limited by small datasets, lack of a pressurized spacesuit, and obtrusive measures.\n\nThe limitations of current analogs for exploration EVAs identify a need for a new test environment that can approximate both the physical and cognitive demands associated with exploration EVAs to enable rapid, controlled, and repeatable evaluations of human health and performance risks of exploration missions. In response, the Human Physiology, Performance, Protection, and Operations Laboratory (H-3PO) at NASA Johnson Space Center has developed a hybrid reality exploration EVA analog named the Assessments of Physiology And Cognition in Hybrid-reality Environments (APACHE)[ to address these limitations using a combination of virtual, physical, and hybrid reality techniques. The APACHE facility resides at NASA Johnson Space Center and serves as a large “sandbox” for EVA research and simulation. At its center is a roughly 15x20ft space surrounded by a 14” tall sandbox partially filled with lunar regolith simulant to emulate the physical feeling of walking on a planetary surface and to allow for simulated geology operations. Nearby, a curved passive treadmill (Skillmill Connect, Technogym, Fairfield, NJ) and an omnidirectional treadmill (Infinadeck, Infinadeck, Rocklin, CA) are included to enable exploration of these large virtual environments while also imposing the physical demands, representative timelines, and cognitive burdens required to navigate and traverse these distances during exploration EVA. A 6DOF motion platform is used to simulate rover operations and supports various human performance evaluations and associated risks. Lastly, APACHE can support two extravehicular (EV) crewmembers working in tandem. A computer workstation is located nearby and also supports an intravehicular (IV) crewmember as part of a full mission simulation. The IV crewmember has direct video and audio communication with the EV crew in VR to provide operational and procedural support. ",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20240004235,
+        "id": "a793ad609c8e49538d059e8c06c4a641"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20240004235,
+          "endDate": "2024-08-01T05:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "031e123aa6875ffba47218e7e6963db9",
+              "meta": {
+                "organization": {
+                  "name": "Association for Computing Machinery",
+                  "location": "New York, United States"
+                }
+              },
+              "meetingId": "68d5896c81cc4320a446f35d7ffffd46",
+              "id": "897196d0d7554aae9cbec219eb5c65b2"
+            }
+          ],
+          "name": "Association for Computing Machinery (ACM) SIGGRAPH Conference",
+          "location": "Denver, CO",
+          "id": "68d5896c81cc4320a446f35d7ffffd46",
+          "url": "https://s2024.siggraph.org/",
+          "startDate": "2024-07-28T05:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20240004235,
+          "publisher": "Association for Computing Machinery",
+          "id": "d74c5d765a1d46a7a3e5aaf26bf520d5",
+          "publicationDate": "2024-07-28T04:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20240007334,
+          "type": "SEE_ALSO",
+          "title": "Assessments of Physiology and Cognition in Hybrid-Reality Environments (APACHE) ",
+          "stiType": "POSTER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "name": "SIGGRAPH_2024_APACHE_Poster_Abstract.docx",
+          "notes": "This is an extended abstract. There is additional content in the document that was not included in the form. Daniel Buckland is an IPA.",
+          "type": "ABSTRACT",
+          "links": {
+            "original": "/api/citations/20240004235/downloads/SIGGRAPH_2024_APACHE_Poster_Abstract.docx",
+            "fulltext": "/api/citations/20240004235/downloads/SIGGRAPH_2024_APACHE_Poster_Abstract.docx.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 101.2668
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "MAY_INCLUDE_COPYRIGHT_MATERIAL",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20240007334,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "6b85bf7919ec4c3b8e89b97767c1e389",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Computer Systems",
+        "Ground Support Systems and Facilities (Space)"
+      ],
+      "keywords": [
+        "Human Performance",
+        "Virtual Reality",
+        "Mixed Reality",
+        "EVA",
+        "Exploration EVA"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20240007334,
+        "ear": "NO",
+        "id": "e4e6adb4661e44738248b92adbff9647",
+        "itar": "NO"
+      },
+      "distributionDate": "2024-07-26T05:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "NNJ15HK11B",
+          "submissionId": 20240007334,
+          "id": "cecd4e57800c4a81a319867e05aa13bd",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Assessments of Physiology and Cognition in Hybrid-Reality Environments (APACHE) ",
+      "stiType": "POSTER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2024-06-07T22:43:29.4282260+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "3a940b0bfec05d248fc6372a10e69788",
+          "sequence": 0,
+          "submissionId": 20240007334,
+          "meta": {
+            "author": {
+              "orcidId": "0009-0004-0967-8173",
+              "name": "Paul Smith"
+            },
+            "organization": {
+              "name": "GeoControl Systems (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "cc892c18be6e4cce9250d42355cbf8ab",
+          "userType": "OTHER",
+          "userId": "e3ddf68b651445c786fbcfd3b1442a8a"
+        },
+        {
+          "organizationId": "3a940b0bfec05d248fc6372a10e69788",
+          "sequence": 1,
+          "submissionId": 20240007334,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0002-0324-7709",
+              "name": "Alex Baughman"
+            },
+            "organization": {
+              "name": "GeoControl Systems (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "0781d28262164cf9ab296bf4ad91b6bc",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "62214d9625e048e29846ce0530bb13ec"
+        },
+        {
+          "organizationId": "eef3e1a6698b41f99fd3a177d84ac5b5",
+          "sequence": 2,
+          "submissionId": 20240007334,
+          "meta": {
+            "author": {
+              "name": "Caleb Cram"
+            },
+            "organization": {
+              "name": "Aegis Aerospace (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "d42cd09a3b9f4da3879da67aea4164b0",
+          "userType": "OTHER",
+          "userId": "8c32c54e2ba2423ca15220218f15bcb8"
+        },
+        {
+          "organizationId": "3a940b0bfec05d248fc6372a10e69788",
+          "sequence": 3,
+          "submissionId": 20240007334,
+          "meta": {
+            "author": {
+              "orcidId": "0009-0005-8621-1494",
+              "name": "Patrick Estep"
+            },
+            "organization": {
+              "name": "GeoControl Systems (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "b1bb05beabe34299a9e1c33faf90cecd",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "c532ec4104e84d55a16b9412fd895c0e"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 4,
+          "submissionId": 20240007334,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0001-5274-3840",
+              "name": "Daniel M Buckland"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, United States"
+            }
+          },
+          "id": "1794034478764c3b83feb7972a27533c",
+          "userType": "OTHER",
+          "userId": "f88e4acab0ac4584a31ef2fd236d277f"
+        }
+      ],
+      "stiTypeDetails": "Poster",
+      "technicalReviewType": "NASA_TECHNICAL_MANAGEMENT",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20240007334,
+      "created": "2024-06-07T22:03:37.1864810+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "NASA is planning to return to the Moon in the mid-2020s as a stepping stone to Mars missions in the 2030s. Spacewalks, or extravehicular activities (EVAs), performed on the Moon and Mars will differ in a variety of ways from those that have been performed in decades past. NASA has identified multiple risks to human health and performance associated with a crewed mission to Mars, especially those associated with exploration EVAs which are expected to be a primary mission activity. Crew may be expected to conduct up to 24 hours of EVA per person per week, where the likelihood of injury and/or mental mistakes are increased compared to ground-based training or current microgravity EVAs and the consequences of which can be catastrophic. Current test environments for exploration EVA research and technology development are large, costly facilities that are limited in their availability or capabilities. Spacesuit testing in a reduced gravity environment such as NASA’s Neutral Buoyancy Laboratory, while a good representation of the crew’s physical workload during exploration EVAs, typically has small datasets and is difficult to integrate physiological sensors or other types of crew performance measures. Meanwhile, scientific field-based testing such as NASA’s Desert Research and Technology Studies offers an operationally relevant environment for exploration EVAs, particularly for cognitive workload, but is also limited by small datasets, lack of a pressurized spacesuit, and obtrusive measures.\n\nThe limitations of current analogs for exploration EVAs identify a need for a new test environment that can approximate both the physical and cognitive demands associated with exploration EVAs to enable rapid, controlled, and repeatable evaluations of human health and performance risks of exploration missions. In response, the Human Physiology, Performance, Protection, and Operations Laboratory (H-3PO) at NASA Johnson Space Center has developed a hybrid reality exploration EVA analog named the Assessments of Physiology And Cognition in Hybrid-reality Environments (APACHE) to address these limitations using a combination of virtual, physical, and hybrid reality techniques. The APACHE facility resides at NASA Johnson Space Center and serves as a large “sandbox” for EVA research and simulation. At its center is a roughly 15x20ft space surrounded by a 14” tall sandbox partially filled with lunar regolith simulant to emulate the physical feeling of walking on a planetary surface and to allow for simulated geology operations. Nearby, a curved passive treadmill (Skillmill Connect, Technogym, Fairfield, NJ) and an omnidirectional treadmill (Infinadeck, Infinadeck, Rocklin, CA) are included to enable exploration of these large virtual environments while also imposing the physical demands, representative timelines, and cognitive burdens required to navigate and traverse these distances during exploration EVA. A 6DOF motion platform is used to simulate rover operations and supports various human performance evaluations and associated risks. Lastly, APACHE can support two extravehicular (EV) crewmembers working in tandem. A computer workstation is located nearby and also supports an intravehicular (IV) crewmember as part of a full mission simulation. The IV crewmember has direct video and audio communication with the EV crew in VR to provide operational and procedural support. \n\nThe software used in APACHE was created by the JSC Engineering Directorate, in partnership with Buendea, powered by a custom Unreal Engine 5 (UE5.3, Epic Games) project. APACHE currently utilizes the HTC Vive Pro Eye in a wireless configuration for VR simulations. There are two virtual environments that subjects can explore within APACHE, a Lunar and Martian surface. The virtual Lunar surface was created from LIDAR data of the Lunar South Pole to create roughly 16 sq km of explorable terrain. The virtual Martian surface contains roughly 400 sq km of explorable terrain derived from Mars Reconnaissance Orbiter LIDAR data of the Jezero Crater. The immersion and related cognitive burdens of conducting a planetary EVA is simulated through a series of EVA-relevant tasks performed in the VR environment, using these high-fidelity visual representations. Additionally, APACHE includes biosensor driven informatics, such as real-time heart rate monitoring and/or derived values from model simulations, for active monitoring by the EV crew and added cognitive demand. A “Wizard of Oz” control panel enables test operators to activate contingency events such as simulated spacesuit malfunctions, loss of communications, and/or limited visibility. Embedded performance measures such as accuracy, completeness, and execution time have been developed for various exploration tasks to objectively quantify crew performance during an EVA and compare impacts to performance when different environmental stressors, both physical and cognitive, are added to or removed from the simulation. Additionally, validated cognitive and operational performance measures such as the Digit Symbol Substitution Task have been recreated and embedded in VR for direct and relatively unobtrusive measurement of motor perception. \n\nThe APACHE environment currently supports multiple research studies at NASA. Examples include the CHAPEA project, a series of simulated year-long missions on Mars by a 4-person crew; and the CO2 Contingency Walk Back Study, an investigation of elevated CO2 exposure on crew performance during a contingency EVA scenario. APACHE also provides a test environment to support the development of the Crew State and Risk Model, which is a collection of individualized, mathematical models of crew physical and cognitive state; and the Personalized EVA Informatics and Decision Support system, an operational tool for flight controllers, and eventually a self-reliant Martian crew, to make biomedically-informed decisions in real-time to optimize the EVA planning and execution with respect to crew health and performance. Some technical challenges associated with developing the APACHE environment, as well as current limitations, include VR limitless natural walking with a hybrid spacesuit simulator, optimizing performance for wireless PC VR streaming while maintaining a high degree of visual fidelity, and the integration of various physiological (metabolic masks) and psychometric (eye tracking) sensors with the VR headset.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20240007334,
+        "id": "66df28a000b94b6fb995f50fd3b65bc0"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20240007334,
+          "endDate": "2024-08-01T05:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "031e123aa6875ffba47218e7e6963db9",
+              "meta": {
+                "organization": {
+                  "name": "Association for Computing Machinery",
+                  "location": "New York, United States"
+                }
+              },
+              "meetingId": "d04b867b9ae042abb2f34b57108b63be",
+              "id": "12cc2ed7bf5e4e77b36735d2d41a00b5"
+            }
+          ],
+          "name": "Association for Computing Machinery (ACM) SIGGRAPH Conference",
+          "location": "Denver, CO",
+          "id": "d04b867b9ae042abb2f34b57108b63be",
+          "url": "https://s2024.siggraph.org/",
+          "startDate": "2024-07-28T05:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20240004235,
+          "type": "SEE_ALSO",
+          "title": "Assessments of Physiology and Cognition in Hybrid-Reality Environments (APACHE) – A VR “Sandbox” for Planetary Spacewalk Research",
+          "stiType": "POSTER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "H-3PO_APACHE_Poster_Final.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20240007334/downloads/H-3PO_APACHE_Poster_Final.pdf",
+            "pdf": "/api/citations/20240007334/downloads/H-3PO_APACHE_Poster_Final.pdf",
+            "fulltext": "/api/citations/20240007334/downloads/H-3PO_APACHE_Poster_Final.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 92.52362
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20150012229,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "c011fefd78c542dfb096c46a710c4d4e",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Space Communications, Spacecraft Communications, Command And Tracking",
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20150012229,
+        "ear": "NO",
+        "id": "86f4530b44e245efad771f0c9b13a3c8",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "JSC-CN-33687",
+        "Report Number: JSC-CN-33687"
+      ],
+      "title": "Analog Testing of Operations Concepts for Mitigation of Communication Latency During Human Space Exploration",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2015-07-01T12:58:08.3530000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20150012229,
+          "meta": {
+            "author": {
+              "name": "Chappell, Steven P."
+            },
+            "organization": {
+              "name": "Wyle Integrated Science and Engineering Group",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "eb434df86fd34286a3f2385ca2b52322"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20150012229,
+          "meta": {
+            "author": {
+              "name": "Abercromby, Andrew F."
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "f3096de70b4b4bf6b16b86ad9cd3f82c"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20150012229,
+          "meta": {
+            "author": {
+              "name": "Miller, Matthew J."
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "7d032101a4414f52931041c6532a438d"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20150012229,
+          "meta": {
+            "author": {
+              "name": "Halcon, Christopher"
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "f30a7cd019eb47e19fdda67d928eec42"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20150012229,
+          "meta": {
+            "author": {
+              "name": "Gernhardt, Michael L."
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "74bb609084944eb997bbdda563aae9c7"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20150012229,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2015-07-01T12:58:08.3530000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "OBJECTIVES: NASA Extreme Environment Mission Operations (NEEMO) is an underwater spaceflight analog that allows a true mission‐like operational environment and uses buoyancy effects and added weight to simulate different gravity levels. Three missions were undertaken from 2014‐2015, NEEMO's 18‐20. All missions were performed at the Aquarius undersea research habitat. During each mission, the effects of varying operations concepts and tasks type and complexity on representative communication latencies associated with Mars missions were studied. METHODS: 12 subjects (4 per mission) were weighed out to simulate near‐zero or partial gravity extravehicular activity (EVA) and evaluated different operations concepts for integration and management of a simulated Earth‐based science backroom team (SBT) to provide input and direction during exploration activities. Exploration traverses were planned in advance based on precursor data collected. Subjects completed science‐related tasks including presampling surveys, geologic‐based sampling, and marine‐based sampling as a portion of their tasks on saturation dives up to 4 hours in duration that were to simulate extravehicular activity (EVA) on Mars or the moons of Mars. One‐way communication latencies, 5 and 10 minutes between space and mission control, were simulated throughout the missions. Objective data included task completion times, total EVA times, crew idle time, translation time, SBT assimilation time (defined as time available for SBT to discuss data/imagery after it has been collected, in addition to the time taken to watch imagery streaming over latency). Subjective data included acceptability, simulation quality, capability assessment ratings, and comments. RESULTS: Precursor data can be used effectively to plan and execute exploration traverse EVAs (plans included detailed location of science sites, high‐fidelity imagery of the sites, and directions to landmarks of interest within a site). Operations concepts that allow for presampling surveys enable efficient traverse execution and meaningful Mission Control Center (MCC) interaction across long communication latencies and can be done with minimal crew idle time. Imagery and information from the EVA crew that is transmitted real‐time to the intravehicular (IV) crewmember(s) can be used to verify that exploration traverse plans are being executed correctly. That same data can be effectively used by MCC (across comm latency) to provide further instructions to the crew from a SBT on sampling priorities, additional tasks, and changes to the plan. Text / data capabilities are preferred over voice capabilities between MCC and IV when executing exploration traverse plans over communication latency. Autonomous crew planning tools can be effective at modifying existing plans if the objectives and constraints are clearly defined.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "submissionId": 20150012229,
+          "name": "Institute of Electrical and Electronics Engineers",
+          "location": "New York, NY, United States",
+          "id": "b6bd5acaed624eafb0736807c6f9dbd3"
+        },
+        {
+          "submissionId": 20150012229,
+          "name": "American Inst. of Aeronautics and Astronautics",
+          "location": "Reston, VA, United States",
+          "id": "dfa28775cf5642308e58090de7fb4f82"
+        },
+        {
+          "country": "United States",
+          "submissionId": 20150012229,
+          "endDate": "2016-03-12T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "1ceaa8d6b5e34baa9300b80c5b03c635",
+              "meta": {
+                "organization": {
+                  "name": "Prognostics and Health Management Society (PHM)",
+                  "location": "Rochester, NY, United States"
+                }
+              },
+              "meetingId": "2eae4b55aaa24754b42a43389de0d2c1",
+              "id": "5a86b4b43b50469598b1be02356598dc"
+            },
+            {
+              "meta": {
+                "organization": {
+                  "name": "Institute of Electrical and Electronics Engineers",
+                  "location": "New York, NY, United States"
+                }
+              },
+              "meetingId": "2eae4b55aaa24754b42a43389de0d2c1",
+              "id": "7d7e49f68850432081206a9de1340d77"
+            },
+            {
+              "meta": {
+                "organization": {
+                  "name": "American Inst. of Aeronautics and Astronautics",
+                  "location": "Reston, VA, United States"
+                }
+              },
+              "meetingId": "2eae4b55aaa24754b42a43389de0d2c1",
+              "id": "1ba660e06f7c4935a4d63406c01277a0"
+            }
+          ],
+          "name": "2016 IEEE Aerospace Conference",
+          "location": "Big Sky, MT",
+          "id": "2eae4b55aaa24754b42a43389de0d2c1",
+          "startDate": "2016-03-05T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20150012229,
+          "id": "b22160345cf948dfa8dfbb2d0cd4f5bf",
+          "publicationDate": "2016-03-05T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20150012229.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20150012229/downloads/20150012229.pdf",
+            "pdf": "/api/citations/20150012229/downloads/20150012229.pdf",
+            "fulltext": "/api/citations/20150012229/downloads/20150012229.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 69.29797
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 19940026923,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "cba0baa6b490426c92f8e5505d16b15f",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Man/System Technology And Life Support"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 19940026923,
+        "ear": "NO",
+        "id": "0163df2645f744b18bca8cc6d822d8ef",
+        "itar": "NO"
+      },
+      "distributionDate": "2013-08-29T00:00:00.0000000+00:00",
+      "title": "The Nomad Explorer assembly assist vehicle: An architecture for rapid global extraterrestrial base infrastructure establishment",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-09-06T19:13:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 19940026923,
+          "meta": {
+            "author": {
+              "name": "Thangavelu, Madhu"
+            },
+            "organization": {
+              "name": "Rockwell International Corp.",
+              "location": "Downey, CA., United States"
+            }
+          },
+          "id": "060f7bb616bb42118ef49435aef496ae"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 19940026923,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": "94N31429"
+      },
+      "created": "2013-09-06T19:13:00.0000000+00:00",
+      "center": {
+        "code": "CDMS",
+        "name": "Legacy CDMS",
+        "id": "092d6e0881874968859b972d39a888dc"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Traditional concepts of lunar bases describe scenarios where components of the bases are landed on the lunar surface, one at a time, and then put together to form a complete stationary lunar habitat. Recently, some concepts have described the advantages of operating a mobile or 'roving' lunar base. Such a base vastly improves the exploration range from a primary lunar base. Roving bases would also allow the crew to first deploy, test, operationally certify, and then regularly maintain, service, and evolve long life-cycle facilities like observatories or other science payload platforms that are operated far apart from each other across the extraterrestrial surface. The Nomad Explorer is such a mobile lunar base. This paper describes the architectural program of the Nomad Explorer, its advantages over a stationary lunar base, and some of the embedded system concepts which help the roving base to speedily establish a global extraterrestrial infrastructure. A number of modular autonomous logistics landers will carry deployable or erectable payloads, service, and logistically resupply the Nomad Explorer at regular intercepts along the traverse. Starting with the deployment of science experiments and telecommunication networks, and the manned emplacement of a variety of remote outposts using a unique EVA Bell system that enhances manned EVA, the Nomad Explorer architecture suggests the capability for a rapid global development of the extraterrestrial body. The Moon and Mars are candidates for this 'mission oriented' strategy. The lunar case is emphasized in this paper.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "publications": [
+        {
+          "submissionId": 19940026923,
+          "id": "faa1672c6ec64c80a58b03e24b714952",
+          "publicationName": "NASA. Marshall Space Flight Center, The Second Annual International Space University Alumni Conference",
+          "publicationDate": "1994-02-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 19940026134,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "The 25th Annual Precise Time and Time Interval (PTTI) Applications and Planning Meeting",
+          "stiType": "CONFERENCE_PROCEEDINGS",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 19940026134,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "The 25th Annual Precise Time and Time Interval (PTTI) Applications and Planning Meeting",
+          "stiType": "CONFERENCE_PROCEEDINGS",
+          "distribution": "PUBLIC",
+          "accessionNumber": "N94-30640 through N94-30684",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "19940026923.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/19940026923/downloads/19940026923.pdf",
+            "pdf": "/api/citations/19940026923/downloads/19940026923.pdf",
+            "fulltext": "/api/citations/19940026923/downloads/19940026923.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    }
+  ],
+  "aggregations": {
+    "created": {
+      "buckets": [
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2021",
+          "key": 1609459200000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "author": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 35,
+      "buckets": [
+        {
+          "key": "Patrick Estep",
+          "doc_count": 5
+        },
+        {
+          "key": "Bradley Hoffmann",
+          "doc_count": 3
+        },
+        {
+          "key": "Daniel Buckland",
+          "doc_count": 3
+        },
+        {
+          "key": "Kyoung Jae Kim",
+          "doc_count": 3
+        },
+        {
+          "key": "Alex Baughman",
+          "doc_count": 2
+        },
+        {
+          "key": "Caleb Cram",
+          "doc_count": 2
+        },
+        {
+          "key": "Karina Marshall-Goebel",
+          "doc_count": 2
+        },
+        {
+          "key": "Paul Smith",
+          "doc_count": 2
+        },
+        {
+          "key": "Abercromby, Andrew F.",
+          "doc_count": 1
+        },
+        {
+          "key": "Adams, Byron",
+          "doc_count": 1
+        },
+        {
+          "key": "Archer, Doug",
+          "doc_count": 1
+        },
+        {
+          "key": "Baiden, Greg",
+          "doc_count": 1
+        },
+        {
+          "key": "Brown, Adrian",
+          "doc_count": 1
+        },
+        {
+          "key": "Burridge, Robert R.",
+          "doc_count": 1
+        },
+        {
+          "key": "Carey, William",
+          "doc_count": 1
+        },
+        {
+          "key": "Chappell, Steven P.",
+          "doc_count": 1
+        },
+        {
+          "key": "Cohen, Barbara",
+          "doc_count": 1
+        },
+        {
+          "key": "Condit, Chris",
+          "doc_count": 1
+        },
+        {
+          "key": "Dan Buckland",
+          "doc_count": 1
+        },
+        {
+          "key": "Daniel M Buckland",
+          "doc_count": 1
+        }
+      ]
+    },
+    "reportNumber": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "ICES-2025-129",
+          "doc_count": 2
+        },
+        {
+          "key": "GSFC-E-DAA-TN8817",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-33687",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-7773",
+          "doc_count": 1
+        },
+        {
+          "key": "Prior DAA 20210000240",
+          "doc_count": 1
+        },
+        {
+          "key": "Prior MSC# 26816",
+          "doc_count": 1
+        },
+        {
+          "key": "Prior MSC# 26980",
+          "doc_count": 1
+        },
+        {
+          "key": "Report Number: GSFC-E-DAA-TN8817",
+          "doc_count": 1
+        },
+        {
+          "key": "Report Number: JSC-CN-33687",
+          "doc_count": 1
+        },
+        {
+          "key": "Report Number: JSC-CN-7773",
+          "doc_count": 1
+        }
+      ]
+    },
+    "center": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "JSC",
+          "doc_count": 9
+        },
+        {
+          "key": "CDMS",
+          "doc_count": 1
+        },
+        {
+          "key": "GSFC",
+          "doc_count": 1
+        }
+      ]
+    },
+    "index": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "submissions-2026-10-22-05-25",
+          "doc_count": 11
+        }
+      ]
+    },
+    "fundingNumber": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "NNJ15HK11B",
+          "doc_count": 3
+        },
+        {
+          "key": "10449.2.03.02.55.2527",
+          "doc_count": 2
+        },
+        {
+          "key": "10449.2.03.02.34.2043",
+          "doc_count": 1
+        },
+        {
+          "key": "295670.01.21.72.06",
+          "doc_count": 1
+        },
+        {
+          "key": "80NSSC24M0008",
+          "doc_count": 1
+        }
+      ]
+    },
+    "published": {
+      "buckets": [
+        {
+          "key_as_string": "2012",
+          "key": 1325376000000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1994",
+          "key": 757382400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2003",
+          "key": 1041379200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "distribution": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "PUBLIC",
+          "doc_count": 11
+        }
+      ]
+    },
+    "stiType": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "CONFERENCE_PAPER",
+          "doc_count": 6
+        },
+        {
+          "key": "POSTER",
+          "doc_count": 2
+        },
+        {
+          "key": "PRESENTATION",
+          "doc_count": 2
+        },
+        {
+          "key": "REPRINT",
+          "doc_count": 1
+        }
+      ]
+    },
+    "subjectCategory": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Computer Systems",
+          "doc_count": 2
+        },
+        {
+          "key": "Ground Support Systems and Facilities (Space)",
+          "doc_count": 2
+        },
+        {
+          "key": "Lunar And Planetary Science And Exploration",
+          "doc_count": 2
+        },
+        {
+          "key": "Man/System Technology and Life Support",
+          "doc_count": 2
+        },
+        {
+          "key": "Aerospace Medicine",
+          "doc_count": 1
+        },
+        {
+          "key": "Cybernetics, Artificial Intelligence And Robotics",
+          "doc_count": 1
+        },
+        {
+          "key": "Geosciences (General)",
+          "doc_count": 1
+        },
+        {
+          "key": "Ground Support Systems And Facilities (Space)",
+          "doc_count": 1
+        },
+        {
+          "key": "Man/System Technology And Life Support",
+          "doc_count": 1
+        },
+        {
+          "key": "Space Communications, Spacecraft Communications, Command And Tracking",
+          "doc_count": 1
+        }
+      ]
+    },
+    "disseminated": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "DOCUMENT_AND_METADATA",
+          "doc_count": 11
+        }
+      ]
+    },
+    "stiTypeDetails": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Conference Paper",
+          "doc_count": 6
+        },
+        {
+          "key": "Poster",
+          "doc_count": 2
+        },
+        {
+          "key": "Presentation",
+          "doc_count": 2
+        },
+        {
+          "key": "Reprint (Version printed in journal)",
+          "doc_count": 1
+        }
+      ]
+    },
+    "organization": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 10,
+      "buckets": [
+        {
+          "key": "GeoControl Systems (United States)",
+          "doc_count": 5
+        },
+        {
+          "key": "Johnson Space Center",
+          "doc_count": 5
+        },
+        {
+          "key": "NASA Johnson Space Center",
+          "doc_count": 4
+        },
+        {
+          "key": "KBR (United States)",
+          "doc_count": 3
+        },
+        {
+          "key": "Aegis Aerospace (United States)",
+          "doc_count": 2
+        },
+        {
+          "key": "Duke University",
+          "doc_count": 2
+        },
+        {
+          "key": "Lunar and Planetary Institute",
+          "doc_count": 2
+        },
+        {
+          "key": "NASA Ames Research Center",
+          "doc_count": 2
+        },
+        {
+          "key": "Arizona State Univ.",
+          "doc_count": 1
+        },
+        {
+          "key": "Boeing Co.",
+          "doc_count": 1
+        },
+        {
+          "key": "Brown Univ.",
+          "doc_count": 1
+        },
+        {
+          "key": "Colorado Univ.",
+          "doc_count": 1
+        },
+        {
+          "key": "Duke University School of Medicine",
+          "doc_count": 1
+        },
+        {
+          "key": "European Space Agency. European Space Research and Technology Center, ESTEC",
+          "doc_count": 1
+        },
+        {
+          "key": "Geological Survey",
+          "doc_count": 1
+        },
+        {
+          "key": "Georgia Inst. of Tech.",
+          "doc_count": 1
+        },
+        {
+          "key": "Laurentian Univ. of Sudbury",
+          "doc_count": 1
+        },
+        {
+          "key": "Lunar and Planetary Inst.",
+          "doc_count": 1
+        },
+        {
+          "key": "Marshall Space Flight Center",
+          "doc_count": 1
+        },
+        {
+          "key": "Massachusetts Univ.",
+          "doc_count": 1
+        }
+      ]
+    },
+    "modified": {
+      "buckets": [
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 11
+        }
+      ]
+    },
+    "keyword": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "EVA",
+          "doc_count": 2
+        },
+        {
+          "key": "Exploration EVA",
+          "doc_count": 2
+        },
+        {
+          "key": "Human Performance",
+          "doc_count": 2
+        },
+        {
+          "key": "Mixed Reality",
+          "doc_count": 2
+        },
+        {
+          "key": "Virtual Reality",
+          "doc_count": 2
+        },
+        {
+          "key": "External Lighting",
+          "doc_count": 1
+        },
+        {
+          "key": "Lunar Comm",
+          "doc_count": 1
+        },
+        {
+          "key": "Lunar LiDAR",
+          "doc_count": 1
+        },
+        {
+          "key": "Lunar Lighting",
+          "doc_count": 1
+        },
+        {
+          "key": "Lunar Nav",
+          "doc_count": 1
+        },
+        {
+          "key": "Lunar Science",
+          "doc_count": 1
+        },
+        {
+          "key": "Mobile Science Platform",
+          "doc_count": 1
+        }
+      ]
+    }
+  }
+}

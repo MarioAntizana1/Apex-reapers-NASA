@@ -1,0 +1,22 @@
+{
+  "capa": "jezero_ctx_dem_20m",
+  "bbox_lonlat": [
+    76.997437,
+    17.58052,
+    78.582563,
+    19.290187
+  ],
+  "extent_app_m": [
+    -25446.7,
+    -51538.2,
+    63681.8,
+    49801.8
+  ],
+  "width": 4456,
+  "height": 5067,
+  "resolucion_m": [
+    20.0,
+    20.0
+  ],
+  "fuente": "USGS/Mars 2020 Science Investigation CTX DEM 20 m"
+}

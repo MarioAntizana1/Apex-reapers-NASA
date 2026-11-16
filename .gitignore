@@ -8,7 +8,26 @@ build/
 .env
 .env.*
 *.log
-# Historial de conversaciones exportado de OpenCode (local)
+# Private agent configuration and conversation exports
+.opencode/
+opencode.json
+Docs/opencode-history/
 docs/opencode-history/
+# Raw research stays local; publish source metadata and manifests instead
+Evidencias/**
+!Evidencias/**/
+!Evidencias/**/*.json
+!Evidencias/**/*.geojson
+!Evidencias/**/*.csv
+!Evidencias/**/*.xml
+!Evidencias/**/*.lbl
+!Evidencias/README.md
+Evidencias/datos/meda/*.CSV
+Evidencias/datos/meda/*.csv
+!Evidencias/datos/meda/manifiesto*.csv
+*.part
+# Original working assets (runtime copies live under app/public/)
+/*.stl
+/*.png
 test-results/
 playwright-report/

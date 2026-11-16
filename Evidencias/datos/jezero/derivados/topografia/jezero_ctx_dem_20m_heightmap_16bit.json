@@ -1,0 +1,19 @@
+{
+  "archivo": "jezero_ctx_dem_20m_heightmap_16bit.png",
+  "elev_min_m": -3352.639892578125,
+  "elev_max_m": -951.381591796875,
+  "unidad": "16 bits lineal entre elev_min_m y elev_max_m",
+  "nodata": 0,
+  "extent_app_m": [
+    -25446.7,
+    -51538.2,
+    63681.8,
+    49801.8
+  ],
+  "bbox_lonlat": [
+    76.99743706146,
+    17.58051991054475,
+    78.58256332408818,
+    19.29018700686615
+  ]
+}

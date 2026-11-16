@@ -1,0 +1,2828 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 295,
+    "db_response_time_ms": 73,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (REMS Curiosity Mars weather station) in the full text",
+      "x_new_oql": "get works with (REMS Curiosity Mars weather station) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "REMS Curiosity Mars weather station",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:REMS Curiosity Mars weather station&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4307719585",
+      "doi": "https://doi.org/10.1093/mnrasl/slac094",
+      "title": "Diurnal variation of the surface temperature of Mars with the Emirates Mars Mission: a comparison with Curiosity and Perseverance rover measurements",
+      "publication_year": 2022,
+      "cited_by_count": 22,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5049084030",
+            "display_name": "Dimitra Atri",
+            "orcid": "https://orcid.org/0000-0002-9425-2123",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9425-2123"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120250893",
+              "display_name": "New York University Abu Dhabi",
+              "ror": "https://ror.org/00e5k0821",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120250893",
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Dimitra Atri",
+          "raw_affiliation_strings": [
+            "Center for Space Science, New York University Abu Dhabi , PO Box 129188, Saadiyat Island, Abu Dhabi, UAE"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Space Science, New York University Abu Dhabi , PO Box 129188, Saadiyat Island, Abu Dhabi, UAE",
+              "institution_ids": [
+                "https://openalex.org/I120250893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5043898631",
+            "display_name": "Nour Abdelmoneim",
+            "orcid": "https://orcid.org/0009-0006-7197-6408",
+            "observed_orcids": [
+              "https://orcid.org/0009-0006-7197-6408"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120250893",
+              "display_name": "New York University Abu Dhabi",
+              "ror": "https://ror.org/00e5k0821",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120250893",
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nour Abdelmoneim",
+          "raw_affiliation_strings": [
+            "Center for Space Science, New York University Abu Dhabi , PO Box 129188, Saadiyat Island, Abu Dhabi, UAE"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Space Science, New York University Abu Dhabi , PO Box 129188, Saadiyat Island, Abu Dhabi, UAE",
+              "institution_ids": [
+                "https://openalex.org/I120250893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5071715217",
+            "display_name": "Dattaraj B. Dhuri",
+            "orcid": "https://orcid.org/0000-0001-7927-2727",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7927-2727"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120250893",
+              "display_name": "New York University Abu Dhabi",
+              "ror": "https://ror.org/00e5k0821",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120250893",
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Dattaraj B Dhuri",
+          "raw_affiliation_strings": [
+            "Center for Space Science, New York University Abu Dhabi , PO Box 129188, Saadiyat Island, Abu Dhabi, UAE"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Space Science, New York University Abu Dhabi , PO Box 129188, Saadiyat Island, Abu Dhabi, UAE",
+              "institution_ids": [
+                "https://openalex.org/I120250893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5088248532",
+            "display_name": "Mathilde Simoni",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120250893",
+              "display_name": "New York University Abu Dhabi",
+              "ror": "https://ror.org/00e5k0821",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120250893",
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mathilde Simoni",
+          "raw_affiliation_strings": [
+            "Center for Space Science, New York University Abu Dhabi , PO Box 129188, Saadiyat Island, Abu Dhabi, UAE"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Space Science, New York University Abu Dhabi , PO Box 129188, Saadiyat Island, Abu Dhabi, UAE",
+              "institution_ids": [
+                "https://openalex.org/I120250893"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1093/mnrasl/slac094",
+        "doi": "https://doi.org/10.1093/mnrasl/slac094",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1093/mnrasl/slac094",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2734515570",
+          "display_name": "Monthly Notices of the Royal Astronomical Society Letters",
+          "issn_l": "1745-3925",
+          "issn": [
+            "1745-3925",
+            "1745-3933"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648",
+            "https://openalex.org/P4310311647"
+          ],
+          "host_organization_lineage_names": [
+            "Oxford University Press",
+            "University of Oxford"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Monthly Notices of the Royal Astronomical Society: Letters",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://arxiv.org/pdf/2204.12850",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2334670190",
+      "doi": "https://doi.org/10.1017/s1431927614012549",
+      "title": "My Lab is on Mars: Geochemical Adventures with the Mars Curiosity Rover",
+      "publication_year": 2014,
+      "cited_by_count": 0,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5112654633",
+            "display_name": "Laurie A. Leshin",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I107077323",
+              "display_name": "Worcester Polytechnic Institute",
+              "ror": "https://ror.org/05ejpqr48",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I107077323"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Laurie Leshin",
+          "raw_affiliation_strings": [
+            "Worcester Polytechnic Institute, Office of the President, Worcester, MA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Worcester Polytechnic Institute, Office of the President, Worcester, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I107077323"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1017/s1431927614012549",
+        "doi": "https://doi.org/10.1017/s1431927614012549",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1017/s1431927614012549",
+        "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C7196FE9DB34053A5C918405F482755E/S1431927614012549a.pdf/div-class-title-my-lab-is-on-mars-geochemical-adventures-with-the-mars-curiosity-rover-div.pdf",
+        "source": {
+          "id": "https://openalex.org/S98208149",
+          "display_name": "Microscopy and Microanalysis",
+          "issn_l": "1431-9276",
+          "issn": [
+            "1431-9276",
+            "1435-8115"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-a",
+            "jufo-1",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648",
+            "https://openalex.org/P4310311647"
+          ],
+          "host_organization_lineage_names": [
+            "Oxford University Press",
+            "University of Oxford"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Microscopy and Microanalysis",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C7196FE9DB34053A5C918405F482755E/S1431927614012549a.pdf/div-class-title-my-lab-is-on-mars-geochemical-adventures-with-the-mars-curiosity-rover-div.pdf",
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2042320135",
+      "doi": "https://doi.org/10.1007/s11214-012-9921-1",
+      "title": "REMS: The Environmental Sensor Suite for the Mars Science Laboratory Rover",
+      "publication_year": 2012,
+      "cited_by_count": 310,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5108166988",
+            "display_name": "Javier Gómez‐Elvira",
+            "orcid": "https://orcid.org/0000-0002-9068-9846",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9068-9846"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "J. Gómez-Elvira",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080231749",
+            "display_name": "Carlos Armiens",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "C. Armiens",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059098455",
+            "display_name": "Luís Castañer",
+            "orcid": "https://orcid.org/0000-0002-1988-6468",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1988-6468"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I9617848",
+              "display_name": "Universitat Politècnica de Catalunya",
+              "ror": "https://ror.org/03mb6wj31",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "L. Castañer",
+          "raw_affiliation_strings": [
+            "Universidad Politécnica de Cataluña, Barcelona, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universidad Politécnica de Cataluña, Barcelona, Spain",
+              "institution_ids": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5077719342",
+            "display_name": "Manuel Domínguez-Pumar",
+            "orcid": "https://orcid.org/0000-0001-5439-7953",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5439-7953"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I9617848",
+              "display_name": "Universitat Politècnica de Catalunya",
+              "ror": "https://ror.org/03mb6wj31",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. Domínguez",
+          "raw_affiliation_strings": [
+            "Universidad Politécnica de Cataluña, Barcelona, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universidad Politécnica de Cataluña, Barcelona, Spain",
+              "institution_ids": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108398008",
+            "display_name": "Maria Genzer",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1285790362",
+              "display_name": "Finnish Meteorological Institute",
+              "ror": "https://ror.org/05hppb561",
+              "country_code": "FI",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1284112523",
+                "https://openalex.org/I1285790362"
+              ]
+            }
+          ],
+          "countries": [
+            "FI"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. Genzer",
+          "raw_affiliation_strings": [
+            "FMI, Helsinki, Finland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "FMI, Helsinki, Finland",
+              "institution_ids": [
+                "https://openalex.org/I1285790362"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5029398802",
+            "display_name": "Felipe Gómez",
+            "orcid": "https://orcid.org/0000-0001-9977-7060",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9977-7060"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "F. Gómez",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031765790",
+            "display_name": "R. M. Haberle",
+            "orcid": "https://orcid.org/0000-0001-6263-5501",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6263-5501"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. Haberle",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center, Moffet Field, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center, Moffet Field, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039526242",
+            "display_name": "Ari‐Matti Harri",
+            "orcid": "https://orcid.org/0000-0001-8541-2802",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8541-2802"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1285790362",
+              "display_name": "Finnish Meteorological Institute",
+              "ror": "https://ror.org/05hppb561",
+              "country_code": "FI",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1284112523",
+                "https://openalex.org/I1285790362"
+              ]
+            }
+          ],
+          "countries": [
+            "FI"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A.-M. Harri",
+          "raw_affiliation_strings": [
+            "FMI, Helsinki, Finland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "FMI, Helsinki, Finland",
+              "institution_ids": [
+                "https://openalex.org/I1285790362"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5102842648",
+            "display_name": "Vicente Jimenez",
+            "orcid": "https://orcid.org/0000-0001-5668-7049",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5668-7049"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I9617848",
+              "display_name": "Universitat Politècnica de Catalunya",
+              "ror": "https://ror.org/03mb6wj31",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "V. Jiménez",
+          "raw_affiliation_strings": [
+            "Universidad Politécnica de Cataluña, Barcelona, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universidad Politécnica de Cataluña, Barcelona, Spain",
+              "institution_ids": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5055118053",
+            "display_name": "Henrik Kahanpää",
+            "orcid": "https://orcid.org/0000-0001-9108-186X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9108-186X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1285790362",
+              "display_name": "Finnish Meteorological Institute",
+              "ror": "https://ror.org/05hppb561",
+              "country_code": "FI",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1284112523",
+                "https://openalex.org/I1285790362"
+              ]
+            }
+          ],
+          "countries": [
+            "FI"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "H. Kahanpää",
+          "raw_affiliation_strings": [
+            "FMI, Helsinki, Finland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "FMI, Helsinki, Finland",
+              "institution_ids": [
+                "https://openalex.org/I1285790362"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5006271813",
+            "display_name": "Łukasz Kowalski",
+            "orcid": "https://orcid.org/0000-0001-7843-6662",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7843-6662"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I9617848",
+              "display_name": "Universitat Politècnica de Catalunya",
+              "ror": "https://ror.org/03mb6wj31",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "L. Kowalski",
+          "raw_affiliation_strings": [
+            "Universidad Politécnica de Cataluña, Barcelona, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universidad Politécnica de Cataluña, Barcelona, Spain",
+              "institution_ids": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009765612",
+            "display_name": "Alain Lepinette",
+            "orcid": "https://orcid.org/0000-0002-5213-3521",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5213-3521"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A. Lepinette",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "J. Martín",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Martín",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5085458227",
+            "display_name": "Jesús Martínez‐Frías",
+            "orcid": "https://orcid.org/0000-0002-2609-4485",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2609-4485"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Martínez-Frías",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044085041",
+            "display_name": "Ian McEwan",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158255",
+              "display_name": "Ashima Group (United States)",
+              "ror": "https://ror.org/055h1w046",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210158255"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "I. McEwan",
+          "raw_affiliation_strings": [
+            "Ashima Research, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ashima Research, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210158255"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052107408",
+            "display_name": "Luis Mora‐Sotomayor",
+            "orcid": "https://orcid.org/0000-0002-8209-1190",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8209-1190"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "L. Mora",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5083704340",
+            "display_name": "J. J. López‐Moreno",
+            "orcid": "https://orcid.org/0000-0002-7946-2624",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7946-2624"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "J. Moreno",
+          "raw_affiliation_strings": [
+            "EADS-CRISA, Tres Cantos, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "EADS-CRISA, Tres Cantos, Spain",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5057876741",
+            "display_name": "Sara Navarro",
+            "orcid": "https://orcid.org/0000-0001-8606-7799",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8606-7799",
+              "https://orcid.org/0009-0002-0437-7609"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "S. Navarro",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "M. A. de Pablo",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I189268942",
+              "display_name": "Universidad de Alcalá",
+              "ror": "https://ror.org/04pmn0e78",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I189268942"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. A. de Pablo",
+          "raw_affiliation_strings": [
+            "Universidad de Alcalá de Henares, Alcalá de Henares, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universidad de Alcalá de Henares, Alcalá de Henares, Spain",
+              "institution_ids": [
+                "https://openalex.org/I189268942"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5025514085",
+            "display_name": "Verónica Peinado",
+            "orcid": "https://orcid.org/0000-0002-3721-6804",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3721-6804"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "V. Peinado",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "A. Peña",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A. Peña",
+          "raw_affiliation_strings": [
+            "EADS-CRISA, Tres Cantos, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "EADS-CRISA, Tres Cantos, Spain",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5065646406",
+            "display_name": "Jouni Polkko",
+            "orcid": "https://orcid.org/0000-0001-6927-1368",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6927-1368"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1285790362",
+              "display_name": "Finnish Meteorological Institute",
+              "ror": "https://ror.org/05hppb561",
+              "country_code": "FI",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1284112523",
+                "https://openalex.org/I1285790362"
+              ]
+            }
+          ],
+          "countries": [
+            "FI"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Polkko",
+          "raw_affiliation_strings": [
+            "FMI, Helsinki, Finland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "FMI, Helsinki, Finland",
+              "institution_ids": [
+                "https://openalex.org/I1285790362"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5047499771",
+            "display_name": "Miguel Ramos",
+            "orcid": "https://orcid.org/0000-0003-3648-6818",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3648-6818"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I189268942",
+              "display_name": "Universidad de Alcalá",
+              "ror": "https://ror.org/04pmn0e78",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I189268942"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. Ramos",
+          "raw_affiliation_strings": [
+            "Universidad de Alcalá de Henares, Alcalá de Henares, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universidad de Alcalá de Henares, Alcalá de Henares, Spain",
+              "institution_ids": [
+                "https://openalex.org/I189268942"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5106182832",
+            "display_name": "Nilton O. Renno",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I27837315",
+              "display_name": "University of Michigan",
+              "ror": "https://ror.org/00jmfr291",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27837315"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "N. O. Renno",
+          "raw_affiliation_strings": [
+            "Michigan University, Ann Arbor, MI, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Michigan University, Ann Arbor, MI, USA",
+              "institution_ids": [
+                "https://openalex.org/I27837315"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5089260926",
+            "display_name": "J. Ricart",
+            "orcid": "https://orcid.org/0000-0002-7037-9787",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7037-9787"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I9617848",
+              "display_name": "Universitat Politècnica de Catalunya",
+              "ror": "https://ror.org/03mb6wj31",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Ricart",
+          "raw_affiliation_strings": [
+            "Universidad Politécnica de Cataluña, Barcelona, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universidad Politécnica de Cataluña, Barcelona, Spain",
+              "institution_ids": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5079880645",
+            "display_name": "Mark Ian Richardson",
+            "orcid": "https://orcid.org/0000-0001-9633-4141",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9633-4141"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158255",
+              "display_name": "Ashima Group (United States)",
+              "ror": "https://ror.org/055h1w046",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210158255"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. Richardson",
+          "raw_affiliation_strings": [
+            "Ashima Research, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ashima Research, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210158255"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008242243",
+            "display_name": "Jose Antonio Rodríguez-Manfredi",
+            "orcid": "https://orcid.org/0000-0003-0461-9815",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0461-9815"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Rodríguez-Manfredi",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5107844641",
+            "display_name": "J. Romeral",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Romeral",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5033924899",
+            "display_name": "Eduardo Sebastián",
+            "orcid": "https://orcid.org/0000-0002-8233-3604",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8233-3604"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "E. Sebastián",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108696037",
+            "display_name": "J. Serrano",
+            "orcid": "https://orcid.org/0009-0004-2700-5941",
+            "observed_orcids": [
+              "https://orcid.org/0009-0004-2700-5941"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "J. Serrano",
+          "raw_affiliation_strings": [
+            "EADS-CRISA, Tres Cantos, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "EADS-CRISA, Tres Cantos, Spain",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031574543",
+            "display_name": "Manuel de la Torre Juárez",
+            "orcid": "https://orcid.org/0000-0003-1393-5297",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1393-5297"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. de la Torre Juárez",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086643218",
+            "display_name": "Josefina Torres",
+            "orcid": "https://orcid.org/0000-0003-1035-6740",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1035-6740"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Torres",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5078375057",
+            "display_name": "F. Torrero",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "F. Torrero",
+          "raw_affiliation_strings": [
+            "EADS-CRISA, Tres Cantos, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "EADS-CRISA, Tres Cantos, Spain",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086056794",
+            "display_name": "R. Urquí",
+            "orcid": "https://orcid.org/0000-0001-6090-8502",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6090-8502"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R. Urquí",
+          "raw_affiliation_strings": [
+            "INSA, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "INSA, Madrid, Spain",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5065856237",
+            "display_name": "Luis Vázquez",
+            "orcid": "https://orcid.org/0000-0003-4054-1197",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4054-1197"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I121748325",
+              "display_name": "Universidad Complutense de Madrid",
+              "ror": "https://ror.org/02p0gd045",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I121748325"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "L. Vázquez",
+          "raw_affiliation_strings": [
+            "Universidad Complutence de Madrid, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universidad Complutence de Madrid, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I121748325"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036111264",
+            "display_name": "T. Velasco",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "T. Velasco",
+          "raw_affiliation_strings": [
+            "EADS-CRISA, Tres Cantos, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "EADS-CRISA, Tres Cantos, Spain",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038138501",
+            "display_name": "José Alexandre Alves Verdasca",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Verdasca",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5069601618",
+            "display_name": "María‐Paz Zorzano",
+            "orcid": "https://orcid.org/0000-0002-4492-9650",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4492-9650"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M.-P. Zorzano",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5055302588",
+            "display_name": "Javier Martín‐Torres",
+            "orcid": "https://orcid.org/0000-0001-6479-2236",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6479-2236"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Martín-Torres",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiología (CSIC-INTA), Carretera de Ajalvir, km. 4, 28850 Torrejón de Ardoz, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1007/s11214-012-9921-1",
+        "doi": "https://doi.org/10.1007/s11214-012-9921-1",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s11214-012-9921-1",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11214-012-9921-1.pdf",
+        "source": {
+          "id": "https://openalex.org/S10873449",
+          "display_name": "Space Science Reviews",
+          "issn_l": "0038-6308",
+          "issn": [
+            "0038-6308",
+            "1572-9672"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-b",
+            "jufo-3",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Space Science Reviews",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s11214-012-9921-1.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W4391573845",
+      "doi": "https://doi.org/10.31237/osf.io/eqc2y",
+      "title": "Designing a Temperature Sensor for a Mars Surface Weather Station",
+      "publication_year": 2024,
+      "cited_by_count": 0,
+      "type": "preprint",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5031833737",
+            "display_name": "C. Roe",
+            "orcid": "https://orcid.org/0000-0001-9050-092X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9050-092X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I28290843",
+              "display_name": "University of Surrey",
+              "ror": "https://ror.org/00ks66431",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I28290843"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Charles Roe",
+          "raw_affiliation_strings": [
+            "Department of Electrical and Electronic Engineering Faculty of Engineering and Physical Sciences University of Surrey Guildford, Surrey, GU2 7XH, UK",
+            "Master of Science in Space Engineering from the University of Surrey"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9050-092X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Electrical and Electronic Engineering Faculty of Engineering and Physical Sciences University of Surrey Guildford, Surrey, GU2 7XH, UK",
+              "institution_ids": [
+                "https://openalex.org/I28290843"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Master of Science in Space Engineering from the University of Surrey",
+              "institution_ids": [
+                "https://openalex.org/I28290843"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.31237/osf.io/eqc2y",
+        "doi": "https://doi.org/10.31237/osf.io/eqc2y",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.31237/osf.io/eqc2y",
+        "pdf_url": "https://osf.io/eqc2y/download",
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "posted-content"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://osf.io/eqc2y/download",
+        "any_repository_has_fulltext": null
+      }
+    },
+    {
+      "id": "https://openalex.org/W4411040268",
+      "doi": "https://doi.org/10.1029/2024je008888",
+      "title": "Dust Lifting and Deposition Over Six Mars Years at Gale Crater, Mars, From REMS Observations and Mesoscale Simulations",
+      "publication_year": 2025,
+      "cited_by_count": 5,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5038647031",
+            "display_name": "Á. Vicente‐Retortillo",
+            "orcid": "https://orcid.org/0000-0002-4553-7624",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4553-7624"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "A. Vicente‐Retortillo",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiologia (INTA‐CSIC)  Madrid Spain",
+            "Centro de Astrobiologia (INTA-CSIC), Madrid, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4553-7624",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiologia (INTA‐CSIC)  Madrid Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Centro de Astrobiologia (INTA-CSIC), Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100599518",
+            "display_name": "Germán Martínez",
+            "orcid": "https://orcid.org/0000-0001-5885-236X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5885-236X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "G. M. Martinez",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiologia (INTA‐CSIC)  Madrid Spain",
+            "Centro de Astrobiologia (INTA-CSIC), Madrid, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5885-236X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiologia (INTA‐CSIC)  Madrid Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Centro de Astrobiologia (INTA-CSIC), Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020727212",
+            "display_name": "Claire E. Newman",
+            "orcid": "https://orcid.org/0000-0001-9990-8817",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9990-8817"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210101090",
+              "display_name": "Aeolis Research (United States)",
+              "ror": "https://ror.org/012a3nb13",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210101090"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "C. E. Newman",
+          "raw_affiliation_strings": [
+            "Aeolis Research  Chandler AZ USA",
+            "Aeolis Research, Chandler, AZ, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9990-8817",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Aeolis Research  Chandler AZ USA",
+              "institution_ids": [
+                "https://openalex.org/I4210101090"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Aeolis Research, Chandler, AZ, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210101090"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5000002636",
+            "display_name": "Mark T Lemmon",
+            "orcid": "https://orcid.org/0000-0002-4504-5136",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4504-5136"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1298453700",
+              "display_name": "Space Science Institute",
+              "ror": "https://ror.org/046a9q865",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I1298453700"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. T. Lemmon",
+          "raw_affiliation_strings": [
+            "Space Science Institute  Boulder CO USA",
+            "Space Science Institute, Boulder, CO, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4504-5136",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Space Science Institute  Boulder CO USA",
+              "institution_ids": [
+                "https://openalex.org/I1298453700"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Space Science Institute, Boulder, CO, USA",
+              "institution_ids": [
+                "https://openalex.org/I1298453700"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060430598",
+            "display_name": "J. R. Johnson",
+            "orcid": "https://orcid.org/0000-0002-5586-4901",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5586-4901"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2802946424",
+              "display_name": "Johns Hopkins University Applied Physics Laboratory",
+              "ror": "https://ror.org/029pp9z10",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I145311948",
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. R. Johnson",
+          "raw_affiliation_strings": [
+            "Johns Hopkins University Applied Physics Laboratory  Laurel MD USA",
+            "Johns Hopkins University Applied Physics Laboratory, Laurel, MD, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-5586-4901",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Johns Hopkins University Applied Physics Laboratory  Laurel MD USA",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Johns Hopkins University Applied Physics Laboratory, Laurel, MD, USA",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5103051141",
+            "display_name": "Emily L. Mason",
+            "orcid": "https://orcid.org/0000-0001-7443-1717",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7443-1717"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203172682",
+              "display_name": "Northern Arizona University",
+              "ror": "https://ror.org/0272j5188",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203172682"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "E. L. Mason",
+          "raw_affiliation_strings": [
+            "Northern Arizona University  Flagstaff AZ USA",
+            "Northern Arizona University, Flagstaff, AZ, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Northern Arizona University  Flagstaff AZ USA",
+              "institution_ids": [
+                "https://openalex.org/I203172682"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Northern Arizona University, Flagstaff, AZ, USA",
+              "institution_ids": [
+                "https://openalex.org/I203172682"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5106182832",
+            "display_name": "Nilton O. Renno",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I27837315",
+              "display_name": "University of Michigan",
+              "ror": "https://ror.org/00jmfr291",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27837315"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "N. O. Renno",
+          "raw_affiliation_strings": [
+            "University of Michigan  Ann Arbor MI USA",
+            "University of Michigan, Ann Arbor, MI, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Michigan  Ann Arbor MI USA",
+              "institution_ids": [
+                "https://openalex.org/I27837315"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Michigan, Ann Arbor, MI, USA",
+              "institution_ids": [
+                "https://openalex.org/I27837315"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5008242243",
+            "display_name": "Jose Antonio Rodríguez-Manfredi",
+            "orcid": "https://orcid.org/0000-0003-0461-9815",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0461-9815"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. A. Rodriguez‐Manfredi",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiologia (INTA‐CSIC)  Madrid Spain",
+            "Centro de Astrobiologia (INTA-CSIC), Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiologia (INTA‐CSIC)  Madrid Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Centro de Astrobiologia (INTA-CSIC), Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1029/2024je008888",
+        "doi": "https://doi.org/10.1029/2024je008888",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1029/2024je008888",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JE008888",
+        "source": {
+          "id": "https://openalex.org/S4210222121",
+          "display_name": "Journal of Geophysical Research Planets",
+          "issn_l": "2169-9097",
+          "issn": [
+            "2169-9097",
+            "2169-9100"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Geophysical Research: Planets",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JE008888",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W4321995803",
+      "doi": "https://doi.org/10.5194/egusphere-egu23-11074",
+      "title": "Surface temperature of Mars: Exploring diurnal and seasonal variations with the Emirates Mars Mission",
+      "publication_year": 2023,
+      "cited_by_count": 0,
+      "type": "conference-abstract",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5049084030",
+            "display_name": "Dimitra Atri",
+            "orcid": "https://orcid.org/0000-0002-9425-2123",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9425-2123"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120250893",
+              "display_name": "New York University Abu Dhabi",
+              "ror": "https://ror.org/00e5k0821",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120250893",
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Dimitra Atri",
+          "raw_affiliation_strings": [
+            "New York University, Abu Dhabi, Center for Space Science, United Arab Emirates (atri@nyu.edu)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "New York University, Abu Dhabi, Center for Space Science, United Arab Emirates (atri@nyu.edu)",
+              "institution_ids": [
+                "https://openalex.org/I120250893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5043898631",
+            "display_name": "Nour Abdelmoneim",
+            "orcid": "https://orcid.org/0009-0006-7197-6408",
+            "observed_orcids": [
+              "https://orcid.org/0009-0006-7197-6408"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120250893",
+              "display_name": "New York University Abu Dhabi",
+              "ror": "https://ror.org/00e5k0821",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120250893",
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nour Abdelmoneim",
+          "raw_affiliation_strings": [
+            "New York University, Abu Dhabi, Center for Space Science, United Arab Emirates (atri@nyu.edu)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "New York University, Abu Dhabi, Center for Space Science, United Arab Emirates (atri@nyu.edu)",
+              "institution_ids": [
+                "https://openalex.org/I120250893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5071715217",
+            "display_name": "Dattaraj B. Dhuri",
+            "orcid": "https://orcid.org/0000-0001-7927-2727",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7927-2727"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120250893",
+              "display_name": "New York University Abu Dhabi",
+              "ror": "https://ror.org/00e5k0821",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120250893",
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Dattaraj Dhuri",
+          "raw_affiliation_strings": [
+            "New York University, Abu Dhabi, Center for Space Science, United Arab Emirates (atri@nyu.edu)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "New York University, Abu Dhabi, Center for Space Science, United Arab Emirates (atri@nyu.edu)",
+              "institution_ids": [
+                "https://openalex.org/I120250893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5088248532",
+            "display_name": "Mathilde Simoni",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120250893",
+              "display_name": "New York University Abu Dhabi",
+              "ror": "https://ror.org/00e5k0821",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120250893",
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mathilde Simoni",
+          "raw_affiliation_strings": [
+            "New York University, Abu Dhabi, Center for Space Science, United Arab Emirates (atri@nyu.edu)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "New York University, Abu Dhabi, Center for Space Science, United Arab Emirates (atri@nyu.edu)",
+              "institution_ids": [
+                "https://openalex.org/I120250893"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.5194/egusphere-egu23-11074",
+        "doi": "https://doi.org/10.5194/egusphere-egu23-11074",
+        "is_oa": true,
+        "landing_page_url": "http://dx.doi.org/10.5194/egusphere-egu23-11074",
+        "pdf_url": null,
+        "source": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "posted-content"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "http://dx.doi.org/10.5194/egusphere-egu23-11074",
+        "any_repository_has_fulltext": null
+      }
+    }
+  ],
+  "group_by": []
+}

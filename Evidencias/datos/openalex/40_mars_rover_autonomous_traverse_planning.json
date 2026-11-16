@@ -1,0 +1,1307 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 2019,
+    "db_response_time_ms": 89,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Mars rover autonomous traverse planning) in the full text",
+      "x_new_oql": "get works with (Mars rover autonomous traverse planning) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Mars rover autonomous traverse planning",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Mars rover autonomous traverse planning&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W1541334753",
+      "doi": "https://doi.org/10.1023/a:1022283719900",
+      "title": "Mars Rover Autonomous Navigation",
+      "publication_year": 2003,
+      "cited_by_count": 62,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": null,
+            "display_name": "M. Maurette",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799535048",
+              "display_name": "Centre National d'Études Spatiales",
+              "ror": "https://ror.org/04h1h0y33",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I2799535048"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "M. Maurette",
+          "raw_affiliation_strings": [
+            "CNES 18 Avenue E. Belin, 31401, Toulouse, Cedex, France",
+            "CNES 18 Avenue E. Belin 31401 Toulouse, Cedex, France. michel.maurette@cnes.fr#TAB#"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "CNES 18 Avenue E. Belin, 31401, Toulouse, Cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I2799535048"
+              ]
+            },
+            {
+              "raw_affiliation_string": "CNES 18 Avenue E. Belin 31401 Toulouse, Cedex, France. michel.maurette@cnes.fr#TAB#",
+              "institution_ids": [
+                "https://openalex.org/I2799535048"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1023/a:1022283719900",
+        "doi": "https://doi.org/10.1023/a:1022283719900",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1023/a:1022283719900",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S144091109",
+          "display_name": "Autonomous Robots",
+          "issn_l": "0929-5593",
+          "issn": [
+            "0929-5593",
+            "1573-7527"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-2",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Autonomous Robots",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2166853159",
+      "doi": "https://doi.org/10.1109/aero.1999.794236",
+      "title": "Autonomous rovers for Mars exploration",
+      "publication_year": 1999,
+      "cited_by_count": 81,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5108376581",
+            "display_name": "Richard M. Washington",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210158298",
+              "display_name": "Caelum Research Corporation (United States)",
+              "ror": "https://ror.org/04xz4db24",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210158298"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. Washington",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center, Caelum Research Corporation, Moffett Field, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center, Caelum Research Corporation, Moffett Field, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210158298"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5114254336",
+            "display_name": "Keith Golden",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "K. Golden",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center, Moffett Field, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center, Moffett Field, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5079933398",
+            "display_name": "John L. Bresina",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Bresina",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center, Moffett Field, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center, Moffett Field, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5034627279",
+            "display_name": "David E. Smith",
+            "orcid": "https://orcid.org/0000-0003-2791-4964",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2791-4964"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "D.E. Smith",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center, Moffett Field, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center, Moffett Field, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "C. Anderson",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I201448701",
+              "display_name": "University of Washington",
+              "ror": "https://ror.org/00cvxb145",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I201448701"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "C. Anderson",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center, University of Washington, Moffett Field, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center, University of Washington, Moffett Field, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I201448701"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5056675308",
+            "display_name": "Trey Smith",
+            "orcid": "https://orcid.org/0000-0001-8650-8566",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8650-8566"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I74973139",
+              "display_name": "Carnegie Mellon University",
+              "ror": "https://ror.org/05x2bcf33",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I74973139"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "T. Smith",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center, Carnegie Mellon University, Moffett Field, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center, Carnegie Mellon University, Moffett Field, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I74973139"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1109/aero.1999.794236",
+        "doi": "https://doi.org/10.1109/aero.1999.794236",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/aero.1999.794236",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210171417",
+          "display_name": "Proceedings - IEEE Aerospace Conference",
+          "issn_l": "1095-323X",
+          "issn": [
+            "1095-323X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "1999 IEEE Aerospace Conference. Proceedings (Cat. No.99TH8403)",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W1555668528",
+      "doi": "https://doi.org/10.1007/11552246_1",
+      "title": "Autonomous Navigation Results from the Mars Exploration Rover (MER) Mission",
+      "publication_year": 2006,
+      "cited_by_count": 87,
+      "type": "book-chapter",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5016754559",
+            "display_name": "Mark W. Maimone",
+            "orcid": "https://orcid.org/0000-0002-6046-6967",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6046-6967"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mark Maimone",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology 4800 Oak Grove Drive, Pasadena, CA, 91109, USA",
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive Pasadena, CA 91109"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology 4800 Oak Grove Drive, Pasadena, CA, 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive Pasadena, CA 91109",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Andrew Johnson",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Andrew Johnson",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology 4800 Oak Grove Drive, Pasadena, CA, 91109, USA",
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive Pasadena, CA 91109"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology 4800 Oak Grove Drive, Pasadena, CA, 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive Pasadena, CA 91109",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5101576021",
+            "display_name": "Yang Cheng",
+            "orcid": "https://orcid.org/0000-0002-6785-7776",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6785-7776"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yang Cheng",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology 4800 Oak Grove Drive, Pasadena, CA, 91109, USA",
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive Pasadena, CA 91109"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology 4800 Oak Grove Drive, Pasadena, CA, 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive Pasadena, CA 91109",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5023535719",
+            "display_name": "Reg G. Willson",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Reg Willson",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology 4800 Oak Grove Drive, Pasadena, CA, 91109, USA",
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive Pasadena, CA 91109"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology 4800 Oak Grove Drive, Pasadena, CA, 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive Pasadena, CA 91109",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5074075243",
+            "display_name": "Larry H. Matthies",
+            "orcid": "https://orcid.org/0000-0002-9045-0181",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9045-0181"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Larry Matthies",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology 4800 Oak Grove Drive, Pasadena, CA, 91109, USA",
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive Pasadena, CA 91109"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology 4800 Oak Grove Drive, Pasadena, CA, 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive Pasadena, CA 91109",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1007/11552246_1",
+        "doi": "https://doi.org/10.1007/11552246_1",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/11552246_1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210185684",
+          "display_name": "Springer tracts in advanced robotics",
+          "issn_l": "1610-742X",
+          "issn": [
+            "1610-742X",
+            "1610-7438"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Springer Tracts in Advanced Robotics",
+        "raw_type": "book-chapter"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2081794857",
+      "doi": "https://doi.org/10.1109/aero.2007.352683",
+      "title": "Global Path Planning on Board the Mars Exploration Rovers",
+      "publication_year": 2007,
+      "cited_by_count": 141,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5109812152",
+            "display_name": "Joseph L. Carsten",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Joseph Carsten",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+            "California Institute of Technology, Pasadena§"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "California Institute of Technology, Pasadena§",
+              "institution_ids": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038003342",
+            "display_name": "Arturo L. Rankin",
+            "orcid": "https://orcid.org/0000-0001-6592-6566",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6592-6566"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Arturo Rankin",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+            "California Institute of Technology, Pasadena§"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "California Institute of Technology, Pasadena§",
+              "institution_ids": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110331104",
+            "display_name": "Dave Ferguson",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I74973139",
+              "display_name": "Carnegie Mellon University",
+              "ror": "https://ror.org/05x2bcf33",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I74973139"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Dave Ferguson",
+          "raw_affiliation_strings": [
+            "Robotics Institute, Carnegie Mellon University, Pittsburgh, PA, USA",
+            "Robotics Institute, Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA 15213, USA. dif@cmu.edu"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Robotics Institute, Carnegie Mellon University, Pittsburgh, PA, USA",
+              "institution_ids": [
+                "https://openalex.org/I74973139"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Robotics Institute, Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA 15213, USA. dif@cmu.edu",
+              "institution_ids": [
+                "https://openalex.org/I74973139"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5049281530",
+            "display_name": "Anthony Stentz",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I74973139",
+              "display_name": "Carnegie Mellon University",
+              "ror": "https://ror.org/05x2bcf33",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I74973139"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Anthony Stentz",
+          "raw_affiliation_strings": [
+            "Robotics Institute, Carnegie Mellon University, Pittsburgh, PA, USA",
+            "Robotics Institute, Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA 15213, USA. tony@cmu.edu"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Robotics Institute, Carnegie Mellon University, Pittsburgh, PA, USA",
+              "institution_ids": [
+                "https://openalex.org/I74973139"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Robotics Institute, Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA 15213, USA. tony@cmu.edu",
+              "institution_ids": [
+                "https://openalex.org/I74973139"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1109/aero.2007.352683",
+        "doi": "https://doi.org/10.1109/aero.2007.352683",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/aero.2007.352683",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210171417",
+          "display_name": "Proceedings - IEEE Aerospace Conference",
+          "issn_l": "1095-323X",
+          "issn": [
+            "1095-323X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2007 IEEE Aerospace Conference",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W1596795789",
+      "doi": null,
+      "title": "Learning and planning for Mars Rover science",
+      "publication_year": 2003,
+      "cited_by_count": 25,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5016286806",
+            "display_name": "Tara A. Estlin",
+            "orcid": "https://orcid.org/0000-0002-0411-1205",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0411-1205"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Tara Estlin",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-0411-1205",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5041844450",
+            "display_name": "Rebecca Castaño",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Rebecca Castaño",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008570081",
+            "display_name": "Robert Charles Anderson",
+            "orcid": "https://orcid.org/0000-0002-7298-4956",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7298-4956"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Robert C. Anderson",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-7298-4956",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087376426",
+            "display_name": "Daniel M. Gaines",
+            "orcid": "https://orcid.org/0000-0002-8853-9136",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8853-9136"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Daniel Gaines",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-8853-9136",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5109009216",
+            "display_name": "Forest Fisher",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Forest Fisher",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5045539302",
+            "display_name": "Michele Judd",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M. Judd",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:CiteSeerX.psu:10.1.1.104.6227",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.104.6227",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "http://trs-new.jpl.nasa.gov/dspace/bitstream/2014/7379/1/03-1202.pdf",
+        "raw_type": "text"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W204720466",
+      "doi": null,
+      "title": "Analysis of terrain geometry representations for traversability of a Mars rover",
+      "publication_year": 2012,
+      "cited_by_count": 7,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5078105619",
+            "display_name": "Ken Ho",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Ken Ho",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060070984",
+            "display_name": "Thierry Peynot",
+            "orcid": "https://orcid.org/0000-0001-8275-6538",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8275-6538"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Thierry Peynot",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-8275-6538",
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5004268965",
+            "display_name": "Salah Sukkarieh",
+            "orcid": "https://orcid.org/0000-0003-1173-9268",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1173-9268"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Salah Sukkarieh",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-1173-9268",
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:eprints.qut.edu.au:67613",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://eprints.qut.edu.au/67613/15/Ho-ASSC-2011.pdf",
+        "pdf_url": "https://eprints.qut.edu.au/67613/15/Ho-ASSC-2011.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306402607",
+          "display_name": "QUT ePrints (Queensland University of Technology)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I160993911",
+          "host_organization_name": "Queensland University of Technology",
+          "host_organization_lineage": [
+            "https://openalex.org/I160993911"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Proceedings of the 11th Australian Space Science Conference",
+        "raw_type": "Chapter in Book, Report or Conference volume"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    }
+  ],
+  "group_by": []
+}

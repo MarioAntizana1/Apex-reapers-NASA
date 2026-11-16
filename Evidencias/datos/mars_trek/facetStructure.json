@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Metadata",
+    "type": "group",
+    "mode": "AND",
+    "children": [
+      {
+        "title": "Mission",
+        "type": "facet",
+        "operation": "pickList",
+        "valueField": "mission"
+      },
+      {
+        "title": "Instrument",
+        "type": "facet",
+        "operation": "pickList",
+        "valueField": "instrument"
+      }
+    ]
+  },
+  {
+    "title":"Spatial",
+    "type":"group",
+    "mode":"OR",
+    "children":[
+      {
+        "title":"Search within current view",
+        "type":"facet",
+        "operation":"currentViewSpatialSearch",
+        "valueField":"shape"
+      },
+      {
+        "title":"Search With Point",
+        "type":"facet",
+        "operation":"pointSpatialSearch",
+        "valueField":"shape"
+      },
+      {
+        "title":"Search With Nomenclature",
+        "type":"facet",
+        "operation":"nomenclatureSpatialSearch",
+        "valueField":"shape",
+        "nomenclatureService": ""
+      },
+      {
+        "title":"Search In Polygon",
+        "type":"facet",
+        "operation":"polygonSpatialSearch",
+        "valueField":"shape"
+      }
+    ]
+  },
+  {
+    "title":"Product Type",
+    "type":"group",
+    "mode":"AND",
+    "children":[
+      {
+        "title": "Category",
+        "type": "facet",
+        "operation": "pickList",
+        "valueField": "productCat1",
+        "dependents": [
+          "productCat2",
+          "productCat3"
+        ]
+      },
+      {
+        "title": "Sub Category",
+        "type": "facet",
+        "operation": "pickList",
+        "valueField": "productCat2",
+        "dependsOn": "productCat1",
+        "dependents": [
+          "productCat3"
+        ]
+      },
+      {
+        "title": "Category 3",
+        "type": "facet",
+        "operation": "pickList",
+        "valueField": "productCat3",
+        "dependsOn": "productCat2"
+      }
+    ]
+  }
+]

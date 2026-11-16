@@ -1,0 +1,472 @@
+{
+  "copyright": {
+    "thirdPartyPermissionsProduced": false,
+    "disclosedToPublic": false,
+    "containsIndication": false,
+    "publisherPermissionOrRightsToDistribute": false,
+    "belongsToUsGov": false,
+    "determinationType": "GOV_PERMITTED",
+    "thirdPartyContentCondition": "NOT_SET",
+    "belongsToContractor": false,
+    "disclosedInvention": false,
+    "licenseType": "NO",
+    "submissionId": 20230001230,
+    "containsThirdPartyMaterial": false,
+    "belongsToPublisher": false,
+    "id": "7c180379c870400195592e564a1b0fc1",
+    "belongsToAuthors": false
+  },
+  "subjectCategories": [
+    "Lunar and Planetary Science and Exploration"
+  ],
+  "keywords": [
+    "Mars",
+    "human exploration",
+    "science objectives"
+  ],
+  "exportControl": {
+    "isExportControl": "NO",
+    "submissionId": 20230001230,
+    "ear": "NO",
+    "id": "618cccedbae843af8d8c0a65736de1cf",
+    "itar": "NO"
+  },
+  "distributionDate": "2023-02-14T06:00:00.0000000+00:00",
+  "fundingNumbers": [
+    {
+      "number": "892840.11.05",
+      "submissionId": 20230001230,
+      "id": "8bf6f13ad15f4fd9b8a7ac37844e94dd",
+      "type": "WBS"
+    },
+    {
+      "number": "80JSC022DA035",
+      "submissionId": 20230001230,
+      "id": "b9c5a669deec4e55b8e185be447d54dc",
+      "type": "CONTRACT_GRANT"
+    },
+    {
+      "number": "80NSSC21D0002",
+      "submissionId": 20230001230,
+      "id": "b85f2bdb15a145e18112ad535e191791",
+      "type": "CONTRACT_GRANT"
+    },
+    {
+      "number": "80NM0018D0004P00002",
+      "submissionId": 20230001230,
+      "id": "1e221a3fdd6b46f3bde7116bfe6863ef",
+      "type": "CONTRACT_GRANT"
+    },
+    {
+      "number": "NNJ14ZKA001N",
+      "submissionId": 20230001230,
+      "id": "9af369ede22d46778809498e083409c5",
+      "type": "CONTRACT_GRANT"
+    },
+    {
+      "number": "80KSC017C0012",
+      "submissionId": 20230001230,
+      "id": "a67e79f619d248abb813085fe5e06988",
+      "type": "CONTRACT_GRANT"
+    },
+    {
+      "number": "1511125",
+      "submissionId": 20230001230,
+      "id": "097d4e850d3e4051bb16fe2300ed68c6",
+      "type": "CONTRACT_GRANT"
+    },
+    {
+      "number": "80GSFC19D0011",
+      "submissionId": 20230001230,
+      "id": "51123ced7ced4764a154946b23bf5ce2",
+      "type": "CONTRACT_GRANT"
+    },
+    {
+      "number": "1228404",
+      "submissionId": 20230001230,
+      "id": "537a47687cc342cea85ef7c9ea4859d3",
+      "type": "CONTRACT_GRANT"
+    },
+    {
+      "number": "NNH10CC04C",
+      "submissionId": 20230001230,
+      "id": "20bef9a92b4d400d9ca4c51f2a89de18",
+      "type": "CONTRACT_GRANT"
+    }
+  ],
+  "submittedDate": "2023-01-25T22:21:37.9044310+00:00",
+  "title": "Science Objectives for Human Exploration of Mars Workshop Report",
+  "stiType": "TECHNICAL_MEMORANDUM",
+  "distribution": "PUBLIC",
+  "authorAffiliations": [
+    {
+      "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+      "sequence": 0,
+      "submissionId": 20230001230,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "P B Niles"
+        },
+        "organization": {
+          "name": "Johnson Space Center",
+          "location": "Houston, Texas, United States"
+        }
+      },
+      "id": "6bc652e7869541b687c0df2350642f5c",
+      "userType": "CIVIL",
+      "userId": "ec99094d871e4cc6b47d09621c7a721f"
+    },
+    {
+      "organizationId": "e53641f275f15469a1b19a8980e09171",
+      "sequence": 1,
+      "submissionId": 20230001230,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "D H Needham"
+        },
+        "organization": {
+          "name": "National Aeronautics and Space Administration",
+          "location": "Washington D.C., District of Columbia, United States"
+        }
+      },
+      "id": "74ec2c9e8ffd4b02bc33ee1e15781c84",
+      "userType": "CIVIL",
+      "userId": "2eced55f896b48bcb990f7aff32a460f"
+    },
+    {
+      "organizationId": "99fa64c96f0950678abfcdd84ba26bf5",
+      "sequence": 2,
+      "submissionId": 20230001230,
+      "meta": {
+        "author": {
+          "name": "D P Archer"
+        },
+        "organization": {
+          "name": "Jacobs (United States)",
+          "location": "Dallas, Texas, United States"
+        }
+      },
+      "id": "fc574e835a4641718354a2ce1fafef52",
+      "userType": "OTHER"
+    },
+    {
+      "organizationId": "7f9c4cf9cb6f517db6b0fb40eb584c03",
+      "sequence": 3,
+      "submissionId": 20230001230,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "D J Banfield"
+        },
+        "organization": {
+          "name": "Ames Research Center",
+          "location": "Mountain View, California, United States"
+        }
+      },
+      "id": "a711191286004746975872a2a0873075",
+      "userType": "CIVIL",
+      "userId": "23849cdc95b44c738e095117b6265630"
+    },
+    {
+      "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+      "sequence": 4,
+      "submissionId": 20230001230,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "D W Beaty"
+        },
+        "organization": {
+          "name": "Jet Propulsion Lab",
+          "location": "La Cañada Flintridge, California, United States"
+        }
+      },
+      "id": "fab5558e08fd4ecba7d568f6d79bbf0d",
+      "userType": "CONTRACTOR_GRANTEE",
+      "userId": "df9dff849cfd41aa8d0b13cfa1c1a0f2"
+    },
+    {
+      "organizationId": "99fa64c96f0950678abfcdd84ba26bf5",
+      "sequence": 5,
+      "submissionId": 20230001230,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "M S Bell"
+        },
+        "organization": {
+          "name": "Jacobs (United States)",
+          "location": "Dallas, Texas, United States"
+        }
+      },
+      "id": "677159b361b94358b93870ffa9af9958",
+      "userType": "CONTRACTOR_GRANTEE",
+      "userId": "e3357cfb65474726bfe173963f69c9f0"
+    },
+    {
+      "organizationId": "7354b6f97b02576fb9c66f60d484fa23",
+      "sequence": 6,
+      "submissionId": 20230001230,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "S M Curry"
+        },
+        "organization": {
+          "name": "University of California, Berkeley",
+          "location": "Berkeley, California, United States"
+        }
+      },
+      "id": "824a453661044b52873edef33562d8ba",
+      "userType": "OTHER",
+      "userId": "33b8221467634e28b4bbaf7c3c01e85b"
+    },
+    {
+      "organizationId": "e27a3c6ccb2b54348fb1dc2c6b349332",
+      "sequence": 7,
+      "submissionId": 20230001230,
+      "meta": {
+        "author": {
+          "name": "A Gangidine"
+        },
+        "organization": {
+          "name": "Cranbrook Institute of Science ",
+          "location": "Bloomfield Hills, Michigan, United States"
+        }
+      },
+      "id": "50607fb8bfaa44b0834957815b782a2b",
+      "userType": "OTHER"
+    },
+    {
+      "organizationId": "a8d96efdc14d5993be210f31e1ff538d",
+      "sequence": 8,
+      "submissionId": 20230001230,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "J Hill"
+        },
+        "organization": {
+          "name": "Arizona State University",
+          "location": "Tempe, Arizona, United States"
+        }
+      },
+      "id": "ad7dfd34e5d14912bcc28f52aea643ec",
+      "userType": "CONTRACTOR_GRANTEE",
+      "userId": "37b5fadaebc54978a9325051f4311996"
+    },
+    {
+      "organizationId": "02643c9e9b525162877c70e4c186571b",
+      "sequence": 9,
+      "submissionId": 20230001230,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "S Hoffman"
+        },
+        "organization": {
+          "name": "The Aerospace Corporation",
+          "location": "El Segundo, California, United States"
+        }
+      },
+      "id": "08ee97c96f914634ab228eea1bcd62f9",
+      "userType": "CONTRACTOR_GRANTEE",
+      "userId": "fa4d05d0105c4b25970d2883ff9656db"
+    },
+    {
+      "organizationId": "a8d96efdc14d5993be210f31e1ff538d",
+      "sequence": 10,
+      "submissionId": 20230001230,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "B H Horgan"
+        },
+        "organization": {
+          "name": "Arizona State University",
+          "location": "Tempe, Arizona, United States"
+        }
+      },
+      "id": "f8aed6ab483c466f9276cf41c7628b8f",
+      "userType": "OTHER",
+      "userId": "e1a23f78162d4c148163e3f24d072b7b"
+    },
+    {
+      "organizationId": "ac66e9c1dcfc54a9bf8eefee018bb0e2",
+      "sequence": 11,
+      "submissionId": 20230001230,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "B M Link"
+        },
+        "organization": {
+          "name": "Southeastern Universities Research Association",
+          "location": "Washington D.C., District of Columbia, United States"
+        }
+      },
+      "id": "43bea932f6014a7d953aaf5a13c9f956",
+      "userType": "CONTRACTOR_GRANTEE",
+      "userId": "f9f9e849d7fa49f9a86e359e7547bae5"
+    },
+    {
+      "organizationId": "0be91b7a68665cf882c2ccee8ad03aff",
+      "sequence": 12,
+      "submissionId": 20230001230,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "K Lynch"
+        },
+        "organization": {
+          "name": "Universities Space Research Association",
+          "location": "Columbia, Maryland, United States"
+        }
+      },
+      "id": "f899cae9b43b403a91c4d424d0c78733",
+      "userType": "OTHER",
+      "userId": "ae35f295a75541799187ae8e71b52acb"
+    },
+    {
+      "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+      "sequence": 13,
+      "submissionId": 20230001230,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "L H Matthies"
+        },
+        "organization": {
+          "name": "Jet Propulsion Lab",
+          "location": "La Cañada Flintridge, California, United States"
+        }
+      },
+      "id": "59d81b6d36f34a429e64543408b4a441",
+      "userType": "CONTRACTOR_GRANTEE",
+      "userId": "52a134cf8b3a41b0b01230855aeae5ae"
+    },
+    {
+      "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+      "sequence": 14,
+      "submissionId": 20230001230,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "M A Mischna"
+        },
+        "organization": {
+          "name": "Jet Propulsion Lab",
+          "location": "La Cañada Flintridge, California, United States"
+        }
+      },
+      "id": "71812b8797d34fc2b91efb5aec6cc483",
+      "userType": "CONTRACTOR_GRANTEE",
+      "userId": "33acdcb7644b45829a93d9f4c2465690"
+    },
+    {
+      "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+      "sequence": 15,
+      "submissionId": 20230001230,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "M Rucker"
+        },
+        "organization": {
+          "name": "Johnson Space Center",
+          "location": "Houston, Texas, United States"
+        }
+      },
+      "id": "0a7e81b4feb9482fa4420f88aed23f85",
+      "userType": "CIVIL",
+      "userId": "72674de5a9184bb7be425ac5b78d73a6"
+    },
+    {
+      "sequence": 16,
+      "submissionId": 20230001230,
+      "meta": {
+        "author": {
+          "name": "B Stone"
+        },
+        "organization": {
+          "name": "Stone Aerospace "
+        }
+      },
+      "id": "1471b1de74b7457c9b25f0b0ff76c71e",
+      "userType": "OTHER",
+      "userId": "38d895c9b4fd47cc8b53a6ddac424aa3"
+    }
+  ],
+  "stiTypeDetails": "Technical Memorandum (TM)",
+  "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+  "modified": "2025-08-31T18:39:21.7150190+00:00",
+  "id": 20230001230,
+  "created": "2023-01-25T14:56:55.1089840+00:00",
+  "center": {
+    "code": "HQ",
+    "name": "Headquarters",
+    "id": "f0865a34ba1f474d865ab51f212fc69f"
+  },
+  "onlyAbstract": false,
+  "sensitiveInformation": 2,
+  "abstract": "The Science Objectives for Human Exploration of Mars Workshop was held in Denver, Colorado on May 4–6, 2022. The workshop was co-sponsored by NASA’s Science Mission Directorate and the Exploration Systems Development Mission Directorate to actively engage the planetary science community to determine what planetary science should be done by human crews on the martian surface and how those science objectives can be achieved.\n\nSessions at the Science Objectives for Human Exploration of Mars Workshop were organized around specific planetary science objectives and mission architecture concepts that were identified during the workshop as the highest priority for human exploration. The intent of this workshop was to synthesize a notional, integrated concept of operations for each scenario to aid in planning and refining the mission architecture for the first human mission to Mars. Results from the Planetary Decadal Survey Report were released xx days before the workshop and were briefed to workshop participants who incorporated the findings in the discussions.\n\nWith the Artemis missions, humans will return to the Moon using innovative technologies to explore the lunar surface. We will apply what we learn about exploration architecture, surface infrastructure, and science and exploration operations on and around the Moon to conduct successful missions with the first astronauts to Mars. A human mission to Mars will be a landmark achievement and a golden opportunity to make groundbreaking scientific discoveries on Mars. The potential scope of the science activities and impact of achieving those objectives are extraordinary.",
+  "isLessonsLearned": false,
+  "disseminated": "DOCUMENT_AND_METADATA",
+  "cui": {
+    "isCui": false,
+    "submissionId": 20230001230,
+    "id": "87e93138317646ccb90935a0fe6eab45"
+  },
+  "meetings": [
+    {
+      "country": "US",
+      "submissionId": 20230001230,
+      "endDate": "2022-05-06T05:00:00.0000000+00:00",
+      "sponsors": [
+        {
+          "organizationId": "caba028024835183ac5ceb068aa86384",
+          "meta": {
+            "organization": {
+              "name": "Lunar and Planetary Institute",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "meetingId": "3b69609741ae43c8a5caab6616f336a5",
+          "id": "e5278c9ea112440b9f67c701bbfcaf06"
+        }
+      ],
+      "name": "Science Objectives for Human Exploration Mars Workshop",
+      "location": "Denver, CO",
+      "id": "3b69609741ae43c8a5caab6616f336a5",
+      "url": "https://www.hou.usra.edu/meetings/marsexploration2022/",
+      "startDate": "2022-05-04T05:00:00.0000000+00:00"
+    }
+  ],
+  "status": "CURATED",
+  "publications": [
+    {
+      "submissionId": 20230001230,
+      "id": "880b5534b8f746329beae4896c9e20f3",
+      "publicationDate": "2023-02-03T05:00:00.0000000+00:00"
+    }
+  ],
+  "redistributedDate": "2023-03-31T19:00:53.7129410",
+  "related": [],
+  "downloads": [
+    {
+      "draft": false,
+      "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "name": "Science Objectives for Human Exploration of Mars Workshop Report _ v8.docx",
+      "type": "STI",
+      "links": {
+        "original": "/api/citations/20230001230/downloads/Science%20Objectives%20for%20Human%20Exploration%20of%20Mars%20Workshop%20Report%20_%20v8.docx",
+        "pdf": "/api/citations/20230001230/downloads/Science%20Objectives%20for%20Human%20Exploration%20of%20Mars%20Workshop%20Report%20_%20v8.docx.pdf",
+        "fulltext": "/api/citations/20230001230/downloads/Science%20Objectives%20for%20Human%20Exploration%20of%20Mars%20Workshop%20Report%20_%20v8.docx.txt"
+      }
+    }
+  ],
+  "downloadsAvailable": true,
+  "index": "submissions-2026-10-22-05-25"
+}

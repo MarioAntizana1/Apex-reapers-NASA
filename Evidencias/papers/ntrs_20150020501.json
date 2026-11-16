@@ -1,0 +1,126 @@
+{
+  "copyright": {
+    "thirdPartyPermissionsProduced": false,
+    "disclosedToPublic": false,
+    "containsIndication": false,
+    "publisherPermissionOrRightsToDistribute": false,
+    "belongsToUsGov": false,
+    "determinationType": "PUBLIC_USE_PERMITTED",
+    "thirdPartyContentCondition": "NOT_SET",
+    "belongsToContractor": false,
+    "disclosedInvention": false,
+    "submissionId": 20150020501,
+    "containsThirdPartyMaterial": false,
+    "belongsToPublisher": false,
+    "id": "3814dd81654d4b548dd30a32ad351d54",
+    "belongsToAuthors": false
+  },
+  "subjectCategories": [
+    "Lunar And Planetary Science And Exploration"
+  ],
+  "keywords": [
+    "exploration",
+    "landing site",
+    "Mars"
+  ],
+  "exportControl": {
+    "isExportControl": "NO",
+    "submissionId": 20150020501,
+    "ear": "NO",
+    "id": "98acb4146112479083bed1dffeebb962",
+    "itar": "NO"
+  },
+  "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+  "otherReportNumbers": [
+    "MSFC-E-DAA-TN27043",
+    "Report Number: MSFC-E-DAA-TN27043"
+  ],
+  "title": "The Land of Opportunity: Human Return to Meridiani Planum",
+  "stiType": "CONFERENCE_PAPER",
+  "distribution": "PUBLIC",
+  "submittedDate": "2015-11-03T17:48:43.4330000+00:00",
+  "authorAffiliations": [
+    {
+      "sequence": 0,
+      "submissionId": 20150020501,
+      "meta": {
+        "author": {
+          "name": "Cohen, Barbara A."
+        },
+        "organization": {
+          "name": "NASA Marshall Space Flight Center",
+          "location": "Huntsville, AL United States"
+        }
+      },
+      "id": "53826e1e245f4dfe8051ba07fcee14df"
+    },
+    {
+      "sequence": 1,
+      "submissionId": 20150020501,
+      "meta": {
+        "author": {
+          "name": "Seibert, Michael A."
+        },
+        "organization": {
+          "name": "Jet Propulsion Lab., California Inst. of Tech.",
+          "location": "Pasadena, CA, United States"
+        }
+      },
+      "id": "c8ddb5d06fcc4ffaa864db53f2027243"
+    }
+  ],
+  "stiTypeDetails": "Conference Paper",
+  "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+  "modified": "2025-08-31T18:39:21.7150190+00:00",
+  "id": 20150020501,
+  "legacyMeta": {
+    "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+    "accessionNumber": ""
+  },
+  "created": "2015-11-03T17:48:43.4330000+00:00",
+  "center": {
+    "code": "MSFC",
+    "name": "Marshall Space Flight Center",
+    "id": "a589fc1e68af409f9d2214bb08863d11"
+  },
+  "onlyAbstract": false,
+  "sensitiveInformation": 2,
+  "abstract": "Meridiani Planum is a broad expanse of Martian real estate possessing extremely safe landing characteristics and extensive areas with high trafficability, with compelling science motivations to decipher the climatic and hydrologic evolution of Mars and potential for resource extraction. We propose southwestern Meridiani Planum as a potential landing site for human exploration of Mars. Figure 1 shows our proposed exploration zone (EZ) and several potential science regions of interest (ROIs)",
+  "isLessonsLearned": false,
+  "disseminated": "DOCUMENT_AND_METADATA",
+  "meetings": [
+    {
+      "country": "United States",
+      "submissionId": 20150020501,
+      "endDate": "2015-10-30T00:00:00.0000000+00:00",
+      "name": "First Landing Site/Exploration Zone Workshop for Human Missions to the Surface of Mars",
+      "location": "Houston, TX",
+      "id": "69d342514a814e3ea9e64e79d8ba6e3a",
+      "startDate": "2015-10-27T00:00:00.0000000+00:00"
+    }
+  ],
+  "publications": [
+    {
+      "submissionId": 20150020501,
+      "id": "ca144e9e6b86411bbcf1abd5bbd64bbf",
+      "publicationDate": "2015-10-27T00:00:00.0000000+00:00"
+    }
+  ],
+  "status": "CURATED",
+  "related": [],
+  "downloads": [
+    {
+      "draft": false,
+      "mimetype": "application/pdf",
+      "name": "20150020501.pdf",
+      "type": "STI",
+      "links": {
+        "original": "/api/citations/20150020501/downloads/20150020501.pdf",
+        "pdf": "/api/citations/20150020501/downloads/20150020501.pdf",
+        "fulltext": "/api/citations/20150020501/downloads/20150020501.txt"
+      }
+    }
+  ],
+  "downloadsAvailable": true,
+  "index": "submissions-2026-10-22-05-25"
+}

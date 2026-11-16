@@ -1,0 +1,3301 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 2762,
+    "db_response_time_ms": 58,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Mars mineralogy CRISM hydrated minerals) in the full text",
+      "x_new_oql": "get works with (Mars mineralogy CRISM hydrated minerals) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Mars mineralogy CRISM hydrated minerals",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Mars mineralogy CRISM hydrated minerals&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2904197792",
+      "doi": null,
+      "title": "INTEGRATING CRISM AND TES DATA TO CONSTRAIN THE MODAL MINERALOGY OF HYDRATED MINERAL DEPOSITS ON MARS – A PAN-SPECTRAL APPROACH",
+      "publication_year": 2012,
+      "cited_by_count": 0,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5020527710",
+            "display_name": "Timothy Andrew Goudge",
+            "orcid": "https://orcid.org/0000-0003-4297-9838",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4297-9838"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "T. A. Goudge",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-4297-9838",
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "mag:2904197792",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://gsa.confex.com/gsa/2012AM/webprogram/Paper212909.html",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306497801",
+          "display_name": "2012 GSA Annual Meeting in Charlotte",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "2012 GSA Annual Meeting in Charlotte",
+        "raw_type": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2108201068",
+      "doi": "https://doi.org/10.1038/nature07097",
+      "title": "Hydrated silicate minerals on Mars observed by the Mars Reconnaissance Orbiter CRISM instrument",
+      "publication_year": 2008,
+      "cited_by_count": 793,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5076807081",
+            "display_name": "John F. Mustard",
+            "orcid": "https://orcid.org/0000-0003-2509-0287",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2509-0287"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I27804330",
+              "display_name": "Brown University",
+              "ror": "https://ror.org/05gq02987",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27804330"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "John F. Mustard",
+          "raw_affiliation_strings": [
+            "Department of Geological Sciences, Brown University, Providence, Rhode Island 02912, USA. john_mustard@brown.edu",
+            "Department of Geological Sciences Brown University Providence Rhode Island 02912, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geological Sciences, Brown University, Providence, Rhode Island 02912, USA. john_mustard@brown.edu",
+              "institution_ids": [
+                "https://openalex.org/I27804330"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geological Sciences Brown University Providence Rhode Island 02912, USA",
+              "institution_ids": [
+                "https://openalex.org/I27804330"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060043164",
+            "display_name": "S. L. Murchie",
+            "orcid": "https://orcid.org/0000-0002-1616-8751",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1616-8751"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2802946424",
+              "display_name": "Johns Hopkins University Applied Physics Laboratory",
+              "ror": "https://ror.org/029pp9z10",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I145311948",
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "S. L. Murchie",
+          "raw_affiliation_strings": [
+            "Johns Hopkins University/Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA ,",
+            "Johns Hopkins University Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA#TAB#"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Johns Hopkins University/Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Johns Hopkins University Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA#TAB#",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5043456953",
+            "display_name": "Shannon M. Pelkey",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I27804330",
+              "display_name": "Brown University",
+              "ror": "https://ror.org/05gq02987",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27804330"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "S. M. Pelkey",
+          "raw_affiliation_strings": [
+            "Department of Geological Sciences, Brown University, Providence, Rhode Island 02912, USA,",
+            "Department of Geological Sciences Brown University Providence Rhode Island 02912, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geological Sciences, Brown University, Providence, Rhode Island 02912, USA,",
+              "institution_ids": [
+                "https://openalex.org/I27804330"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geological Sciences Brown University Providence Rhode Island 02912, USA",
+              "institution_ids": [
+                "https://openalex.org/I27804330"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5021455837",
+            "display_name": "Bethany L. Ehlmann",
+            "orcid": "https://orcid.org/0000-0002-2745-3240",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2745-3240"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I27804330",
+              "display_name": "Brown University",
+              "ror": "https://ror.org/05gq02987",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27804330"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "B. L. Ehlmann",
+          "raw_affiliation_strings": [
+            "Department of Geological Sciences, Brown University, Providence, Rhode Island 02912, USA,",
+            "Department of Geological Sciences Brown University Providence Rhode Island 02912, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geological Sciences, Brown University, Providence, Rhode Island 02912, USA,",
+              "institution_ids": [
+                "https://openalex.org/I27804330"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geological Sciences Brown University Providence Rhode Island 02912, USA",
+              "institution_ids": [
+                "https://openalex.org/I27804330"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037837111",
+            "display_name": "R. E. Milliken",
+            "orcid": "https://orcid.org/0000-0003-3240-4918",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3240-4918"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. E. Milliken",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Mail Stop 183-301, 4800 Oak Grove Drive, Pasadena, California 91109, USA ,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Mail Stop 183-301, 4800 Oak Grove Drive, Pasadena, California 91109, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5090629949",
+            "display_name": "J. A. Grant",
+            "orcid": "https://orcid.org/0000-0001-8276-1281",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8276-1281"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I103187081",
+              "display_name": "Smithsonian Institution",
+              "ror": "https://ror.org/01pp8nd67",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I103187081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210126947",
+              "display_name": "National Air and Space Museum",
+              "ror": "https://ror.org/03b0ygs43",
+              "country_code": "US",
+              "type": "archive",
+              "lineage": [
+                "https://openalex.org/I103187081",
+                "https://openalex.org/I4210126947"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. A. Grant",
+          "raw_affiliation_strings": [
+            "Center for Earth and Planetary Studies, National Air and Space Museum, Smithsonian Institution, Independence Avenue at 6th Street SW, Washington, DC 20560, USA ,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Earth and Planetary Studies, National Air and Space Museum, Smithsonian Institution, Independence Avenue at 6th Street SW, Washington, DC 20560, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I103187081",
+                "https://openalex.org/I4210126947"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5109444886",
+            "display_name": "J. P. Bibring",
+            "orcid": "https://orcid.org/0000-0002-9428-2242",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9428-2242"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I102197404",
+              "display_name": "Université Paris-Sud",
+              "ror": "https://ror.org/028rypz17",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I277688954"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210103272",
+              "display_name": "Institut d'Astrophysique Spatiale",
+              "ror": "https://ror.org/014p8mr66",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I4210103272"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J.-P. Bibring",
+          "raw_affiliation_strings": [
+            "Institut d’Astrophysique Spatiale, Université Paris Sud 11, 91405 Orsay, France",
+            "Institut d’Astrophysique Spatiale, Universite Paris Sud 11, 91405 Orsay, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institut d’Astrophysique Spatiale, Université Paris Sud 11, 91405 Orsay, France",
+              "institution_ids": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I4210103272"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institut d’Astrophysique Spatiale, Universite Paris Sud 11, 91405 Orsay, France",
+              "institution_ids": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I4210103272"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5026073604",
+            "display_name": "François Poulet",
+            "orcid": "https://orcid.org/0000-0002-7619-2278",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7619-2278"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I102197404",
+              "display_name": "Université Paris-Sud",
+              "ror": "https://ror.org/028rypz17",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I277688954"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210103272",
+              "display_name": "Institut d'Astrophysique Spatiale",
+              "ror": "https://ror.org/014p8mr66",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I4210103272"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "F. Poulet",
+          "raw_affiliation_strings": [
+            "Institut d’Astrophysique Spatiale, Université Paris Sud 11, 91405 Orsay, France",
+            "Institut d’Astrophysique Spatiale, Universite Paris Sud 11, 91405 Orsay, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institut d’Astrophysique Spatiale, Université Paris Sud 11, 91405 Orsay, France",
+              "institution_ids": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I4210103272"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institut d’Astrophysique Spatiale, Universite Paris Sud 11, 91405 Orsay, France",
+              "institution_ids": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I4210103272"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5058709464",
+            "display_name": "J. L. Bishop",
+            "orcid": "https://orcid.org/0000-0002-6681-9954",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6681-9954"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Bishop",
+          "raw_affiliation_strings": [
+            "National Aeronautics and Space Administration, Ames Research Center, 515 N. Whisman Road, Mountain View, California 94043, USA ,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "National Aeronautics and Space Administration, Ames Research Center, 515 N. Whisman Road, Mountain View, California 94043, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111581154",
+            "display_name": "E. Noe Dobrea",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "E. Noe Dobrea",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Mail Stop 183-301, 4800 Oak Grove Drive, Pasadena, California 91109, USA ,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Mail Stop 183-301, 4800 Oak Grove Drive, Pasadena, California 91109, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110647687",
+            "display_name": "L. H. Roach",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I27804330",
+              "display_name": "Brown University",
+              "ror": "https://ror.org/05gq02987",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27804330"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "L. Roach",
+          "raw_affiliation_strings": [
+            "Department of Geological Sciences, Brown University, Providence, Rhode Island 02912, USA,",
+            "Department of Geological Sciences Brown University Providence Rhode Island 02912, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geological Sciences, Brown University, Providence, Rhode Island 02912, USA,",
+              "institution_ids": [
+                "https://openalex.org/I27804330"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geological Sciences Brown University Providence Rhode Island 02912, USA",
+              "institution_ids": [
+                "https://openalex.org/I27804330"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5050674853",
+            "display_name": "Frank P. Seelos",
+            "orcid": "https://orcid.org/0000-0001-9721-941X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9721-941X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2802946424",
+              "display_name": "Johns Hopkins University Applied Physics Laboratory",
+              "ror": "https://ror.org/029pp9z10",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I145311948",
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "F. Seelos",
+          "raw_affiliation_strings": [
+            "Johns Hopkins University/Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA ,",
+            "Johns Hopkins University Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA#TAB#"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Johns Hopkins University/Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Johns Hopkins University Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA#TAB#",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5101443854",
+            "display_name": "R. E. Arvidson",
+            "orcid": "https://orcid.org/0000-0002-2854-0362",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2854-0362"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I204465549",
+              "display_name": "Washington University in St. Louis",
+              "ror": "https://ror.org/01yc7t268",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I204465549"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. E. Arvidson",
+          "raw_affiliation_strings": [
+            "Department of Earth and Planetary Sciences, Washington University, St Louis, Missouri 63130, USA,",
+            "Department of Earth and Planetary Sciences, Washington University, St Louis, Missouri 63130, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Washington University, St Louis, Missouri 63130, USA,",
+              "institution_ids": [
+                "https://openalex.org/I204465549"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Washington University, St Louis, Missouri 63130, USA",
+              "institution_ids": [
+                "https://openalex.org/I204465549"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112867092",
+            "display_name": "Sandra M. Wiseman",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I204465549",
+              "display_name": "Washington University in St. Louis",
+              "ror": "https://ror.org/01yc7t268",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I204465549"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "S. Wiseman",
+          "raw_affiliation_strings": [
+            "Department of Earth and Planetary Sciences, Washington University, St Louis, Missouri 63130, USA,",
+            "Department of Earth and Planetary Sciences, Washington University, St Louis, Missouri 63130, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Washington University, St Louis, Missouri 63130, USA,",
+              "institution_ids": [
+                "https://openalex.org/I204465549"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Washington University, St Louis, Missouri 63130, USA",
+              "institution_ids": [
+                "https://openalex.org/I204465549"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5088852057",
+            "display_name": "R. Green",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. Green",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Mail Stop 183-301, 4800 Oak Grove Drive, Pasadena, California 91109, USA ,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Mail Stop 183-301, 4800 Oak Grove Drive, Pasadena, California 91109, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5084295578",
+            "display_name": "Christopher D. Hash",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210147722",
+              "display_name": "Applied Coherent Technology (United States)",
+              "ror": "https://ror.org/045g9rz48",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210147722"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "C. Hash",
+          "raw_affiliation_strings": [
+            "Applied Coherent Technology, 112 Elden Street Suite K, Herndon, Virginia 22070, USA ,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Coherent Technology, 112 Elden Street Suite K, Herndon, Virginia 22070, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I4210147722"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5083100004",
+            "display_name": "David Carl Humm",
+            "orcid": "https://orcid.org/0000-0003-1520-261X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1520-261X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2802946424",
+              "display_name": "Johns Hopkins University Applied Physics Laboratory",
+              "ror": "https://ror.org/029pp9z10",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I145311948",
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "D. Humm",
+          "raw_affiliation_strings": [
+            "Johns Hopkins University/Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA ,",
+            "Johns Hopkins University Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA#TAB#"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Johns Hopkins University/Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Johns Hopkins University Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA#TAB#",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5065074391",
+            "display_name": "E. Malaret",
+            "orcid": "https://orcid.org/0000-0003-4266-2785",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4266-2785"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210147722",
+              "display_name": "Applied Coherent Technology (United States)",
+              "ror": "https://ror.org/045g9rz48",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210147722"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "E. Malaret",
+          "raw_affiliation_strings": [
+            "Applied Coherent Technology, 112 Elden Street Suite K, Herndon, Virginia 22070, USA ,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Coherent Technology, 112 Elden Street Suite K, Herndon, Virginia 22070, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I4210147722"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5088471323",
+            "display_name": "James A. McGovern",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2802946424",
+              "display_name": "Johns Hopkins University Applied Physics Laboratory",
+              "ror": "https://ror.org/029pp9z10",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I145311948",
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. A. McGovern",
+          "raw_affiliation_strings": [
+            "Johns Hopkins University/Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA ,",
+            "Johns Hopkins University Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA#TAB#"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Johns Hopkins University/Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Johns Hopkins University Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA#TAB#",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5032186906",
+            "display_name": "Kimberley D. Seelos",
+            "orcid": "https://orcid.org/0000-0001-7236-0580",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7236-0580"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2802946424",
+              "display_name": "Johns Hopkins University Applied Physics Laboratory",
+              "ror": "https://ror.org/029pp9z10",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I145311948",
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "K. Seelos",
+          "raw_affiliation_strings": [
+            "Johns Hopkins University/Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA ,",
+            "Johns Hopkins University Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA#TAB#"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Johns Hopkins University/Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Johns Hopkins University Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA#TAB#",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5034640757",
+            "display_name": "T. Clancy",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1298453700",
+              "display_name": "Space Science Institute",
+              "ror": "https://ror.org/046a9q865",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I1298453700"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "T. Clancy",
+          "raw_affiliation_strings": [
+            "Space Science Institute, 4750 Walnut Street, Suite 205, Boulder, Colorado 80301, USA ,",
+            "Space Science Institute, 4750 Walnut Street, Suite 205, Boulder, Colorado 80301 USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Space Science Institute, 4750 Walnut Street, Suite 205, Boulder, Colorado 80301, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I1298453700"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Space Science Institute, 4750 Walnut Street, Suite 205, Boulder, Colorado 80301 USA",
+              "institution_ids": [
+                "https://openalex.org/I1298453700"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072547069",
+            "display_name": "R. N. Clark",
+            "orcid": "https://orcid.org/0000-0002-7021-1220",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7021-1220",
+              "https://orcid.org/0000-0003-4167-6317"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2800772125",
+              "display_name": "Denver Federal Center",
+              "ror": "https://ror.org/05pxjag90",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1280600231",
+                "https://openalex.org/I2800772125"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. Clark",
+          "raw_affiliation_strings": [
+            "US Geological Survey, MS 964 Box 25046, Denver Federal Center, Denver, Colorado 80225, USA ,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "US Geological Survey, MS 964 Box 25046, Denver Federal Center, Denver, Colorado 80225, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I2800772125"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "D. D. Marais",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "D. D. Marais",
+          "raw_affiliation_strings": [
+            "National Aeronautics and Space Administration, Ames Research Center, 515 N. Whisman Road, Mountain View, California 94043, USA ,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "National Aeronautics and Space Administration, Ames Research Center, 515 N. Whisman Road, Mountain View, California 94043, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008179385",
+            "display_name": "N. R. Izenberg",
+            "orcid": "https://orcid.org/0000-0003-1629-6478",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1629-6478"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2802946424",
+              "display_name": "Johns Hopkins University Applied Physics Laboratory",
+              "ror": "https://ror.org/029pp9z10",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I145311948",
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "N. Izenberg",
+          "raw_affiliation_strings": [
+            "Johns Hopkins University/Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA ,",
+            "Johns Hopkins University Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA#TAB#"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Johns Hopkins University/Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Johns Hopkins University Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA#TAB#",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036157466",
+            "display_name": "Amy T. Knudson",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I204465549",
+              "display_name": "Washington University in St. Louis",
+              "ror": "https://ror.org/01yc7t268",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I204465549"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A. Knudson",
+          "raw_affiliation_strings": [
+            "Department of Earth and Planetary Sciences, Washington University, St Louis, Missouri 63130, USA,",
+            "Department of Earth and Planetary Sciences, Washington University, St Louis, Missouri 63130, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Washington University, St Louis, Missouri 63130, USA,",
+              "institution_ids": [
+                "https://openalex.org/I204465549"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Washington University, St Louis, Missouri 63130, USA",
+              "institution_ids": [
+                "https://openalex.org/I204465549"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5083911823",
+            "display_name": "Y. Langevin",
+            "orcid": "https://orcid.org/0000-0002-4492-215X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4492-215X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I102197404",
+              "display_name": "Université Paris-Sud",
+              "ror": "https://ror.org/028rypz17",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I277688954"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210103272",
+              "display_name": "Institut d'Astrophysique Spatiale",
+              "ror": "https://ror.org/014p8mr66",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I4210103272"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Y. Langevin",
+          "raw_affiliation_strings": [
+            "Institut d’Astrophysique Spatiale, Université Paris Sud 11, 91405 Orsay, France",
+            "Institut d’Astrophysique Spatiale, Universite Paris Sud 11, 91405 Orsay, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institut d’Astrophysique Spatiale, Université Paris Sud 11, 91405 Orsay, France",
+              "institution_ids": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I4210103272"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institut d’Astrophysique Spatiale, Universite Paris Sud 11, 91405 Orsay, France",
+              "institution_ids": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I4210103272"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5021125438",
+            "display_name": "Terry Z. Martin",
+            "orcid": "https://orcid.org/0000-0002-2036-1554",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2036-1554"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "T. Martin",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Mail Stop 183-301, 4800 Oak Grove Drive, Pasadena, California 91109, USA ,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Mail Stop 183-301, 4800 Oak Grove Drive, Pasadena, California 91109, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039808333",
+            "display_name": "Patrick Charles McGuire",
+            "orcid": "https://orcid.org/0000-0001-6592-4966",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6592-4966"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I204465549",
+              "display_name": "Washington University in St. Louis",
+              "ror": "https://ror.org/01yc7t268",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I204465549"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "P. McGuire",
+          "raw_affiliation_strings": [
+            "Department of Earth and Planetary Sciences, Washington University, St Louis, Missouri 63130, USA,",
+            "Department of Earth and Planetary Sciences, Washington University, St Louis, Missouri 63130, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Washington University, St Louis, Missouri 63130, USA,",
+              "institution_ids": [
+                "https://openalex.org/I204465549"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Washington University, St Louis, Missouri 63130, USA",
+              "institution_ids": [
+                "https://openalex.org/I204465549"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086253195",
+            "display_name": "R. V. Morris",
+            "orcid": "https://orcid.org/0000-0003-1413-4002",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1413-4002"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. Morris",
+          "raw_affiliation_strings": [
+            "ARES Code KR, National Aeronautics and Space Administration, Johnson Space Center, 2101 NASA Parkway, Houston, Texas 77058, USA ,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "ARES Code KR, National Aeronautics and Space Administration, Johnson Space Center, 2101 NASA Parkway, Houston, Texas 77058, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061477471",
+            "display_name": "Mark Southwick Robinson",
+            "orcid": "https://orcid.org/0000-0001-9964-2932",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9964-2932"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. Robinson",
+          "raw_affiliation_strings": [
+            "School of Earth and Space Exploration. Box 871404, Arizona State University, Tempe, Arizona 85287-1404, USA ,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Space Exploration. Box 871404, Arizona State University, Tempe, Arizona 85287-1404, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5047876874",
+            "display_name": "T. L. Roush",
+            "orcid": "https://orcid.org/0000-0003-1450-5299",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1450-5299"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "T. Roush",
+          "raw_affiliation_strings": [
+            "National Aeronautics and Space Administration, Ames Research Center, 515 N. Whisman Road, Mountain View, California 94043, USA ,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "National Aeronautics and Space Administration, Ames Research Center, 515 N. Whisman Road, Mountain View, California 94043, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5071611181",
+            "display_name": "Michael D. Smith",
+            "orcid": "https://orcid.org/0000-0002-7601-1158",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7601-1158"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1306266525",
+              "display_name": "Goddard Space Flight Center",
+              "ror": "https://ror.org/0171mag52",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1306266525",
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. Smith",
+          "raw_affiliation_strings": [
+            "National Aeronautics and Space Administration, Goddard Space Flight Center, Code 693.0, Greenbelt, Maryland 20771, USA ,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "National Aeronautics and Space Administration, Goddard Space Flight Center, Code 693.0, Greenbelt, Maryland 20771, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I1306266525",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5053599981",
+            "display_name": "Gregg A. Swayze",
+            "orcid": "https://orcid.org/0000-0002-1814-7823",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1814-7823"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1298453700",
+              "display_name": "Space Science Institute",
+              "ror": "https://ror.org/046a9q865",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I1298453700"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "G. Swayze",
+          "raw_affiliation_strings": [
+            "Space Science Institute, 4750 Walnut Street, Suite 205, Boulder, Colorado 80301, USA ,",
+            "Space Science Institute, 4750 Walnut Street, Suite 205, Boulder, Colorado 80301 USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Space Science Institute, 4750 Walnut Street, Suite 205, Boulder, Colorado 80301, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I1298453700"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Space Science Institute, 4750 Walnut Street, Suite 205, Boulder, Colorado 80301 USA",
+              "institution_ids": [
+                "https://openalex.org/I1298453700"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111919216",
+            "display_name": "Howard W. Taylor",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2802946424",
+              "display_name": "Johns Hopkins University Applied Physics Laboratory",
+              "ror": "https://ror.org/029pp9z10",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I145311948",
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "H. Taylor",
+          "raw_affiliation_strings": [
+            "Johns Hopkins University/Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA ,",
+            "Johns Hopkins University Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA#TAB#"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Johns Hopkins University/Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Johns Hopkins University Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, Maryland 20723, USA#TAB#",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040317324",
+            "display_name": "Timothy N. Titus",
+            "orcid": "https://orcid.org/0000-0003-0700-4875",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0700-4875"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "T. Titus",
+          "raw_affiliation_strings": [
+            "US Geological Survey, 2255 N. Gemini Drive, Flagstaff, Arizona, 86001, USA ,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "US Geological Survey, 2255 N. Gemini Drive, Flagstaff, Arizona, 86001, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5050376527",
+            "display_name": "M. J. Wolff",
+            "orcid": "https://orcid.org/0000-0002-1127-8329",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1127-8329"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1298453700",
+              "display_name": "Space Science Institute",
+              "ror": "https://ror.org/046a9q865",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I1298453700"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. Wolff",
+          "raw_affiliation_strings": [
+            "Space Science Institute, 4750 Walnut Street, Suite 205, Boulder, Colorado 80301, USA ,",
+            "Space Science Institute, 4750 Walnut Street, Suite 205, Boulder, Colorado 80301 USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Space Science Institute, 4750 Walnut Street, Suite 205, Boulder, Colorado 80301, USA ,",
+              "institution_ids": [
+                "https://openalex.org/I1298453700"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Space Science Institute, 4750 Walnut Street, Suite 205, Boulder, Colorado 80301 USA",
+              "institution_ids": [
+                "https://openalex.org/I1298453700"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1038/nature07097",
+        "doi": "https://doi.org/10.1038/nature07097",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1038/nature07097",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S137773608",
+          "display_name": "Nature",
+          "issn_l": "0028-0836",
+          "issn": [
+            "0028-0836",
+            "1476-4687"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-a",
+            "doyens",
+            "erih-plus",
+            "jufo-3",
+            "ki-jl-3",
+            "medline",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Nature",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2125610349",
+      "doi": "https://doi.org/10.1029/2009je003339",
+      "title": "Identification of hydrated silicate minerals on Mars using MRO‐CRISM: Geologic context near Nili Fossae and implications for aqueous alteration",
+      "publication_year": 2009,
+      "cited_by_count": 705,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5021455837",
+            "display_name": "Bethany L. Ehlmann",
+            "orcid": "https://orcid.org/0000-0002-2745-3240",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2745-3240"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I27804330",
+              "display_name": "Brown University",
+              "ror": "https://ror.org/05gq02987",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27804330"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bethany L. Ehlmann",
+          "raw_affiliation_strings": [
+            "Department of Geological Sciences Brown University  Providence Rhode Island USA",
+            "Department of Geological Sciences Brown University Providence, Rhode Island USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geological Sciences Brown University  Providence Rhode Island USA",
+              "institution_ids": [
+                "https://openalex.org/I27804330"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geological Sciences Brown University Providence, Rhode Island USA",
+              "institution_ids": [
+                "https://openalex.org/I27804330"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5076807081",
+            "display_name": "John F. Mustard",
+            "orcid": "https://orcid.org/0000-0003-2509-0287",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2509-0287"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I27804330",
+              "display_name": "Brown University",
+              "ror": "https://ror.org/05gq02987",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27804330"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "John F. Mustard",
+          "raw_affiliation_strings": [
+            "Department of Geological Sciences Brown University  Providence Rhode Island USA",
+            "Department of Geological Sciences Brown University Providence, Rhode Island USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geological Sciences Brown University  Providence Rhode Island USA",
+              "institution_ids": [
+                "https://openalex.org/I27804330"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geological Sciences Brown University Providence, Rhode Island USA",
+              "institution_ids": [
+                "https://openalex.org/I27804330"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5053599981",
+            "display_name": "Gregg A. Swayze",
+            "orcid": "https://orcid.org/0000-0002-1814-7823",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1814-7823"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gregg A. Swayze",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey  Denver Colorado USA",
+            "U.S. Geological Survey, Denver, Colorado, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey  Denver Colorado USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            },
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, Denver, Colorado, USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072547069",
+            "display_name": "R. N. Clark",
+            "orcid": "https://orcid.org/0000-0002-7021-1220",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7021-1220",
+              "https://orcid.org/0000-0003-4167-6317"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Roger N. Clark",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey  Denver Colorado USA",
+            "U.S. Geological Survey, Denver, Colorado, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey  Denver Colorado USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            },
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, Denver, Colorado, USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5058709464",
+            "display_name": "J. L. Bishop",
+            "orcid": "https://orcid.org/0000-0002-6681-9954",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6681-9954"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I872623138",
+              "display_name": "Search for Extraterrestrial Intelligence",
+              "ror": "https://ror.org/02dxgk712",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I872623138"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Janice L. Bishop",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center  Mountain View California USA",
+            "SETI Institute  Mountain View California USA",
+            "NASA Ames Research Center Mountain View California USA",
+            "SETI Institute Mountain View California USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center  Mountain View California USA",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            },
+            {
+              "raw_affiliation_string": "SETI Institute  Mountain View California USA",
+              "institution_ids": [
+                "https://openalex.org/I872623138"
+              ]
+            },
+            {
+              "raw_affiliation_string": "NASA Ames Research Center Mountain View California USA",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            },
+            {
+              "raw_affiliation_string": "SETI Institute Mountain View California USA",
+              "institution_ids": [
+                "https://openalex.org/I872623138"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5026073604",
+            "display_name": "François Poulet",
+            "orcid": "https://orcid.org/0000-0002-7619-2278",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7619-2278"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I102197404",
+              "display_name": "Université Paris-Sud",
+              "ror": "https://ror.org/028rypz17",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I277688954"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210103272",
+              "display_name": "Institut d'Astrophysique Spatiale",
+              "ror": "https://ror.org/014p8mr66",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I4210103272"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Francois Poulet",
+          "raw_affiliation_strings": [
+            "Institut d'Astrophysique Spatiale Université Paris Sud, CNRS  Orsay France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institut d'Astrophysique Spatiale Université Paris Sud, CNRS  Orsay France",
+              "institution_ids": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210103272"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5003896741",
+            "display_name": "David J. Des Marais",
+            "orcid": "https://orcid.org/0000-0002-6827-5831",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6827-5831"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "David J. Des Marais",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center  Mountain View California USA",
+            "NASA AMES Research Center Mountain View California USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center  Mountain View California USA",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            },
+            {
+              "raw_affiliation_string": "NASA AMES Research Center Mountain View California USA",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110647687",
+            "display_name": "L. H. Roach",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I27804330",
+              "display_name": "Brown University",
+              "ror": "https://ror.org/05gq02987",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27804330"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Leah H. Roach",
+          "raw_affiliation_strings": [
+            "Department of Geological Sciences Brown University  Providence Rhode Island USA",
+            "Department of Geological Sciences Brown University Providence, Rhode Island USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geological Sciences Brown University  Providence Rhode Island USA",
+              "institution_ids": [
+                "https://openalex.org/I27804330"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geological Sciences Brown University Providence, Rhode Island USA",
+              "institution_ids": [
+                "https://openalex.org/I27804330"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037837111",
+            "display_name": "R. E. Milliken",
+            "orcid": "https://orcid.org/0000-0003-3240-4918",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3240-4918"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ralph E. Milliken",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory California Institute of Technology  Pasadena California USA",
+            "Jet Propulsion Laboratory California Institute of Technology Pasadena California USA,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory California Institute of Technology  Pasadena California USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory California Institute of Technology Pasadena California USA,",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5033860799",
+            "display_name": "James J. Wray",
+            "orcid": "https://orcid.org/0000-0001-5559-2179",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5559-2179"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I205783295",
+              "display_name": "Cornell University",
+              "ror": "https://ror.org/05bnh6r87",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I205783295"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "James J. Wray",
+          "raw_affiliation_strings": [
+            "Department of Astronomy Cornell University  Ithaca New York USA",
+            "Department of Astronomy Cornell University Ithaca New York USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Astronomy Cornell University  Ithaca New York USA",
+              "institution_ids": [
+                "https://openalex.org/I205783295"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Astronomy Cornell University Ithaca New York USA",
+              "institution_ids": [
+                "https://openalex.org/I205783295"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5022581529",
+            "display_name": "O. S. Barnouin",
+            "orcid": "https://orcid.org/0000-0002-3578-7750",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3578-7750"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I145311948",
+              "display_name": "Johns Hopkins University",
+              "ror": "https://ror.org/00za53h95",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I145311948"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2802946424",
+              "display_name": "Johns Hopkins University Applied Physics Laboratory",
+              "ror": "https://ror.org/029pp9z10",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I145311948",
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Olivier Barnouin‐Jha",
+          "raw_affiliation_strings": [
+            "Johns Hopkins University Applied Physics Laboratory  Laurel Maryland USA",
+            "Johns Hopkins University, Applied Physics Laboratory,Laurel,Maryland,USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Johns Hopkins University Applied Physics Laboratory  Laurel Maryland USA",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Johns Hopkins University, Applied Physics Laboratory,Laurel,Maryland,USA",
+              "institution_ids": [
+                "https://openalex.org/I145311948",
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5060043164",
+            "display_name": "S. L. Murchie",
+            "orcid": "https://orcid.org/0000-0002-1616-8751",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1616-8751"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I145311948",
+              "display_name": "Johns Hopkins University",
+              "ror": "https://ror.org/00za53h95",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I145311948"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2802946424",
+              "display_name": "Johns Hopkins University Applied Physics Laboratory",
+              "ror": "https://ror.org/029pp9z10",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I145311948",
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Scott L. Murchie",
+          "raw_affiliation_strings": [
+            "Johns Hopkins University Applied Physics Laboratory  Laurel Maryland USA",
+            "Johns Hopkins University, Applied Physics Laboratory,Laurel,Maryland,USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Johns Hopkins University Applied Physics Laboratory  Laurel Maryland USA",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Johns Hopkins University, Applied Physics Laboratory,Laurel,Maryland,USA",
+              "institution_ids": [
+                "https://openalex.org/I145311948",
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1029/2009je003339",
+        "doi": "https://doi.org/10.1029/2009je003339",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1029/2009je003339",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2009JE003339",
+        "source": {
+          "id": "https://openalex.org/S207178839",
+          "display_name": "Journal of Geophysical Research Atmospheres",
+          "issn_l": "0148-0227",
+          "issn": [
+            "0148-0227",
+            "2156-2202",
+            "2169-897X",
+            "2169-8996"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-2",
+            "ki-jl-1",
+            "norway-2",
+            "poland-100",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315809",
+          "host_organization_name": "American Geophysical Union",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315809"
+          ],
+          "host_organization_lineage_names": [
+            "American Geophysical Union"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Geophysical Research: Planets",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2009JE003339",
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2556530420",
+      "doi": "https://doi.org/10.1109/piers.2016.7735746",
+      "title": "Geological characteristics of hydrated minerals on Mars from MRO CRISM images",
+      "publication_year": 2016,
+      "cited_by_count": 1,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5042220143",
+            "display_name": "Yi Yang",
+            "orcid": "https://orcid.org/0000-0003-1996-5446",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1996-5446"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799714274",
+              "display_name": "Shanghai Astronomical Observatory",
+              "ror": "https://ror.org/003n8re58",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I2799714274"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210165038",
+              "display_name": "University of Chinese Academy of Sciences",
+              "ror": "https://ror.org/05qbk4x57",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210165038"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yi Yang",
+          "raw_affiliation_strings": [
+            "Shanghai Astronomical Observatory, Chinese Academy of Science, Shanghai, China",
+            "University of Chinese Academy of Sciences, Beijing, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Shanghai Astronomical Observatory, Chinese Academy of Science, Shanghai, China",
+              "institution_ids": [
+                "https://openalex.org/I2799714274"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Chinese Academy of Sciences, Beijing, China",
+              "institution_ids": [
+                "https://openalex.org/I4210165038"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5052926185",
+            "display_name": "Shuanggen Jin",
+            "orcid": "https://orcid.org/0000-0002-5108-4828",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5108-4828"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799714274",
+              "display_name": "Shanghai Astronomical Observatory",
+              "ror": "https://ror.org/003n8re58",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I2799714274"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Shuanggen Jin",
+          "raw_affiliation_strings": [
+            "Shanghai Astronomical Observatory, Chinese Academy of Science, Shanghai, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Shanghai Astronomical Observatory, Chinese Academy of Science, Shanghai, China",
+              "institution_ids": [
+                "https://openalex.org/I2799714274"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1109/piers.2016.7735746",
+        "doi": "https://doi.org/10.1109/piers.2016.7735746",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/piers.2016.7735746",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306420753",
+          "display_name": "Progress in Electromagnetic Research Symposium",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2016 Progress in Electromagnetic Research Symposium (PIERS)",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2901361874",
+      "doi": "https://doi.org/10.1016/j.pss.2018.11.005",
+      "title": "A methodology for quantitative analysis of hydrated minerals on Mars with large endmember library using CRISM near-infrared data",
+      "publication_year": 2018,
+      "cited_by_count": 16,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5025579103",
+            "display_name": "Honglei Lin",
+            "orcid": "https://orcid.org/0000-0002-9945-5050",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9945-5050"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19820366",
+              "display_name": "Chinese Academy of Sciences",
+              "ror": "https://ror.org/034t30j35",
+              "country_code": "CN",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I19820366"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I27804330",
+              "display_name": "Brown University",
+              "ror": "https://ror.org/05gq02987",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27804330"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210128053",
+              "display_name": "Institute of Remote Sensing and Digital Earth",
+              "ror": "https://ror.org/02cjszf03",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210128053"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210165038",
+              "display_name": "University of Chinese Academy of Sciences",
+              "ror": "https://ror.org/05qbk4x57",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210165038"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Honglei Lin",
+          "raw_affiliation_strings": [
+            "Department of Geological Sciences, Brown University, Providence, RI, 02912, USA",
+            "Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, 100101, China",
+            "University of Chinese Academy of Sciences, Beijing, 100049, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geological Sciences, Brown University, Providence, RI, 02912, USA",
+              "institution_ids": [
+                "https://openalex.org/I27804330"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, 100101, China",
+              "institution_ids": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210128053"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Chinese Academy of Sciences, Beijing, 100049, China",
+              "institution_ids": [
+                "https://openalex.org/I4210165038"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5076807081",
+            "display_name": "John F. Mustard",
+            "orcid": "https://orcid.org/0000-0003-2509-0287",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2509-0287"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I27804330",
+              "display_name": "Brown University",
+              "ror": "https://ror.org/05gq02987",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27804330"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "John F. Mustard",
+          "raw_affiliation_strings": [
+            "Department of Geological Sciences, Brown University, Providence, RI, 02912, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geological Sciences, Brown University, Providence, RI, 02912, USA",
+              "institution_ids": [
+                "https://openalex.org/I27804330"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5101588866",
+            "display_name": "Xia Zhang",
+            "orcid": "https://orcid.org/0000-0002-4313-600X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4313-600X",
+              "https://orcid.org/0009-0006-0153-3839"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19820366",
+              "display_name": "Chinese Academy of Sciences",
+              "ror": "https://ror.org/034t30j35",
+              "country_code": "CN",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I19820366"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210128053",
+              "display_name": "Institute of Remote Sensing and Digital Earth",
+              "ror": "https://ror.org/02cjszf03",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210128053"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Xia Zhang",
+          "raw_affiliation_strings": [
+            "Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, 100101, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, 100101, China",
+              "institution_ids": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210128053"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1016/j.pss.2018.11.005",
+        "doi": "https://doi.org/10.1016/j.pss.2018.11.005",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.pss.2018.11.005",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S105500771",
+          "display_name": "Planetary and Space Science",
+          "issn_l": "0032-0633",
+          "issn": [
+            "0032-0633",
+            "1873-5088"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-2"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Planetary and Space Science",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2015091271",
+      "doi": "https://doi.org/10.1016/j.pss.2012.11.007",
+      "title": "Automated processing of planetary hyperspectral datasets for the extraction of weak mineral signatures and applications to CRISM observations of hydrated silicates on Mars",
+      "publication_year": 2012,
+      "cited_by_count": 66,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5101497492",
+            "display_name": "John Carter",
+            "orcid": "https://orcid.org/0000-0002-2698-6926",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2698-6926"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I102197404",
+              "display_name": "Université Paris-Sud",
+              "ror": "https://ror.org/028rypz17",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I277688954"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210103272",
+              "display_name": "Institut d'Astrophysique Spatiale",
+              "ror": "https://ror.org/014p8mr66",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I4210103272"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129531",
+              "display_name": "European Southern Observatory",
+              "ror": "https://ror.org/0377t1328",
+              "country_code": "CL",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210129531"
+              ]
+            }
+          ],
+          "countries": [
+            "CL",
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "J. Carter",
+          "raw_affiliation_strings": [
+            "European Southern Observatory, Vitacura, Santiago, Chile",
+            "Institut d'Astrophysique Spatiale, Bat 121, Universite Paris-Sud, Orsay, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "European Southern Observatory, Vitacura, Santiago, Chile",
+              "institution_ids": [
+                "https://openalex.org/I4210129531"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institut d'Astrophysique Spatiale, Bat 121, Universite Paris-Sud, Orsay, France",
+              "institution_ids": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I4210103272"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5026073604",
+            "display_name": "François Poulet",
+            "orcid": "https://orcid.org/0000-0002-7619-2278",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7619-2278"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I102197404",
+              "display_name": "Université Paris-Sud",
+              "ror": "https://ror.org/028rypz17",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I277688954"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210103272",
+              "display_name": "Institut d'Astrophysique Spatiale",
+              "ror": "https://ror.org/014p8mr66",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I4210103272"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "F. Poulet",
+          "raw_affiliation_strings": [
+            "Institut d'Astrophysique Spatiale, Bat 121, Universite Paris-Sud, Orsay, France",
+            "Institut d’Astrophysique Spatiale, Bat 121, Universite Paris-Sud, Orsay, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institut d'Astrophysique Spatiale, Bat 121, Universite Paris-Sud, Orsay, France",
+              "institution_ids": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I4210103272"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institut d’Astrophysique Spatiale, Bat 121, Universite Paris-Sud, Orsay, France",
+              "institution_ids": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I4210103272"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060043164",
+            "display_name": "S. L. Murchie",
+            "orcid": "https://orcid.org/0000-0002-1616-8751",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1616-8751"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2802946424",
+              "display_name": "Johns Hopkins University Applied Physics Laboratory",
+              "ror": "https://ror.org/029pp9z10",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I145311948",
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "S. Murchie",
+          "raw_affiliation_strings": [
+            "Applied Physics Laboratory, Laurel, MD 20723, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Physics Laboratory, Laurel, MD 20723, USA",
+              "institution_ids": [
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5109444886",
+            "display_name": "J. P. Bibring",
+            "orcid": "https://orcid.org/0000-0002-9428-2242",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9428-2242"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I102197404",
+              "display_name": "Université Paris-Sud",
+              "ror": "https://ror.org/028rypz17",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I277688954"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210103272",
+              "display_name": "Institut d'Astrophysique Spatiale",
+              "ror": "https://ror.org/014p8mr66",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I4210103272"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J.P. Bibring",
+          "raw_affiliation_strings": [
+            "Institut d'Astrophysique Spatiale, Bat 121, Universite Paris-Sud, Orsay, France",
+            "Institut d’Astrophysique Spatiale, Bat 121, Universite Paris-Sud, Orsay, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institut d'Astrophysique Spatiale, Bat 121, Universite Paris-Sud, Orsay, France",
+              "institution_ids": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I4210103272"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institut d’Astrophysique Spatiale, Bat 121, Universite Paris-Sud, Orsay, France",
+              "institution_ids": [
+                "https://openalex.org/I102197404",
+                "https://openalex.org/I4210103272"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1016/j.pss.2012.11.007",
+        "doi": "https://doi.org/10.1016/j.pss.2012.11.007",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.pss.2012.11.007",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S105500771",
+          "display_name": "Planetary and Space Science",
+          "issn_l": "0032-0633",
+          "issn": [
+            "0032-0633",
+            "1873-5088"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-2"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Planetary and Space Science",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    }
+  ],
+  "group_by": []
+}

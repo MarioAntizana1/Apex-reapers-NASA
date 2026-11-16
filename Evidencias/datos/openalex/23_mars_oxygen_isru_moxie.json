@@ -1,0 +1,3667 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 294,
+    "db_response_time_ms": 47,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Mars oxygen ISRU MOXIE) in the full text",
+      "x_new_oql": "get works with (Mars oxygen ISRU MOXIE) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Mars oxygen ISRU MOXIE",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Mars oxygen ISRU MOXIE&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W3118846047",
+      "doi": "https://doi.org/10.1007/s11214-020-00782-8",
+      "title": "Mars Oxygen ISRU Experiment (MOXIE)",
+      "publication_year": 2021,
+      "cited_by_count": 142,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5062418613",
+            "display_name": "M. H. Hecht",
+            "orcid": "https://orcid.org/0000-0002-4114-4583",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4114-4583",
+              "https://orcid.org/0000-0002-5538-9813",
+              "https://orcid.org/0000-0001-9214-8253"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. Hecht",
+          "raw_affiliation_strings": [
+            "MIT Haystack Observatory, Westford, MA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Haystack Observatory, Westford, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112087433",
+            "display_name": "Jeffrey A. Hoffman",
+            "orcid": "https://orcid.org/0000-0002-7543-6920",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7543-6920"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "J. Hoffman",
+          "raw_affiliation_strings": [
+            "MIT Department of Aeronautics and Astronautics, Cambridge, MA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Department of Aeronautics and Astronautics, Cambridge, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020038381",
+            "display_name": "Donald Rapp",
+            "orcid": "https://orcid.org/0000-0003-4418-4924",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4418-4924"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "D. Rapp",
+          "raw_affiliation_strings": [
+            "South Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "South Pasadena, CA, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074233360",
+            "display_name": "John B. McClean",
+            "orcid": "https://orcid.org/0000-0002-7863-0120",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7863-0120"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. McClean",
+          "raw_affiliation_strings": [
+            "MIT Haystack Observatory, Westford, MA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Haystack Observatory, Westford, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5033340660",
+            "display_name": "J. SooHoo Whittier",
+            "orcid": "https://orcid.org/0000-0003-1938-0720",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1938-0720"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. SooHoo",
+          "raw_affiliation_strings": [
+            "MIT Haystack Observatory, Westford, MA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Haystack Observatory, Westford, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5091227359",
+            "display_name": "Robert Schaefer",
+            "orcid": "https://orcid.org/0000-0001-6191-1842",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6191-1842"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. Schaefer",
+          "raw_affiliation_strings": [
+            "MIT Haystack Observatory, Westford, MA, USA",
+            "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Haystack Observatory, Westford, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            },
+            {
+              "raw_affiliation_string": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061323345",
+            "display_name": "Asad M. Aboobaker",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A. Aboobaker",
+          "raw_affiliation_strings": [
+            "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110271264",
+            "display_name": "J. Mellstrom",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Mellstrom",
+          "raw_affiliation_strings": [
+            "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008462935",
+            "display_name": "Joseph Hartvigsen",
+            "orcid": "https://orcid.org/0000-0003-2641-0238",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2641-0238"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "J. Hartvigsen",
+          "raw_affiliation_strings": [
+            "OxEon Energy, Salt Lake City, UT, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "OxEon Energy, Salt Lake City, UT, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054602792",
+            "display_name": "Forrest E. Meyen",
+            "orcid": "https://orcid.org/0000-0002-0140-6411",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0140-6411"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1343143571",
+              "display_name": "Draper Laboratory",
+              "ror": "https://ror.org/04378d909",
+              "country_code": "US",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1343143571"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "F. Meyen",
+          "raw_affiliation_strings": [
+            "Draper, Cambridge, MA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Draper, Cambridge, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1343143571"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052220482",
+            "display_name": "Eric D. Hinterman",
+            "orcid": "https://orcid.org/0000-0002-9398-7697",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9398-7697"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "E. Hinterman",
+          "raw_affiliation_strings": [
+            "MIT Department of Aeronautics and Astronautics, Cambridge, MA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Department of Aeronautics and Astronautics, Cambridge, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5078104655",
+            "display_name": "Gerald E. Voecks",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "G. Voecks",
+          "raw_affiliation_strings": [
+            "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100673521",
+            "display_name": "Andrew M. Liu",
+            "orcid": "https://orcid.org/0000-0001-9184-6527",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9184-6527"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A. Liu",
+          "raw_affiliation_strings": [
+            "MIT Department of Aeronautics and Astronautics, Cambridge, MA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Department of Aeronautics and Astronautics, Cambridge, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5006735971",
+            "display_name": "Maya Nasr",
+            "orcid": "https://orcid.org/0000-0003-0290-3871",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0290-3871"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. Nasr",
+          "raw_affiliation_strings": [
+            "MIT Department of Aeronautics and Astronautics, Cambridge, MA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Department of Aeronautics and Astronautics, Cambridge, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "J. Lewis",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Lewis",
+          "raw_affiliation_strings": [
+            "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5103285047",
+            "display_name": "J. Johnson",
+            "orcid": "https://orcid.org/0009-0008-5051-3994",
+            "observed_orcids": [
+              "https://orcid.org/0009-0008-5051-3994"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Johnson",
+          "raw_affiliation_strings": [
+            "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052480937",
+            "display_name": "Carl S. Guernsey",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "C. Guernsey",
+          "raw_affiliation_strings": [
+            "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074781187",
+            "display_name": "John Swoboda",
+            "orcid": "https://orcid.org/0000-0003-2627-2031",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2627-2031"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Swoboda",
+          "raw_affiliation_strings": [
+            "MIT Haystack Observatory, Westford, MA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Haystack Observatory, Westford, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040841253",
+            "display_name": "Chris Eckert",
+            "orcid": "https://orcid.org/0000-0003-2496-0383",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2496-0383"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "C. Eckert",
+          "raw_affiliation_strings": [
+            "MIT Haystack Observatory, Westford, MA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Haystack Observatory, Westford, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "C. Alcalde",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "C. Alcalde",
+          "raw_affiliation_strings": [
+            "MIT Haystack Observatory, Westford, MA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Haystack Observatory, Westford, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5003850408",
+            "display_name": "Michael Poirier",
+            "orcid": "https://orcid.org/0000-0001-6641-0959",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6641-0959"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. Poirier",
+          "raw_affiliation_strings": [
+            "MIT Haystack Observatory, Westford, MA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Haystack Observatory, Westford, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059469409",
+            "display_name": "Piyush Khopkar",
+            "orcid": "https://orcid.org/0000-0002-5392-1570",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5392-1570"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I887054487",
+              "display_name": "MathWorks (United States)",
+              "ror": "https://ror.org/01n8qtk87",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I887054487"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "P. Khopkar",
+          "raw_affiliation_strings": [
+            "MathWorks, Natick, MA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MathWorks, Natick, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I887054487"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035355434",
+            "display_name": "Singaravelu Elangovan",
+            "orcid": "https://orcid.org/0000-0002-8564-6542",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8564-6542"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S. Elangovan",
+          "raw_affiliation_strings": [
+            "OxEon Energy, Salt Lake City, UT, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "OxEon Energy, Salt Lake City, UT, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040582675",
+            "display_name": "Morten Bo Madsen",
+            "orcid": "https://orcid.org/0000-0001-8909-5111",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8909-5111"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I124055696",
+              "display_name": "University of Copenhagen",
+              "ror": "https://ror.org/035b05819",
+              "country_code": "DK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ],
+          "countries": [
+            "DK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. Madsen",
+          "raw_affiliation_strings": [
+            "Niels Bohr Institute, University of Copenhagen, Copenhagen, Denmark"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Niels Bohr Institute, University of Copenhagen, Copenhagen, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035810163",
+            "display_name": "Peter H. Smith",
+            "orcid": "https://orcid.org/0000-0002-9946-5259",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9946-5259"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "P. Smith",
+          "raw_affiliation_strings": [
+            "Space Exploration Instruments, Tucson, AZ, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Space Exploration Instruments, Tucson, AZ, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5011403039",
+            "display_name": "Christopher Graves",
+            "orcid": "https://orcid.org/0000-0002-5826-2412",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5826-2412"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I96673099",
+              "display_name": "Technical University of Denmark",
+              "ror": "https://ror.org/04qtj9h94",
+              "country_code": "DK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I96673099"
+              ]
+            }
+          ],
+          "countries": [
+            "DK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "C. Graves",
+          "raw_affiliation_strings": [
+            "DTU Energy, Technical University of Denmark, Copenhagen, Denmark",
+            "Noon Energy, Palo Alto, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "DTU Energy, Technical University of Denmark, Copenhagen, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I96673099"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Noon Energy, Palo Alto, CA, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113160503",
+            "display_name": "G. B. Sanders",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "G. Sanders",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center, Houston, TX, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5016853826",
+            "display_name": "Koorosh R. Araghi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "K. Araghi",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center, Houston, TX, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031574543",
+            "display_name": "Manuel de la Torre Juárez",
+            "orcid": "https://orcid.org/0000-0003-1393-5297",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1393-5297"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. de la Torre Juarez",
+          "raw_affiliation_strings": [
+            "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5015494888",
+            "display_name": "Dennis Larsen",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "D. Larsen",
+          "raw_affiliation_strings": [
+            "OxEon Energy, Salt Lake City, UT, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "OxEon Energy, Salt Lake City, UT, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5015038637",
+            "display_name": "Juan H. Agui",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799786008",
+              "display_name": "Glenn Research Center",
+              "ror": "https://ror.org/059fqnc42",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2799786008",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Agui",
+          "raw_affiliation_strings": [
+            "NASA Glenn Research Center, Cleveland, OH, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Glenn Research Center, Cleveland, OH, USA",
+              "institution_ids": [
+                "https://openalex.org/I2799786008"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5000286291",
+            "display_name": "Alan G. Burns",
+            "orcid": "https://orcid.org/0000-0001-6024-0020",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6024-0020"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A. Burns",
+          "raw_affiliation_strings": [
+            "MIT Haystack Observatory, Westford, MA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Haystack Observatory, Westford, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040701303",
+            "display_name": "Klaus S. Lackner",
+            "orcid": "https://orcid.org/0000-0001-5509-6327",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5509-6327",
+              "https://orcid.org/0000-0002-9987-6701"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "K. Lackner",
+          "raw_affiliation_strings": [
+            "Arizona State University, Tempe, AZ, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Arizona State University, Tempe, AZ, USA",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060755445",
+            "display_name": "Robin V. Nielsen",
+            "orcid": "https://orcid.org/0000-0001-8389-254X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8389-254X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I124055696",
+              "display_name": "University of Copenhagen",
+              "ror": "https://ror.org/035b05819",
+              "country_code": "DK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ],
+          "countries": [
+            "DK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. Nielsen",
+          "raw_affiliation_strings": [
+            "Niels Bohr Institute, University of Copenhagen, Copenhagen, Denmark"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Niels Bohr Institute, University of Copenhagen, Copenhagen, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5030152479",
+            "display_name": "W. T. Pike",
+            "orcid": "https://orcid.org/0000-0002-7660-6231",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7660-6231"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I47508984",
+              "display_name": "Imperial College London",
+              "ror": "https://ror.org/041kmwe10",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I47508984"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "T. Pike",
+          "raw_affiliation_strings": [
+            "Imperial College, London, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Imperial College, London, UK",
+              "institution_ids": [
+                "https://openalex.org/I47508984"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5026194189",
+            "display_name": "B. Tata",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "B. Tata",
+          "raw_affiliation_strings": [
+            "Arizona State University, Tempe, AZ, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Arizona State University, Tempe, AZ, USA",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5066924737",
+            "display_name": "K. R. Wilson",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "K. Wilson",
+          "raw_affiliation_strings": [
+            "MIT Haystack Observatory, Westford, MA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Haystack Observatory, Westford, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067699324",
+            "display_name": "Travis L. Brown",
+            "orcid": "https://orcid.org/0000-0002-4846-8468",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4846-8468"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "T. Brown",
+          "raw_affiliation_strings": [
+            "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5022980111",
+            "display_name": "Thomas P. Disarro",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "T. Disarro",
+          "raw_affiliation_strings": [
+            "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086253195",
+            "display_name": "R. V. Morris",
+            "orcid": "https://orcid.org/0000-0003-1413-4002",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1413-4002"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. Morris",
+          "raw_affiliation_strings": [
+            "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5091227359",
+            "display_name": "Robert Schaefer",
+            "orcid": "https://orcid.org/0000-0001-6191-1842",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6191-1842"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. Schaefer",
+          "raw_affiliation_strings": [
+            "MIT Haystack Observatory, Westford, MA, USA",
+            "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Haystack Observatory, Westford, MA, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            },
+            {
+              "raw_affiliation_string": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002545007",
+            "display_name": "Ronald E. Steinkraus",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. Steinkraus",
+          "raw_affiliation_strings": [
+            "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5032601058",
+            "display_name": "Rao Surampudi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. Surampudi",
+          "raw_affiliation_strings": [
+            "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5016091682",
+            "display_name": "Thomas A. Werne",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "T. Werne",
+          "raw_affiliation_strings": [
+            "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5089270271",
+            "display_name": "Adrian Ponce",
+            "orcid": "https://orcid.org/0000-0001-7657-1617",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7657-1617"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A. Ponce",
+          "raw_affiliation_strings": [
+            "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1007/s11214-020-00782-8",
+        "doi": "https://doi.org/10.1007/s11214-020-00782-8",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s11214-020-00782-8",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S10873449",
+          "display_name": "Space Science Reviews",
+          "issn_l": "0038-6308",
+          "issn": [
+            "0038-6308",
+            "1572-9672"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-b",
+            "jufo-3",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Space Science Reviews",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://researchprofiles.ku.dk/da/publications/375cf2cc-13f9-461a-b7b1-79c2d374fadc",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W4293783070",
+      "doi": "https://doi.org/10.1126/sciadv.abp8636",
+      "title": "Mars Oxygen ISRU Experiment (MOXIE)—Preparing for human Mars exploration",
+      "publication_year": 2022,
+      "cited_by_count": 111,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5112087433",
+            "display_name": "Jeffrey A. Hoffman",
+            "orcid": "https://orcid.org/0000-0002-7543-6920",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7543-6920"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Jeffrey A. Hoffman",
+          "raw_affiliation_strings": [
+            "MIT Department of Aeronautics and Astronautics, Cambridge, MA 02139, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7543-6920",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Department of Aeronautics and Astronautics, Cambridge, MA 02139, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5062418613",
+            "display_name": "M. H. Hecht",
+            "orcid": "https://orcid.org/0000-0002-4114-4583",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4114-4583",
+              "https://orcid.org/0000-0002-5538-9813",
+              "https://orcid.org/0000-0001-9214-8253"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Michael H. Hecht",
+          "raw_affiliation_strings": [
+            "MIT Haystack Observatory, Westford, MA 01886, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4114-4583",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Haystack Observatory, Westford, MA 01886, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020038381",
+            "display_name": "Donald Rapp",
+            "orcid": "https://orcid.org/0000-0003-4418-4924",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4418-4924"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Donald Rapp",
+          "raw_affiliation_strings": [
+            "South Pasadena, CA 91030, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4418-4924",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "South Pasadena, CA 91030, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008462935",
+            "display_name": "Joseph Hartvigsen",
+            "orcid": "https://orcid.org/0000-0003-2641-0238",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2641-0238"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Joseph J. Hartvigsen",
+          "raw_affiliation_strings": [
+            "OxEon Energy, North Salt Lake City, UT 84054, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2641-0238",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "OxEon Energy, North Salt Lake City, UT 84054, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5033340660",
+            "display_name": "J. SooHoo Whittier",
+            "orcid": "https://orcid.org/0000-0003-1938-0720",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1938-0720"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jason G. SooHoo",
+          "raw_affiliation_strings": [
+            "MIT Haystack Observatory, Westford, MA 01886, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1938-0720",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Haystack Observatory, Westford, MA 01886, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061323345",
+            "display_name": "Asad M. Aboobaker",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Asad M. Aboobaker",
+          "raw_affiliation_strings": [
+            "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074233360",
+            "display_name": "John B. McClean",
+            "orcid": "https://orcid.org/0000-0002-7863-0120",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7863-0120"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "John B. McClean",
+          "raw_affiliation_strings": [
+            "MIT Haystack Observatory, Westford, MA 01886, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7863-0120",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Haystack Observatory, Westford, MA 01886, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100673521",
+            "display_name": "Andrew M. Liu",
+            "orcid": "https://orcid.org/0000-0001-9184-6527",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9184-6527"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Andrew M. Liu",
+          "raw_affiliation_strings": [
+            "MIT Department of Aeronautics and Astronautics, Cambridge, MA 02139, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9184-6527",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Department of Aeronautics and Astronautics, Cambridge, MA 02139, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052220482",
+            "display_name": "Eric D. Hinterman",
+            "orcid": "https://orcid.org/0000-0002-9398-7697",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9398-7697"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Eric D. Hinterman",
+          "raw_affiliation_strings": [
+            "MIT Department of Aeronautics and Astronautics, Cambridge, MA 02139, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-9398-7697",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Department of Aeronautics and Astronautics, Cambridge, MA 02139, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5006735971",
+            "display_name": "Maya Nasr",
+            "orcid": "https://orcid.org/0000-0003-0290-3871",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0290-3871"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Maya Nasr",
+          "raw_affiliation_strings": [
+            "MIT Department of Aeronautics and Astronautics, Cambridge, MA 02139, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-0290-3871",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Department of Aeronautics and Astronautics, Cambridge, MA 02139, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087130693",
+            "display_name": "Shravan Hariharan",
+            "orcid": "https://orcid.org/0000-0001-9683-4170",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9683-4170"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Shravan Hariharan",
+          "raw_affiliation_strings": [
+            "MIT Department of Aeronautics and Astronautics, Cambridge, MA 02139, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9683-4170",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Department of Aeronautics and Astronautics, Cambridge, MA 02139, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5017395090",
+            "display_name": "Kyle J. Horn",
+            "orcid": "https://orcid.org/0000-0001-8605-2749",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8605-2749"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kyle J. Horn",
+          "raw_affiliation_strings": [
+            "MIT Department of Aeronautics and Astronautics, Cambridge, MA 02139, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-8605-2749",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Department of Aeronautics and Astronautics, Cambridge, MA 02139, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054602792",
+            "display_name": "Forrest E. Meyen",
+            "orcid": "https://orcid.org/0000-0002-0140-6411",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0140-6411"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Forrest E. Meyen",
+          "raw_affiliation_strings": [
+            "Lunar Outpost Inc., Golden, CO 80401, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-0140-6411",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Lunar Outpost Inc., Golden, CO 80401, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Harald Okkels",
+            "orcid": "https://orcid.org/0000-0001-6575-7010",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6575-7010"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I124055696",
+              "display_name": "University of Copenhagen",
+              "ror": "https://ror.org/035b05819",
+              "country_code": "DK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ],
+          "countries": [
+            "DK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Harald Okkels",
+          "raw_affiliation_strings": [
+            "Niels Bohr Institute, University of Copenhagen, Copenhagen, DK-2100, Denmark"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-6575-7010",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Niels Bohr Institute, University of Copenhagen, Copenhagen, DK-2100, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5120719438",
+            "display_name": "Parker Steen",
+            "orcid": "https://orcid.org/0000-0002-8489-0885",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8489-0885"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Parker Steen",
+          "raw_affiliation_strings": [
+            "MIT Haystack Observatory, Westford, MA 01886, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8489-0885",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Haystack Observatory, Westford, MA 01886, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035355434",
+            "display_name": "Singaravelu Elangovan",
+            "orcid": "https://orcid.org/0000-0002-8564-6542",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8564-6542"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Singaravelu Elangovan",
+          "raw_affiliation_strings": [
+            "OxEon Energy, North Salt Lake City, UT 84054, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8564-6542",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "OxEon Energy, North Salt Lake City, UT 84054, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5011403039",
+            "display_name": "Christopher Graves",
+            "orcid": "https://orcid.org/0000-0002-5826-2412",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5826-2412"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Christopher R. Graves",
+          "raw_affiliation_strings": [
+            "Noon Energy, Palo Alto, CA 94301, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-5826-2412",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Noon Energy, Palo Alto, CA 94301, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059469409",
+            "display_name": "Piyush Khopkar",
+            "orcid": "https://orcid.org/0000-0002-5392-1570",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5392-1570"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I887054487",
+              "display_name": "MathWorks (United States)",
+              "ror": "https://ror.org/01n8qtk87",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I887054487"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Piyush Khopkar",
+          "raw_affiliation_strings": [
+            "MathWorks, Natick, MA 01760, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-5392-1570",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MathWorks, Natick, MA 01760, USA",
+              "institution_ids": [
+                "https://openalex.org/I887054487"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040582675",
+            "display_name": "Morten Bo Madsen",
+            "orcid": "https://orcid.org/0000-0001-8909-5111",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8909-5111"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I124055696",
+              "display_name": "University of Copenhagen",
+              "ror": "https://ror.org/035b05819",
+              "country_code": "DK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ],
+          "countries": [
+            "DK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Morten B. Madsen",
+          "raw_affiliation_strings": [
+            "Niels Bohr Institute, University of Copenhagen, Copenhagen, DK-2100, Denmark"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-8909-5111",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Niels Bohr Institute, University of Copenhagen, Copenhagen, DK-2100, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5078104655",
+            "display_name": "Gerald E. Voecks",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Gerald E. Voecks",
+          "raw_affiliation_strings": [
+            "Pasadena, CA 91101, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Pasadena, CA 91101, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035810163",
+            "display_name": "Peter H. Smith",
+            "orcid": "https://orcid.org/0000-0002-9946-5259",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9946-5259"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Peter H. Smith",
+          "raw_affiliation_strings": [
+            "Space Exploration Instruments, Tucson, AZ 85745, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Space Exploration Instruments, Tucson, AZ 85745, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074030963",
+            "display_name": "Theis Løye Skafte",
+            "orcid": "https://orcid.org/0000-0001-5193-5592",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5193-5592"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Theis L. Skafte",
+          "raw_affiliation_strings": [
+            "Noon Energy, Palo Alto, CA 94301, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5193-5592",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Noon Energy, Palo Alto, CA 94301, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5016853826",
+            "display_name": "Koorosh R. Araghi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Koorosh R. Araghi",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center, Houston, TX 77058, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center, Houston, TX 77058, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": null,
+            "display_name": "David J. Eisenman",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "David J. Eisenman",
+          "raw_affiliation_strings": [
+            "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1126/sciadv.abp8636",
+        "doi": "https://doi.org/10.1126/sciadv.abp8636",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1126/sciadv.abp8636",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2737427234",
+          "display_name": "Science Advances",
+          "issn_l": "2375-2548",
+          "issn": [
+            "2375-2548"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-a",
+            "doyens",
+            "jufo-3",
+            "ki-jl-3",
+            "medline",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315823",
+          "host_organization_name": "American Association for the Advancement of Science",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315823"
+          ],
+          "host_organization_lineage_names": [
+            "American Association for the Advancement of Science"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Science Advances",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1126/sciadv.abp8636",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2331199603",
+      "doi": "https://doi.org/10.2514/6.2015-4561",
+      "title": "The Mars Oxygen ISRU Experiment (MOXIE) on the Mars 2020 Rover",
+      "publication_year": 2015,
+      "cited_by_count": 40,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5112087433",
+            "display_name": "Jeffrey A. Hoffman",
+            "orcid": "https://orcid.org/0000-0002-7543-6920",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7543-6920"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jeffrey A. Hoffman",
+          "raw_affiliation_strings": [
+            "Massachusetts Institute of Technology"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Massachusetts Institute of Technology",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020038381",
+            "display_name": "Donald Rapp",
+            "orcid": "https://orcid.org/0000-0003-4418-4924",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4418-4924"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Donald Rapp",
+          "raw_affiliation_strings": [
+            "Self"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Self",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5062418613",
+            "display_name": "M. H. Hecht",
+            "orcid": "https://orcid.org/0000-0002-4114-4583",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4114-4583",
+              "https://orcid.org/0000-0002-5538-9813",
+              "https://orcid.org/0000-0001-9214-8253"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michael Hecht",
+          "raw_affiliation_strings": [
+            "Massachusetts Institute of Technology"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Massachusetts Institute of Technology",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.2514/6.2015-4561",
+        "doi": "https://doi.org/10.2514/6.2015-4561",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2514/6.2015-4561",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306501157",
+          "display_name": "AIAA SPACE Conference and Exposition",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "AIAA SPACE 2015 Conference and Exposition",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2509932025",
+      "doi": "https://doi.org/10.1016/j.actaastro.2016.06.005",
+      "title": "Thermodynamic model of Mars Oxygen ISRU Experiment (MOXIE)",
+      "publication_year": 2016,
+      "cited_by_count": 33,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5054602792",
+            "display_name": "Forrest E. Meyen",
+            "orcid": "https://orcid.org/0000-0002-0140-6411",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0140-6411"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Forrest E. Meyen",
+          "raw_affiliation_strings": [
+            "Massachusetts Institute of Technology, 77 Massachusetts Ave., Cambridge, MA 02139-4307, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Massachusetts Institute of Technology, 77 Massachusetts Ave., Cambridge, MA 02139-4307, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5062418613",
+            "display_name": "M. H. Hecht",
+            "orcid": "https://orcid.org/0000-0002-4114-4583",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4114-4583",
+              "https://orcid.org/0000-0002-5538-9813",
+              "https://orcid.org/0000-0001-9214-8253"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michael H. Hecht",
+          "raw_affiliation_strings": [
+            "Associate Director for Research Management, MIT Haystack Observatory, Rte. 40, Westford, MA 01886, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Associate Director for Research Management, MIT Haystack Observatory, Rte. 40, Westford, MA 01886, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5112087433",
+            "display_name": "Jeffrey A. Hoffman",
+            "orcid": "https://orcid.org/0000-0002-7543-6920",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7543-6920"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jeffrey A. Hoffman",
+          "raw_affiliation_strings": [
+            "Massachusetts Institute of Technology, 77 Massachusetts Ave., Cambridge, MA 02139-4307, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Massachusetts Institute of Technology, 77 Massachusetts Ave., Cambridge, MA 02139-4307, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1016/j.actaastro.2016.06.005",
+        "doi": "https://doi.org/10.1016/j.actaastro.2016.06.005",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.actaastro.2016.06.005",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S179591353",
+          "display_name": "Acta Astronautica",
+          "issn_l": "0094-5765",
+          "issn": [
+            "0094-5765",
+            "1879-2030"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-a",
+            "jufo-1",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": "Acta Astronautica",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.1016/j.actaastro.2016.06.005",
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2810631099",
+      "doi": "https://doi.org/10.1109/aero.2018.8396365",
+      "title": "Scaling the Mars Oxygen ISRU experiment (MOXIE) for mars sample return",
+      "publication_year": 2018,
+      "cited_by_count": 3,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5006735971",
+            "display_name": "Maya Nasr",
+            "orcid": "https://orcid.org/0000-0003-0290-3871",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0290-3871"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Maya Nasr",
+          "raw_affiliation_strings": [
+            "Massachusetts Institute of Technology, Cambridge, MA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Massachusetts Institute of Technology, Cambridge, MA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054602792",
+            "display_name": "Forrest E. Meyen",
+            "orcid": "https://orcid.org/0000-0002-0140-6411",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0140-6411"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Forrest Meyen",
+          "raw_affiliation_strings": [
+            "Massachusetts Institute of Technology, Cambridge, MA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Massachusetts Institute of Technology, Cambridge, MA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5112087433",
+            "display_name": "Jeffrey A. Hoffman",
+            "orcid": "https://orcid.org/0000-0002-7543-6920",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7543-6920"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jeffrey Hoffman",
+          "raw_affiliation_strings": [
+            "Massachusetts Institute of Technology, Cambridge, MA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Massachusetts Institute of Technology, Cambridge, MA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1109/aero.2018.8396365",
+        "doi": "https://doi.org/10.1109/aero.2018.8396365",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/aero.2018.8396365",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210171417",
+          "display_name": "Proceedings - IEEE Aerospace Conference",
+          "issn_l": "1095-323X",
+          "issn": [
+            "1095-323X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2018 IEEE Aerospace Conference",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W4372311818",
+      "doi": "https://doi.org/10.1016/j.actaastro.2023.04.045",
+      "title": "18 Months of MOXIE (Mars oxygen ISRU experiment) operations on the surface of Mars - Preparing for human Mars exploration",
+      "publication_year": 2023,
+      "cited_by_count": 22,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5112087433",
+            "display_name": "Jeffrey A. Hoffman",
+            "orcid": "https://orcid.org/0000-0002-7543-6920",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7543-6920"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Jeffrey A. Hoffman",
+          "raw_affiliation_strings": [
+            "Department of Aeronautics and Astronautics, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA, 02139, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7543-6920",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Aeronautics and Astronautics, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA, 02139, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052220482",
+            "display_name": "Eric D. Hinterman",
+            "orcid": "https://orcid.org/0000-0002-9398-7697",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9398-7697"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Eric R. Hinterman",
+          "raw_affiliation_strings": [
+            "13802 NW Passage #112, Marina Del Rey, CA, 90292, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-9398-7697",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "13802 NW Passage #112, Marina Del Rey, CA, 90292, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5062418613",
+            "display_name": "M. H. Hecht",
+            "orcid": "https://orcid.org/0000-0002-4114-4583",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4114-4583",
+              "https://orcid.org/0000-0002-5538-9813",
+              "https://orcid.org/0000-0001-9214-8253"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michael H. Hecht",
+          "raw_affiliation_strings": [
+            "MIT Haystack Observatory, 99 Millstone Road, Westford, MA, 01886, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4114-4583",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Haystack Observatory, 99 Millstone Road, Westford, MA, 01886, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020038381",
+            "display_name": "Donald Rapp",
+            "orcid": "https://orcid.org/0000-0003-4418-4924",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4418-4924"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Donald Rapp",
+          "raw_affiliation_strings": [
+            "South Pasadena, CA, 91030, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4418-4924",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "South Pasadena, CA, 91030, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5008462935",
+            "display_name": "Joseph Hartvigsen",
+            "orcid": "https://orcid.org/0000-0003-2641-0238",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2641-0238"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Joseph J. Hartvigsen",
+          "raw_affiliation_strings": [
+            "OxEon Energy, 257 River Bend Way, North Salt Lake City, 84054, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "OxEon Energy, 257 River Bend Way, North Salt Lake City, 84054, USA",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1016/j.actaastro.2023.04.045",
+        "doi": "https://doi.org/10.1016/j.actaastro.2023.04.045",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.actaastro.2023.04.045",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S179591353",
+          "display_name": "Acta Astronautica",
+          "issn_l": "0094-5765",
+          "issn": [
+            "0094-5765",
+            "1879-2030"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-a",
+            "jufo-1",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": "Acta Astronautica",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.1016/j.actaastro.2023.04.045",
+        "any_repository_has_fulltext": false
+      }
+    }
+  ],
+  "group_by": []
+}

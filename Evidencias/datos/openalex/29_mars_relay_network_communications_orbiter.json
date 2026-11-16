@@ -1,0 +1,1792 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 2075,
+    "db_response_time_ms": 74,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Mars relay network communications orbiter) in the full text",
+      "x_new_oql": "get works with (Mars relay network communications orbiter) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Mars relay network communications orbiter",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Mars relay network communications orbiter&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W7162092329",
+      "doi": "https://doi.org/10.1109/aero66936.2026.11519842",
+      "title": "Orbital Optimization of a Distributed Heliocentric Relay Network for Mars-Earth Communications",
+      "publication_year": 2026,
+      "cited_by_count": 0,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5070700239",
+            "display_name": "Jules Pénot",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jules Pénot",
+          "raw_affiliation_strings": [
+            "Massachusetts Institute of Technology,Cambridge,MA,02139"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Massachusetts Institute of Technology,Cambridge,MA,02139",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5039967363",
+            "display_name": "Hamsa Balakrishnan",
+            "orcid": "https://orcid.org/0000-0002-8624-7041",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8624-7041"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hamsa Balakrishnan",
+          "raw_affiliation_strings": [
+            "Massachusetts Institute of Technology,Cambridge,MA,02139"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Massachusetts Institute of Technology,Cambridge,MA,02139",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1109/aero66936.2026.11519842",
+        "doi": "https://doi.org/10.1109/aero66936.2026.11519842",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/aero66936.2026.11519842",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210171417",
+          "display_name": "Proceedings - IEEE Aerospace Conference",
+          "issn_l": "1095-323X",
+          "issn": [
+            "1095-323X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2026 IEEE Aerospace Conference",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2037598508",
+      "doi": "https://doi.org/10.1109/aero.2014.6836354",
+      "title": "Replenishing the Mars relay network",
+      "publication_year": 2014,
+      "cited_by_count": 14,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5109008856",
+            "display_name": "Charles D. Edwards",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Charles D. Edwards",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA",
+            "Jet propulsion Laboratory, California Inst. of Technology, 4800 Oak Grove Dr, Pasadena, 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet propulsion Laboratory, California Inst. of Technology, 4800 Oak Grove Dr, Pasadena, 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111444201",
+            "display_name": "Phil Barela",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Philip R. Barela",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA",
+            "Jet propulsion Laboratory, California Inst. of Technology, 4800 Oak Grove Dr, Pasadena, 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet propulsion Laboratory, California Inst. of Technology, 4800 Oak Grove Dr, Pasadena, 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5041621610",
+            "display_name": "Roy E. Gladden",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Roy E. Gladden",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA",
+            "Jet propulsion Laboratory, California Inst. of Technology, 4800 Oak Grove Dr, Pasadena, 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet propulsion Laboratory, California Inst. of Technology, 4800 Oak Grove Dr, Pasadena, 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5056221240",
+            "display_name": "Charles H. Lee",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Charles H. Lee",
+          "raw_affiliation_strings": [
+            "National Aeronautics and Space Administration, Washington, DC",
+            "Jet propulsion Laboratory, California Inst. of Technology, 4800 Oak Grove Dr, Pasadena, 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "National Aeronautics and Space Administration, Washington, DC",
+              "institution_ids": [
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet propulsion Laboratory, California Inst. of Technology, 4800 Oak Grove Dr, Pasadena, 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5069430019",
+            "display_name": "Ramon De Paula",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ramon De Paula",
+          "raw_affiliation_strings": [
+            "National Aeronautics and Space Administration, Washington, DC",
+            "National Aeronautics and Space Administration, 300 E Street SW, Washington, DC 20546, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "National Aeronautics and Space Administration, Washington, DC",
+              "institution_ids": [
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "raw_affiliation_string": "National Aeronautics and Space Administration, 300 E Street SW, Washington, DC 20546, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1109/aero.2014.6836354",
+        "doi": "https://doi.org/10.1109/aero.2014.6836354",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/aero.2014.6836354",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210171417",
+          "display_name": "Proceedings - IEEE Aerospace Conference",
+          "issn_l": "1095-323X",
+          "issn": [
+            "1095-323X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2014 IEEE Aerospace Conference",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2032830446",
+      "doi": "https://doi.org/10.1016/j.actaastro.2006.02.038",
+      "title": "Relay communications strategies for Mars exploration through 2020",
+      "publication_year": 2006,
+      "cited_by_count": 28,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5078680448",
+            "display_name": "Chad Edwards",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "C.D. Edwards, Jr.",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112668682",
+            "display_name": "Bradford Arnold",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "B. Arnold",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr. Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr. Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5029430094",
+            "display_name": "Ramon P. Depaula",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. DePaula",
+          "raw_affiliation_strings": [
+            "NASA Headquarters, Washington, DC 20546-0001, USA",
+            "NASA Headquarters, Washington, DC 20546–0001, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Headquarters, Washington, DC 20546-0001, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "raw_affiliation_string": "NASA Headquarters, Washington, DC 20546–0001, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5028894954",
+            "display_name": "Greg J. Kazz",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "G. Kazz",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr. Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr. Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036632407",
+            "display_name": "Choonsup Lee",
+            "orcid": "https://orcid.org/0000-0003-0869-3510",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0869-3510"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "C. Lee",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr. Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr. Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5057836028",
+            "display_name": "Gary K. Noreen",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "G. Noreen",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr. Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr. Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1016/j.actaastro.2006.02.038",
+        "doi": "https://doi.org/10.1016/j.actaastro.2006.02.038",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.actaastro.2006.02.038",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S179591353",
+          "display_name": "Acta Astronautica",
+          "issn_l": "0094-5765",
+          "issn": [
+            "0094-5765",
+            "1879-2030"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-a",
+            "jufo-1",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Acta Astronautica",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W4318833140",
+      "doi": "https://doi.org/10.1016/j.actaastro.2023.01.040",
+      "title": "An assessment of different relay network topologies to improve Earth–Mars communications",
+      "publication_year": 2023,
+      "cited_by_count": 9,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5004936587",
+            "display_name": "Paula Betriu",
+            "orcid": "https://orcid.org/0000-0001-8185-6932",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8185-6932"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I9617848",
+              "display_name": "Universitat Politècnica de Catalunya",
+              "ror": "https://ror.org/03mb6wj31",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Paula Betriu",
+          "raw_affiliation_strings": [
+            "Department of Physics, Universitat Politècnica de Catalunya, 08222 Terrassa, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-8185-6932",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physics, Universitat Politècnica de Catalunya, 08222 Terrassa, Spain",
+              "institution_ids": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074608682",
+            "display_name": "M. Sòria",
+            "orcid": "https://orcid.org/0000-0002-4112-6078",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4112-6078"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I9617848",
+              "display_name": "Universitat Politècnica de Catalunya",
+              "ror": "https://ror.org/03mb6wj31",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Manel Soria",
+          "raw_affiliation_strings": [
+            "Department of Physics, Universitat Politècnica de Catalunya, 08222 Terrassa, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4112-6078",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physics, Universitat Politècnica de Catalunya, 08222 Terrassa, Spain",
+              "institution_ids": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5046592494",
+            "display_name": "J. Gutiérrez",
+            "orcid": "https://orcid.org/0000-0003-1978-3642",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1978-3642"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I9617848",
+              "display_name": "Universitat Politècnica de Catalunya",
+              "ror": "https://ror.org/03mb6wj31",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jordi L. Gutiérrez",
+          "raw_affiliation_strings": [
+            "Department of Physics, Universitat Politècnica de Catalunya, 08222 Terrassa, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1978-3642",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physics, Universitat Politècnica de Catalunya, 08222 Terrassa, Spain",
+              "institution_ids": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013110650",
+            "display_name": "Marcel Llopis",
+            "orcid": "https://orcid.org/0000-0002-1224-7014",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1224-7014"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Marcel Llopis",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, 91109 Pasadena, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-1224-7014",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, 91109 Pasadena, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5040315577",
+            "display_name": "Antoni Barlabé",
+            "orcid": "https://orcid.org/0000-0002-1176-1329",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1176-1329"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I9617848",
+              "display_name": "Universitat Politècnica de Catalunya",
+              "ror": "https://ror.org/03mb6wj31",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Antoni Barlabé",
+          "raw_affiliation_strings": [
+            "Signal Theory and Communications Department, Universitat Politècnica de Catalunya, 08034 Barcelona, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-1176-1329",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Signal Theory and Communications Department, Universitat Politècnica de Catalunya, 08034 Barcelona, Spain",
+              "institution_ids": [
+                "https://openalex.org/I9617848"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1016/j.actaastro.2023.01.040",
+        "doi": "https://doi.org/10.1016/j.actaastro.2023.01.040",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.actaastro.2023.01.040",
+        "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0094576523000516-ga1_lrg.jpg",
+        "source": {
+          "id": "https://openalex.org/S179591353",
+          "display_name": "Acta Astronautica",
+          "issn_l": "0094-5765",
+          "issn": [
+            "0094-5765",
+            "1879-2030"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-a",
+            "jufo-1",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Acta Astronautica",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0094576523000516-ga1_lrg.jpg",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W823915828",
+      "doi": "https://doi.org/10.2514/6.iac-04-m.5.07",
+      "title": "A Martian Telecommunications Network: UHF Relay Support of the Mars Exploration Rovers by the Mars Global Surveyor, Mars Odyssey, and Mars Express Orbiters",
+      "publication_year": 2004,
+      "cited_by_count": 19,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5109008856",
+            "display_name": "Charles D. Edwards",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "C. D. Edwards , Jr.",
+          "raw_affiliation_strings": [
+            "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5069132567",
+            "display_name": "Andrea Barbieri",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A. Barbieri",
+          "raw_affiliation_strings": [
+            "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "E. Brower",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "E. Brower",
+          "raw_affiliation_strings": [
+            "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5070396602",
+            "display_name": "Polly Estabrook",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "P. Estabrook",
+          "raw_affiliation_strings": [
+            "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "R. Gibbs",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. Gibbs",
+          "raw_affiliation_strings": [
+            "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5049962476",
+            "display_name": "Richard L. Horttor",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. Horttor",
+          "raw_affiliation_strings": [
+            "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5070344724",
+            "display_name": "Jan M. Ludwinski",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Ludwinski",
+          "raw_affiliation_strings": [
+            "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080182307",
+            "display_name": "Robert A. Mase",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. Mase",
+          "raw_affiliation_strings": [
+            "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080564634",
+            "display_name": "C. McCarthy",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2801994115",
+              "display_name": "European Space Agency",
+              "ror": "https://ror.org/03wd9za21",
+              "country_code": "FR",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I2801994115"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "C. McCarthy",
+          "raw_affiliation_strings": [
+            "2European Space Agency, 8-10 rue Mario Nikis, 75738 Paris Cedex 15, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "2European Space Agency, 8-10 rue Mario Nikis, 75738 Paris Cedex 15, France",
+              "institution_ids": [
+                "https://openalex.org/I2801994115"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111102734",
+            "display_name": "R. Schmidt",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2801994115",
+              "display_name": "European Space Agency",
+              "ror": "https://ror.org/03wd9za21",
+              "country_code": "FR",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I2801994115"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. Schmidt",
+          "raw_affiliation_strings": [
+            "2European Space Agency, 8-10 rue Mario Nikis, 75738 Paris Cedex 15, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "2European Space Agency, 8-10 rue Mario Nikis, 75738 Paris Cedex 15, France",
+              "institution_ids": [
+                "https://openalex.org/I2801994115"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5026802760",
+            "display_name": "Peter Theisinger",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "P. Theisinger",
+          "raw_affiliation_strings": [
+            "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "T. Thorpe",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "T. Thorpe",
+          "raw_affiliation_strings": [
+            "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5043816805",
+            "display_name": "Bruce Waggoner",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "B. Waggoner",
+          "raw_affiliation_strings": [
+            "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1Jet Propulsion Laboratory, 4800 Oak Grove Dr., Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.2514/6.iac-04-m.5.07",
+        "doi": "https://doi.org/10.2514/6.iac-04-m.5.07",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2514/6.iac-04-m.5.07",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4363604376",
+          "display_name": "International Astronautical Congress (IAC)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "55th International Astronautical Congress of the International Astronautical Federation, the International Academy of Astronautics, and the International Institute of Space Law",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2017093734",
+      "doi": "https://doi.org/10.1109/aero.2012.6187115",
+      "title": "Mars Relay Operations Service (MaROS): Managing strategic and tactical relay for the evolving Mars network",
+      "publication_year": 2012,
+      "cited_by_count": 11,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5111949525",
+            "display_name": "Daniel A. Allard",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "D. Allard",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, Caltech Institute of Technology, Pasadena, CA, USA",
+            "Jet Propulsion Laboratory, Caltech Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA 91109"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, Caltech Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, Caltech Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA 91109",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5041621610",
+            "display_name": "Roy E. Gladden",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. Gladden",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, Caltech Institute of Technology, Pasadena, CA, USA",
+            "Jet Propulsion Laboratory, Caltech Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA 91109"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, Caltech Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, Caltech Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA 91109",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1109/aero.2012.6187115",
+        "doi": "https://doi.org/10.1109/aero.2012.6187115",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/aero.2012.6187115",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210171417",
+          "display_name": "Proceedings - IEEE Aerospace Conference",
+          "issn_l": "1095-323X",
+          "issn": [
+            "1095-323X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2012 IEEE Aerospace Conference",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    }
+  ],
+  "group_by": []
+}

@@ -1,0 +1,2426 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 1220,
+    "db_response_time_ms": 62,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Mars communication latency astronaut operations) in the full text",
+      "x_new_oql": "get works with (Mars communication latency astronaut operations) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Mars communication latency astronaut operations",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Mars communication latency astronaut operations&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2600806216",
+      "doi": "https://doi.org/10.1109/aero.2017.7943570",
+      "title": "Extravehicular activity operations concepts under communication latency and bandwidth constraints",
+      "publication_year": 2017,
+      "cited_by_count": 37,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5112709992",
+            "display_name": "Kara H. Beaton",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I144472018",
+              "display_name": "Wyle (United States)",
+              "ror": "https://ror.org/02zeryz43",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I144472018",
+                "https://openalex.org/I153156064"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kara H. Beaton",
+          "raw_affiliation_strings": [
+            "KBRwyle, KBRwyle/HAC/37C, Houston, TX"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "KBRwyle, KBRwyle/HAC/37C, Houston, TX",
+              "institution_ids": [
+                "https://openalex.org/I144472018"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110908260",
+            "display_name": "Steven P. Chappell",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I144472018",
+              "display_name": "Wyle (United States)",
+              "ror": "https://ror.org/02zeryz43",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I144472018",
+                "https://openalex.org/I153156064"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Steven P. Chappell",
+          "raw_affiliation_strings": [
+            "KBRwyle, KBRwyle/HAC/37C, Houston, TX"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "KBRwyle, KBRwyle/HAC/37C, Houston, TX",
+              "institution_ids": [
+                "https://openalex.org/I144472018"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5078952917",
+            "display_name": "Andrew F. J. Abercromby",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Andrew F. J. Abercromby",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center, Houston, TX"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center, Houston, TX",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5102804540",
+            "display_name": "Matthew James Miller",
+            "orcid": "https://orcid.org/0000-0002-9218-1472",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9218-1472"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I130701444",
+              "display_name": "Georgia Institute of Technology",
+              "ror": "https://ror.org/01zkghx44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I130701444"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Matthew J. Miller",
+          "raw_affiliation_strings": [
+            "Georgia Institute of Technology, Atlanta, GA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Georgia Institute of Technology, Atlanta, GA",
+              "institution_ids": [
+                "https://openalex.org/I130701444"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5043558668",
+            "display_name": "Shannon E. Kobs Nawotniak",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I106969075",
+              "display_name": "Idaho State University",
+              "ror": "https://ror.org/0162z8b04",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I106969075"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Shannon Kobs Nawotniak",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Idaho State University, Pocatello, ID"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Idaho State University, Pocatello, ID",
+              "institution_ids": [
+                "https://openalex.org/I106969075"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5062654618",
+            "display_name": "S. S. Hughes",
+            "orcid": "https://orcid.org/0000-0002-5847-3535",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5847-3535"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I106969075",
+              "display_name": "Idaho State University",
+              "ror": "https://ror.org/0162z8b04",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I106969075"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Scott S. Hughes",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Idaho State University, Pocatello, ID"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Idaho State University, Pocatello, ID",
+              "institution_ids": [
+                "https://openalex.org/I106969075"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080065169",
+            "display_name": "Allyson L. Brady",
+            "orcid": "https://orcid.org/0000-0003-0893-5532",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0893-5532"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98251732",
+              "display_name": "McMaster University",
+              "ror": "https://ror.org/02fa3aq29",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98251732"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Allyson Brady",
+          "raw_affiliation_strings": [
+            "McMaster University, School of Geography & Earth Sciences, Hamilton, Ontario, Canada"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "McMaster University, School of Geography & Earth Sciences, Hamilton, Ontario, Canada",
+              "institution_ids": [
+                "https://openalex.org/I98251732"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5077769926",
+            "display_name": "Darlene S. S. Lim",
+            "orcid": "https://orcid.org/0000-0002-3211-0795",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3211-0795"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Darlene S. S. Lim",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center, CA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center, CA",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1109/aero.2017.7943570",
+        "doi": "https://doi.org/10.1109/aero.2017.7943570",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/aero.2017.7943570",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210171417",
+          "display_name": "Proceedings - IEEE Aerospace Conference",
+          "issn_l": "1095-323X",
+          "issn": [
+            "1095-323X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2017 IEEE Aerospace Conference",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ntrs.nasa.gov/api/citations/20170000363/downloads/20170000363.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W7160300551",
+      "doi": "https://doi.org/10.32865/2346/94729",
+      "title": "A Decision Support System for Extravehicular Operations Under Significant Communication Latency",
+      "publication_year": 2023,
+      "cited_by_count": 0,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5081334168",
+            "display_name": "Timothy M. McGrath",
+            "orcid": "https://orcid.org/0000-0002-6582-0865",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6582-0865"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210153563",
+              "display_name": "JES Tech (United States)",
+              "ror": "https://ror.org/05k1j1x39",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210153563"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Timothy McGrath",
+          "raw_affiliation_strings": [
+            "Human Performance",
+            "JES Tech , Houston , TX 77058"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Human Performance",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "JES Tech , Houston , TX 77058",
+              "institution_ids": [
+                "https://openalex.org/I4210153563"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5130563734",
+            "display_name": "Jason Norcross",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I153156064",
+              "display_name": "KBR (United States)",
+              "ror": "https://ror.org/01g1xae87",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I153156064"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jason Norcross",
+          "raw_affiliation_strings": [
+            "KBR , Houston , TX 77058"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "KBR , Houston , TX 77058",
+              "institution_ids": [
+                "https://openalex.org/I153156064"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5114256385",
+            "display_name": "Jon Morris",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Jon Morris",
+          "raw_affiliation_strings": [
+            "VP of Engineering ; Autonomous Systems Laboratory , SSC"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "VP of Engineering ; Autonomous Systems Laboratory , SSC",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072903184",
+            "display_name": "Federico Piatti",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Federico Piatti",
+          "raw_affiliation_strings": [
+            "D2K Technologies , Oceanside , CA 92056",
+            "Staff PHM Engineer ; Autonomous Systems Laboratory , SSC"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "D2K Technologies , Oceanside , CA 92056",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Staff PHM Engineer ; Autonomous Systems Laboratory , SSC",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5101754926",
+            "display_name": "Fernando Figueroa",
+            "orcid": "https://orcid.org/0000-0002-4500-8095",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4500-8095"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2802384920",
+              "display_name": "Stennis Space Center",
+              "ror": "https://ror.org/03j9e2j92",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2802384920",
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Fernando Figueroa",
+          "raw_affiliation_strings": [
+            "NASA Stennis Space Center , John C. Stennis Space Center , MS 39529"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Stennis Space Center , John C. Stennis Space Center , MS 39529",
+              "institution_ids": [
+                "https://openalex.org/I2802384920",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5135303244",
+            "display_name": "Brianna Sparks",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Brianna Sparks",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5135379426",
+            "display_name": "Jeffrey Somers",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jeffrey Somers",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center , Houston , TX 77058"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center , Houston , TX 77058",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.32865/2346/94729",
+        "doi": "https://doi.org/10.32865/2346/94729",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.32865/2346/94729",
+        "pdf_url": "https://ttu-ir.tdl.org/bitstreams/a6fb9f41-c67b-44b0-9c2a-76224aa1daac/download",
+        "source": {
+          "id": "https://openalex.org/S4306499376",
+          "display_name": "International Conference on Environmental Systems (ICES)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "52nd International Conference on Environmental Systems",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://ttu-ir.tdl.org/bitstreams/a6fb9f41-c67b-44b0-9c2a-76224aa1daac/download",
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2112300171",
+      "doi": null,
+      "title": "Low-Latency Teleoperations for Human Exploration and Evolvable Mars Campaign",
+      "publication_year": 2015,
+      "cited_by_count": 3,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5000685472",
+            "display_name": "Mark L. Lupisella",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1306266525",
+              "display_name": "Goddard Space Flight Center",
+              "ror": "https://ror.org/0171mag52",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1306266525",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mark Lupisella",
+          "raw_affiliation_strings": [
+            "NASA Goddard Space Flight Center Greenbelt, MD., United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Goddard Space Flight Center Greenbelt, MD., United States",
+              "institution_ids": [
+                "https://openalex.org/I1306266525"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Michael Wright",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Michael Wright",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018210060",
+            "display_name": "Dale C. Arney",
+            "orcid": "https://orcid.org/0000-0002-1441-025X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1441-025X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1319063186",
+              "display_name": "Langley Research Center",
+              "ror": "https://ror.org/0399mhs52",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1319063186",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Dale C. Arney",
+          "raw_affiliation_strings": [
+            "NASA Langley Research Center, Hampton, VA (United States)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Langley Research Center, Hampton, VA (United States)",
+              "institution_ids": [
+                "https://openalex.org/I1319063186"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5005074578",
+            "display_name": "Bob Gershman",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bob Gershman",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Lab. California Inst. of Tech., Pasadena, CA, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Lab. California Inst. of Tech., Pasadena, CA, United States",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080179233",
+            "display_name": "Frederic H. Stillwagen",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1319063186",
+              "display_name": "Langley Research Center",
+              "ror": "https://ror.org/0399mhs52",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1319063186",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Fred Stillwagen",
+          "raw_affiliation_strings": [
+            "NASA Langley Research Center, Hampton, VA (United States)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Langley Research Center, Hampton, VA (United States)",
+              "institution_ids": [
+                "https://openalex.org/I1319063186"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112071037",
+            "display_name": "Marianne R. Bobskill",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1319063186",
+              "display_name": "Langley Research Center",
+              "ror": "https://ror.org/0399mhs52",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1319063186",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Marianne R. Bobskill",
+          "raw_affiliation_strings": [
+            "NASA Langley Research Center, Hampton, VA (United States)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Langley Research Center, Hampton, VA (United States)",
+              "institution_ids": [
+                "https://openalex.org/I1319063186"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5103294777",
+            "display_name": "James L. Johnson",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "James L. Johnson",
+          "raw_affiliation_strings": [
+            "NASA Headquarters Washington DC United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Headquarters Washington DC United States",
+              "institution_ids": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5042611097",
+            "display_name": "Hilary R. Shyface",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1319063186",
+              "display_name": "Langley Research Center",
+              "ror": "https://ror.org/0399mhs52",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1319063186",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hilary Shyface",
+          "raw_affiliation_strings": [
+            "NASA Langley Research Center, Hampton, VA (United States)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Langley Research Center, Hampton, VA (United States)",
+              "institution_ids": [
+                "https://openalex.org/I1319063186"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087010825",
+            "display_name": "Kevin T. Larman",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1319063186",
+              "display_name": "Langley Research Center",
+              "ror": "https://ror.org/0399mhs52",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1319063186",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kevin T. Larman",
+          "raw_affiliation_strings": [
+            "NASA Langley Research Center, Hampton, VA (United States)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Langley Research Center, Hampton, VA (United States)",
+              "institution_ids": [
+                "https://openalex.org/I1319063186"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5103441359",
+            "display_name": "Ruthan Lewis",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1306266525",
+              "display_name": "Goddard Space Flight Center",
+              "ror": "https://ror.org/0171mag52",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1306266525",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ruthan Lewis",
+          "raw_affiliation_strings": [
+            "NASA Goddard Space Flight Center Greenbelt, MD., United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Goddard Space Flight Center Greenbelt, MD., United States",
+              "institution_ids": [
+                "https://openalex.org/I1306266525"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5103764603",
+            "display_name": "Jake Bleacher",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1306266525",
+              "display_name": "Goddard Space Flight Center",
+              "ror": "https://ror.org/0171mag52",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1306266525",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jake Bleacher",
+          "raw_affiliation_strings": [
+            "NASA Goddard Space Flight Center Greenbelt, MD., United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Goddard Space Flight Center Greenbelt, MD., United States",
+              "institution_ids": [
+                "https://openalex.org/I1306266525"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111384192",
+            "display_name": "Mike Gernhardt",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mike Gernhardt",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center Houston, TX, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center Houston, TX, United States",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036602551",
+            "display_name": "R. P. Mueller",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799863703",
+              "display_name": "Kennedy Space Center",
+              "ror": "https://ror.org/03kjpzv42",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2799863703",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. P. Mueller",
+          "raw_affiliation_strings": [
+            "NASA Kennedy Space Center Cocoa Beach, FL United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Kennedy Space Center Cocoa Beach, FL United States",
+              "institution_ids": [
+                "https://openalex.org/I2799863703"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111479177",
+            "display_name": "Gerald B. Sanders",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gerald B. Sanders",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center Houston, TX, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center Houston, TX, United States",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "K.D. Watts",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "K.D. Watts",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center Houston, TX, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center Houston, TX, United States",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5029928846",
+            "display_name": "J. L. Eigenbrode",
+            "orcid": "https://orcid.org/0000-0003-3089-1986",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3089-1986"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1306266525",
+              "display_name": "Goddard Space Flight Center",
+              "ror": "https://ror.org/0171mag52",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1306266525",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. L. Eigenbrode",
+          "raw_affiliation_strings": [
+            "NASA Goddard Space Flight Center Greenbelt, MD., United States"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-3089-1986",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Goddard Space Flight Center Greenbelt, MD., United States",
+              "institution_ids": [
+                "https://openalex.org/I1306266525"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087986836",
+            "display_name": "Brent Garry",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1306266525",
+              "display_name": "Goddard Space Flight Center",
+              "ror": "https://ror.org/0171mag52",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1306266525",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Brent Garry",
+          "raw_affiliation_strings": [
+            "NASA Goddard Space Flight Center Greenbelt, MD., United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Goddard Space Flight Center Greenbelt, MD., United States",
+              "institution_ids": [
+                "https://openalex.org/I1306266525"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013897133",
+            "display_name": "Joshua E. Freeh",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799786008",
+              "display_name": "Glenn Research Center",
+              "ror": "https://ror.org/059fqnc42",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2799786008",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Joshua E. Freeh",
+          "raw_affiliation_strings": [
+            "NASA Glenn Research Center Cleveland OH United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Glenn Research Center Cleveland OH United States",
+              "institution_ids": [
+                "https://openalex.org/I2799786008"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5030605737",
+            "display_name": "David H. Manzella",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799786008",
+              "display_name": "Glenn Research Center",
+              "ror": "https://ror.org/059fqnc42",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2799786008",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "David Manzella",
+          "raw_affiliation_strings": [
+            "NASA Glenn Research Center Cleveland OH United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Glenn Research Center Cleveland OH United States",
+              "institution_ids": [
+                "https://openalex.org/I2799786008"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018028127",
+            "display_name": "Kurt J. Hack",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799786008",
+              "display_name": "Glenn Research Center",
+              "ror": "https://ror.org/059fqnc42",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2799786008",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kurt J. Hack",
+          "raw_affiliation_strings": [
+            "NASA Glenn Research Center Cleveland OH United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Glenn Research Center Cleveland OH United States",
+              "institution_ids": [
+                "https://openalex.org/I2799786008"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5033313360",
+            "display_name": "Tom Aranyos",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799863703",
+              "display_name": "Kennedy Space Center",
+              "ror": "https://ror.org/03kjpzv42",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2799863703",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tom Aranyos",
+          "raw_affiliation_strings": [
+            "NASA Kennedy Space Center Cocoa Beach, FL United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Kennedy Space Center Cocoa Beach, FL United States",
+              "institution_ids": [
+                "https://openalex.org/I2799863703"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:casi.ntrs.nasa.gov:20150010739",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/2060/20150010739",
+        "pdf_url": "https://ntrs.nasa.gov/api/citations/20150010739/downloads/20150010739.pdf",
+        "source": {
+          "id": "https://openalex.org/S4377196257",
+          "display_name": "NASA STI Repository (National Aeronautics and Space Administration)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4210124779",
+          "host_organization_name": "National Aeronautics and Space Administration",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210124779"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "CASI",
+        "raw_type": "GSFC-E-DAA-TN23785"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ntrs.nasa.gov/api/citations/20150010739/downloads/20150010739.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2766730748",
+      "doi": "https://doi.org/10.1038/s41526-018-0043-2",
+      "title": "Limitations in predicting the space radiation health risk for exploration astronauts",
+      "publication_year": 2018,
+      "cited_by_count": 183,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": null,
+            "display_name": "Jeffery C. Chancellor",
+            "orcid": "https://orcid.org/0000-0003-0735-0137",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0735-0137"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91045830",
+              "display_name": "Texas A&M University",
+              "ror": "https://ror.org/01f5ytq51",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91045830"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jeffery C. Chancellor",
+          "raw_affiliation_strings": [
+            "1Department of Physics and Astronomy, Texas A&M University, College Station, TX 77843-4242 USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-0735-0137",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1Department of Physics and Astronomy, Texas A&M University, College Station, TX 77843-4242 USA",
+              "institution_ids": [
+                "https://openalex.org/I91045830"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Rebecca S. Blue",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210125099",
+              "display_name": "Mayo Clinic in Arizona",
+              "ror": "https://ror.org/03jp40720",
+              "country_code": "US",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I1330342723",
+                "https://openalex.org/I4210125099"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rebecca S. Blue",
+          "raw_affiliation_strings": [
+            "2Aerospace Medicine and Vestibular Research Laboratory, The Mayo Clinic Arizona, Scottsdale, AZ 85054 USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "2Aerospace Medicine and Vestibular Research Laboratory, The Mayo Clinic Arizona, Scottsdale, AZ 85054 USA",
+              "institution_ids": [
+                "https://openalex.org/I4210125099"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Keith A. Cengel",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I79576946",
+              "display_name": "University of Pennsylvania",
+              "ror": "https://ror.org/00b30xv10",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I79576946"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Keith A. Cengel",
+          "raw_affiliation_strings": [
+            "3Department of Radiation Oncology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104 USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "3Department of Radiation Oncology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104 USA",
+              "institution_ids": [
+                "https://openalex.org/I79576946"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Serena M. Auñón-Chancellor",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I55302922",
+              "display_name": "The University of Texas Medical Branch at Galveston",
+              "ror": "https://ror.org/016tfm930",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55302922"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Serena M. Auñón-Chancellor",
+          "raw_affiliation_strings": [
+            "4National Aeronautics and Space Administration (NASA), Johnson Space Center, Houston, 77058 USA",
+            "5University of Texas Medical Branch, Galveston, TX 77555 USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "4National Aeronautics and Space Administration (NASA), Johnson Space Center, Houston, 77058 USA",
+              "institution_ids": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            },
+            {
+              "raw_affiliation_string": "5University of Texas Medical Branch, Galveston, TX 77555 USA",
+              "institution_ids": [
+                "https://openalex.org/I55302922"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5081714944",
+            "display_name": "Kathleen Rubins",
+            "orcid": "https://orcid.org/0000-0001-8300-0871",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8300-0871"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kathleen H. Rubins",
+          "raw_affiliation_strings": [
+            "4National Aeronautics and Space Administration (NASA), Johnson Space Center, Houston, 77058 USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "4National Aeronautics and Space Administration (NASA), Johnson Space Center, Houston, 77058 USA",
+              "institution_ids": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5053684051",
+            "display_name": "Helmut G. Katzgraber",
+            "orcid": "https://orcid.org/0000-0003-3341-9943",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3341-9943"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1308548392",
+              "display_name": "Santa Fe Institute",
+              "ror": "https://ror.org/01arysc35",
+              "country_code": "US",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1308548392"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4387154962",
+              "display_name": "1QBit",
+              "ror": "https://ror.org/04eswfz98",
+              "country_code": null,
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4387154962"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I91045830",
+              "display_name": "Texas A&M University",
+              "ror": "https://ror.org/01f5ytq51",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91045830"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Helmut G. Katzgraber",
+          "raw_affiliation_strings": [
+            "1Department of Physics and Astronomy, Texas A&M University, College Station, TX 77843-4242 USA",
+            "1QB Information Technologies (1QBit), Vancouver, BC V6B 4W4 Canada",
+            "7Santa Fe Institute, 1399 Hyde Park Road, Santa Fe, NM 87501 USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1Department of Physics and Astronomy, Texas A&M University, College Station, TX 77843-4242 USA",
+              "institution_ids": [
+                "https://openalex.org/I91045830"
+              ]
+            },
+            {
+              "raw_affiliation_string": "1QB Information Technologies (1QBit), Vancouver, BC V6B 4W4 Canada",
+              "institution_ids": [
+                "https://openalex.org/I4387154962"
+              ]
+            },
+            {
+              "raw_affiliation_string": "7Santa Fe Institute, 1399 Hyde Park Road, Santa Fe, NM 87501 USA",
+              "institution_ids": [
+                "https://openalex.org/I1308548392"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": null,
+            "display_name": "Ann R. Kennedy",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I79576946",
+              "display_name": "University of Pennsylvania",
+              "ror": "https://ror.org/00b30xv10",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I79576946"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ann R. Kennedy",
+          "raw_affiliation_strings": [
+            "3Department of Radiation Oncology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104 USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "3Department of Radiation Oncology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104 USA",
+              "institution_ids": [
+                "https://openalex.org/I79576946"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1038/s41526-018-0043-2",
+        "doi": "https://doi.org/10.1038/s41526-018-0043-2",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41526-018-0043-2",
+        "pdf_url": "https://www.nature.com/articles/s41526-018-0043-2.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210211936",
+          "display_name": "npj Microgravity",
+          "issn_l": "2373-8065",
+          "issn": [
+            "2373-8065"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "npj Microgravity",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41526-018-0043-2.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W3102806836",
+      "doi": null,
+      "title": "Limitations in predicting the space radiation health risk for exploration astronauts",
+      "publication_year": 2018,
+      "cited_by_count": 174,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5025315811",
+            "display_name": "Jeffery C. Chancellor",
+            "orcid": "https://orcid.org/0000-0003-0735-0137",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0735-0137"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91045830",
+              "display_name": "Texas A&M University",
+              "ror": "https://ror.org/01f5ytq51",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91045830"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Chancellor, Jeffery C.",
+          "raw_affiliation_strings": [
+            "Texas A&M University",
+            "Department of Physics and Astronomy, Texas A&M University, College Station, TX, 77843-4242, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Texas A&M University",
+              "institution_ids": [
+                "https://openalex.org/I91045830"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Physics and Astronomy, Texas A&M University, College Station, TX, 77843-4242, USA",
+              "institution_ids": [
+                "https://openalex.org/I91045830"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5063894891",
+            "display_name": "Rebecca S. Blue",
+            "orcid": "https://orcid.org/0000-0003-3564-3324",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3564-3324"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210125099",
+              "display_name": "Mayo Clinic in Arizona",
+              "ror": "https://ror.org/03jp40720",
+              "country_code": "US",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I1330342723",
+                "https://openalex.org/I4210125099"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Blue, Rebecca S.",
+          "raw_affiliation_strings": [
+            "Mayo Clinic Scottsdale-Phoenix, Arizona",
+            "Aerospace Medicine and Vestibular Research Laboratory, The Mayo Clinic Arizona, Scottsdale, AZ, 85054, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Mayo Clinic Scottsdale-Phoenix, Arizona",
+              "institution_ids": [
+                "https://openalex.org/I4210125099"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Aerospace Medicine and Vestibular Research Laboratory, The Mayo Clinic Arizona, Scottsdale, AZ, 85054, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210125099"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5070392597",
+            "display_name": "Keith A. Cengel",
+            "orcid": "https://orcid.org/0000-0001-6960-5882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6960-5882"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I79576946",
+              "display_name": "University of Pennsylvania",
+              "ror": "https://ror.org/00b30xv10",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I79576946"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Cengel, Keith A.",
+          "raw_affiliation_strings": [
+            "University of Pennsylvania Perelman School of Medicine",
+            "Department of Radiation Oncology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, 19104, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Pennsylvania Perelman School of Medicine",
+              "institution_ids": [
+                "https://openalex.org/I79576946"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Radiation Oncology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, 19104, USA",
+              "institution_ids": [
+                "https://openalex.org/I79576946"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044680010",
+            "display_name": "Serena M. Auñón-Chancellor",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Auñón-Chancellor, Serena M.",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center",
+            "National Aeronautics and Space Administration (NASA), Johnson Space Center, Houston, 77058, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            },
+            {
+              "raw_affiliation_string": "National Aeronautics and Space Administration (NASA), Johnson Space Center, Houston, 77058, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5081714944",
+            "display_name": "Kathleen Rubins",
+            "orcid": "https://orcid.org/0000-0001-8300-0871",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8300-0871"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rubins, Kathleen H.",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center",
+            "National Aeronautics and Space Administration (NASA), Johnson Space Center, Houston, 77058, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            },
+            {
+              "raw_affiliation_string": "National Aeronautics and Space Administration (NASA), Johnson Space Center, Houston, 77058, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5053684051",
+            "display_name": "Helmut G. Katzgraber",
+            "orcid": "https://orcid.org/0000-0003-3341-9943",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3341-9943"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4387154962",
+              "display_name": "1QBit",
+              "ror": "https://ror.org/04eswfz98",
+              "country_code": null,
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4387154962"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I91045830",
+              "display_name": "Texas A&M University",
+              "ror": "https://ror.org/01f5ytq51",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91045830"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Katzgraber, Helmut G.",
+          "raw_affiliation_strings": [
+            "Texas A&M University",
+            "1QB Information Technologies (1QBit), Vancouver, BC, V6B 4W4, Canada"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Texas A&M University",
+              "institution_ids": [
+                "https://openalex.org/I91045830"
+              ]
+            },
+            {
+              "raw_affiliation_string": "1QB Information Technologies (1QBit), Vancouver, BC, V6B 4W4, Canada",
+              "institution_ids": [
+                "https://openalex.org/I4387154962"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5075478892",
+            "display_name": "Ann R. Kennedy",
+            "orcid": "https://orcid.org/0000-0002-1602-2015",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1602-2015"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I79576946",
+              "display_name": "University of Pennsylvania",
+              "ror": "https://ror.org/00b30xv10",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I79576946"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kennedy, Ann R.",
+          "raw_affiliation_strings": [
+            "University of Pennsylvania Perelman School of Medicine",
+            "Department of Radiation Oncology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, 19104, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Pennsylvania Perelman School of Medicine",
+              "institution_ids": [
+                "https://openalex.org/I79576946"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Radiation Oncology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, 19104, USA",
+              "institution_ids": [
+                "https://openalex.org/I79576946"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:digitalcommons.lsu.edu:physics_astronomy_pubs-1707",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://digitalcommons.lsu.edu/physics_astronomy_pubs/627",
+        "pdf_url": "https://digitalcommons.lsu.edu/cgi/viewcontent.cgi?article=1707&context=physics_astronomy_pubs",
+        "source": {
+          "id": "https://openalex.org/S4210169993",
+          "display_name": "Civil War Book Review",
+          "issn_l": "1528-6592",
+          "issn": [
+            "1528-6592"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310315936",
+          "host_organization_name": "Louisiana State University",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315936"
+          ],
+          "host_organization_lineage_names": [
+            "Louisiana State University"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Faculty Publications",
+        "raw_type": "text"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://digitalcommons.lsu.edu/cgi/viewcontent.cgi?article=1707&context=physics_astronomy_pubs",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W4413191180",
+      "doi": "https://doi.org/10.2514/6.2025-99519",
+      "title": "Advancing Laser Communication for Mars Orbital Missions",
+      "publication_year": 2025,
+      "cited_by_count": 0,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5118744932",
+            "display_name": "Om Nath Acharya",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Om Acharya",
+          "raw_affiliation_strings": [
+            ""
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.2514/6.2025-99519",
+        "doi": "https://doi.org/10.2514/6.2025-99519",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2514/6.2025-99519",
+        "pdf_url": "https://arc.aiaa.org/doi/pdf/10.2514/6.2025-99519",
+        "source": {
+          "id": "https://openalex.org/S7407086347",
+          "display_name": "AIAA Regional Student Conferences",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2025 Regional Student Conferences",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://arc.aiaa.org/doi/pdf/10.2514/6.2025-99519",
+        "any_repository_has_fulltext": false
+      }
+    }
+  ],
+  "group_by": []
+}

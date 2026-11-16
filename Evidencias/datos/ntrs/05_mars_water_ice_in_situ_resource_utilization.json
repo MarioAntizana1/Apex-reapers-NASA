@@ -1,0 +1,2605 @@
+{
+  "stats": {
+    "took": 108,
+    "total": 41,
+    "estimate": false,
+    "maxScore": 280.65906
+  },
+  "results": [
+    {
+      "_meta": {
+        "score": 280.65906
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20110014076,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "faae9a6724b545dca1efaf30df688a7c",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20110014076,
+        "ear": "NO",
+        "id": "c96a3ba7ee4b440eab13611c9381b2f3",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "KSC-2011-106",
+        "Report Number: KSC-2011-106"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "NAS10-03006",
+          "submissionId": 20110014076,
+          "id": "fea78531744d40c495579a056ad9df85",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Mars In-Situ Resource Utilization Technology Evaluation",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-25T07:46:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20110014076,
+          "meta": {
+            "author": {
+              "name": "Santiago-Maldonado, Edgardo"
+            },
+            "organization": {
+              "name": "NASA Kennedy Space Center",
+              "location": "Cocoa Beach, FL, United States"
+            }
+          },
+          "id": "b0a7f1f065014106ba1634b63cc225be"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20110014076,
+          "meta": {
+            "author": {
+              "name": "Muscatello, Anthony"
+            },
+            "organization": {
+              "name": "NASA Kennedy Space Center",
+              "location": "Cocoa Beach, FL, United States"
+            }
+          },
+          "id": "5a82d4bf6d8a4664b67fa0aa730cb8dd"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20110014076,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-25T07:46:00.0000000+00:00",
+      "center": {
+        "code": "KSC",
+        "name": "Kennedy Space Center",
+        "id": "a74d241e0e974719b03cb45cbace6b20"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "We have examined the technologies required to enable Mars Tn-Situ Resource Utilization (ISRU) because our understanding of Mars resources has changed significantly in the last five years as a result of recent robotic missions to the red planet [1-4]. Two major developments, (1) confirmation of the presence of near-surface water in the form of ice in very large amounts at high latitudes by the Phoenix Lander and (2) the likely existence of water at lower latitudes in the form of hydrates or ice in the top one meter of the regolith, have the potential to change ISRU technology selection. A brief technology assessment was performed for the most promising Mars atmospheric gas processing techniques: Reverse Water Gas Shift (RWGS) and Methanation (aka Sabatier), as well as an overview of soil.processing technology to extract water from Martian soil.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "country": "Canada",
+          "submissionId": 20110014076,
+          "endDate": "2011-06-22T00:00:00.0000000+00:00",
+          "name": "2nd Annual Joint Planetary and Terrestrial Mining Sciences Symposium and Space Resources Roundtable/NORCAT and CSA",
+          "location": "Ottawa, Ontario",
+          "id": "48d0aaad19a445bb957c47d2e4341be6",
+          "startDate": "2011-06-19T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20110014076,
+          "id": "0a2b6e5197034c8296335069bc1293f8",
+          "publicationDate": "2011-06-19T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20110014076.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20110014076/downloads/20110014076.pdf",
+            "pdf": "/api/citations/20110014076/downloads/20110014076.pdf",
+            "fulltext": "/api/citations/20110014076/downloads/20110014076.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 280.38986
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20120001775,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "bfe94b2fc6fa4f40a9c610072c7c8cb4",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Space Sciences (General)"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20120001775,
+        "ear": "NO",
+        "id": "e2badbbf4e894206b4e8fcc18d3c2ba5",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "KSC-2011-106RR",
+        "KSC-2011-106R",
+        "KSC-2012-002R",
+        "KSC-2011-106",
+        "Report Number: KSC-2011-106RR",
+        "Report Number: KSC-2011-106R",
+        "Report Number: KSC-2012-002R",
+        "Report Number: KSC-2011-106"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "NAS10-03006",
+          "submissionId": 20120001775,
+          "id": "9193d238160f4843afaf8a32b6b7d695",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Mars in Situ Resource Utilization Technology Evaluation",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-25T19:44:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20120001775,
+          "meta": {
+            "author": {
+              "name": "Muscatello, Anthony C."
+            },
+            "organization": {
+              "name": "NASA Kennedy Space Center",
+              "location": "Cocoa Beach, FL, United States"
+            }
+          },
+          "id": "da38a40e257f4f14be0b5c5796cb4b01"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20120001775,
+          "meta": {
+            "author": {
+              "name": "Santago-Maldonado, Edgardo"
+            },
+            "organization": {
+              "name": "NASA Kennedy Space Center",
+              "location": "Cocoa Beach, FL, United States"
+            }
+          },
+          "id": "2c38401c0fd844d6b198c5681a8f78dc"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20120001775,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-25T19:44:00.0000000+00:00",
+      "center": {
+        "code": "KSC",
+        "name": "Kennedy Space Center",
+        "id": "a74d241e0e974719b03cb45cbace6b20"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "We have examined the technologies required to enable Mars In-Situ Resource Utilization (ISRU) because our understanding of Mars resources has changed significantly in the last five years as a result of recent robotic missions to the red planet. Two major developments, (1) confirmation of the presence of near-surface water in the form of ice in very large amounts at high latitudes by the Phoenix Lander and (2) the likely existence of water at lower latitudes in the form of hydrates or ice in the top one meter of the regolith, have the potential to change ISRU technology selection. A brief technology assessment was performed for the most promising Mars atmospheric gas processing techniques: Reverse Water Gas Shift (RWGS) and Methanation (aka Sabatier), as well as an overview of soil processing technology to extract water from Martian soil.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "submissionId": 20120001775,
+          "name": "American Inst. of Aeronautics and Astronautics",
+          "location": "Reston, VA, United States",
+          "id": "6d68476b7b934f769a21361b01820fa4"
+        },
+        {
+          "country": "United States",
+          "submissionId": 20120001775,
+          "endDate": "2012-01-12T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "American Inst. of Aeronautics and Astronautics",
+                  "location": "Reston, VA, United States"
+                }
+              },
+              "meetingId": "475f023b303f4dc3956ecff6fd09a2d5",
+              "id": "e75fc16a96224f3a83b8d7b8f6aaa61e"
+            }
+          ],
+          "name": "50TH AIAA Aerospace Sciences Meeting",
+          "location": "Nashville, TN",
+          "id": "475f023b303f4dc3956ecff6fd09a2d5",
+          "startDate": "2012-01-09T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20120001775,
+          "id": "833e8aaebb87400a94cf7cee0efb4483",
+          "publicationDate": "2012-01-09T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20120001775.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20120001775/downloads/20120001775.pdf",
+            "pdf": "/api/citations/20120001775/downloads/20120001775.pdf",
+            "fulltext": "/api/citations/20120001775/downloads/20120001775.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 267.3977
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "MAY_INCLUDE_COPYRIGHT_MATERIAL",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20230011739,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "044cf1e355e14d6791bb673dc0dde47d",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar and Planetary Science and Exploration",
+        "Life Sciences (General)"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20230011739,
+        "ear": "NO",
+        "id": "4096659d741d46bfb4566bdb625a78cd",
+        "itar": "NO"
+      },
+      "distributionDate": "2023-10-02T05:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "NNJ13HA01C",
+          "submissionId": 20230011739,
+          "id": "c5749a6662274b79aec2c82738ac36e0",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Investigating the Applications of In-Situ Resource Utilization for Future Crewed Mars Missions",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2023-08-08T15:08:58.7964330+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20230011739,
+          "meta": {
+            "author": {
+              "name": "Annika Sachdeva"
+            },
+            "organization": {
+              "name": "Pine Crest School"
+            }
+          },
+          "id": "de45b209f17543b987d318ac12945e05",
+          "userType": "OTHER"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20230011739,
+          "meta": {
+            "author": {
+              "name": "Ian Nelson"
+            },
+            "organization": {
+              "name": "Grace Bretheren High School"
+            }
+          },
+          "id": "286c3970a28b41d9953fbd49448d2a76",
+          "userType": "OTHER"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20230011739,
+          "meta": {
+            "author": {
+              "name": "Grace Murray"
+            },
+            "organization": {
+              "name": "Adlai E Stevenson High School"
+            }
+          },
+          "id": "69e2816dba4c47b3ab1374f14697d8e7",
+          "userType": "OTHER"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20230011739,
+          "meta": {
+            "author": {
+              "name": "Jacky Law"
+            },
+            "organization": {
+              "name": "Lowell High School"
+            }
+          },
+          "id": "2dcdd171461a46a0b63e1c1d54557d68",
+          "userType": "OTHER"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20230011739,
+          "meta": {
+            "author": {
+              "name": "Jayla Edwards"
+            },
+            "organization": {
+              "name": "Liberty High School"
+            }
+          },
+          "id": "2137ac4f4c02400aa8b7a90dbfcc2557",
+          "userType": "OTHER"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20230011739,
+          "meta": {
+            "author": {
+              "name": "Symone Henry"
+            },
+            "organization": {
+              "name": "Classen School of Advanced Studies at NE High School"
+            }
+          },
+          "id": "027fa88426b54edc90b859c013411e8e",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "99fa64c96f0950678abfcdd84ba26bf5",
+          "sequence": 6,
+          "submissionId": 20230011739,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "S J Ralston"
+            },
+            "organization": {
+              "name": "Jacobs (United States)",
+              "location": "Dallas, Texas, United States"
+            }
+          },
+          "id": "4932f0eb7c184197b9370405dea6decf",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "5ce65eddca294e7bae2c8b4460cbc07d"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20230011739,
+      "created": "2023-08-08T14:58:43.4075090+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": true,
+      "sensitiveInformation": 2,
+      "abstract": "There are significant gaps in knowledge regarding the water ice on Mars and future\npreparation for human missions. So far, six rovers have traversed Mars’ rocky surface, aiming to understand the planet’s composition and search for signs of life. A rover mission set to explore the high northern latitudes of Mars with the goal of analyzing ice cores could greatly advance scientific knowledge to better understand Mars’s ancient climate and geochemistry. As of now, little has been accomplished in the exploration of colder regions and the extraction of water ice apart from the Phoenix lander and the Viking 2 mission; however, the science potential of the\nPhoenix and Viking landers was limited due to their inability to explore terrain like rovers. The exploration of the near-polar region Arcadia Planitia and its water ice deposits could reveal signs of past microbial life through preserved biosignatures. Additionally, to prepare for permanent human habitation on Mars, this proposed rover could continue the characterization of Mars’s current land and mineral composition, and search for materials that future humans may need on Mars (such as water for habitation, basalt for construction, and olivine for manufacturing purposes). This would increase understanding of the potential for in-situ resource utilization\n(ISRU) on Mars. The use of ISRU will reduce the amount of material needed on the initial flight, and similarly will reduce fuel costs. The mission to Arcadia Planitia incorporates the use of various mineral-extracting and imaging instruments (Martian Ice Core Analyzer, ground-penetrating radar, NavCam, Mars Environmental Dynamics Analyzer, SuperCam, etc.) to collect data from water ice and geologic samples. A near-polar rover mission to Mars would illuminate Mars’ past and present, while learning more about martian resources to benefit human explorers in the future. ",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20230011739,
+        "id": "5c1794e42ebb4af5888d63b4ac37efa8"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20230011739,
+          "endDate": "2023-12-15T06:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "2c68d5a64328524bad2bff8993b4dc5f",
+              "meta": {
+                "organization": {
+                  "name": "American Geophysical Union",
+                  "location": "Washington D.C., District of Columbia, United States"
+                }
+              },
+              "meetingId": "b6dc9ffd6c154ae895c94174b13bd69a",
+              "id": "7a123663f5ad4117bcbfa5fc5557d5b4"
+            }
+          ],
+          "name": "AGU Fall Meeting",
+          "location": "San Francisco, CA",
+          "id": "b6dc9ffd6c154ae895c94174b13bd69a",
+          "url": "https://www.agu.org/Fall-Meeting",
+          "startDate": "2023-12-11T06:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20220011402,
+          "type": "SEE_ALSO",
+          "title": "Investigating the Applications of In-Situ Resource Utilization for Future Crewed Mars Missions",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 238.59125
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20190029199,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "52e420028fdc4ac79398a0df7b9a590c",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "In-situ Resource Utilization"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "eccnNumber": "",
+        "submissionId": 20190029199,
+        "ear": "NO",
+        "id": "18a9d64fdd214debb437c12203c7abd7",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-08-23T12:09:57.3370000+00:00",
+      "otherReportNumbers": [
+        "GRC-E-DAA-TN69644",
+        "Report Number: GRC-E-DAA-TN69644"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "460421.04.23.22.01",
+          "submissionId": 20190029199,
+          "id": "56ce861b51344cb2bc4deda79953e673",
+          "type": "WBS"
+        }
+      ],
+      "title": "Current NASA In-Situ Resource Utilization (ISRU) Strategic Vision",
+      "stiType": "PRESENTATION",
+      "distribution": "PUBLIC",
+      "submittedDate": "2019-08-20T11:54:00.2270000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20190029199,
+          "meta": {
+            "author": {
+              "name": "Linne, Diane"
+            },
+            "organization": {
+              "name": "NASA Glenn Research Center",
+              "location": "Cleveland, OH, United States"
+            }
+          },
+          "id": "ed9a18e3e0d542bf8d7d5a861ec1034c"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20190029199,
+          "meta": {
+            "author": {
+              "name": "Sanders, Gerald"
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "f5da9149e48f48388c219ba5f3e4fef4"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20190029199,
+          "meta": {
+            "author": {
+              "name": "Kleinhenz, Julie"
+            },
+            "organization": {
+              "name": "NASA Glenn Research Center",
+              "location": "Cleveland, OH, United States"
+            }
+          },
+          "id": "2ef426259c934e60a42793e2737d3ed4"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20190029199,
+          "meta": {
+            "author": {
+              "name": "Moore, Landon"
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "352c9944b0ac46a09cce48aee3e260c9"
+        }
+      ],
+      "stiTypeDetails": "Presentation",
+      "technicalReviewType": "SINGLE_EXPERT",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20190029199,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2019-08-20T11:54:00.2270000+00:00",
+      "center": {
+        "code": "GRC",
+        "name": "Glenn Research Center",
+        "id": "19eeb25fa404421d9eaa5f876e853e3c"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Perform development to TRL 5/6 through ground demonstration in relevant environment. Perform component/subscale subsystem flight demonstrations on small/mid-size landers. Assess and characterize water in volatiles in lunar polar shadowed regions and craters. Reduce risk of ISRU for mission critical consumables through Integrated End-to-End Flight Demonstrations (pilot scale). Establish initial Human Mission Scale production capability to promote sustainable operations and as anchor for commercial involvement. Identify and characterize polar region environment and resources/volatiles for Science and future Exploration/Commercial applications. Provide ground-truth physical, mineral, and water/volatile resource characteristic information at multiple locations to provide geological context for science-focused theories of volatile placement and initial mining assessments.Test technologies and processes to reduce risk of future extraction/mining systems. Quantify concentration and lateral/vertical distribution of resources/volatiles. Utilize ISRU capabilities to Extend and Enhance Human Lunar Exploration Missions. Provide oxygen (and fuel) to enable reusable human lunar lander (10+ MT/yr O2)Process carbon-based crew waste/trash into gases and propellants; can reduce logistics while minimizing public perception issues (alternative is conversion to radiation shielding). Scavenge unused propellants and hardware from spent landers. Metal extraction from regolith as feedstock for in situ and in space manufacturing demonstrations. Civil engineering and construction aimed at future outpost/infrastructure build-up. Develop and Demonstrate ISRU for Human Mars Missions. ISRU for propellant production (10-15 MT/yr); Liquefy, store, transfer, and refuel ascent vehicle. Use Moon for operational experience and mission validation for Mars: Pre-deployment & remote activation and operation without crew. Storing and transferring mission consumables Landing crew with empty tanks with ISRU propellants already made and waiting. Support/Promote Commercialization of Space. Large scale polar ice mining (100+ MT/yr water)O2/H2 propulsion for landers/cis-lunar transportation with surface and in space depots. In situ construction and energy expansion at mining and human outpost site(s). ISRU Ground Development. Develop and advance ISRU technologies to enable acquisition of resources and processing into mission consumables. Utilize Multi-center collaboration with a portfolio that includes internal NASA work, external contracts, and collaborative agreements/partnerships. Where appropriate, develop lunar ISRU components and subsystems with a Mars-forward application. Engage industry through public-private partnerships to lay the foundation for long-term lunar and space economic development. Spin-in/spin-out technologies for terrestrial applications and industry (mining, oil & gas, alternative energy, construction). Flight Demonstration Path to Operational ISRU. Utilize small demonstrations with near off-the-shelf hardware to obtain critical information quickly on lunar resources and operations. Demonstrate critical technologies and processes that interact with lunar materials and environments. Perform 'pilot plant' demonstrations at architecture relevant scales and durations to reduce the risk for ISRU-provided products for critical human mission applications.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "country": "Algeria",
+          "submissionId": 20190029199,
+          "endDate": "2019-06-14T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "d514daf29f4e442ea71de32b670f0bf4",
+              "meta": {
+                "organization": {
+                  "name": "Space Resources Roundtable, Inc. (SRR)",
+                  "location": "CO, United States"
+                }
+              },
+              "meetingId": "d0e55b9c817f49f59ccc1fd966abc7bc",
+              "id": "02f3599a206047b0a66081c1cced64ba"
+            }
+          ],
+          "name": "Space Resources Roundtable Planetary & Terrestrial Mining and Sciences Symposium",
+          "location": "Golden, CO",
+          "id": "d0e55b9c817f49f59ccc1fd966abc7bc",
+          "startDate": "2019-06-11T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20190029199,
+          "id": "61f21905b5714a30ad310fb86daf9810",
+          "publicationDate": "2019-06-11T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20190029199.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20190029199/downloads/20190029199.pdf",
+            "pdf": "/api/citations/20190029199/downloads/20190029199.pdf",
+            "fulltext": "/api/citations/20190029199/downloads/20190029199.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 222.87953
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20180006495,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "2835206a574743469e6c467f8e790501",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "ISRU",
+        "Mars Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "eccnNumber": "",
+        "submissionId": 20180006495,
+        "ear": "NO",
+        "id": "bf61a2900cf74cfc8d8e8aa8bd0c2e1b",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "JSC-E-DAA-TN58058",
+        "Report Number: JSC-E-DAA-TN58058"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "NNJ11HB94C",
+          "submissionId": 20180006495,
+          "id": "128452204cea4310b034c17617d9df97",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Don't Forget About... (Factoring in Everything for Successful Mars Exploration): In Situ Resource Utilization",
+      "stiType": "PRESENTATION",
+      "distribution": "PUBLIC",
+      "submittedDate": "2018-10-18T11:52:25.4230000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20180006495,
+          "meta": {
+            "author": {
+              "name": "Hoffman, Stephen J."
+            },
+            "organization": {
+              "name": "Aerospace Corp.",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "64e482291d0c46a8a85bfafbf4dad210"
+        }
+      ],
+      "stiTypeDetails": "Presentation",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20180006495,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2018-10-18T11:52:25.4230000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Using In Situ Resources means reduced transportation requirements from Earth and a larger source of materials than might otherwise be available. Of the many in situ resources available on Mars, perhaps the most valuable is water. One facet of NASA's current Mars Exploration Program is a search for the locations and quantities of water in various forms: Subsurface liquid water aquafers; Surface and subsurface water ice and icy soils - Lineated Valley Fill (LVF), Lobate Debris Aprons (LDAs), Concentric Crater Fill (CCF); Hydrated minerals - Chlorides, Phyllosilicates, Sulfates, etc.; \"Average regolith.\" Access to massive quantities of water could change surface mission concepts of operation and drive site selection. Availability of massive quantities of water could enable or change current assumptions for: Propellant manufacturing; Radiation protection;- \"Relaxed\" requirements for a closed loop ECLSS (Environmental Control and Life Support System); Crop growth; Improved crew amenities, such as more frequent showers and laundry.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "submissionId": 20180006495,
+          "name": "International Conference On Environmental Systems, Inc.",
+          "location": "Stafford Springs, CT, United States",
+          "id": "b97ecedbf69c4e98a1f681a7b16b716c"
+        },
+        {
+          "country": "United States",
+          "submissionId": 20180006495,
+          "endDate": "2018-07-12T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "International Conference On Environmental Systems, Inc.",
+                  "location": "Stafford Springs, CT, United States"
+                }
+              },
+              "meetingId": "6cefe82b7b3740b4b364c9ce40615ad4",
+              "id": "c5e4bdfeaf6b4681a2b71ecd255d246f"
+            }
+          ],
+          "name": "International Conference on Environmental Systems (ICES 2018)",
+          "location": "Albuquerque, NM",
+          "id": "6cefe82b7b3740b4b364c9ce40615ad4",
+          "startDate": "2018-07-08T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20180006495,
+          "id": "47265a7334d14333914afef9ab1967a0",
+          "publicationDate": "2018-07-08T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20180006495.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20180006495/downloads/20180006495.pdf",
+            "pdf": "/api/citations/20180006495/downloads/20180006495.pdf",
+            "fulltext": "/api/citations/20180006495/downloads/20180006495.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 205.56604
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20220016292,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "4f2f10641a7e4b738c78955c657d34ea",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Launch Vehicles And Launch Operations",
+        "Lunar And Planetary Science And Exploration",
+        "Spacecraft Design, Testing And Performance",
+        "Spacecraft Propulsion And Power"
+      ],
+      "keywords": [
+        "Titan",
+        "Sample Return",
+        "ISRU",
+        "In-situ Resource Utilization",
+        "RPS",
+        "DRPS"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20220016292,
+        "ear": "NO",
+        "id": "364b7e1320d64f908ddfdad1c339aa4f",
+        "itar": "NO"
+      },
+      "distributionDate": "2022-12-14T05:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "CD-2021-186",
+        "E-20085",
+        "NASA/TM-20220016292"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "371544.01.21.01.22.01",
+          "submissionId": 20220016292,
+          "id": "3ec2b4fe408c4297a03c462e9c27a0f0",
+          "type": "WBS"
+        }
+      ],
+      "title": "Titan In-situ Resource Utilization (ISRU) Sample Return (TISR)",
+      "stiType": "TECHNICAL_MEMORANDUM",
+      "distribution": "PUBLIC",
+      "submittedDate": "2022-10-28T17:26:47.1918240+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 0,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Steven Oleson"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, Ohio, United States"
+            }
+          },
+          "id": "b71084650696448da3bcd4533af790d6",
+          "userType": "CIVIL",
+          "userId": "63afc1976508474db532a4dc14d3f349"
+        },
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 1,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Geoffrey Landis"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, Ohio, United States"
+            }
+          },
+          "id": "5753ce2f232445a4bb823f8ff904d896",
+          "userType": "CIVIL",
+          "userId": "676ac24df7d4410e8f3616c7cfa8cac9"
+        },
+        {
+          "organizationId": "251428d1f6e25a48b6c23a4a86e3332b",
+          "sequence": 2,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Ralph Lorenz"
+            },
+            "organization": {
+              "name": "Johns Hopkins University Applied Physics Laboratory",
+              "location": "North Laurel, Maryland, United States"
+            }
+          },
+          "id": "e1887be718c5491da15c2017be9aabc0",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "c064ed614aa74e53a2049215c1077531"
+        },
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 3,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Elizabeth Turnbull"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, Ohio, United States"
+            }
+          },
+          "id": "7c22fe65da174622bd4464730f683b27",
+          "userType": "CIVIL",
+          "userId": "444971cfc2354f7aad4791b23df7a280"
+        },
+        {
+          "organizationId": "44b59c87ea2f42cb961e74070737a164",
+          "sequence": 4,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Thomas Packard"
+            },
+            "organization": {
+              "name": "HX5, LLC",
+              "location": ""
+            }
+          },
+          "id": "abcc1fd77fe144a984595d09069be629",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "2b00ab7e1de04c6da8656c5cdc44cf12"
+        },
+        {
+          "organizationId": "44b59c87ea2f42cb961e74070737a164",
+          "sequence": 5,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Anthony Colozza"
+            },
+            "organization": {
+              "name": "HX5, LLC",
+              "location": ""
+            }
+          },
+          "id": "2442ad93bc614e26825462a9f55a5fd4",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "7d807a6a85f54dc6a15ac6ffcf7d4b6f"
+        },
+        {
+          "organizationId": "44b59c87ea2f42cb961e74070737a164",
+          "sequence": 6,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "David Smith"
+            },
+            "organization": {
+              "name": "HX5, LLC",
+              "location": ""
+            }
+          },
+          "id": "35af09cd441d495cb04bd3c434479c06",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "caad62b3e431411b88c35567f7df9e7a"
+        },
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 7,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Jeffrey Pekosh"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, Ohio, United States"
+            }
+          },
+          "id": "ebef71025f0b4a29b80e7128adcb8736",
+          "userType": "CIVIL",
+          "userId": "d444ad7339d04035bd4cec0e44efbe71"
+        },
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 8,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Steven McCarty"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, Ohio, United States"
+            }
+          },
+          "id": "384b858bf02f44ccbcee22df6c4a1a6f",
+          "userType": "CIVIL",
+          "userId": "864a562bfa7941af98d034562e3cdea7"
+        },
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 9,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Zachary Zoloty"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, Ohio, United States"
+            }
+          },
+          "id": "e7d45cce629d42afa56aedc1a3f66c66",
+          "userType": "CIVIL",
+          "userId": "cdb5f991972e4c698b3adc19c12fc370"
+        },
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 10,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Laura Burke"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, Ohio, United States"
+            }
+          },
+          "id": "03abb0bee9b54dfa8b2f270448d177ac",
+          "userType": "CIVIL",
+          "userId": "2322decf9de64fe99c72ed629f59fc6e"
+        },
+        {
+          "organizationId": "0291484a486d59268bc0121b8d642caf",
+          "sequence": 11,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "James Fittje"
+            },
+            "organization": {
+              "name": "Science Applications International Corporation (United States)",
+              "location": "McLean, Virginia, United States"
+            }
+          },
+          "id": "4d4fc1a2c2544e26adfb3ae32ffce8ab",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "fbc1e7ec72b94a0a984b81b529dcb000"
+        },
+        {
+          "organizationId": "44b59c87ea2f42cb961e74070737a164",
+          "sequence": 12,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "John Gyekenyesi"
+            },
+            "organization": {
+              "name": "HX5, LLC",
+              "location": ""
+            }
+          },
+          "id": "9a7fee5ad68c4051a9cb176b4a21b03f",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "a98fb35368494d3fa772037f55b5459d"
+        },
+        {
+          "organizationId": "46fd4446537a4a2182dedf553da43efb",
+          "sequence": 13,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Paul Schmitz"
+            },
+            "organization": {
+              "name": "Power Computing Solutions Inc.",
+              "location": "Avon Lake, Ohio, USA"
+            }
+          },
+          "id": "4e774bc8866d4d719bacbb24e5cc10c1",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "3fdce8e63a3f45348f4d56f0c0509f31"
+        },
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 14,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Lucia Tian"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, Ohio, United States"
+            }
+          },
+          "id": "0c5d6ad6acd24a7f8e4a785f1bdcbdea",
+          "userType": "CIVIL",
+          "userId": "5f81ffbf2b924e9998e4fc23b8d7b0b7"
+        },
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 15,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Steven Korn"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, Ohio, United States"
+            }
+          },
+          "id": "c387dd936e1d44b598e5fac74ea40738",
+          "userType": "CIVIL",
+          "userId": "6b1110543ef4421481304ef444a204cc"
+        },
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 16,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Nick Uguccini"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, Ohio, United States"
+            }
+          },
+          "id": "a665f47a56b44945a7581d813d2900b3",
+          "userType": "CIVIL",
+          "userId": "90286bd519684c27ada2e54e0f218ce5"
+        },
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 17,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Brent Faller"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, Ohio, United States"
+            }
+          },
+          "id": "2b3dc4979b4a4311b833029714dba43c",
+          "userType": "CIVIL",
+          "userId": "101f20301d9344b58b9b53786a1181da"
+        },
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 18,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Christine Schmid"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, Ohio, United States"
+            }
+          },
+          "id": "1f822c3e5f524ce6ae4f17bb4917c31c",
+          "userType": "CIVIL",
+          "userId": "af438fdb9a784654b1b29d6ffad1558e"
+        },
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 19,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Christopher Heldman"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, Ohio, United States"
+            }
+          },
+          "id": "6c3bafd845ea4f83b14f0b2d8625aca9",
+          "userType": "CIVIL",
+          "userId": "8635b3b95ef34277a0b76dbbf45be965"
+        },
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 20,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "W Peter Simon"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, Ohio, United States"
+            }
+          },
+          "id": "0f45771538754ff78419d6a9553bbf76",
+          "userType": "CIVIL",
+          "userId": "526daf2a728d4f1e9792611f236b8e37"
+        },
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 21,
+          "submissionId": 20220016292,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Onoufrios Theofylaktos"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, Ohio, United States"
+            }
+          },
+          "id": "d009459798534c57adc0208c7e109119",
+          "userType": "CIVIL",
+          "userId": "feb49a1a129b4295bded147f394bc86a"
+        }
+      ],
+      "stiTypeDetails": "Technical Memorandum (TM)",
+      "technicalReviewType": "NASA_PEER_COMMITTEE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20220016292,
+      "created": "2022-10-28T16:41:08.4901120+00:00",
+      "center": {
+        "code": "GRC",
+        "name": "Glenn Research Center",
+        "id": "19eeb25fa404421d9eaa5f876e853e3c"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Titan is unique in the outer solar system in that it is the only moon with a thick atmosphere, and the only body in the solar system outside the Earth with liquid seas on its surface. The Titanian oceans, however, are seas of liquid hydrocarbons, and the rocks on the surface are solid water ice. Like other icy Moons of the outer solar system, beneath the ice crust, Titan also has a subsurface ocean. Rodriguez et al. refer to it as the “world with two oceans”, an organic-rich body with interior-surface-atmosphere interactions that are comparable in complexity to the Earth. [1]\nTitan is scientifically fascinating in many ways [2], [3], [4]. The Compass Team will emphasize just one here: Titan is a high priority target for astrobiology [4] [5] [6] [7] [8] [9] [10] [11]. It is a world with a surface and atmosphere rich in the complex organic compounds known as tholins. A detailed understanding of the nature of these complex compounds will require an analysis using a full laboratory on Earth. Because of its value to understanding the organic compounds of the outer solar system which may be the primordial building-blocks of life, return of samples from Titan to laboratories on Earth will be the primary goal of this mission.\nWhile this would give unprecedented science return, returning even a small sample from Titan using conventional technology would be tremendously difficult. Saturn is almost a billion miles from the Earth, about thirteen times farther than Mars. A return mission to Saturn requires such a large total-mission ∆V that, with conventional technology, the mass ratios required are prohibitive. Such a sample return would truly be “mission incredible.” But to date, a sample return mission from so distant a target has been assumed to be, not merely incredible, but mission impossible. The Compass Team has proposed [2] [12] that by manufacturing the propellant for the return to Earth using the resources available on Titan, such a mission becomes possible. The task of this report is to show that it is reasonable with credible space technology.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20220016292,
+        "id": "f7f0b4bdf547491bb8088510b64a99df"
+      },
+      "publications": [
+        {
+          "submissionId": 20220016292,
+          "id": "99818e249b6d438c84a071bffb94a024",
+          "publicationDate": "2022-12-14T05:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "TM-20220016292.pdf",
+          "notes": "False positive. Circuit hit as match for \"CUI.\"",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20220016292/downloads/TM-20220016292.pdf",
+            "pdf": "/api/citations/20220016292/downloads/TM-20220016292.pdf",
+            "fulltext": "/api/citations/20220016292/downloads/TM-20220016292.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 183.46732
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20220002137,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "e3b96364b7644cbcb28f2432ad12e4d6",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "astrobiology",
+        "in-situ resource utilization",
+        "ISRU",
+        "Mars life detection",
+        "resource surveys"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20220002137,
+        "ear": "NO",
+        "id": "71fafb8d06b64bf1bc23fda2ab56894f",
+        "itar": "NO"
+      },
+      "distributionDate": "2022-08-01T07:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "811073.02.52.01.19",
+          "submissionId": 20220002137,
+          "id": "d20278aa3063485faf149f8828fb6f8d",
+          "type": "WBS"
+        }
+      ],
+      "title": "Mars Commercial-Compatible Initial Human-Precursor Surveying and Instrument-Deployment Concepts",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2022-02-08T02:45:51.4860530+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "7f9c4cf9cb6f517db6b0fb40eb584c03",
+          "sequence": 0,
+          "submissionId": 20220002137,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Brian Glass"
+            },
+            "organization": {
+              "name": "Ames Research Center",
+              "location": "Mountain View, California, United States"
+            }
+          },
+          "id": "df42b16da05d439ab6f3a8c81dfedfb1",
+          "userType": "CIVIL",
+          "userId": "2d2f451dd04f4ca5a1a59415be6f6ca9"
+        },
+        {
+          "organizationId": "cb849bea375250cda8a92d42302c1597",
+          "sequence": 1,
+          "submissionId": 20220002137,
+          "meta": {
+            "author": {
+              "name": "Dean Bergman"
+            },
+            "organization": {
+              "name": "Honeybee Robotics (United States)",
+              "location": "Brooklyn, New York, United States"
+            }
+          },
+          "id": "cfd03ef567574786a6e5b20f93be9331",
+          "userType": "OTHER",
+          "userId": "24bd512e9dbf4a9bb86987e2824ed82e"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 2,
+          "submissionId": 20220002137,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Arno Rogg"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "103fe6bd38974a868d02d067e1612547",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "1b327c826fac452792e031f99ccb5abe"
+        },
+        {
+          "organizationId": "e081fcbdcd5059fa8fa7b6c5c6a2c483",
+          "sequence": 3,
+          "submissionId": 20220002137,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Jen Eigenbrode"
+            },
+            "organization": {
+              "name": "Goddard Space Flight Center",
+              "location": "Greenbelt, Maryland, United States"
+            }
+          },
+          "id": "c500c56eafb244e8afc62245070f9715",
+          "userType": "CIVIL",
+          "userId": "85850dc3d81a40b9a9db787d63a284ba"
+        },
+        {
+          "organizationId": "e081fcbdcd5059fa8fa7b6c5c6a2c483",
+          "sequence": 4,
+          "submissionId": 20220002137,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Jen Stern"
+            },
+            "organization": {
+              "name": "Goddard Space Flight Center",
+              "location": "Greenbelt, Maryland, United States"
+            }
+          },
+          "id": "556fc32654cf435b97aacb31781de3e7",
+          "userType": "CIVIL",
+          "userId": "a43b316534964b609c5ffe35c323205c"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "NASA_PEER_COMMITTEE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20220002137,
+      "created": "2022-02-08T02:30:48.9219640+00:00",
+      "center": {
+        "code": "ARC",
+        "name": "Ames Research Center",
+        "id": "4540cd94d24c4bf29f8773a27faf96b2"
+      },
+      "onlyAbstract": true,
+      "sensitiveInformation": 2,
+      "abstract": "Water is a critical resource need for future human exploration and habitation of Mars and other planetary environments.  An integral scientific question in the search for life outside of Earth is: What are the constraints on life in planetary environments? One of the most critical features of habitable environments is the availability of water - both as an environment for prebiotic chemistry, abiogenesis, and life; and as a vehicle for generating geo- and electro- chemical systems that can support metabolism. Seeking evidence of life prior to human arrival is important both to preserve signs of any existing or past evidence of Martian life, reducing the risks of unintentional forward contamination of Martian environments, and to potentially protect the health of any human crews. Looking forward towards Mars, future human exploration will require a rapid, but thorough, initial survey of any local “area of operations” on Mars to determine the spatial distribution, quantity, and quality (e.g., salt/mineral/organic content) of any local water, as well as to evaluate any signs of current or extinct life.  We will discuss several candidate field survey methodologies, involving humans, a teamed instrument platform and a surveying/sampling rover. These are proposed to be validated in a given terrestrial Mars analog environment exhibiting varying distributions of water (ice, permafrost, rock-bound) to evaluate the constraints on life. Commercial space exploration brings the future possibility of unprecedented mass, power and in situ instrument capability, potentially enabling thorough exploration of the geology, hydrology and astrobiology of a km-radius study-zone around a future Mars human/commercial space landing site. We propose to study several representative planetary surface precursor-survey architectures and mission concepts (that are commercial-Mars-compatible), and to test and compare them in field application.  We will examine some of the performance issues, using given metrics and controls, of spacesuited humans using handheld and standalone instruments, vs. a robotic human-tended rover/drill, robot arm and instruments. The latter rover-based architecture can in turn be viewed in terms of returned-to-base sample in-situ analyses vs sample analysis performed on a standalone instrument platform deployed away from the primary area of operations.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20220002137,
+        "id": "6443c1a9862e4eacb392998bac9e77c2"
+      },
+      "meetings": [
+        {
+          "country": "GR",
+          "submissionId": 20220002137,
+          "endDate": "2022-07-24T07:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "Committee for Space Research"
+                }
+              },
+              "meetingId": "5e2e7a2134a34d1aa4a8a776ad70ca65",
+              "id": "e2248c0e3f0d4f7a85be88b0e719ddb4"
+            }
+          ],
+          "name": "COSPAR 2022: 44th Scientific Assembly",
+          "location": "Athens",
+          "id": "5e2e7a2134a34d1aa4a8a776ad70ca65",
+          "url": "https://www.cosparathens2022.org/",
+          "startDate": "2022-07-16T07:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": true,
+          "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "name": "COSPAR22 - Glass abstract draft.docx",
+          "type": "ABSTRACT",
+          "links": {
+            "original": "/api/citations/20220002137/downloads/COSPAR22%20-%20Glass%20abstract%20draft.docx",
+            "pdf": "/api/citations/20220002137/downloads/COSPAR22%20-%20Glass%20abstract%20draft.docx.pdf",
+            "fulltext": "/api/citations/20220002137/downloads/COSPAR22%20-%20Glass%20abstract%20draft.docx.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 181.23207
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20180005542,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "12c9efa20efc444bbfdec9945e722537",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "In-Situ Resource Utilization",
+        "Water",
+        "Extraction"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "eccnNumber": "",
+        "submissionId": 20180005542,
+        "ear": "NO",
+        "id": "96afc7eeffc54dd09a9e1b00c88a8c94",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "GRC-E-DAA-TN57431",
+        "Report Number: GRC-E-DAA-TN57431"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "NNJ11HB94C",
+          "submissionId": 20180005542,
+          "id": "df3b0d6ed1ff43d4acf83d2ed7b1c187",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "NNN12AA01C",
+          "submissionId": 20180005542,
+          "id": "39a4a753bded4bd592ae83f9e08926d1",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "WBS 663323.05.01",
+          "submissionId": 20180005542,
+          "id": "03e45fd148864ee3abe46657ae6c99d6",
+          "type": "WBS"
+        }
+      ],
+      "title": "ISRU Technology Development for Extraction of Water from the Mars Surface",
+      "stiType": "PRESENTATION",
+      "distribution": "PUBLIC",
+      "submittedDate": "2018-09-25T10:06:27.2570000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20180005542,
+          "meta": {
+            "author": {
+              "name": "Kleinhenz, J."
+            },
+            "organization": {
+              "name": "NASA Glenn Research Center",
+              "location": "Cleveland, OH, United States"
+            }
+          },
+          "id": "20d61a38e6cb4d66bda8d9313de4efd7"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20180005542,
+          "meta": {
+            "author": {
+              "name": "Collins, J."
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "f4c4f28a1d8646eebe86045fd47af357"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20180005542,
+          "meta": {
+            "author": {
+              "name": "Barmatz, M."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "fad0a8c0f6de4e2693e8614221e57d11"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20180005542,
+          "meta": {
+            "author": {
+              "name": "Voecks, Gerald E."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "98e2c35dae294e9998a7d0ad4deebf32"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20180005542,
+          "meta": {
+            "author": {
+              "name": "Hoffman, Stephen J."
+            },
+            "organization": {
+              "name": "Aerospace Corp.",
+              "location": "El Segundo, CA, United States"
+            }
+          },
+          "id": "5a8e6dab0b3646c5a893179dee408907"
+        }
+      ],
+      "stiTypeDetails": "Presentation",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20180005542,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2018-09-25T10:06:27.2570000+00:00",
+      "center": {
+        "code": "GRC",
+        "name": "Glenn Research Center",
+        "id": "19eeb25fa404421d9eaa5f876e853e3c"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Goals: Develop technologies to extract water from planetary regolith considering production rate vs: energy/power consumption (efficiency, yield, heat recuperation options); Mass and sizing: modularity, batch sizes, soil feed options, etc.; Ruggedness in terms of soil, environmental, and operational parameters; seals and component wear, etc.; Removal of product and disposal of spent material. Summary: Technology development is underway for several ISRU water extraction hardware concepts for Mars application - Hydrated minerals (Auger dryer, Microwave, Open Air), Subsurface Ice (Rodwell); Models are developed with experimental and breadboard efforts for use in larger ISRU system models; Each effort consists of a 3 year development plan, with the goal of integrating into a larger subsystem test in 2020 - Concurrent technology advance allows for flexibility in system design; depending on architecture decisions and progress of associated subsystems.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "country": "United States",
+          "submissionId": 20180005542,
+          "endDate": "2018-06-15T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "1c8bd7cec4e74dcb8f4894e535a8ae17",
+              "meta": {
+                "organization": {
+                  "name": "Colorado School of Mines",
+                  "location": "Golden, CO, United States"
+                }
+              },
+              "meetingId": "ddf31bab22754ccd813de63bb90298f1",
+              "id": "b697e3595dd7495fbc1b15b938aa2cd7"
+            },
+            {
+              "organizationId": "608cc3ce5dfc4f4db14e969caa882a29",
+              "meta": {
+                "organization": {
+                  "name": "Lunar and Planetary Inst.",
+                  "location": "Houston, TX, United States"
+                }
+              },
+              "meetingId": "ddf31bab22754ccd813de63bb90298f1",
+              "id": "96ad98d97dfb4d6a91c5dfa3bf05b4ff"
+            },
+            {
+              "organizationId": "7b9a9b68bb9e40928cac5125676a7457",
+              "meta": {
+                "organization": {
+                  "name": "Advanced Space, LLC",
+                  "location": "Boulder, CO, United States"
+                }
+              },
+              "meetingId": "ddf31bab22754ccd813de63bb90298f1",
+              "id": "a092b9b272ac46d18fc9f5071233cace"
+            },
+            {
+              "organizationId": "c48d8d5db08e4b80b5f256cdcd1360dd",
+              "meta": {
+                "organization": {
+                  "name": "Honeybee Robotics",
+                  "location": "Longmont, CO, United States"
+                }
+              },
+              "meetingId": "ddf31bab22754ccd813de63bb90298f1",
+              "id": "f03ebcaddcf649c9be797b7515468a8a"
+            }
+          ],
+          "name": "Joint Meeting of The Space Resources Roundtable (SRR) and the Planetary & Terrestrial Mining Sciences Symposium (PTMSS)",
+          "location": "Golden, CO",
+          "id": "ddf31bab22754ccd813de63bb90298f1",
+          "startDate": "2018-06-12T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20180005542,
+          "id": "a056a967d7e34f8088a2627fbc6f9498",
+          "publicationDate": "2018-06-12T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20180005542.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20180005542/downloads/20180005542.pdf",
+            "pdf": "/api/citations/20180005542/downloads/20180005542.pdf",
+            "fulltext": "/api/citations/20180005542/downloads/20180005542.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    }
+  ],
+  "aggregations": {
+    "created": {
+      "buckets": [
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2020",
+          "key": 1577836800000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2023",
+          "key": 1672531200000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2021",
+          "key": 1609459200000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "author": {
+      "doc_count_error_upper_bound": 2,
+      "sum_other_doc_count": 199,
+      "buckets": [
+        {
+          "key": "Hintze, Paul E.",
+          "doc_count": 3
+        },
+        {
+          "key": "Anthony Colozza",
+          "doc_count": 2
+        },
+        {
+          "key": "Elizabeth Turnbull",
+          "doc_count": 2
+        },
+        {
+          "key": "Hoffman, Stephen J.",
+          "doc_count": 2
+        },
+        {
+          "key": "James Fittje",
+          "doc_count": 2
+        },
+        {
+          "key": "Linne, Diane",
+          "doc_count": 2
+        },
+        {
+          "key": "Meier, Anne J.",
+          "doc_count": 2
+        },
+        {
+          "key": "Monsi Roman",
+          "doc_count": 2
+        },
+        {
+          "key": "Naveen Vetcha",
+          "doc_count": 2
+        },
+        {
+          "key": "Peter Carrato",
+          "doc_count": 2
+        },
+        {
+          "key": "Shah, Malay G.",
+          "doc_count": 2
+        },
+        {
+          "key": "Thomas Packard",
+          "doc_count": 2
+        },
+        {
+          "key": "A L Mattioda",
+          "doc_count": 1
+        },
+        {
+          "key": "A Vats",
+          "doc_count": 1
+        },
+        {
+          "key": "Aaron Paz",
+          "doc_count": 1
+        },
+        {
+          "key": "Aaron Yevick",
+          "doc_count": 1
+        },
+        {
+          "key": "Abigail A Eccles",
+          "doc_count": 1
+        },
+        {
+          "key": "Abney, Morgan B.",
+          "doc_count": 1
+        },
+        {
+          "key": "Acedillo, Shannen",
+          "doc_count": 1
+        },
+        {
+          "key": "Acosta, Francisco Garcia",
+          "doc_count": 1
+        }
+      ]
+    },
+    "reportNumber": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 53,
+      "buckets": [
+        {
+          "key": "KSC-2011-106",
+          "doc_count": 2
+        },
+        {
+          "key": "Report Number: KSC-2011-106",
+          "doc_count": 2
+        },
+        {
+          "key": "ARC-E-DAA-TN27169",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN8684",
+          "doc_count": 1
+        },
+        {
+          "key": "CD-2021-186",
+          "doc_count": 1
+        },
+        {
+          "key": "E-20085",
+          "doc_count": 1
+        },
+        {
+          "key": "GRC-E-DAA-TN57431",
+          "doc_count": 1
+        },
+        {
+          "key": "GRC-E-DAA-TN69644",
+          "doc_count": 1
+        },
+        {
+          "key": "ICES 2019-077",
+          "doc_count": 1
+        },
+        {
+          "key": "ICES-2014-090",
+          "doc_count": 1
+        },
+        {
+          "key": "ICES-2017-161",
+          "doc_count": 1
+        },
+        {
+          "key": "ICES-2018-155",
+          "doc_count": 1
+        },
+        {
+          "key": "ICES-2021-227",
+          "doc_count": 1
+        },
+        {
+          "key": "JPL-CL-16-0748",
+          "doc_count": 1
+        },
+        {
+          "key": "JPL-CL-16-2763",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-34419",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-34508",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-E-DAA-TN58058",
+          "doc_count": 1
+        },
+        {
+          "key": "KSC-2011-106R",
+          "doc_count": 1
+        },
+        {
+          "key": "KSC-2011-106RR",
+          "doc_count": 1
+        }
+      ]
+    },
+    "center": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "KSC",
+          "doc_count": 7
+        },
+        {
+          "key": "ARC",
+          "doc_count": 6
+        },
+        {
+          "key": "JSC",
+          "doc_count": 6
+        },
+        {
+          "key": "MSFC",
+          "doc_count": 5
+        },
+        {
+          "key": "GRC",
+          "doc_count": 4
+        },
+        {
+          "key": "HQ",
+          "doc_count": 4
+        },
+        {
+          "key": "JPL",
+          "doc_count": 4
+        },
+        {
+          "key": "CDMS",
+          "doc_count": 2
+        },
+        {
+          "key": "GSFC",
+          "doc_count": 2
+        },
+        {
+          "key": "LaRC",
+          "doc_count": 1
+        }
+      ]
+    },
+    "index": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "submissions-2026-10-22-05-25",
+          "doc_count": 41
+        }
+      ]
+    },
+    "fundingNumber": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 10,
+      "buckets": [
+        {
+          "key": "NASW-4574",
+          "doc_count": 4
+        },
+        {
+          "key": "80KSC017C0012",
+          "doc_count": 2
+        },
+        {
+          "key": "NAS10-03006",
+          "doc_count": 2
+        },
+        {
+          "key": "NNJ11HB94C",
+          "doc_count": 2
+        },
+        {
+          "key": "\t993436.01.01",
+          "doc_count": 1
+        },
+        {
+          "key": "058013.01.07.01 ",
+          "doc_count": 1
+        },
+        {
+          "key": "114772",
+          "doc_count": 1
+        },
+        {
+          "key": "364688.05.03.01",
+          "doc_count": 1
+        },
+        {
+          "key": "371544.01.21.01.22.01",
+          "doc_count": 1
+        },
+        {
+          "key": "460421.04.23.22.01",
+          "doc_count": 1
+        },
+        {
+          "key": "596118.04.36.76",
+          "doc_count": 1
+        },
+        {
+          "key": "80MSFC18C0011",
+          "doc_count": 1
+        },
+        {
+          "key": "811073.02.52.01.16.05",
+          "doc_count": 1
+        },
+        {
+          "key": "811073.02.52.01.19",
+          "doc_count": 1
+        },
+        {
+          "key": "811073.02.55.01.30",
+          "doc_count": 1
+        },
+        {
+          "key": "959547.20.02.03.22",
+          "doc_count": 1
+        },
+        {
+          "key": "981698.01.02.51.10.01",
+          "doc_count": 1
+        },
+        {
+          "key": "NASW-4435",
+          "doc_count": 1
+        },
+        {
+          "key": "NASw-4574",
+          "doc_count": 1
+        },
+        {
+          "key": "NNJ13HA01C",
+          "doc_count": 1
+        }
+      ]
+    },
+    "published": {
+      "buckets": [
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "1993",
+          "key": 725846400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2000",
+          "key": 946684800000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2007",
+          "key": 1167609600000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2012",
+          "key": 1325376000000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1994",
+          "key": 757382400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1998",
+          "key": 883612800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2011",
+          "key": 1293840000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "distribution": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "PUBLIC",
+          "doc_count": 41
+        }
+      ]
+    },
+    "stiType": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "CONFERENCE_PAPER",
+          "doc_count": 22
+        },
+        {
+          "key": "PRESENTATION",
+          "doc_count": 6
+        },
+        {
+          "key": "CONFERENCE_PROCEEDINGS",
+          "doc_count": 5
+        },
+        {
+          "key": "ABSTRACT",
+          "doc_count": 2
+        },
+        {
+          "key": "OTHER",
+          "doc_count": 2
+        },
+        {
+          "key": "CONTRACTOR_REPORT",
+          "doc_count": 1
+        },
+        {
+          "key": "EXTENDED_ABSTRACT",
+          "doc_count": 1
+        },
+        {
+          "key": "POSTER",
+          "doc_count": 1
+        },
+        {
+          "key": "TECHNICAL_MEMORANDUM",
+          "doc_count": 1
+        }
+      ]
+    },
+    "subjectCategory": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 2,
+      "buckets": [
+        {
+          "key": "Lunar And Planetary Science And Exploration",
+          "doc_count": 22
+        },
+        {
+          "key": "Lunar and Planetary Science and Exploration",
+          "doc_count": 4
+        },
+        {
+          "key": "Lunar And Planetary Exploration",
+          "doc_count": 3
+        },
+        {
+          "key": "Man/System Technology And Life Support",
+          "doc_count": 2
+        },
+        {
+          "key": "Propellants And Fuels",
+          "doc_count": 2
+        },
+        {
+          "key": "Space Sciences (General)",
+          "doc_count": 2
+        },
+        {
+          "key": "Spacecraft Design, Testing And Performance",
+          "doc_count": 2
+        },
+        {
+          "key": "Astronautics (General)",
+          "doc_count": 1
+        },
+        {
+          "key": "Communications And Radar",
+          "doc_count": 1
+        },
+        {
+          "key": "Cybernetics, Artificial Intelligence And Robotics",
+          "doc_count": 1
+        },
+        {
+          "key": "Engineering (General)",
+          "doc_count": 1
+        },
+        {
+          "key": "Exobiology",
+          "doc_count": 1
+        },
+        {
+          "key": "Ground Support Systems and Facilities (Space)",
+          "doc_count": 1
+        },
+        {
+          "key": "Instrumentation And Photography",
+          "doc_count": 1
+        },
+        {
+          "key": "Instrumentation and Photography",
+          "doc_count": 1
+        },
+        {
+          "key": "Lasers And Masers",
+          "doc_count": 1
+        },
+        {
+          "key": "Launch Vehicles And Launch Operations",
+          "doc_count": 1
+        },
+        {
+          "key": "Life Sciences (General)",
+          "doc_count": 1
+        },
+        {
+          "key": "Mechanical Engineering",
+          "doc_count": 1
+        },
+        {
+          "key": "Propellants and Fuels",
+          "doc_count": 1
+        }
+      ]
+    },
+    "disseminated": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "DOCUMENT_AND_METADATA",
+          "doc_count": 36
+        },
+        {
+          "key": "METADATA_ONLY",
+          "doc_count": 5
+        }
+      ]
+    },
+    "stiTypeDetails": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Conference Paper",
+          "doc_count": 22
+        },
+        {
+          "key": "Presentation",
+          "doc_count": 6
+        },
+        {
+          "key": "Conference Proceedings",
+          "doc_count": 5
+        },
+        {
+          "key": "Abstract",
+          "doc_count": 2
+        },
+        {
+          "key": "Other",
+          "doc_count": 2
+        },
+        {
+          "key": "Contractor Report (CR)",
+          "doc_count": 1
+        },
+        {
+          "key": "Extended Abstract",
+          "doc_count": 1
+        },
+        {
+          "key": "Poster",
+          "doc_count": 1
+        },
+        {
+          "key": "Technical Memorandum (TM)",
+          "doc_count": 1
+        }
+      ]
+    },
+    "organization": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 41,
+      "buckets": [
+        {
+          "key": "NASA Kennedy Space Center",
+          "doc_count": 11
+        },
+        {
+          "key": "Jet Propulsion Lab., California Inst. of Tech.",
+          "doc_count": 8
+        },
+        {
+          "key": "NASA Johnson Space Center",
+          "doc_count": 6
+        },
+        {
+          "key": "Ames Research Center",
+          "doc_count": 4
+        },
+        {
+          "key": "Kennedy Space Center",
+          "doc_count": 4
+        },
+        {
+          "key": "NASA Glenn Research Center",
+          "doc_count": 4
+        },
+        {
+          "key": "Goddard Space Flight Center",
+          "doc_count": 3
+        },
+        {
+          "key": "Jacobs (United States)",
+          "doc_count": 3
+        },
+        {
+          "key": "Marshall Space Flight Center",
+          "doc_count": 3
+        },
+        {
+          "key": "NASA Ames Research Center",
+          "doc_count": 3
+        },
+        {
+          "key": "NASA Marshall Space Flight Center",
+          "doc_count": 3
+        },
+        {
+          "key": "Southeastern Universities Research Association",
+          "doc_count": 3
+        },
+        {
+          "key": "Aerospace Corp.",
+          "doc_count": 2
+        },
+        {
+          "key": "Glenn Research Center",
+          "doc_count": 2
+        },
+        {
+          "key": "HX5, LLC",
+          "doc_count": 2
+        },
+        {
+          "key": "NASA Headquarters",
+          "doc_count": 2
+        },
+        {
+          "key": "Science Applications International Corp.",
+          "doc_count": 2
+        },
+        {
+          "key": "Science Applications International Corporation (United States)",
+          "doc_count": 2
+        },
+        {
+          "key": "AECOM",
+          "doc_count": 1
+        },
+        {
+          "key": "Adlai E Stevenson High School",
+          "doc_count": 1
+        }
+      ]
+    },
+    "modified": {
+      "buckets": [
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 39
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 2
+        }
+      ]
+    },
+    "keyword": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 22,
+      "buckets": [
+        {
+          "key": "ISRU",
+          "doc_count": 5
+        },
+        {
+          "key": "In-situ Resource Utilization",
+          "doc_count": 2
+        },
+        {
+          "key": " ISRU",
+          "doc_count": 1
+        },
+        {
+          "key": " Mars Atmospheric Conversion to Methane",
+          "doc_count": 1
+        },
+        {
+          "key": " Ru/Al2O3 Catlayst",
+          "doc_count": 1
+        },
+        {
+          "key": "Asteroid and Lava Tube Free Flyer",
+          "doc_count": 1
+        },
+        {
+          "key": "DRPS",
+          "doc_count": 1
+        },
+        {
+          "key": "Extraction",
+          "doc_count": 1
+        },
+        {
+          "key": "Geophysics",
+          "doc_count": 1
+        },
+        {
+          "key": "In-Situ Resource Utilization",
+          "doc_count": 1
+        },
+        {
+          "key": "Lunar",
+          "doc_count": 1
+        },
+        {
+          "key": "Mars",
+          "doc_count": 1
+        },
+        {
+          "key": "Mars Exploration",
+          "doc_count": 1
+        },
+        {
+          "key": "Mars life detection",
+          "doc_count": 1
+        },
+        {
+          "key": "Pathways",
+          "doc_count": 1
+        },
+        {
+          "key": "RPS",
+          "doc_count": 1
+        },
+        {
+          "key": "Robotics",
+          "doc_count": 1
+        },
+        {
+          "key": "Sabatier Reactor",
+          "doc_count": 1
+        },
+        {
+          "key": "Sample Return",
+          "doc_count": 1
+        },
+        {
+          "key": "Titan",
+          "doc_count": 1
+        }
+      ]
+    }
+  }
+}

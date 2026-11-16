@@ -1,0 +1,17 @@
+{
+  "bbox": [
+    77.2,
+    18.1,
+    77.9,
+    18.8
+  ],
+  "dem_min_m": -2716.0,
+  "dem_max_m": -1570.0,
+  "dem_mean_m": -2399.9,
+  "pendiente_regional_p95_deg": 2.83,
+  "pendiente_regional_mediana_deg": 0.81,
+  "longitud_travesia_km": 46.27,
+  "metros_por_pixel_aprox": 19.74,
+  "imagen": "Evidencias\\capturas\\jezero_evidencia_datos.png",
+  "fuente": "NASA Mars Trek (Viking MDIM 2.1, MOLA, Perseverance traverse, EZMars) y NASA PDS/USGS"
+}

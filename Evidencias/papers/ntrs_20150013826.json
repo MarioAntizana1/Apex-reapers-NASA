@@ -1,0 +1,159 @@
+{
+  "copyright": {
+    "thirdPartyPermissionsProduced": false,
+    "disclosedToPublic": false,
+    "containsIndication": false,
+    "publisherPermissionOrRightsToDistribute": false,
+    "belongsToUsGov": false,
+    "determinationType": "PUBLIC_USE_PERMITTED",
+    "thirdPartyContentCondition": "NOT_SET",
+    "belongsToContractor": false,
+    "disclosedInvention": false,
+    "submissionId": 20150013826,
+    "containsThirdPartyMaterial": false,
+    "belongsToPublisher": false,
+    "id": "f0a3f40f03ad4a3fb09c143c20243635",
+    "belongsToAuthors": false
+  },
+  "subjectCategories": [
+    "Lunar And Planetary Science And Exploration",
+    "Astronautics (General)"
+  ],
+  "exportControl": {
+    "isExportControl": "NO",
+    "submissionId": 20150013826,
+    "ear": "NO",
+    "id": "d66e672a2b1847f595ff33a2b2458567",
+    "itar": "NO"
+  },
+  "distributionDate": "2019-07-17T00:00:00.0000000+00:00",
+  "otherReportNumbers": [
+    "JSC-CN-33714",
+    "Report Number: JSC-CN-33714"
+  ],
+  "title": "Human Mars Landing Site and Impacts on Mars Surface Operations",
+  "stiType": "ABSTRACT",
+  "distribution": "PUBLIC",
+  "submittedDate": "2015-07-20T17:01:45.3670000+00:00",
+  "authorAffiliations": [
+    {
+      "sequence": 0,
+      "submissionId": 20150013826,
+      "meta": {
+        "author": {
+          "name": "Bussey, Ben"
+        },
+        "organization": {
+          "name": "NASA Johnson Space Center",
+          "location": "Houston, TX, United States"
+        }
+      },
+      "id": "f21afa0f377242229b869cf3649d2550"
+    },
+    {
+      "sequence": 1,
+      "submissionId": 20150013826,
+      "meta": {
+        "author": {
+          "name": "Hoffman, Stephen J."
+        },
+        "organization": {
+          "name": "Science Applications International Corp.",
+          "location": "Houston, TX, United States"
+        }
+      },
+      "id": "ade97c3ab13d4e16ad17a6102cce7b06"
+    }
+  ],
+  "stiTypeDetails": "Abstract",
+  "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+  "modified": "2025-08-31T18:39:21.7150190+00:00",
+  "id": 20150013826,
+  "legacyMeta": {
+    "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+    "accessionNumber": ""
+  },
+  "created": "2015-07-20T17:01:45.3670000+00:00",
+  "center": {
+    "code": "JSC",
+    "name": "Johnson Space Center",
+    "id": "dd46994b91a94cb2a2722617cbbadc55"
+  },
+  "onlyAbstract": true,
+  "sensitiveInformation": 2,
+  "abstract": "NASA has begun a process to identify and discuss candidate locations where humans could land, live and work on the Martian surface. These locations are referred to as Exploration Zones (EZs). Given current mission concepts, an EZ is a collection of Regions of Interest (ROIs) that are located within approximately 100 kilometers of a centralized landing site. ROIs are areas that are relevant for scientific investigation and/or development/maturation of capabilities and resources necessary for a sustainable human presence. The EZ also contains a landing site and a habitation site that will be used by multiple human crews during missions to explore and utilize the ROIs within the EZ. These candidate EZs will be used by NASA as part of a multi‐year process of determining where and how humans could explore Mars. In the near term this process includes: (a) identifying locations that would maximize the potential science return from future human exploration missions, (b) identifying locations with the potential for resources required to support humans, (c) developing concepts and engineering systems needed by future human crews to conduct operations within an EZ, and (d) identifying key characteristics of the proposed candidate EZs that cannot be evaluated using existing data sets, thus helping to define precursor measurements needed in advance of human missions. Existing and future robotic spacecraft will be tasked to gather data from specific Mars surface sites within the representative EZs to support these NASA activities. The proposed paper will describe NASA's initial steps for identifying and evaluating candidate EZs and ROIs. This includes plans for the \"First Landing Site/Exploration Zone Workshop for Human Missions to the Surface of Mars\" to be held in October 2015 at which proposals for EZs and ROIs will be presented and discussed. It will also include a discussion of how these considerations are (or will be) taken into account as future robotic Mars missions are defined and developed. One or more representative EZs, drawn from similar previous studies involving Mars sites, will be used in the proposed paper to illustrate the process NASA envisions for gathering additional data from robotic precursor missions to assist in making a final selection of an EZ for human crews as well as the steps likely to occur during the buildup of a habitation site. Examples of the systems and operations likely to be used by human crews, assisted by robotic vehicles, to explore the scientific ROIs as well as developing the resource ROIs within the example EZs will be discussed.",
+  "isLessonsLearned": false,
+  "disseminated": "DOCUMENT_AND_METADATA",
+  "meetings": [
+    {
+      "submissionId": 20150013826,
+      "name": "Institute of Electrical and Electronics Engineers",
+      "location": "New York, NY, United States",
+      "id": "88aa154cb11b4926a62c3c514cda421e"
+    },
+    {
+      "country": "United States",
+      "submissionId": 20150013826,
+      "endDate": "2016-03-12T00:00:00.0000000+00:00",
+      "sponsors": [
+        {
+          "meta": {
+            "organization": {
+              "name": "Institute of Electrical and Electronics Engineers",
+              "location": "New York, NY, United States"
+            }
+          },
+          "meetingId": "95cf6bb6fb934c65b86c57ca016f344d",
+          "id": "4445cb2bccf7422aa629eb7b3b392f66"
+        }
+      ],
+      "name": "2016 IEEE Aerospace Conference",
+      "location": "Big Sky, MT",
+      "id": "95cf6bb6fb934c65b86c57ca016f344d",
+      "startDate": "2016-03-05T00:00:00.0000000+00:00"
+    }
+  ],
+  "publications": [
+    {
+      "submissionId": 20150013826,
+      "id": "3b7620279cbd414ea53d751e6f9a4846",
+      "publicationDate": "2016-03-05T00:00:00.0000000+00:00"
+    }
+  ],
+  "status": "CURATED",
+  "related": [
+    {
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "id": 20160002370,
+      "type": "SEE_ALSO",
+      "title": "Human Mars Landing Site and Impacts on Mars Surface Operations",
+      "stiType": "PRESENTATION",
+      "distribution": "PUBLIC",
+      "status": "CURATED"
+    },
+    {
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "id": 20160001040,
+      "type": "SEE_ALSO",
+      "title": "Human Mars Landing Site and Impacts on Mars Surface Operations",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "status": "CURATED"
+    }
+  ],
+  "downloads": [
+    {
+      "draft": false,
+      "mimetype": "application/pdf",
+      "name": "20150013826.pdf",
+      "type": "STI",
+      "links": {
+        "original": "/api/citations/20150013826/downloads/20150013826.pdf",
+        "pdf": "/api/citations/20150013826/downloads/20150013826.pdf",
+        "fulltext": "/api/citations/20150013826/downloads/20150013826.txt"
+      }
+    }
+  ],
+  "downloadsAvailable": true,
+  "index": "submissions-2026-10-22-05-25"
+}

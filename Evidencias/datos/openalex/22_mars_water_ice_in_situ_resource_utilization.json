@@ -1,0 +1,1054 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 3237,
+    "db_response_time_ms": 107,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Mars water ice in situ resource utilization) in the full text",
+      "x_new_oql": "get works with (Mars water ice in situ resource utilization) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Mars water ice in situ resource utilization",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Mars water ice in situ resource utilization&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W3082484423",
+      "doi": null,
+      "title": "Subsurface Water Ice Mapping (SWIM) on Mars in Support of In Situ Resource Utilization",
+      "publication_year": 2020,
+      "cited_by_count": 1,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5009755868",
+            "display_name": "Nathaniel E. Putzig",
+            "orcid": "https://orcid.org/0000-0003-4485-6321",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4485-6321"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "N. E. Putzig",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-4485-6321",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5028124145",
+            "display_name": "G. A. Morgan",
+            "orcid": "https://orcid.org/0000-0002-9513-8736",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9513-8736"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "G. A. Morgan",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-9513-8736",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5090801818",
+            "display_name": "Zachary M. Bain",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Z. M. Bain",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5028539656",
+            "display_name": "D. M. H. Baker",
+            "orcid": "https://orcid.org/0000-0002-1284-0715",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1284-0715"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "D. M. H. Baker",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-1284-0715",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5004071446",
+            "display_name": "A. M. Bramson",
+            "orcid": "https://orcid.org/0000-0003-4903-0916",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4903-0916"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A. M. Bramson",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-4903-0916",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087280325",
+            "display_name": "Samuel Weston Courville",
+            "orcid": "https://orcid.org/0000-0002-9539-1301",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9539-1301"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S. W. Courville",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-9539-1301",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035199909",
+            "display_name": "Colin M. Dundas",
+            "orcid": "https://orcid.org/0000-0003-2343-7224",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2343-7224"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "C. M. Dundas",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-2343-7224",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020980135",
+            "display_name": "R. H. Hoover",
+            "orcid": "https://orcid.org/0000-0003-0926-7513",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0926-7513"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R. H. Hoover",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-0926-7513",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5058044339",
+            "display_name": "D. Hornisher",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "D. Hornisher",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5000566723",
+            "display_name": "Gareth Nelson",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Gareth Nelson",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5058083978",
+            "display_name": "S. Nerozzi",
+            "orcid": "https://orcid.org/0000-0003-1236-535X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1236-535X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S. Nerozzi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5046525686",
+            "display_name": "Asmin V. Pathare",
+            "orcid": "https://orcid.org/0000-0001-8922-4470",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8922-4470"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A. V. Pathare",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-8922-4470",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5076633781",
+            "display_name": "Matthew R. Perry",
+            "orcid": "https://orcid.org/0000-0003-3434-5333",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3434-5333"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M. R. Perry",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5078633151",
+            "display_name": "E. I. Petersen",
+            "orcid": "https://orcid.org/0000-0002-9664-2918",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9664-2918"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "E. I. Petersen",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-9664-2918",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052439295",
+            "display_name": "H. G. Sizemore",
+            "orcid": "https://orcid.org/0000-0002-6641-2388",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6641-2388"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "H. G. Sizemore",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-6641-2388",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5015078487",
+            "display_name": "Bruce Allan Campbell",
+            "orcid": "https://orcid.org/0000-0002-0428-8692",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0428-8692"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "B. A. Campbell",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-0428-8692",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5082147889",
+            "display_name": "Marco Mastrogiuseppe",
+            "orcid": "https://orcid.org/0000-0001-9902-8115",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9902-8115"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Marco Mastrogiuseppe",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-9902-8115",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5014840262",
+            "display_name": "Michael T. Mellon",
+            "orcid": "https://orcid.org/0000-0001-7973-9585",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7973-9585"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M. T. Mellon",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-7973-9585",
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5002919397",
+            "display_name": "I. B. Smith",
+            "orcid": "https://orcid.org/0000-0002-4331-913X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4331-913X",
+              "https://orcid.org/0000-0002-3351-4951"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "I. B. Smith",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "mag:3082484423",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2020LPI....51.2648P/abstract",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W3175912786",
+      "doi": null,
+      "title": "Mars In-Situ Resource Utilization Technology Evaluation",
+      "publication_year": null,
+      "cited_by_count": 46,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5016429691",
+            "display_name": "Edgardo Santiago-Maldonado",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799863703",
+              "display_name": "Kennedy Space Center",
+              "ror": "https://ror.org/03kjpzv42",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2799863703",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Santiago-Maldonado, Edgardo",
+          "raw_affiliation_strings": [
+            "NASA Kennedy Space Center Cocoa Beach, FL, United States",
+            "NASA Kennedy Space Center"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Kennedy Space Center Cocoa Beach, FL, United States",
+              "institution_ids": [
+                "https://openalex.org/I2799863703"
+              ]
+            },
+            {
+              "raw_affiliation_string": "NASA Kennedy Space Center",
+              "institution_ids": [
+                "https://openalex.org/I2799863703"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5087764071",
+            "display_name": "Anthony C. Muscatello",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799863703",
+              "display_name": "Kennedy Space Center",
+              "ror": "https://ror.org/03kjpzv42",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2799863703",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Muscatello, Anthony",
+          "raw_affiliation_strings": [
+            "NASA Kennedy Space Center"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Kennedy Space Center",
+              "institution_ids": [
+                "https://openalex.org/I2799863703"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:casi.ntrs.nasa.gov:20110014076",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/2060/20110014076",
+        "pdf_url": "https://ntrs.nasa.gov/api/citations/20110014076/downloads/20110014076.pdf",
+        "source": {
+          "id": "https://openalex.org/S4377196257",
+          "display_name": "NASA STI Repository (National Aeronautics and Space Administration)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4210124779",
+          "host_organization_name": "National Aeronautics and Space Administration",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210124779"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "CASI",
+        "raw_type": "KSC-2011-106"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ntrs.nasa.gov/api/citations/20110014076/downloads/20110014076.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2093101107",
+      "doi": "https://doi.org/10.2514/6.2012-360",
+      "title": "Mars In Situ Resource Utilization Technology Evaluation",
+      "publication_year": 2012,
+      "cited_by_count": 2,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5087764071",
+            "display_name": "Anthony C. Muscatello",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799863703",
+              "display_name": "Kennedy Space Center",
+              "ror": "https://ror.org/03kjpzv42",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2799863703",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Anthony Muscatello",
+          "raw_affiliation_strings": [
+            "NASA Kennedy Space Center",
+            "NASA Kennedy Space Center Cocoa Beach, FL United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Kennedy Space Center",
+              "institution_ids": [
+                "https://openalex.org/I2799863703"
+              ]
+            },
+            {
+              "raw_affiliation_string": "NASA Kennedy Space Center Cocoa Beach, FL United States",
+              "institution_ids": [
+                "https://openalex.org/I2799863703"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5016429691",
+            "display_name": "Edgardo Santiago-Maldonado",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799863703",
+              "display_name": "Kennedy Space Center",
+              "ror": "https://ror.org/03kjpzv42",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2799863703",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Edgardo Santiago-Maldonado",
+          "raw_affiliation_strings": [
+            "NASA Kennedy Space Center"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Kennedy Space Center",
+              "institution_ids": [
+                "https://openalex.org/I2799863703"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.2514/6.2012-360",
+        "doi": "https://doi.org/10.2514/6.2012-360",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2514/6.2012-360",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306498277",
+          "display_name": "AIAA Aerospace Sciences Meeting",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "50th AIAA Aerospace Sciences Meeting including the New Horizons Forum and Aerospace Exposition",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2321811762",
+      "doi": "https://doi.org/10.1061/40830(188)75",
+      "title": "Sublimation Extraction of Mars H2O for Future In-Situ Resource Utilization",
+      "publication_year": 2006,
+      "cited_by_count": 7,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5052880548",
+            "display_name": "Greg Mungas",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Greg S. Mungas",
+          "raw_affiliation_strings": [
+            "JPL, 4800 Oak Grove Dr., Pasadena, CA. E-mail:"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "JPL, 4800 Oak Grove Dr., Pasadena, CA. E-mail:",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020038381",
+            "display_name": "Donald Rapp",
+            "orcid": "https://orcid.org/0000-0003-4418-4924",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4418-4924"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Donald Rapp",
+          "raw_affiliation_strings": [
+            "1445 Indiana Ave., So. Pasadena, CA 91030. E-mail:"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1445 Indiana Ave., So. Pasadena, CA 91030. E-mail:",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037799934",
+            "display_name": "Robert W. Easter",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Robert W. Easter",
+          "raw_affiliation_strings": [
+            "JPL, 4800 Oak Grove Dr., Pasadena, CA. E-mail:"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "JPL, 4800 Oak Grove Dr., Pasadena, CA. E-mail:",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031145902",
+            "display_name": "Kenneth R. Johnson",
+            "orcid": "https://orcid.org/0000-0002-9116-7185",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9116-7185"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kenneth R. Johnson",
+          "raw_affiliation_strings": [
+            "JPL, 4800 Oak Grove Dr., Pasadena, CA. E-mail:"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "JPL, 4800 Oak Grove Dr., Pasadena, CA. E-mail:",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5109801885",
+            "display_name": "Thomas J. Wilson",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Thomas Wilson",
+          "raw_affiliation_strings": [
+            "JPL, 4800 Oak Grove Dr., Pasadena, CA. E-mail:"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "JPL, 4800 Oak Grove Dr., Pasadena, CA. E-mail:",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1061/40830(188)75",
+        "doi": "https://doi.org/10.1061/40830(188)75",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1061/40830(188)75",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S7407088914",
+          "display_name": "ASCE Earth and Space Conference: Engineering, Science, Construction, and Operations in Challenging Environments (Earth & Space)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Earth &amp;amp; Space 2006",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W1677973265",
+      "doi": null,
+      "title": "Experimental Study of a Water Vapor Adsorption Reactor for Mars In Situ Resource Utilization",
+      "publication_year": 1997,
+      "cited_by_count": 0,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5087363146",
+            "display_name": "Steven C. Coons",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Steven C. Coons",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039338105",
+            "display_name": "John D. Williams",
+            "orcid": "https://orcid.org/0000-0003-2690-4692",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2690-4692"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "John D. Williams",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-2690-4692",
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5037939137",
+            "display_name": "ADAM P. BRUCKNER",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A. P. Bruckner",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "mag:1677973265",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://ui.adsabs.harvard.edu/abs/1997isru.meet...39C/abstract",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W4231111825",
+      "doi": "https://doi.org/10.1093/acrefore/9780190647926.013.239",
+      "title": "Water Ice at Mid-Latitudes on Mars",
+      "publication_year": 2021,
+      "cited_by_count": 16,
+      "type": "reference-entry",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5080808099",
+            "display_name": "Frances Butcher",
+            "orcid": "https://orcid.org/0000-0002-5392-7286",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5392-7286"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91136226",
+              "display_name": "University of Sheffield",
+              "ror": "https://ror.org/05krs5044",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91136226"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Frances E G Butcher",
+          "raw_affiliation_strings": [
+            "Department of Geography, the University of Sheffield",
+            "Department of Geography, The University of Sheffield, Winter Street, Sheffield, S10 2TN"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geography, the University of Sheffield",
+              "institution_ids": [
+                "https://openalex.org/I91136226"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geography, The University of Sheffield, Winter Street, Sheffield, S10 2TN",
+              "institution_ids": [
+                "https://openalex.org/I91136226"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1093/acrefore/9780190647926.013.239",
+        "doi": "https://doi.org/10.1093/acrefore/9780190647926.013.239",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1093/acrefore/9780190647926.013.239",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Oxford Research Encyclopedia of Planetary Science",
+        "raw_type": "reference-entry"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    }
+  ],
+  "group_by": []
+}

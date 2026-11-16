@@ -1,0 +1,1040 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 179,
+    "db_response_time_ms": 89,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Mars Trek planetary mapping tool) in the full text",
+      "x_new_oql": "get works with (Mars Trek planetary mapping tool) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Mars Trek planetary mapping tool",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Mars Trek planetary mapping tool&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2783487693",
+      "doi": null,
+      "title": "NASA's Solar System Treks: Online Portals for Planetary Mapping and Modeling",
+      "publication_year": 2017,
+      "cited_by_count": 2,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5112670378",
+            "display_name": "Brian Day",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I144472018",
+              "display_name": "Wyle (United States)",
+              "ror": "https://ror.org/02zeryz43",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I144472018",
+                "https://openalex.org/I153156064"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Brian Day",
+          "raw_affiliation_strings": [
+            "Wyle Labs., Inc. Moffett Field, CA, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Wyle Labs., Inc. Moffett Field, CA, United States",
+              "institution_ids": [
+                "https://openalex.org/I144472018"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:casi.ntrs.nasa.gov:20180000384",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/2060/20180000384",
+        "pdf_url": "http://hdl.handle.net/2060/20180000384",
+        "source": {
+          "id": "https://openalex.org/S4377196257",
+          "display_name": "NASA STI Repository (National Aeronautics and Space Administration)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4210124779",
+          "host_organization_name": "National Aeronautics and Space Administration",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210124779"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "CASI",
+        "raw_type": "ARC-E-DAA-TN48162"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2060/20180000384",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2758059792",
+      "doi": null,
+      "title": "Mars Trek: An Interactive Web Portal for Current and Future Missions to Mars",
+      "publication_year": 2017,
+      "cited_by_count": 2,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5114132773",
+            "display_name": "E. Law",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "E. Law",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Lab., California Inst. of Tech. Pasadena, CA, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Lab., California Inst. of Tech. Pasadena, CA, United States",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5112513336",
+            "display_name": "B. H. Day",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I144472018",
+              "display_name": "Wyle (United States)",
+              "ror": "https://ror.org/02zeryz43",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I144472018",
+                "https://openalex.org/I153156064"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "B. H. Day",
+          "raw_affiliation_strings": [
+            "Wyle Labs., Inc. Moffett Field, CA, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Wyle Labs., Inc. Moffett Field, CA, United States",
+              "institution_ids": [
+                "https://openalex.org/I144472018"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:casi.ntrs.nasa.gov:20170008885",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/2060/20170008885",
+        "pdf_url": "http://hdl.handle.net/2060/20170008885",
+        "source": {
+          "id": "https://openalex.org/S4377196257",
+          "display_name": "NASA STI Repository (National Aeronautics and Space Administration)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4210124779",
+          "host_organization_name": "National Aeronautics and Space Administration",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210124779"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "CASI",
+        "raw_type": "ARC-E-DAA-TN42725"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2060/20170008885",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W3033437085",
+      "doi": "https://doi.org/10.1109/jstars.2020.2991588",
+      "title": "Deep Learning-Driven Detection and Mapping of Rockfalls on Mars",
+      "publication_year": 2020,
+      "cited_by_count": 52,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5006986253",
+            "display_name": "Valentin Bickel",
+            "orcid": "https://orcid.org/0000-0002-7914-2516",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7914-2516"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I35440088",
+              "display_name": "ETH Zurich",
+              "ror": "https://ror.org/05a28rw58",
+              "country_code": "CH",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I2799323385",
+                "https://openalex.org/I35440088"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210116419",
+              "display_name": "Max Planck Institute for Solar System Research",
+              "ror": "https://ror.org/02j6gm739",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I149899117",
+                "https://openalex.org/I4210116419"
+              ]
+            }
+          ],
+          "countries": [
+            "CH",
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Valentin Tertius Bickel",
+          "raw_affiliation_strings": [
+            "Engineering Geology Institute, Swiss Federal Institute of Technology, Zurich, Switzerland",
+            "Planets and Comets Department, Max Planck Institute for Solar System Research, Göttingen, Germany",
+            "Engineering Geology Group [ETH Zürich]",
+            "Planets and Comets Department"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7914-2516",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Engineering Geology Institute, Swiss Federal Institute of Technology, Zurich, Switzerland",
+              "institution_ids": [
+                "https://openalex.org/I35440088"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Planets and Comets Department, Max Planck Institute for Solar System Research, Göttingen, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4210116419"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Engineering Geology Group [ETH Zürich]",
+              "institution_ids": [
+                "https://openalex.org/I35440088"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Planets and Comets Department",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008201742",
+            "display_name": "Susan J. Conway",
+            "orcid": "https://orcid.org/0000-0002-0577-2312",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0577-2312"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210146808",
+              "display_name": "Laboratoire de Planétologie et Géosciences",
+              "ror": "https://ror.org/04fm0sh33",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I124158823",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I205703379",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I4210108471",
+                "https://openalex.org/I4210127572",
+                "https://openalex.org/I4210134562",
+                "https://openalex.org/I4210146808",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4387153462",
+                "https://openalex.org/I49451733",
+                "https://openalex.org/I97188460"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Susan J. Conway",
+          "raw_affiliation_strings": [
+            "Centre National de Recherche Scientifique, Laboratoire de Planétologie et Géodynamique, Nantes, France",
+            "Laboratoire de Planétologie et Géodynamique [UMR 6112]"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-0577-2312",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre National de Recherche Scientifique, Laboratoire de Planétologie et Géodynamique, Nantes, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210146808"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Laboratoire de Planétologie et Géodynamique [UMR 6112]",
+              "institution_ids": [
+                "https://openalex.org/I4210146808"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5041415197",
+            "display_name": "Pierre‐Antoine Tesson",
+            "orcid": "https://orcid.org/0000-0003-2597-4592",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2597-4592"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122697084",
+              "display_name": "Centrum Badań Kosmicznych",
+              "ror": "https://ror.org/03zm2br59",
+              "country_code": "PL",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122697084",
+                "https://openalex.org/I99542240"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I99542240",
+              "display_name": "Polish Academy of Sciences",
+              "ror": "https://ror.org/01dr6c206",
+              "country_code": "PL",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I99542240"
+              ]
+            }
+          ],
+          "countries": [
+            "PL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Pierre-Antoine Tesson",
+          "raw_affiliation_strings": [
+            "Space Research Centre, Polish Academy of Science, Wrocław, Poland",
+            "Space Research Centre of Polish Academy of Sciences"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2597-4592",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Space Research Centre, Polish Academy of Science, Wrocław, Poland",
+              "institution_ids": [
+                "https://openalex.org/I122697084",
+                "https://openalex.org/I99542240"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Space Research Centre of Polish Academy of Sciences",
+              "institution_ids": [
+                "https://openalex.org/I122697084",
+                "https://openalex.org/I99542240"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061511622",
+            "display_name": "Andrea Manconi",
+            "orcid": "https://orcid.org/0000-0003-2930-4422",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2930-4422",
+              "https://orcid.org/0000-0002-1287-2768"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I35440088",
+              "display_name": "ETH Zurich",
+              "ror": "https://ror.org/05a28rw58",
+              "country_code": "CH",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I2799323385",
+                "https://openalex.org/I35440088"
+              ]
+            }
+          ],
+          "countries": [
+            "CH"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Andrea Manconi",
+          "raw_affiliation_strings": [
+            "Engineering Geology Institute, Swiss Federal Institute of Technology, Zurich, Switzerland",
+            "Engineering Geology Group [ETH Zürich]"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2930-4422",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Engineering Geology Institute, Swiss Federal Institute of Technology, Zurich, Switzerland",
+              "institution_ids": [
+                "https://openalex.org/I35440088"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Engineering Geology Group [ETH Zürich]",
+              "institution_ids": [
+                "https://openalex.org/I35440088"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018402520",
+            "display_name": "Simon Loew",
+            "orcid": "https://orcid.org/0000-0003-4014-1425",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4014-1425"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I35440088",
+              "display_name": "ETH Zurich",
+              "ror": "https://ror.org/05a28rw58",
+              "country_code": "CH",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I2799323385",
+                "https://openalex.org/I35440088"
+              ]
+            }
+          ],
+          "countries": [
+            "CH"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Simon Loew",
+          "raw_affiliation_strings": [
+            "Engineering Geology Institute, Swiss Federal Institute of Technology, Zurich, Switzerland",
+            "Engineering Geology Group [ETH Zürich]"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4014-1425",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Engineering Geology Institute, Swiss Federal Institute of Technology, Zurich, Switzerland",
+              "institution_ids": [
+                "https://openalex.org/I35440088"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Engineering Geology Group [ETH Zürich]",
+              "institution_ids": [
+                "https://openalex.org/I35440088"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5047071378",
+            "display_name": "U. Mall",
+            "orcid": "https://orcid.org/0000-0003-0206-6196",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0206-6196"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210116419",
+              "display_name": "Max Planck Institute for Solar System Research",
+              "ror": "https://ror.org/02j6gm739",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I149899117",
+                "https://openalex.org/I4210116419"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Urs Mall",
+          "raw_affiliation_strings": [
+            "Planets and Comets Department, Max Planck Institute for Solar System Research, Göttingen, Germany",
+            "Max-Planck-Institut für Sonnensystemforschung = Max Planck Institute for Solar System Research"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-0206-6196",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Planets and Comets Department, Max Planck Institute for Solar System Research, Göttingen, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4210116419"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Max-Planck-Institut für Sonnensystemforschung = Max Planck Institute for Solar System Research",
+              "institution_ids": [
+                "https://openalex.org/I4210116419"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1109/jstars.2020.2991588",
+        "doi": "https://doi.org/10.1109/jstars.2020.2991588",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1109/jstars.2020.2991588",
+        "pdf_url": "https://ieeexplore.ieee.org/ielx7/4609443/8994817/09103997.pdf",
+        "source": {
+          "id": "https://openalex.org/S117727964",
+          "display_name": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+          "issn_l": "1939-1404",
+          "issn": [
+            "1939-1404",
+            "2151-1535"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-d",
+            "jufo-1",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ieeexplore.ieee.org/ielx7/4609443/8994817/09103997.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2901700422",
+      "doi": null,
+      "title": "Interactive Planetary Visualization and Analysis with NASA's Solar System Treks Portals",
+      "publication_year": 2018,
+      "cited_by_count": 0,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5112670378",
+            "display_name": "Brian Day",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I144472018",
+              "display_name": "Wyle (United States)",
+              "ror": "https://ror.org/02zeryz43",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I144472018",
+                "https://openalex.org/I153156064"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Brian Day",
+          "raw_affiliation_strings": [
+            "Wyle Labs., Inc. Moffett Field, CA, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Wyle Labs., Inc. Moffett Field, CA, United States",
+              "institution_ids": [
+                "https://openalex.org/I144472018"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5113889208",
+            "display_name": "Emily Law",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Emily Law",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Lab., California Inst. of Tech. Pasadena, CA, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Lab., California Inst. of Tech. Pasadena, CA, United States",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:casi.ntrs.nasa.gov:20180007259",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/2060/20180007259",
+        "pdf_url": "http://hdl.handle.net/2060/20180007259",
+        "source": {
+          "id": "https://openalex.org/S4377196257",
+          "display_name": "NASA STI Repository (National Aeronautics and Space Administration)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4210124779",
+          "host_organization_name": "National Aeronautics and Space Administration",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210124779"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "CASI",
+        "raw_type": "ARC-E-DAA-TN57562"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2060/20180007259",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2767948009",
+      "doi": null,
+      "title": "Public Outreach with NASA Lunar and Planetary Mapping and Modeling",
+      "publication_year": 2017,
+      "cited_by_count": 0,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5114132773",
+            "display_name": "E. Law",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "E. Law",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Lab., California Inst. of Tech. Pasadena, CA, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Lab., California Inst. of Tech. Pasadena, CA, United States",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5112513336",
+            "display_name": "B. H. Day",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I144472018",
+              "display_name": "Wyle (United States)",
+              "ror": "https://ror.org/02zeryz43",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I144472018",
+                "https://openalex.org/I153156064"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "B. H. Day",
+          "raw_affiliation_strings": [
+            "Wyle Labs., Inc. Moffett Field, CA, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Wyle Labs., Inc. Moffett Field, CA, United States",
+              "institution_ids": [
+                "https://openalex.org/I144472018"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:casi.ntrs.nasa.gov:20170008886",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/2060/20170008886",
+        "pdf_url": "http://hdl.handle.net/2060/20170008886",
+        "source": {
+          "id": "https://openalex.org/S4377196257",
+          "display_name": "NASA STI Repository (National Aeronautics and Space Administration)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4210124779",
+          "host_organization_name": "National Aeronautics and Space Administration",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210124779"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "CASI",
+        "raw_type": "ARC-E-DAA-TN42729"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2060/20170008886",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W3098545087",
+      "doi": "https://doi.org/10.5194/epsc2020-162",
+      "title": "Data Visualization and Analysis with NASA's Mercury Trek Online Portal",
+      "publication_year": 2020,
+      "cited_by_count": 0,
+      "type": "conference-abstract",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5112670378",
+            "display_name": "Brian Day",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210141636",
+              "display_name": "Solar System Exploration Research Virtual Institute",
+              "ror": "https://ror.org/04437j066",
+              "country_code": "US",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210141636"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Brian Day",
+          "raw_affiliation_strings": [
+            "NASA Solar System Exploration Research Virtual Institute, Moffett Field, United States of America (brian.h.day@nasa.gov)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Solar System Exploration Research Virtual Institute, Moffett Field, United States of America (brian.h.day@nasa.gov)",
+              "institution_ids": [
+                "https://openalex.org/I4210141636"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113889208",
+            "display_name": "Emily Law",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Emily Law",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology. Pasadena, CA, USA 91109. (Emily.S.Law@jpl.nasa.gov)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology. Pasadena, CA, USA 91109. (Emily.S.Law@jpl.nasa.gov)",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": null,
+            "display_name": "Solar System Treks Development Team",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Solar System Treks Development Team",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.5194/epsc2020-162",
+        "doi": "https://doi.org/10.5194/epsc2020-162",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5194/epsc2020-162",
+        "pdf_url": null,
+        "source": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "posted-content"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.5194/epsc2020-162",
+        "any_repository_has_fulltext": null
+      }
+    }
+  ],
+  "group_by": []
+}

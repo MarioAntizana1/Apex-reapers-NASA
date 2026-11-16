@@ -1,0 +1,11 @@
+{
+  "generado": "2026-11-14T15:19:01-0500",
+  "radio_marte_m": 3396190.0,
+  "crs_app": "+proj=eqc +lat_ts=18.45 +lat_0=18.45 +lon_0=77.45 +R=3396190 +units=m +no_defs",
+  "resultados": {
+    "perfiles": {
+      "puntos_travesia": 1346,
+      "longitud_travesia_m": 10194.4
+    }
+  }
+}

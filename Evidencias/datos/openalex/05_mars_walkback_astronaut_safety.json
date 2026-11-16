@@ -1,0 +1,940 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 33,
+    "db_response_time_ms": 61,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Mars walkback astronaut safety) in the full text",
+      "x_new_oql": "get works with (Mars walkback astronaut safety) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Mars walkback astronaut safety",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Mars walkback astronaut safety&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2339698619",
+      "doi": null,
+      "title": "Integration of Multiple Sensors for Astronaut Navigation on The Lunar Surface",
+      "publication_year": 2011,
+      "cited_by_count": 6,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5100934490",
+            "display_name": "Shaojun He",
+            "orcid": "https://orcid.org/0009-0001-9531-9051",
+            "observed_orcids": [
+              "https://orcid.org/0009-0001-9531-9051"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I52357470",
+              "display_name": "The Ohio State University",
+              "ror": "https://ror.org/00rs6vg23",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I52357470"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Shaojun He",
+          "raw_affiliation_strings": [
+            "the Ohio State University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "the Ohio State University",
+              "institution_ids": [
+                "https://openalex.org/I52357470"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:etd.ohiolink.edu:osu1324496686",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://rave.ohiolink.edu/etdc/view?acc_num=osu1324496686",
+        "pdf_url": "https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1324496686&disposition=inline",
+        "source": {
+          "id": "https://openalex.org/S4377196344",
+          "display_name": "OhioLink ETD Center (Ohio Library and Information Network)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4210155183",
+          "host_organization_name": "Ohio Library and Information Network",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210155183"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "http://rave.ohiolink.edu/etdc/view?acc_num=osu1324496686",
+        "raw_type": "text"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1324496686&disposition=inline",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171709612",
+      "doi": "https://doi.org/10.32865/2346/108847",
+      "title": "Mars Spacesuit Mass Requirements",
+      "publication_year": 2026,
+      "cited_by_count": 0,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5135310868",
+            "display_name": "Ryan Ogilvie",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ryan Ogilvie",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center , Houston , Texas , 77058"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center , Houston , Texas , 77058",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5135368475",
+            "display_name": "Ben Swartout",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ben Swartout",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center , Houston , Texas , 77058"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center , Houston , Texas , 77058",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5135385902",
+            "display_name": "Bradley Hoffmann",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I153156064",
+              "display_name": "KBR (United States)",
+              "ror": "https://ror.org/01g1xae87",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I153156064"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bradley Hoffmann",
+          "raw_affiliation_strings": [
+            "KBR , Houston , Texas , 77058"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "KBR , Houston , Texas , 77058",
+              "institution_ids": [
+                "https://openalex.org/I153156064"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052178055",
+            "display_name": "Shane McFarland",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Shane McFarland",
+          "raw_affiliation_strings": [
+            "Aegis Aerospace , Houston , Texas , 77058"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Aegis Aerospace , Houston , Texas , 77058",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5139348809",
+            "display_name": "Lauren Hickox",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Lauren Hickox",
+          "raw_affiliation_strings": [
+            "Aegis Aerospace , Houston , Texas , 77058"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Aegis Aerospace , Houston , Texas , 77058",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.32865/2346/108847",
+        "doi": "https://doi.org/10.32865/2346/108847",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.32865/2346/108847",
+        "pdf_url": "https://ttu-ir.tdl.org/bitstreams/9ef3dbae-5558-4878-8acf-6daefea7435d/download",
+        "source": {
+          "id": "https://openalex.org/S4306499376",
+          "display_name": "International Conference on Environmental Systems (ICES)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "55th International Conference on Environmental Systems",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://ttu-ir.tdl.org/bitstreams/9ef3dbae-5558-4878-8acf-6daefea7435d/download",
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2748346229",
+      "doi": null,
+      "title": "Interviews with Apollo Lunar Surface Astronauts in Support of EVA Systems Design",
+      "publication_year": 2010,
+      "cited_by_count": 0,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5108252989",
+            "display_name": "Dean B. Eppler",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Dean Eppler",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center Houston, TX, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center Houston, TX, United States",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:casi.ntrs.nasa.gov:20160009346",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/2060/20160009346",
+        "pdf_url": "http://hdl.handle.net/2060/20160009346",
+        "source": {
+          "id": "https://openalex.org/S4377196257",
+          "display_name": "NASA STI Repository (National Aeronautics and Space Administration)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4210124779",
+          "host_organization_name": "National Aeronautics and Space Administration",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210124779"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "CASI",
+        "raw_type": "JSC-CN-29714"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2060/20160009346",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W7164207231",
+      "doi": "https://doi.org/10.1038/s41526-026-00619-8",
+      "title": "A systematic review identifying fitness metrics indicative of simulated astronaut extravehicular activity task performance",
+      "publication_year": 2026,
+      "cited_by_count": 0,
+      "type": "review",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5052549518",
+            "display_name": "Nicole C.A. Strock",
+            "orcid": "https://orcid.org/0000-0002-6642-117X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6642-117X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I153156064",
+              "display_name": "KBR (United States)",
+              "ror": "https://ror.org/01g1xae87",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I153156064"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Nicole C. Strock",
+          "raw_affiliation_strings": [
+            "Exercise Physiology and Countermeasures Laboratory, NASA Johnson Space Center, Houston, TX, USA. nicole.c.strock@nasa.gov",
+            "KBR, Inc, Houston, TX, USA. nicole.c.strock@nasa.gov"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-6642-117X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Exercise Physiology and Countermeasures Laboratory, NASA Johnson Space Center, Houston, TX, USA. nicole.c.strock@nasa.gov",
+              "institution_ids": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            },
+            {
+              "raw_affiliation_string": "KBR, Inc, Houston, TX, USA. nicole.c.strock@nasa.gov",
+              "institution_ids": [
+                "https://openalex.org/I153156064"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036587276",
+            "display_name": "Alyssa N. Varanoske",
+            "orcid": "https://orcid.org/0000-0002-2001-6566",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2001-6566"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I153156064",
+              "display_name": "KBR (United States)",
+              "ror": "https://ror.org/01g1xae87",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I153156064"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alyssa N. Varanoske",
+          "raw_affiliation_strings": [
+            "Exercise Physiology and Countermeasures Laboratory, NASA Johnson Space Center, Houston, TX, USA",
+            "KBR, Inc, Houston, TX, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-2001-6566",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Exercise Physiology and Countermeasures Laboratory, NASA Johnson Space Center, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            },
+            {
+              "raw_affiliation_string": "KBR, Inc, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I153156064"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5138345638",
+            "display_name": "Jakob R. Allen",
+            "orcid": "https://orcid.org/0000-0002-6123-6282",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6123-6282"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I153156064",
+              "display_name": "KBR (United States)",
+              "ror": "https://ror.org/01g1xae87",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I153156064"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jakob R. Allen",
+          "raw_affiliation_strings": [
+            "Exercise Physiology and Countermeasures Laboratory, NASA Johnson Space Center, Houston, TX, USA",
+            "KBR, Inc, Houston, TX, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-6123-6282",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Exercise Physiology and Countermeasures Laboratory, NASA Johnson Space Center, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            },
+            {
+              "raw_affiliation_string": "KBR, Inc, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I153156064"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5060173141",
+            "display_name": "Dillon J. Frisco",
+            "orcid": "https://orcid.org/0009-0008-0524-0181",
+            "observed_orcids": [
+              "https://orcid.org/0009-0008-0524-0181"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210153563",
+              "display_name": "JES Tech (United States)",
+              "ror": "https://ror.org/05k1j1x39",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210153563"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Dillon J. Frisco",
+          "raw_affiliation_strings": [
+            "Exercise Physiology and Countermeasures Laboratory, NASA Johnson Space Center, Houston, TX, USA",
+            "JES Technologies, Houston, TX, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0008-0524-0181",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Exercise Physiology and Countermeasures Laboratory, NASA Johnson Space Center, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            },
+            {
+              "raw_affiliation_string": "JES Technologies, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210153563"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1038/s41526-026-00619-8",
+        "doi": "https://doi.org/10.1038/s41526-026-00619-8",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41526-026-00619-8",
+        "pdf_url": "https://www.nature.com/articles/s41526-026-00619-8_reference.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210211936",
+          "display_name": "npj Microgravity",
+          "issn_l": "2373-8065",
+          "issn": [
+            "2373-8065"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "npj Microgravity",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41526-026-00619-8_reference.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W1592995295",
+      "doi": null,
+      "title": "Automating CapCom: Pragmatic Operations and Technology Research for Human Exploration of Mars",
+      "publication_year": 2003,
+      "cited_by_count": 13,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5048181212",
+            "display_name": "William J. Clancey",
+            "orcid": "https://orcid.org/0000-0001-9643-9437",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9643-9437"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "William J. Clancey",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center Moffett Field, CA, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center Moffett Field, CA, United States",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:casi.ntrs.nasa.gov:20030107380",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/2060/20030107380",
+        "pdf_url": "https://ntrs.nasa.gov/api/citations/20030107380/downloads/20030107380.pdf",
+        "source": {
+          "id": "https://openalex.org/S4377196257",
+          "display_name": "NASA STI Repository (National Aeronautics and Space Administration)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4210124779",
+          "host_organization_name": "National Aeronautics and Space Administration",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210124779"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "CASI",
+        "raw_type": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ntrs.nasa.gov/api/citations/20030107380/downloads/20030107380.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W1566495447",
+      "doi": null,
+      "title": "Mars exploration study workshop 2",
+      "publication_year": 1993,
+      "cited_by_count": 0,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5079087939",
+            "display_name": "Michael B. Duke",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michael B. Duke",
+          "raw_affiliation_strings": [
+            "NASA Lyndon B. Johnson Space Center Houston, TX, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Lyndon B. Johnson Space Center Houston, TX, United States",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5017183940",
+            "display_name": "Nancy Ann Budden",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Nancy Ann Budden",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:casi.ntrs.nasa.gov:19940017410",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/2060/19940017410",
+        "pdf_url": "https://ntrs.nasa.gov/api/citations/19940017410/downloads/19940017410.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306402118",
+          "display_name": "NASA Technical Reports Server (NASA)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1305493378",
+          "host_organization_name": "NASA Headquarters",
+          "host_organization_lineage": [
+            "https://openalex.org/I1305493378"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "CASI",
+        "raw_type": "NAS 1.55:3243"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ntrs.nasa.gov/api/citations/19940017410/downloads/19940017410.pdf",
+        "any_repository_has_fulltext": true
+      }
+    }
+  ],
+  "group_by": []
+}

@@ -1,0 +1,1068 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 65899,
+    "db_response_time_ms": 104,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Mars \"sample\" return) in the full text",
+      "x_new_oql": "get works with (Mars \"sample\" return) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Mars sample return",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Mars sample return&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2013248997",
+      "doi": "https://doi.org/10.1109/aero.2011.5747287",
+      "title": "Mars Sample Return as a campaign",
+      "publication_year": 2011,
+      "cited_by_count": 78,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5032792329",
+            "display_name": "R. Mattingly",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Richard Mattingly",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+            "Jet Propulsion Laboratory, California Institute of Technology, Mail Stop 321-630, 4800 Oak Grove Drive, Pasadena, 91011, USA#TAB#"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Mail Stop 321-630, 4800 Oak Grove Drive, Pasadena, 91011, USA#TAB#",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5083388624",
+            "display_name": "Lisa May",
+            "orcid": "https://orcid.org/0009-0003-7335-3050",
+            "observed_orcids": [
+              "https://orcid.org/0009-0003-7335-3050"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lisa May",
+          "raw_affiliation_strings": [
+            "NASA Headquarters, Washington D.C., DC, USA",
+            "NASA Headquarters, Mail Suite 3X66, 300 E. Street SW, Washington, DC 20546-0001, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Headquarters, Washington D.C., DC, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "raw_affiliation_string": "NASA Headquarters, Mail Suite 3X66, 300 E. Street SW, Washington, DC 20546-0001, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1109/aero.2011.5747287",
+        "doi": "https://doi.org/10.1109/aero.2011.5747287",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/aero.2011.5747287",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2011 Aerospace Conference",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W3034450565",
+      "doi": "https://doi.org/10.1016/j.actaastro.2020.06.026",
+      "title": "Mars Sample Return Campaign Concept Status",
+      "publication_year": 2020,
+      "cited_by_count": 102,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5078984768",
+            "display_name": "Brian K. Muirhead",
+            "orcid": "https://orcid.org/0000-0001-7342-7679",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7342-7679"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Brian K. Muirhead",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA, 91109, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7342-7679",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA, 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037835036",
+            "display_name": "Austin K. Nicholas",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Austin K. Nicholas",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA, 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA, 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5073149879",
+            "display_name": "Jeffrey W. Umland",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jeffrey Umland",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA, 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA, 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059772612",
+            "display_name": "Orson Sutherland",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2801994115",
+              "display_name": "European Space Agency",
+              "ror": "https://ror.org/03wd9za21",
+              "country_code": "FR",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I2801994115"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Orson Sutherland",
+          "raw_affiliation_strings": [
+            "European Space Agency, the Netherlands"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "European Space Agency, the Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I2801994115"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5025331436",
+            "display_name": "S. Vijendran",
+            "orcid": "https://orcid.org/0000-0002-2355-6808",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2355-6808"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2801994115",
+              "display_name": "European Space Agency",
+              "ror": "https://ror.org/03wd9za21",
+              "country_code": "FR",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I2801994115"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sanjay Vijendran",
+          "raw_affiliation_strings": [
+            "European Space Agency, the Netherlands"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "European Space Agency, the Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I2801994115"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1016/j.actaastro.2020.06.026",
+        "doi": "https://doi.org/10.1016/j.actaastro.2020.06.026",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.actaastro.2020.06.026",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S179591353",
+          "display_name": "Acta Astronautica",
+          "issn_l": "0094-5765",
+          "issn": [
+            "0094-5765",
+            "1879-2030"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-a",
+            "jufo-1",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Acta Astronautica",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2024895760",
+      "doi": "https://doi.org/10.1016/s0094-5765(00)00085-0",
+      "title": "The mars sample return project",
+      "publication_year": 2000,
+      "cited_by_count": 39,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5082440317",
+            "display_name": "William J. O'Neil",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "William J. O'Neil",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California, USA",
+            "Jet Propulsion Laboratory California Institute of Technology Pasadena California USA,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory California Institute of Technology Pasadena California USA,",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5024384367",
+            "display_name": "Christian Cazaux",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799535048",
+              "display_name": "Centre National d'Études Spatiales",
+              "ror": "https://ror.org/04h1h0y33",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I2799535048"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Christian Cazaux",
+          "raw_affiliation_strings": [
+            "Centre National d'Etudes Spatiales Toulouse, France",
+            "Centre National d’ Etudes Spatiales, Toulouse, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre National d'Etudes Spatiales Toulouse, France",
+              "institution_ids": [
+                "https://openalex.org/I2799535048"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Centre National d’ Etudes Spatiales, Toulouse, France",
+              "institution_ids": [
+                "https://openalex.org/I2799535048"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1016/s0094-5765(00)00085-0",
+        "doi": "https://doi.org/10.1016/s0094-5765(00)00085-0",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/s0094-5765(00)00085-0",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S179591353",
+          "display_name": "Acta Astronautica",
+          "issn_l": "0094-5765",
+          "issn": [
+            "0094-5765",
+            "1879-2030"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-a",
+            "jufo-1",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Acta Astronautica",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W56971384",
+      "doi": null,
+      "title": "Autonomous Rover Technology for Mars Sample Return",
+      "publication_year": 1999,
+      "cited_by_count": 46,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5025576879",
+            "display_name": "R. C. Weisbin",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R. C. Weisbin",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112065947",
+            "display_name": "G. Rodriguez",
+            "orcid": "https://orcid.org/0000-0002-8109-9780",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8109-9780"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "G. Rodriguez",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5019323728",
+            "display_name": "S. P. Schenker",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S. P. Schenker",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5056412412",
+            "display_name": "H. Das",
+            "orcid": "https://orcid.org/0000-0002-3335-2622",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3335-2622"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "H. Das",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-3335-2622",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009510385",
+            "display_name": "Samad A. Hayati",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S. Hayati",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Tim Baumgärtner",
+            "orcid": "https://orcid.org/0000-0001-6903-5509",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6903-5509"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Tim Baumgärtner",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-6903-5509",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5016754559",
+            "display_name": "Mark W. Maimone",
+            "orcid": "https://orcid.org/0000-0002-6046-6967",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6046-6967"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mark Maimone",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-6046-6967",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037801956",
+            "display_name": "Issa Nesnas",
+            "orcid": "https://orcid.org/0000-0002-2616-5001",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2616-5001"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Issa Nesnas",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-2616-5001",
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5034839785",
+            "display_name": "Andrew Volpe",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Andrew Volpe",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "mag:56971384",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "http://robotics.estec.esa.int/i-SAIRAS/isairas1999/s01-01.pdf",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "International Conference on Robotics and Automation",
+        "raw_type": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W4205096701",
+      "doi": "https://doi.org/10.1007/978-3-030-92118-7_8",
+      "title": "Mars Sample Return",
+      "publication_year": 2022,
+      "cited_by_count": 1,
+      "type": "book-chapter",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5011321734",
+            "display_name": "Manfred “Dutch” von Ehrenfried",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Manfred ”Dutch” von Ehrenfried",
+          "raw_affiliation_strings": [
+            "Cedar Park, TX, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Cedar Park, TX, USA",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1007/978-3-030-92118-7_8",
+        "doi": "https://doi.org/10.1007/978-3-030-92118-7_8",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-030-92118-7_8",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306463937",
+          "display_name": "Springer eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Perseverance and the Mars 2020 Mission",
+        "raw_type": "book-chapter"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W3080867237",
+      "doi": "https://doi.org/10.1109/aero47225.2020.9172609",
+      "title": "Mars Sample Return Mission Concept Status",
+      "publication_year": 2020,
+      "cited_by_count": 34,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5078984768",
+            "display_name": "Brian K. Muirhead",
+            "orcid": "https://orcid.org/0000-0001-7342-7679",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7342-7679"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Brian K. Muirhead",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology,4800 Oak Grove Dr., Pasadena,CA,91109",
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology,4800 Oak Grove Dr., Pasadena,CA,91109",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037835036",
+            "display_name": "Austin K. Nicholas",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Austin Nicholas",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology,4800 Oak Grove Dr., Pasadena,CA,91109",
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology,4800 Oak Grove Dr., Pasadena,CA,91109",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5048619330",
+            "display_name": "Jeff Umland",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jeff Umland",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology,4800 Oak Grove Dr., Pasadena,CA,91109",
+            "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology,4800 Oak Grove Dr., Pasadena,CA,91109",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Dr., Pasadena, CA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1109/aero47225.2020.9172609",
+        "doi": "https://doi.org/10.1109/aero47225.2020.9172609",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/aero47225.2020.9172609",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210171417",
+          "display_name": "Proceedings - IEEE Aerospace Conference",
+          "issn_l": "1095-323X",
+          "issn": [
+            "1095-323X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2020 IEEE Aerospace Conference",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    }
+  ],
+  "group_by": []
+}

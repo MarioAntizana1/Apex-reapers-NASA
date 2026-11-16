@@ -1,0 +1,3037 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 17861,
+    "db_response_time_ms": 200,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Mars 2020 mission overview) in the full text",
+      "x_new_oql": "get works with (Mars 2020 mission overview) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Mars 2020 mission overview",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Mars 2020 mission overview&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W3110256918",
+      "doi": "https://doi.org/10.1007/s11214-020-00762-y",
+      "title": "Mars 2020 Mission Overview",
+      "publication_year": 2020,
+      "cited_by_count": 558,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5020967937",
+            "display_name": "Kenneth Anthony Farley",
+            "orcid": "https://orcid.org/0000-0002-7846-7546",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7846-7546"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Kenneth A. Farley",
+          "raw_affiliation_strings": [
+            "Division of Geological and Planetary Sciences, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Division of Geological and Planetary Sciences, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036436018",
+            "display_name": "Kenneth H. Williford",
+            "orcid": "https://orcid.org/0000-0003-0633-408X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0633-408X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kenneth H. Williford",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5079710286",
+            "display_name": "Kathryn M. Stack",
+            "orcid": "https://orcid.org/0000-0003-3444-6695",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3444-6695"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kathryn M. Stack",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051505688",
+            "display_name": "Rohit Bhartia",
+            "orcid": "https://orcid.org/0000-0002-1434-7481",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1434-7481"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210122605",
+              "display_name": "Photon Systems (United States)",
+              "ror": "https://ror.org/02acd1c86",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210122605"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rohit Bhartia",
+          "raw_affiliation_strings": [
+            "Photon Systems Inc., West Covina, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Photon Systems Inc., West Covina, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210122605"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5047094865",
+            "display_name": "Al Chen",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Al Chen",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113961900",
+            "display_name": "M. de la Torre",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Manuel de la Torre",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5024517030",
+            "display_name": "Kevin Peter Hand",
+            "orcid": "https://orcid.org/0000-0002-3225-9426",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3225-9426"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kevin Hand",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5056485912",
+            "display_name": "Yulia S. GOREVA",
+            "orcid": "https://orcid.org/0000-0002-4474-4250",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4474-4250"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yulia Goreva",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5064046224",
+            "display_name": "C. D. K. Herd",
+            "orcid": "https://orcid.org/0000-0001-5210-4002",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5210-4002"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I154425047",
+              "display_name": "University of Alberta",
+              "ror": "https://ror.org/0160cpw27",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I154425047"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Christopher D. K. Herd",
+          "raw_affiliation_strings": [
+            "Department of Earth and Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth and Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
+              "institution_ids": [
+                "https://openalex.org/I154425047"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031675258",
+            "display_name": "R. Hueso",
+            "orcid": "https://orcid.org/0000-0003-0169-123X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0169-123X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I169108374",
+              "display_name": "University of the Basque Country",
+              "ror": "https://ror.org/000xsnr85",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I169108374"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ricardo Hueso",
+          "raw_affiliation_strings": [
+            "Escuela de Ingeniería de Bilbao, Universidad del País Vasco, Bilbao, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Escuela de Ingeniería de Bilbao, Universidad del País Vasco, Bilbao, Spain",
+              "institution_ids": [
+                "https://openalex.org/I169108374"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100356063",
+            "display_name": "Yang Liu",
+            "orcid": "https://orcid.org/0000-0003-0308-0942",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0308-0942"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yang Liu",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5021573194",
+            "display_name": "J. N. Maki",
+            "orcid": "https://orcid.org/0000-0002-7887-0343",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7887-0343"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Justin N. Maki",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100599518",
+            "display_name": "Germán Martínez",
+            "orcid": "https://orcid.org/0000-0001-5885-236X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5885-236X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I58286723",
+              "display_name": "Lunar and Planetary Institute",
+              "ror": "https://ror.org/01r4eh644",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1329765538",
+                "https://openalex.org/I58286723"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "German Martinez",
+          "raw_affiliation_strings": [
+            "Lunar and Planetary Institute/USRA, Houston, TX, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Lunar and Planetary Institute/USRA, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I58286723"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5014925845",
+            "display_name": "R. Moeller",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Robert C. Moeller",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5056395619",
+            "display_name": "Adam P. Nelessen",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Adam Nelessen",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020727212",
+            "display_name": "Claire E. Newman",
+            "orcid": "https://orcid.org/0000-0001-9990-8817",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9990-8817"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210101090",
+              "display_name": "Aeolis Research (United States)",
+              "ror": "https://ror.org/012a3nb13",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210101090"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Claire E. Newman",
+          "raw_affiliation_strings": [
+            "Aeolis Research, Chandler, AZ, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Aeolis Research, Chandler, AZ, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210101090"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060484691",
+            "display_name": "Daniel Cahn Nunes",
+            "orcid": "https://orcid.org/0000-0002-0937-7176",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0937-7176"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Daniel Nunes",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5089270271",
+            "display_name": "Adrian Ponce",
+            "orcid": "https://orcid.org/0000-0001-7657-1617",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7657-1617"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Adrian Ponce",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5077926497",
+            "display_name": "Nicole Spanovich",
+            "orcid": "https://orcid.org/0000-0002-9584-5043",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9584-5043"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nicole Spanovich",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054646840",
+            "display_name": "Peter A. Willis",
+            "orcid": "https://orcid.org/0000-0001-5394-1101",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5394-1101"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Peter A. Willis",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5012914654",
+            "display_name": "Luther W. Beegle",
+            "orcid": "https://orcid.org/0000-0002-4944-4353",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4944-4353"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Luther W. Beegle",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013004995",
+            "display_name": "James F. Bell III",
+            "orcid": "https://orcid.org/0000-0002-2006-4074",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2006-4074"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "James F. Bell",
+          "raw_affiliation_strings": [
+            "School of Earth & Space Exploration, Arizona State University, Tempe, AZ, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth & Space Exploration, Arizona State University, Tempe, AZ, USA",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5012574220",
+            "display_name": "Adrian Jon Brown",
+            "orcid": "https://orcid.org/0000-0002-9352-6989",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9352-6989"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Adrian J. Brown",
+          "raw_affiliation_strings": [
+            "Plancius Research, Severna Park, MD, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Plancius Research, Severna Park, MD, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108722201",
+            "display_name": "S. E. Hamran",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I184942183",
+              "display_name": "University of Oslo",
+              "ror": "https://ror.org/01xtthb56",
+              "country_code": "NO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I184942183"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Svein-Erik Hamran",
+          "raw_affiliation_strings": [
+            "Department of Technology Systems, University of Oslo, Kjeller, Norway"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Technology Systems, University of Oslo, Kjeller, Norway",
+              "institution_ids": [
+                "https://openalex.org/I184942183"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044568212",
+            "display_name": "J. A. Hurowitz",
+            "orcid": "https://orcid.org/0000-0002-5857-8652",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5857-8652"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I59553526",
+              "display_name": "Stony Brook University",
+              "ror": "https://ror.org/05qghxh33",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I59553526"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Joel A. Hurowitz",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Stony Brook University, Stony Brook, NY, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Stony Brook University, Stony Brook, NY, USA",
+              "institution_ids": [
+                "https://openalex.org/I59553526"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052321857",
+            "display_name": "S. Maurice",
+            "orcid": "https://orcid.org/0000-0001-5702-8002",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5702-8002",
+              "https://orcid.org/0000-0002-9477-0043",
+              "https://orcid.org/0000-0003-1361-5170"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210165452",
+              "display_name": "Institut de Recherche en Astrophysique et Planétologie",
+              "ror": "https://ror.org/05hm2ja81",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210165452",
+                "https://openalex.org/I4405258862"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sylvestre Maurice",
+          "raw_affiliation_strings": [
+            "Institut de Recherche en Astrophysique et Planétologie, Toulouse, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institut de Recherche en Astrophysique et Planétologie, Toulouse, France",
+              "institution_ids": [
+                "https://openalex.org/I4210165452"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009527420",
+            "display_name": "David A. Paige",
+            "orcid": "https://orcid.org/0009-0001-6122-9904",
+            "observed_orcids": [
+              "https://orcid.org/0009-0001-6122-9904"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I161318765",
+              "display_name": "University of California, Los Angeles",
+              "ror": "https://ror.org/046rm7j60",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I161318765"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "David A. Paige",
+          "raw_affiliation_strings": [
+            "Dept. of Earth, Planetary, and Space Sciences, University of California, Los Angeles, Los Angeles, CA, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Dept. of Earth, Planetary, and Space Sciences, University of California, Los Angeles, Los Angeles, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I161318765"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008242243",
+            "display_name": "Jose Antonio Rodríguez-Manfredi",
+            "orcid": "https://orcid.org/0000-0003-0461-9815",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0461-9815"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210129022",
+              "display_name": "Centro de Astrobiología",
+              "ror": "https://ror.org/038szmr31",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210117279",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jose A. Rodriguez-Manfredi",
+          "raw_affiliation_strings": [
+            "Centro de Astrobiologia (INTA-CSIC), Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro de Astrobiologia (INTA-CSIC), Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210129022"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009864728",
+            "display_name": "Mitchell D. Schulte",
+            "orcid": "https://orcid.org/0000-0001-8141-2020",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8141-2020"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mitch Schulte",
+          "raw_affiliation_strings": [
+            "Mars Exploration Program, NASA Headquarters, Washington, DC, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Mars Exploration Program, NASA Headquarters, Washington, DC, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5074989705",
+            "display_name": "R. C. Wiens",
+            "orcid": "https://orcid.org/0000-0002-3409-7344",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3409-7344"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1343871089",
+              "display_name": "Los Alamos National Laboratory",
+              "ror": "https://ror.org/01e41cf67",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1330989302",
+                "https://openalex.org/I1343871089",
+                "https://openalex.org/I198811213",
+                "https://openalex.org/I4210120050"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Roger C. Wiens",
+          "raw_affiliation_strings": [
+            "Los Alamos National Laboratory, Los Alamos, NM, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Los Alamos National Laboratory, Los Alamos, NM, USA",
+              "institution_ids": [
+                "https://openalex.org/I1343871089"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1007/s11214-020-00762-y",
+        "doi": "https://doi.org/10.1007/s11214-020-00762-y",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s11214-020-00762-y",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S10873449",
+          "display_name": "Space Science Reviews",
+          "issn_l": "0038-6308",
+          "issn": [
+            "0038-6308",
+            "1572-9672"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-b",
+            "jufo-3",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Space Science Reviews",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2761501386",
+      "doi": null,
+      "title": "Mars 2020 mission overview and the importance of planetary protection",
+      "publication_year": 2017,
+      "cited_by_count": 0,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5030662730",
+            "display_name": "Moogega Stricker",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Moogega Stricker",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "mag:2761501386",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "http://absimage.aps.org/image/TSF17/MWS_TSF17-2017-000289.pdf",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764664775",
+          "display_name": "Bulletin of the American Physical Society",
+          "issn_l": "0003-0503",
+          "issn": [
+            "0003-0503"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
+          "host_organization": "https://openalex.org/P4310311721",
+          "host_organization_name": "Cambridge University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311721",
+            "https://openalex.org/P4310311702"
+          ],
+          "host_organization_lineage_names": [
+            "Cambridge University Press",
+            "University of Cambridge"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Bulletin of the American Physical Society",
+        "raw_type": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2913899942",
+      "doi": null,
+      "title": "Mars 2020 Mission Design and Navigation Overview",
+      "publication_year": 2019,
+      "cited_by_count": 1,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5082688770",
+            "display_name": "Fernando Abilleira",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Fernando Abilleira",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5088096271",
+            "display_name": "Seth B. Aaron",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Seth Aaron",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5063082687",
+            "display_name": "C. D. Baker",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "C. D. Baker",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110597200",
+            "display_name": "Dan Burkhart",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Dan Burkhart",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5078841208",
+            "display_name": "Gerard L. Kruizinga",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Gerard L. Kruizinga",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086351796",
+            "display_name": "Julie A. Kangas",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Julie Kangas",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074557840",
+            "display_name": "Mark Jesick",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mark Jesick",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5114255855",
+            "display_name": "Robert Lange",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Robert Lange",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5106460197",
+            "display_name": "Sarah Elizabeth McCandless",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Sarah Elizabeth McCandless",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5028071080",
+            "display_name": "Mark Ryne",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mark Ryne",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5023347260",
+            "display_name": "Jill Seubert",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Jill Seubert",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5065037538",
+            "display_name": "Sean V. Wagner",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Sean Wagner",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5089418424",
+            "display_name": "Mau Wong",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mau Wong",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "mag:2913899942",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://ntrs.nasa.gov/search.jsp?R=20190000332",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306499936",
+          "display_name": "AAS/AIAA Astrodynamics Specialist Conference",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "AAS/AIAA Astrodynamics Specialist Conference",
+        "raw_type": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2756306575",
+      "doi": "https://doi.org/10.1007/s42064-017-0011-8",
+      "title": "Overview of China’s 2020 Mars mission design and navigation",
+      "publication_year": 2017,
+      "cited_by_count": 29,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5073278466",
+            "display_name": "Xiuqiang Jiang",
+            "orcid": "https://orcid.org/0000-0003-2981-0712",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2981-0712"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I9842412",
+              "display_name": "Nanjing University of Aeronautics and Astronautics",
+              "ror": "https://ror.org/01scyh794",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I9842412"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Xiuqiang Jiang",
+          "raw_affiliation_strings": [
+            "Department of Astronautics Engineering, College of Astronautics, Nanjing University of Aeronautics and Astronautics, Nanjing, 210016, China",
+            "Space New Technology Laboratory, Nanjing University of Aeronautics and Astronautics, Nanjing, 210016, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Astronautics Engineering, College of Astronautics, Nanjing University of Aeronautics and Astronautics, Nanjing, 210016, China",
+              "institution_ids": [
+                "https://openalex.org/I9842412"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Space New Technology Laboratory, Nanjing University of Aeronautics and Astronautics, Nanjing, 210016, China",
+              "institution_ids": [
+                "https://openalex.org/I9842412"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013886237",
+            "display_name": "Bin Yang",
+            "orcid": "https://orcid.org/0000-0002-6171-9436",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6171-9436"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I9842412",
+              "display_name": "Nanjing University of Aeronautics and Astronautics",
+              "ror": "https://ror.org/01scyh794",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I9842412"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bin Yang",
+          "raw_affiliation_strings": [
+            "Department of Astronautics Engineering, College of Astronautics, Nanjing University of Aeronautics and Astronautics, Nanjing, 210016, China",
+            "Space New Technology Laboratory, Nanjing University of Aeronautics and Astronautics, Nanjing, 210016, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Astronautics Engineering, College of Astronautics, Nanjing University of Aeronautics and Astronautics, Nanjing, 210016, China",
+              "institution_ids": [
+                "https://openalex.org/I9842412"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Space New Technology Laboratory, Nanjing University of Aeronautics and Astronautics, Nanjing, 210016, China",
+              "institution_ids": [
+                "https://openalex.org/I9842412"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5100415892",
+            "display_name": "Shuang Li",
+            "orcid": "https://orcid.org/0000-0001-9142-5036",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9142-5036",
+              "https://orcid.org/0000-0002-6291-7821",
+              "https://orcid.org/0000-0002-1377-7914",
+              "https://orcid.org/0000-0003-2792-8303",
+              "https://orcid.org/0000-0003-3729-7496",
+              "https://orcid.org/0009-0008-3904-7347",
+              "https://orcid.org/0009-0009-8501-5976"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I9842412",
+              "display_name": "Nanjing University of Aeronautics and Astronautics",
+              "ror": "https://ror.org/01scyh794",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I9842412"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Shuang Li",
+          "raw_affiliation_strings": [
+            "Department of Astronautics Engineering, College of Astronautics, Nanjing University of Aeronautics and Astronautics, Nanjing, 210016, China",
+            "Space New Technology Laboratory, Nanjing University of Aeronautics and Astronautics, Nanjing, 210016, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Astronautics Engineering, College of Astronautics, Nanjing University of Aeronautics and Astronautics, Nanjing, 210016, China",
+              "institution_ids": [
+                "https://openalex.org/I9842412"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Space New Technology Laboratory, Nanjing University of Aeronautics and Astronautics, Nanjing, 210016, China",
+              "institution_ids": [
+                "https://openalex.org/I9842412"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1007/s42064-017-0011-8",
+        "doi": "https://doi.org/10.1007/s42064-017-0011-8",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s42064-017-0011-8",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210175904",
+          "display_name": "Astrodynamics",
+          "issn_l": "2522-008X",
+          "issn": [
+            "2522-008X",
+            "2522-0098"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "poland-20",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Astrodynamics",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W3015047208",
+      "doi": null,
+      "title": "Emirates Mars Mission (EMM) 2020 Overview",
+      "publication_year": 2017,
+      "cited_by_count": 6,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5079122118",
+            "display_name": "Omran Sharaf",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "O. Sharaf",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5077522270",
+            "display_name": "Sarah Amiri",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Sarah Amiri",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086272719",
+            "display_name": "S. AlMheiri",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S. AlMheiri",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086756848",
+            "display_name": "Mohammad Wali",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammad Wali",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5055046677",
+            "display_name": "Zakareyya AlShamsi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Zakareyya AlShamsi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5058359467",
+            "display_name": "A. AlRais",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A. AlRais",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020538656",
+            "display_name": "I. AlQasim",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "I. AlQasim",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5082730951",
+            "display_name": "K. AlHarmoodi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "K. AlHarmoodi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5066513083",
+            "display_name": "Nour AlTeneiji",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Nour AlTeneiji",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087441838",
+            "display_name": "Hessa Almatroushi",
+            "orcid": "https://orcid.org/0000-0002-7232-929X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7232-929X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Hessa Almatroushi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5042286383",
+            "display_name": "Maryam AlShamsi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Me. AlShamsi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5141344116",
+            "display_name": "Ma. AlShamsi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Ma. AlShamsi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5049801479",
+            "display_name": "E. AlTeneiji",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "E. AlTeneiji",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5091748535",
+            "display_name": "A. A. AlJanaahi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A. A. AlJanaahi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059265305",
+            "display_name": "M. A. McGrath",
+            "orcid": "https://orcid.org/0000-0003-3562-6890",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3562-6890"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M. A. McGrath",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-3562-6890",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5071411014",
+            "display_name": "Peter R. Withnell",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "P. Withnell",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008529028",
+            "display_name": "Nicolas Ferrington",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "N. Ferrington",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5141456647",
+            "display_name": "H. Reed",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "H. Reed",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5021021048",
+            "display_name": "Brett L. Landin",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "B. Landin",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074753935",
+            "display_name": "David Andrew Brain",
+            "orcid": "https://orcid.org/0000-0001-8932-368X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8932-368X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "D. A. Brain",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5028012630",
+            "display_name": "Justin Deighan",
+            "orcid": "https://orcid.org/0000-0003-3667-902X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3667-902X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "J. Deighan",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5109450316",
+            "display_name": "Mike Chaffin",
+            "orcid": "https://orcid.org/0000-0002-1939-4797",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1939-4797"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M. Chaffin",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5000173092",
+            "display_name": "G. M. Holsclaw",
+            "orcid": "https://orcid.org/0000-0002-9059-9437",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9059-9437"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "G. M. Holsclaw",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-9059-9437",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Ginger Drake",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Ginger Drake",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5141607093",
+            "display_name": "C. Edwards",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "C. Edwards",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5141325717",
+            "display_name": "M. Wolff",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M. Wolff",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5041527164",
+            "display_name": "Robert James Lillis",
+            "orcid": "https://orcid.org/0000-0003-0578-517X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0578-517X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R. J. Lillis",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5048001054",
+            "display_name": "M. G. Smith",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M. G. Smith",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5051099357",
+            "display_name": "F. Forget",
+            "orcid": "https://orcid.org/0000-0002-3262-4366",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3262-4366"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "F. Forget",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-3262-4366",
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "mag:3015047208",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://ui.adsabs.harvard.edu/abs/2017EGUGA..1914198S/abstract",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306508950",
+          "display_name": "EGUGA",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "EGUGA",
+        "raw_type": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2991457500",
+      "doi": null,
+      "title": "Emirates Mars Mission (EMM) 2020 Overview",
+      "publication_year": 2017,
+      "cited_by_count": 0,
+      "type": "conference-abstract",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5077522270",
+            "display_name": "Sarah Amiri",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Sarah Amiri",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5079122118",
+            "display_name": "Omran Sharaf",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "O. Sharaf",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086272719",
+            "display_name": "S. AlMheiri",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S. AlMheiri",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5058359467",
+            "display_name": "A. AlRais",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A. AlRais",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086756848",
+            "display_name": "Mohammad Wali",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammad Wali",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Zahra Shamsi",
+            "orcid": "https://orcid.org/0000-0002-7994-2003",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7994-2003"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Zahra Shamsi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-7994-2003",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020538656",
+            "display_name": "I. AlQasim",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "I. Al Qasim",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5082730951",
+            "display_name": "K. AlHarmoodi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "K. Al Harmoodi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5066513083",
+            "display_name": "Nour AlTeneiji",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "N. Al Teneiji",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087441838",
+            "display_name": "Hessa Almatroushi",
+            "orcid": "https://orcid.org/0000-0002-7232-929X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7232-929X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Hessa Almatroushi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031948840",
+            "display_name": "M. R. Al Shamsi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M. R. Al Shamsi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5065485567",
+            "display_name": "E. S. Altunaiji",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "E. S. Altunaiji",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5012093334",
+            "display_name": "Fatma Hussain Lootah",
+            "orcid": "https://orcid.org/0000-0002-7145-1808",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7145-1808"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Fatma Lootah",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5083749421",
+            "display_name": "Khalid Badri",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Khalid Badri",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059265305",
+            "display_name": "M. A. McGrath",
+            "orcid": "https://orcid.org/0000-0003-3562-6890",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3562-6890"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M. A. McGrath",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-3562-6890",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5071411014",
+            "display_name": "Peter R. Withnell",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "P. Withnell",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008529028",
+            "display_name": "Nicolas Ferrington",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "N. Ferrington",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002162449",
+            "display_name": "Heather L. Reed",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "H. Reed",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5021021048",
+            "display_name": "Brett L. Landin",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "B. Landin",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Sean G. Ryan",
+            "orcid": "https://orcid.org/0000-0001-9069-5122",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9069-5122"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Sean G. Ryan",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-9069-5122",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5079260058",
+            "display_name": "Brian Pramann",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "B. Pramann",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074753935",
+            "display_name": "David Andrew Brain",
+            "orcid": "https://orcid.org/0000-0001-8932-368X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8932-368X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "D. A. Brain",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5028012630",
+            "display_name": "Justin Deighan",
+            "orcid": "https://orcid.org/0000-0003-3667-902X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3667-902X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "J. Deighan",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5109450316",
+            "display_name": "Mike Chaffin",
+            "orcid": "https://orcid.org/0000-0002-1939-4797",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1939-4797"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M. Chaffin",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5000173092",
+            "display_name": "G. M. Holsclaw",
+            "orcid": "https://orcid.org/0000-0002-9059-9437",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9059-9437"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "G. M. Holsclaw",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-9059-9437",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5073331445",
+            "display_name": "Ginger Drake",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Ginger Drake",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5050376527",
+            "display_name": "M. J. Wolff",
+            "orcid": "https://orcid.org/0000-0002-1127-8329",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1127-8329"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M. J. Wolff",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-1127-8329",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5007198856",
+            "display_name": "Christopher Scott Edwards",
+            "orcid": "https://orcid.org/0000-0002-8096-9633",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8096-9633"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Christopher S. Edwards",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-8096-9633",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5041527164",
+            "display_name": "Robert James Lillis",
+            "orcid": "https://orcid.org/0000-0003-0578-517X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0578-517X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R. J. Lillis",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5071611181",
+            "display_name": "Michael D. Smith",
+            "orcid": "https://orcid.org/0000-0002-7601-1158",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7601-1158"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M. D. Smith",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-7601-1158",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051099357",
+            "display_name": "F. Forget",
+            "orcid": "https://orcid.org/0000-0002-3262-4366",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3262-4366"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "F. Forget",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-3262-4366",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038265331",
+            "display_name": "M. O. Fillingim",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M. O. Fillingim",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5029562109",
+            "display_name": "S. England",
+            "orcid": "https://orcid.org/0000-0001-5336-0040",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5336-0040"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S. England",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-5336-0040",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5041195860",
+            "display_name": "Philip Russel Christensen",
+            "orcid": "https://orcid.org/0000-0001-9625-4723",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9625-4723"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "P. R. Christensen",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-9625-4723",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5043015081",
+            "display_name": "Mikki M. Osterloo",
+            "orcid": "https://orcid.org/0000-0003-3100-4760",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3100-4760"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M. M. Osterloo",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-3100-4760",
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5076285352",
+            "display_name": "A. R. Jones",
+            "orcid": "https://orcid.org/0000-0001-5533-5498",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5533-5498"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A. R. Jones",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-5533-5498",
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "mag:2991457500",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://ui.adsabs.harvard.edu/abs/2017AGUFM.P34B..08A/abstract",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306501062",
+          "display_name": "AGU Fall Meeting Abstracts",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "AGU Fall Meeting Abstracts",
+        "raw_type": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    }
+  ],
+  "group_by": []
+}

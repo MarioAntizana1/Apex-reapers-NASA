@@ -1,0 +1,10 @@
+{
+  "consultado": "2026-11-14T14:03:47-0500",
+  "url": "https://worldview.earthdata.nasa.gov/",
+  "tipo": "visualizador de observación de la Tierra (NASA EOSDIS/GIBS)",
+  "relevancia_marte": "ninguna",
+  "decision": "no usar en el MVP",
+  "motivo": "Worldview muestra datos de la Tierra (MODIS, VIIRS, etc.), no de Marte. No sirve para el mapa de Jezero ni para condiciones marcianas.",
+  "uso_posible_futuro": "Solo si se quisiera comparar un análogo terrestre; está fuera del alcance y del MVP.",
+  "titulo": "NASA Worldview"
+}

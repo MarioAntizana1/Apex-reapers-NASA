@@ -1,0 +1,793 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 20688,
+    "db_response_time_ms": 153,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Mars human exploration surface operations) in the full text",
+      "x_new_oql": "get works with (Mars human exploration surface operations) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Mars human exploration surface operations",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Mars human exploration surface operations&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4372311818",
+      "doi": "https://doi.org/10.1016/j.actaastro.2023.04.045",
+      "title": "18 Months of MOXIE (Mars oxygen ISRU experiment) operations on the surface of Mars - Preparing for human Mars exploration",
+      "publication_year": 2023,
+      "cited_by_count": 22,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5112087433",
+            "display_name": "Jeffrey A. Hoffman",
+            "orcid": "https://orcid.org/0000-0002-7543-6920",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7543-6920"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Jeffrey A. Hoffman",
+          "raw_affiliation_strings": [
+            "Department of Aeronautics and Astronautics, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA, 02139, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7543-6920",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Aeronautics and Astronautics, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA, 02139, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052220482",
+            "display_name": "Eric D. Hinterman",
+            "orcid": "https://orcid.org/0000-0002-9398-7697",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9398-7697"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Eric R. Hinterman",
+          "raw_affiliation_strings": [
+            "13802 NW Passage #112, Marina Del Rey, CA, 90292, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-9398-7697",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "13802 NW Passage #112, Marina Del Rey, CA, 90292, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5062418613",
+            "display_name": "M. H. Hecht",
+            "orcid": "https://orcid.org/0000-0002-4114-4583",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4114-4583",
+              "https://orcid.org/0000-0002-5538-9813",
+              "https://orcid.org/0000-0001-9214-8253"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michael H. Hecht",
+          "raw_affiliation_strings": [
+            "MIT Haystack Observatory, 99 Millstone Road, Westford, MA, 01886, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4114-4583",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MIT Haystack Observatory, 99 Millstone Road, Westford, MA, 01886, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020038381",
+            "display_name": "Donald Rapp",
+            "orcid": "https://orcid.org/0000-0003-4418-4924",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4418-4924"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Donald Rapp",
+          "raw_affiliation_strings": [
+            "South Pasadena, CA, 91030, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4418-4924",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "South Pasadena, CA, 91030, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5008462935",
+            "display_name": "Joseph Hartvigsen",
+            "orcid": "https://orcid.org/0000-0003-2641-0238",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2641-0238"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Joseph J. Hartvigsen",
+          "raw_affiliation_strings": [
+            "OxEon Energy, 257 River Bend Way, North Salt Lake City, 84054, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "OxEon Energy, 257 River Bend Way, North Salt Lake City, 84054, USA",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1016/j.actaastro.2023.04.045",
+        "doi": "https://doi.org/10.1016/j.actaastro.2023.04.045",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.actaastro.2023.04.045",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S179591353",
+          "display_name": "Acta Astronautica",
+          "issn_l": "0094-5765",
+          "issn": [
+            "0094-5765",
+            "1879-2030"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-a",
+            "jufo-1",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": "Acta Astronautica",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.1016/j.actaastro.2023.04.045",
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2282398609",
+      "doi": "https://doi.org/10.1109/aero.2016.7500775",
+      "title": "Human Mars landing site and impacts on Mars surface operations",
+      "publication_year": 2016,
+      "cited_by_count": 24,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5110170790",
+            "display_name": "Ben J. Bussey",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210124779",
+              "display_name": "National Aeronautics and Space Administration",
+              "ror": "https://ror.org/027ka1x80",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ben Bussey",
+          "raw_affiliation_strings": [
+            "NASA HQ - 7R76, Washington, DC"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA HQ - 7R76, Washington, DC",
+              "institution_ids": [
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5103540635",
+            "display_name": "Stephen J. Hoffman",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Stephen J. Hoffman",
+          "raw_affiliation_strings": [
+            "Science Applications International Corp., Houston, TX"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Science Applications International Corp., Houston, TX",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1109/aero.2016.7500775",
+        "doi": "https://doi.org/10.1109/aero.2016.7500775",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/aero.2016.7500775",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210171417",
+          "display_name": "Proceedings - IEEE Aerospace Conference",
+          "issn_l": "1095-323X",
+          "issn": [
+            "1095-323X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2016 IEEE Aerospace Conference",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ntrs.nasa.gov/api/citations/20150013826/downloads/20150013826.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W775911196",
+      "doi": null,
+      "title": "Human Mars Surface Science Operations",
+      "publication_year": 2014,
+      "cited_by_count": 2,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5112071037",
+            "display_name": "Marianne R. Bobskill",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1319063186",
+              "display_name": "Langley Research Center",
+              "ror": "https://ror.org/0399mhs52",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1319063186",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Marianne R. Bobskill",
+          "raw_affiliation_strings": [
+            "NASA Langley Research Center, Hampton, VA (United States)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Langley Research Center, Hampton, VA (United States)",
+              "institution_ids": [
+                "https://openalex.org/I1319063186"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5000685472",
+            "display_name": "Mark L. Lupisella",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1306266525",
+              "display_name": "Goddard Space Flight Center",
+              "ror": "https://ror.org/0171mag52",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1306266525",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mark Lupisella",
+          "raw_affiliation_strings": [
+            "NASA Goddard Space Flight Center Greenbelt, MD., United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Goddard Space Flight Center Greenbelt, MD., United States",
+              "institution_ids": [
+                "https://openalex.org/I1306266525"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "mag:775911196",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://arc.aiaa.org/doi/pdfplus/10.2514/6.2014-1620",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2111723997",
+      "doi": null,
+      "title": "Human Exploration of Mars: The Reference Mission of the NASA Mars Exploration Study Team",
+      "publication_year": 1997,
+      "cited_by_count": 250,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5103540635",
+            "display_name": "Stephen J. Hoffman",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Stephen J. Hoffman",
+          "raw_affiliation_strings": [
+            "Science Applications International Corp. Houston, TX., United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Science Applications International Corp. Houston, TX., United States",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5104361534",
+            "display_name": "David I. Kaplan",
+            "orcid": "https://orcid.org/0009-0002-1183-5647",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-1183-5647"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "David Kaplan",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center Houston, TX United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center Houston, TX United States",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:casi.ntrs.nasa.gov:19980037039",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/2060/19980037039",
+        "pdf_url": "http://hdl.handle.net/2060/19980037039",
+        "source": {
+          "id": "https://openalex.org/S4306402118",
+          "display_name": "NASA Technical Reports Server (NASA)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1305493378",
+          "host_organization_name": "NASA Headquarters",
+          "host_organization_lineage": [
+            "https://openalex.org/I1305493378"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "CASI",
+        "raw_type": "NASA-SP-6107"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2060/19980037039",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2327685942",
+      "doi": "https://doi.org/10.2514/6.2011-7222",
+      "title": "Human Mars Exploration Transportation: Bridging Concept of Operations",
+      "publication_year": 2011,
+      "cited_by_count": 0,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5038937088",
+            "display_name": "Kerry T. Nock",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210112697",
+              "display_name": "Global Aerospace (United States)",
+              "ror": "https://ror.org/01wtzjm14",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210112697"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kerry Nock",
+          "raw_affiliation_strings": [
+            "Global Aerospace Corporation"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Global Aerospace Corporation",
+              "institution_ids": [
+                "https://openalex.org/I4210112697"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5060827504",
+            "display_name": "William J. Kosmann",
+            "orcid": "https://orcid.org/0000-0002-3032-5856",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3032-5856"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4388891811",
+              "display_name": "Orbital Sciences (United States)",
+              "ror": "https://ror.org/0367ybf51",
+              "country_code": null,
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4388891811"
+              ]
+            }
+          ],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "William Kosmann",
+          "raw_affiliation_strings": [
+            "Orbital Sciences Corporation"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Orbital Sciences Corporation",
+              "institution_ids": [
+                "https://openalex.org/I4388891811"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.2514/6.2011-7222",
+        "doi": "https://doi.org/10.2514/6.2011-7222",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2514/6.2011-7222",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306501148",
+          "display_name": "AIAA SPACE Conference & Exposition",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "AIAA SPACE 2011 Conference &amp; Exposition",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W1511769896",
+      "doi": null,
+      "title": "Human Exploration of Mars: The Reference Mission of the NASA Mars Exploration Study Team",
+      "publication_year": 1998,
+      "cited_by_count": 20,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5052672143",
+            "display_name": "John F. Connolly",
+            "orcid": "https://orcid.org/0000-0001-8869-5369",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8869-5369"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "John F. Connolly",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center Houston, TX United States"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-8869-5369",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center Houston, TX United States",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "mag:1511769896",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://ntrs.nasa.gov/search.jsp?R=19990026747",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402118",
+          "display_name": "NASA Technical Reports Server (NASA)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1305493378",
+          "host_organization_name": "NASA Headquarters",
+          "host_organization_lineage": [
+            "https://openalex.org/I1305493378"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    }
+  ],
+  "group_by": []
+}

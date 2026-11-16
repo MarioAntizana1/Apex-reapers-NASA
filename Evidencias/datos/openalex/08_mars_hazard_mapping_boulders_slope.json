@@ -1,0 +1,2987 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 867,
+    "db_response_time_ms": 73,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Mars hazard mapping boulders slope) in the full text",
+      "x_new_oql": "get works with (Mars hazard mapping boulders slope) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Mars hazard mapping boulders slope",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Mars hazard mapping boulders slope&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2003498164",
+      "doi": "https://doi.org/10.1029/2007je003000",
+      "title": "Ultrahigh resolution topographic mapping of Mars with MRO HiRISE stereo images: Meter‐scale slopes of candidate Phoenix landing sites",
+      "publication_year": 2008,
+      "cited_by_count": 448,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5002878424",
+            "display_name": "R. L. Kirk",
+            "orcid": "https://orcid.org/0000-0003-0842-9226",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0842-9226"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210111045",
+              "display_name": "Astrogeology Science Center",
+              "ror": "https://ror.org/02623eb90",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249",
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. L. Kirk",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+            "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I4210111045"
+              ]
+            },
+            {
+              "raw_affiliation_string": "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5034679033",
+            "display_name": "Elpitha Howington‐Kraus",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210111045",
+              "display_name": "Astrogeology Science Center",
+              "ror": "https://ror.org/02623eb90",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249",
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "E. Howington‐Kraus",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+            "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I4210111045"
+              ]
+            },
+            {
+              "raw_affiliation_string": "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5014270317",
+            "display_name": "Mark R. Rosiek",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210111045",
+              "display_name": "Astrogeology Science Center",
+              "ror": "https://ror.org/02623eb90",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249",
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. R. Rosiek",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+            "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I4210111045"
+              ]
+            },
+            {
+              "raw_affiliation_string": "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "J. A. Anderson",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210111045",
+              "display_name": "Astrogeology Science Center",
+              "ror": "https://ror.org/02623eb90",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249",
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. A. Anderson",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+            "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I4210111045"
+              ]
+            },
+            {
+              "raw_affiliation_string": "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072226979",
+            "display_name": "Brent A. Archinal",
+            "orcid": "https://orcid.org/0000-0002-6654-0742",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6654-0742"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210111045",
+              "display_name": "Astrogeology Science Center",
+              "ror": "https://ror.org/02623eb90",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249",
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "B. A. Archinal",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+            "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I4210111045"
+              ]
+            },
+            {
+              "raw_affiliation_string": "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5023781603",
+            "display_name": "K. J. Becker",
+            "orcid": "https://orcid.org/0000-0003-1971-5957",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1971-5957"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210111045",
+              "display_name": "Astrogeology Science Center",
+              "ror": "https://ror.org/02623eb90",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249",
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "K. J. Becker",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+            "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I4210111045"
+              ]
+            },
+            {
+              "raw_affiliation_string": "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111662977",
+            "display_name": "D. Cook",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210111045",
+              "display_name": "Astrogeology Science Center",
+              "ror": "https://ror.org/02623eb90",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249",
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "D. A. Cook",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+            "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I4210111045"
+              ]
+            },
+            {
+              "raw_affiliation_string": "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031169225",
+            "display_name": "Donna M. Galuszka",
+            "orcid": "https://orcid.org/0000-0003-1870-1182",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1870-1182"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210111045",
+              "display_name": "Astrogeology Science Center",
+              "ror": "https://ror.org/02623eb90",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249",
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "D. M. Galuszka",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+            "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I4210111045"
+              ]
+            },
+            {
+              "raw_affiliation_string": "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5034949405",
+            "display_name": "Paul E. Geissler",
+            "orcid": "https://orcid.org/0000-0003-0289-3749",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0289-3749"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210111045",
+              "display_name": "Astrogeology Science Center",
+              "ror": "https://ror.org/02623eb90",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249",
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "P. E. Geissler",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+            "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I4210111045"
+              ]
+            },
+            {
+              "raw_affiliation_string": "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072724024",
+            "display_name": "T. M. Hare",
+            "orcid": "https://orcid.org/0000-0001-8842-389X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8842-389X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210111045",
+              "display_name": "Astrogeology Science Center",
+              "ror": "https://ror.org/02623eb90",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249",
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "T. M. Hare",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+            "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I4210111045"
+              ]
+            },
+            {
+              "raw_affiliation_string": "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039793708",
+            "display_name": "I. M. Holmberg",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210111045",
+              "display_name": "Astrogeology Science Center",
+              "ror": "https://ror.org/02623eb90",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249",
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "I. M. Holmberg",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+            "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I4210111045"
+              ]
+            },
+            {
+              "raw_affiliation_string": "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111590552",
+            "display_name": "Laszlo P. Keszthelyi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210111045",
+              "display_name": "Astrogeology Science Center",
+              "ror": "https://ror.org/02623eb90",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249",
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "L. P. Keszthelyi",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+            "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I4210111045"
+              ]
+            },
+            {
+              "raw_affiliation_string": "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072422487",
+            "display_name": "Bonnie L. Redding",
+            "orcid": "https://orcid.org/0000-0001-8178-1467",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8178-1467"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210111045",
+              "display_name": "Astrogeology Science Center",
+              "ror": "https://ror.org/02623eb90",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249",
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "B. L. Redding",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+            "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, Astrogeology Program  Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I4210111045"
+              ]
+            },
+            {
+              "raw_affiliation_string": "U. S. Geological Survey Astrogeology Program Flagstaff Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5011101974",
+            "display_name": "W. Alan Delamere",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "W. A. Delamere",
+          "raw_affiliation_strings": [
+            "Delamere Support Services  Boulder Colorado USA",
+            "Delamere Support Services Boulder Colorado USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Delamere Support Services  Boulder Colorado USA",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Delamere Support Services Boulder Colorado USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002162436",
+            "display_name": "D. L. Gallagher",
+            "orcid": "https://orcid.org/0000-0003-3924-3571",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3924-3571"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "D. Gallagher",
+          "raw_affiliation_strings": [
+            "CDM‐Optics  Boulder Colorado USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "CDM‐Optics  Boulder Colorado USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5050221919",
+            "display_name": "Jim D. Chapel",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1287521167",
+              "display_name": "Lockheed Martin (United States)",
+              "ror": "https://ror.org/026er9r08",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I1287521167"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. D. Chapel",
+          "raw_affiliation_strings": [
+            "Lockheed Martin Space Systems  Denver Colorado USA",
+            "Lockheed-Martin Space Systems, Denver, Colorado, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Lockheed Martin Space Systems  Denver Colorado USA",
+              "institution_ids": [
+                "https://openalex.org/I1287521167"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Lockheed-Martin Space Systems, Denver, Colorado, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112730859",
+            "display_name": "Eric M. Eliason",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I138006243",
+              "display_name": "University of Arizona",
+              "ror": "https://ror.org/03m2x1q45",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I138006243"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "E. M. Eliason",
+          "raw_affiliation_strings": [
+            "Lunar and Planetary Laboratory University of Arizona  Tucson Arizona USA",
+            "Lunar and Planetary Laboratory University of Arizona Tucson, Arizona, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Lunar and Planetary Laboratory University of Arizona  Tucson Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I138006243"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Lunar and Planetary Laboratory University of Arizona Tucson, Arizona, USA",
+              "institution_ids": [
+                "https://openalex.org/I138006243"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "R. King",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I138006243",
+              "display_name": "University of Arizona",
+              "ror": "https://ror.org/03m2x1q45",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I138006243"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. King",
+          "raw_affiliation_strings": [
+            "Lunar and Planetary Laboratory University of Arizona  Tucson Arizona USA",
+            "Lunar and Planetary Laboratory University of Arizona Tucson, Arizona, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Lunar and Planetary Laboratory University of Arizona  Tucson Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I138006243"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Lunar and Planetary Laboratory University of Arizona Tucson, Arizona, USA",
+              "institution_ids": [
+                "https://openalex.org/I138006243"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5026255560",
+            "display_name": "Alfred S. McEwen",
+            "orcid": "https://orcid.org/0000-0001-8638-2553",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8638-2553"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I138006243",
+              "display_name": "University of Arizona",
+              "ror": "https://ror.org/03m2x1q45",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I138006243"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A. S. McEwen",
+          "raw_affiliation_strings": [
+            "Lunar and Planetary Laboratory University of Arizona  Tucson Arizona USA",
+            "Lunar and Planetary Laboratory University of Arizona Tucson, Arizona, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Lunar and Planetary Laboratory University of Arizona  Tucson Arizona USA",
+              "institution_ids": [
+                "https://openalex.org/I138006243"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Lunar and Planetary Laboratory University of Arizona Tucson, Arizona, USA",
+              "institution_ids": [
+                "https://openalex.org/I138006243"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1029/2007je003000",
+        "doi": "https://doi.org/10.1029/2007je003000",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1029/2007je003000",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2007JE003000",
+        "source": {
+          "id": "https://openalex.org/S207178839",
+          "display_name": "Journal of Geophysical Research Atmospheres",
+          "issn_l": "0148-0227",
+          "issn": [
+            "0148-0227",
+            "2156-2202",
+            "2169-897X",
+            "2169-8996"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-2",
+            "ki-jl-1",
+            "norway-2",
+            "poland-100",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315809",
+          "host_organization_name": "American Geophysical Union",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315809"
+          ],
+          "host_organization_lineage_names": [
+            "American Geophysical Union"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Geophysical Research: Planets",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2007JE003000",
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2991604971",
+      "doi": "https://doi.org/10.1016/j.gsf.2019.10.008",
+      "title": "Is multi-hazard mapping effective in assessing natural hazards and integrated watershed management?",
+      "publication_year": 2019,
+      "cited_by_count": 124,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5006705342",
+            "display_name": "Hamid Reza Pourghasemi",
+            "orcid": "https://orcid.org/0000-0003-2328-2998",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2328-2998"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I166459259",
+              "display_name": "Shiraz University",
+              "ror": "https://ror.org/028qtbk54",
+              "country_code": "IR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I166459259"
+              ]
+            }
+          ],
+          "countries": [
+            "IR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Hamid Reza Pourghasemi",
+          "raw_affiliation_strings": [
+            "Department of Natural Resources and Environmental Engineering, College of Agriculture, Shiraz University, 71441-65186, Shiraz, Iran"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2328-2998",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Natural Resources and Environmental Engineering, College of Agriculture, Shiraz University, 71441-65186, Shiraz, Iran",
+              "institution_ids": [
+                "https://openalex.org/I166459259"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5050392348",
+            "display_name": "Amiya Gayen",
+            "orcid": "https://orcid.org/0000-0001-8019-0745",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8019-0745"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I106542073",
+              "display_name": "University of Calcutta",
+              "ror": "https://ror.org/01e7v7w47",
+              "country_code": "IN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I106542073"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Amiya Gayen",
+          "raw_affiliation_strings": [
+            "Department of Geography, Ballygunge Science College, University of Calcutta, Kolkata, West Bengal, 700019, India"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geography, Ballygunge Science College, University of Calcutta, Kolkata, West Bengal, 700019, India",
+              "institution_ids": [
+                "https://openalex.org/I106542073"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5024834069",
+            "display_name": "Mohsen Edalat",
+            "orcid": "https://orcid.org/0000-0002-9601-0769",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9601-0769"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I166459259",
+              "display_name": "Shiraz University",
+              "ror": "https://ror.org/028qtbk54",
+              "country_code": "IR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I166459259"
+              ]
+            }
+          ],
+          "countries": [
+            "IR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohsen Edalat",
+          "raw_affiliation_strings": [
+            "Crop Production and Plant Breeding Department, School of Agriculture, Shiraz University, 71441-65186, Shiraz, Iran"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Crop Production and Plant Breeding Department, School of Agriculture, Shiraz University, 71441-65186, Shiraz, Iran",
+              "institution_ids": [
+                "https://openalex.org/I166459259"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5005901818",
+            "display_name": "Mehrdad Zarafshar",
+            "orcid": "https://orcid.org/0000-0001-9334-4432",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9334-4432"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210141426",
+              "display_name": "Agricultural Research & Education Organization",
+              "ror": "https://ror.org/032hv6w38",
+              "country_code": "IR",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210141426"
+              ]
+            }
+          ],
+          "countries": [
+            "IR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mehrdad Zarafshar",
+          "raw_affiliation_strings": [
+            "Natural Resources Department, Fars Agricultural and Natural Resources Research and Education Center, AREEO, Shiraz, Fars, Iran"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Natural Resources Department, Fars Agricultural and Natural Resources Research and Education Center, AREEO, Shiraz, Fars, Iran",
+              "institution_ids": [
+                "https://openalex.org/I4210141426"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5062128630",
+            "display_name": "John P. Tiefenbacher",
+            "orcid": "https://orcid.org/0000-0001-9342-6550",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9342-6550"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I13511017",
+              "display_name": "Texas State University",
+              "ror": "https://ror.org/05h9q1g27",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I13511017"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "John P. Tiefenbacher",
+          "raw_affiliation_strings": [
+            "Department of Geography, Texas State University, San Marcos, TX, 78666, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geography, Texas State University, San Marcos, TX, 78666, USA",
+              "institution_ids": [
+                "https://openalex.org/I13511017"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1016/j.gsf.2019.10.008",
+        "doi": "https://doi.org/10.1016/j.gsf.2019.10.008",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.gsf.2019.10.008",
+        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1674987119302191/pdf",
+        "source": {
+          "id": "https://openalex.org/S2764860519",
+          "display_name": "Geoscience Frontiers",
+          "issn_l": "1674-9871",
+          "issn": [
+            "1674-9871",
+            "2588-9192"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "norway-1",
+            "poland-140",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geoscience Frontiers",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S1674987119302191/pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2602987451",
+      "doi": null,
+      "title": "Sensor Data Fusion For Hazard Mapping And Piloting",
+      "publication_year": 2016,
+      "cited_by_count": 2,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5110120892",
+            "display_name": "Keyvan Kanani",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I112991645",
+              "display_name": "Airbus (France)",
+              "ror": "https://ror.org/023qdcg29",
+              "country_code": "FR",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I112991645",
+                "https://openalex.org/I4210121748"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kanani, Keyvan",
+          "raw_affiliation_strings": [
+            "Airbus Defence and Space [Toulouse] (Airbus Defence and Space SAS\r\n31 rue des Cosmonautes\r\nZ.I. du Palays\r\n31402 Toulouse Cedex 4 - France)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Airbus Defence and Space [Toulouse] (Airbus Defence and Space SAS\r\n31 rue des Cosmonautes\r\nZ.I. du Palays\r\n31402 Toulouse Cedex 4 - France)",
+              "institution_ids": [
+                "https://openalex.org/I112991645"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059662512",
+            "display_name": "Roland Brochard",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I112991645",
+              "display_name": "Airbus (France)",
+              "ror": "https://ror.org/023qdcg29",
+              "country_code": "FR",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I112991645",
+                "https://openalex.org/I4210121748"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Brochard, Roland",
+          "raw_affiliation_strings": [
+            "Airbus Defence and Space [Toulouse] (Airbus Defence and Space SAS\r\n31 rue des Cosmonautes\r\nZ.I. du Palays\r\n31402 Toulouse Cedex 4 - France)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Airbus Defence and Space [Toulouse] (Airbus Defence and Space SAS\r\n31 rue des Cosmonautes\r\nZ.I. du Palays\r\n31402 Toulouse Cedex 4 - France)",
+              "institution_ids": [
+                "https://openalex.org/I112991645"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5001564709",
+            "display_name": "Florent Hennart",
+            "orcid": "https://orcid.org/0000-0003-2615-4836",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2615-4836"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I112991645",
+              "display_name": "Airbus (France)",
+              "ror": "https://ror.org/023qdcg29",
+              "country_code": "FR",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I112991645",
+                "https://openalex.org/I4210121748"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hennart, Florent",
+          "raw_affiliation_strings": [
+            "Airbus Defence and Space [Toulouse] (Airbus Defence and Space SAS\r\n31 rue des Cosmonautes\r\nZ.I. du Palays\r\n31402 Toulouse Cedex 4 - France)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Airbus Defence and Space [Toulouse] (Airbus Defence and Space SAS\r\n31 rue des Cosmonautes\r\nZ.I. du Palays\r\n31402 Toulouse Cedex 4 - France)",
+              "institution_ids": [
+                "https://openalex.org/I112991645"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5030283292",
+            "display_name": "A. Pollini",
+            "orcid": "https://orcid.org/0000-0002-4740-1317",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4740-1317"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I135218257",
+              "display_name": "Swiss Center for Electronics and Microtechnology (Switzerland)",
+              "ror": "https://ror.org/05nrrsx06",
+              "country_code": "CH",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I135218257"
+              ]
+            }
+          ],
+          "countries": [
+            "CH"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Pollini, Alexandre",
+          "raw_affiliation_strings": [
+            "CSEM - Centre Suisse d'Electronique et Microtechnique SA (Switzerland)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "CSEM - Centre Suisse d'Electronique et Microtechnique SA (Switzerland)",
+              "institution_ids": [
+                "https://openalex.org/I135218257"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111417803",
+            "display_name": "Peter Franz Sturm",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210101348",
+              "display_name": "Centre Inria de l'Université Grenoble Alpes",
+              "ror": "https://ror.org/00n8d6z93",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1326498283",
+                "https://openalex.org/I4210101348"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405258711",
+              "display_name": "STEEP: Soutenabilité, Territoires, Environnement, Economie et Politique",
+              "ror": "https://ror.org/013f2p073",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I106785703",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1326498283",
+                "https://openalex.org/I4210101348",
+                "https://openalex.org/I4210149092",
+                "https://openalex.org/I4405258711",
+                "https://openalex.org/I899635006"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sturm, Peter",
+          "raw_affiliation_strings": [
+            "STEEP  - Sustainability transition, environment, economy and local policy (Centre de recherche Inria 655 avenue de l'Europe 38330 Montbonnot Saint-Martin - France)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "STEEP  - Sustainability transition, environment, economy and local policy (Centre de recherche Inria 655 avenue de l'Europe 38330 Montbonnot Saint-Martin - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210101348",
+                "https://openalex.org/I4405258711"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5073378208",
+            "display_name": "Olivier Dubois-Matra",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I44377176",
+              "display_name": "European Space Research and Technology Centre",
+              "ror": "https://ror.org/03h3jqn23",
+              "country_code": "NL",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I2801994115",
+                "https://openalex.org/I44377176"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Dubois-Matra, Olivier",
+          "raw_affiliation_strings": [
+            "ESTEC - European Space Research and Technology Centre (Keplerlaan 1, 2201 Noordwijk - Netherlands)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "ESTEC - European Space Research and Technology Centre (Keplerlaan 1, 2201 Noordwijk - Netherlands)",
+              "institution_ids": [
+                "https://openalex.org/I44377176"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5025331436",
+            "display_name": "S. Vijendran",
+            "orcid": "https://orcid.org/0000-0002-2355-6808",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2355-6808"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I112991645",
+              "display_name": "Airbus (France)",
+              "ror": "https://ror.org/023qdcg29",
+              "country_code": "FR",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I112991645",
+                "https://openalex.org/I4210121748"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Vijendran, Sanjay",
+          "raw_affiliation_strings": [
+            "Airbus Defence and Space [Toulouse] (Airbus Defence and Space SAS\r\n31 rue des Cosmonautes\r\nZ.I. du Palays\r\n31402 Toulouse Cedex 4 - France)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Airbus Defence and Space [Toulouse] (Airbus Defence and Space SAS\r\n31 rue des Cosmonautes\r\nZ.I. du Palays\r\n31402 Toulouse Cedex 4 - France)",
+              "institution_ids": [
+                "https://openalex.org/I112991645"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:HAL:hal-01396797v1",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://inria.hal.science/hal-01396797",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402512",
+          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1294671590",
+          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization_lineage": [
+            "https://openalex.org/I1294671590"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "http://ippw2016.jhuapl.edu",
+        "raw_type": "info:eu-repo/semantics/conferenceObject"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://inria.hal.science/hal-01396797",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2069156210",
+      "doi": "https://doi.org/10.1029/2002je002035",
+      "title": "Rock size‐frequency distributions on Mars and implications for Mars Exploration Rover landing safety and operations",
+      "publication_year": 2003,
+      "cited_by_count": 152,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5080502626",
+            "display_name": "M. P. Golombek",
+            "orcid": "https://orcid.org/0000-0002-1928-2293",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1928-2293"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. P. Golombek",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory California Institute of Technology  Pasadena California USA",
+            "Jet Propulsion Laboratory California Institute of Technology Pasadena California USA,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory California Institute of Technology  Pasadena California USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory California Institute of Technology Pasadena California USA,",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038288961",
+            "display_name": "Albert F. C. Haldemann",
+            "orcid": "https://orcid.org/0000-0003-3741-8841",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3741-8841"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A. F. C. Haldemann",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory California Institute of Technology  Pasadena California USA",
+            "Jet Propulsion Laboratory California Institute of Technology Pasadena California USA,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory California Institute of Technology  Pasadena California USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory California Institute of Technology Pasadena California USA,",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054192524",
+            "display_name": "Nancy K. Forsberg‐Taylor",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I51556381",
+              "display_name": "University of Virginia",
+              "ror": "https://ror.org/0153tk833",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I51556381"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "N. K. Forsberg‐Taylor",
+          "raw_affiliation_strings": [
+            "Department of Environmental Sciences University of Virginia  Charlottesville Virginia USA",
+            "Department of Environmental Sciences,, University of Virginia, Charlottesville, Virginia, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Environmental Sciences University of Virginia  Charlottesville Virginia USA",
+              "institution_ids": [
+                "https://openalex.org/I51556381"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Environmental Sciences,, University of Virginia, Charlottesville, Virginia, USA",
+              "institution_ids": [
+                "https://openalex.org/I51556381"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031115693",
+            "display_name": "Erin DiMaggio",
+            "orcid": "https://orcid.org/0000-0002-3157-5160",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3157-5160"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I27837315",
+              "display_name": "University of Michigan",
+              "ror": "https://ror.org/00jmfr291",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27837315"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "E. N. DiMaggio",
+          "raw_affiliation_strings": [
+            "Department of Geological Sciences University of Michigan  Ann Arbor Michigan USA",
+            "Department of Geological Sciences; University of Michigan; Ann Arbor; Michigan; USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geological Sciences University of Michigan  Ann Arbor Michigan USA",
+              "institution_ids": [
+                "https://openalex.org/I27837315"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geological Sciences; University of Michigan; Ann Arbor; Michigan; USA",
+              "institution_ids": [
+                "https://openalex.org/I27837315"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5103364048",
+            "display_name": "R. D. Schroeder",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I118839592",
+              "display_name": "California State University, Bakersfield",
+              "ror": "https://ror.org/019ts0j55",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I118839592"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. D. Schroeder",
+          "raw_affiliation_strings": [
+            "Department of Geology California State University  Bakersfield California USA",
+            "Department of Geology California State University Bakersfield California USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology California State University  Bakersfield California USA",
+              "institution_ids": [
+                "https://openalex.org/I118839592"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geology California State University Bakersfield California USA",
+              "institution_ids": [
+                "https://openalex.org/I118839592"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072674162",
+            "display_name": "BRUCE M. JAKOSKY",
+            "orcid": "https://orcid.org/0000-0002-0758-9976",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0758-9976"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I188538660",
+              "display_name": "University of Colorado Boulder",
+              "ror": "https://ror.org/02ttsq026",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I188538660"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210114008",
+              "display_name": "Laboratory for Atmospheric and Space Physics",
+              "ror": "https://ror.org/01fcjzv38",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I188538660",
+                "https://openalex.org/I4210114008"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "B. M. Jakosky",
+          "raw_affiliation_strings": [
+            "Laboratory for Atmospheric and Space Physics University of Colorado  Boulder Colorado USA",
+            "Laboratory for Atmospheric and Space Physics University of Colorado; Boulder Colorado USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratory for Atmospheric and Space Physics University of Colorado  Boulder Colorado USA",
+              "institution_ids": [
+                "https://openalex.org/I188538660",
+                "https://openalex.org/I4210114008"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Laboratory for Atmospheric and Space Physics University of Colorado; Boulder Colorado USA",
+              "institution_ids": [
+                "https://openalex.org/I188538660",
+                "https://openalex.org/I4210114008"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5014840262",
+            "display_name": "Michael T. Mellon",
+            "orcid": "https://orcid.org/0000-0001-7973-9585",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7973-9585"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I188538660",
+              "display_name": "University of Colorado Boulder",
+              "ror": "https://ror.org/02ttsq026",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I188538660"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210114008",
+              "display_name": "Laboratory for Atmospheric and Space Physics",
+              "ror": "https://ror.org/01fcjzv38",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I188538660",
+                "https://openalex.org/I4210114008"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. T. Mellon",
+          "raw_affiliation_strings": [
+            "Laboratory for Atmospheric and Space Physics University of Colorado  Boulder Colorado USA",
+            "Laboratory for Atmospheric and Space Physics University of Colorado; Boulder Colorado USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratory for Atmospheric and Space Physics University of Colorado  Boulder Colorado USA",
+              "institution_ids": [
+                "https://openalex.org/I188538660",
+                "https://openalex.org/I4210114008"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Laboratory for Atmospheric and Space Physics University of Colorado; Boulder Colorado USA",
+              "institution_ids": [
+                "https://openalex.org/I188538660",
+                "https://openalex.org/I4210114008"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5057527730",
+            "display_name": "Jacob R. Matijevic",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. R. Matijevic",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory California Institute of Technology  Pasadena California USA",
+            "Jet Propulsion Laboratory California Institute of Technology Pasadena California USA,"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory California Institute of Technology  Pasadena California USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory California Institute of Technology Pasadena California USA,",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1029/2002je002035",
+        "doi": "https://doi.org/10.1029/2002je002035",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1029/2002je002035",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S207178839",
+          "display_name": "Journal of Geophysical Research Atmospheres",
+          "issn_l": "0148-0227",
+          "issn": [
+            "0148-0227",
+            "2156-2202",
+            "2169-897X",
+            "2169-8996"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-2",
+            "ki-jl-1",
+            "norway-2",
+            "poland-100",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315809",
+          "host_organization_name": "American Geophysical Union",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315809"
+          ],
+          "host_organization_lineage_names": [
+            "American Geophysical Union"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Geophysical Research: Planets",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://hdl.handle.net/2027.42/95449",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W7205000327",
+      "doi": "https://doi.org/10.1038/s44453-026-00052-x",
+      "title": "Recent boulder falls in Cerberus Fossae, Mars, triggered by the S0235b marsquake",
+      "publication_year": 2026,
+      "cited_by_count": 0,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5091703046",
+            "display_name": "S. Vijayan",
+            "orcid": "https://orcid.org/0000-0002-1028-8074",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1028-8074"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I121502294",
+              "display_name": "Physical Research Laboratory",
+              "ror": "https://ror.org/02p0p4q62",
+              "country_code": "IN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I121502294"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "S. Vijayan",
+          "raw_affiliation_strings": [
+            "Planetary Sciences Division, Physical Research Laboratory, Ahmedabad, India"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Planetary Sciences Division, Physical Research Laboratory, Ahmedabad, India",
+              "institution_ids": [
+                "https://openalex.org/I121502294"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051343295",
+            "display_name": "Bivas Das",
+            "orcid": "https://orcid.org/0009-0009-8622-397X",
+            "observed_orcids": [
+              "https://orcid.org/0009-0009-8622-397X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I181996519",
+              "display_name": "Indian Institute of Science Education and Research Pune",
+              "ror": "https://ror.org/028qa3n13",
+              "country_code": "IN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I181996519"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I201841394",
+              "display_name": "Université Côte d'Azur",
+              "ror": "https://ror.org/019tgvf94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I201841394"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210126779",
+              "display_name": "Observatoire de la Côte d’Azur",
+              "ror": "https://ror.org/039fj2469",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I201841394",
+                "https://openalex.org/I4210126779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210162320",
+              "display_name": "Géoazur",
+              "ror": "https://ror.org/05xtktk35",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I201841394",
+                "https://openalex.org/I2802818602",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210126779",
+                "https://openalex.org/I4210131494",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210162320",
+                "https://openalex.org/I4210166444"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210166444",
+              "display_name": "Institut de Recherche pour le Développement",
+              "ror": "https://ror.org/05q3vnk25",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I2802818602",
+                "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210131494",
+                "https://openalex.org/I4210166444"
+              ]
+            }
+          ],
+          "countries": [
+            "FR",
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bivas Das",
+          "raw_affiliation_strings": [
+            "Department of Earth and Climate Science, Indian Institute of Science Education and Research, Pune, India",
+            "Observatoire de la Côte d’Azur, Université Côte d’Azur, CNRS, IRD, Géoazur, Sophia Antipolis, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth and Climate Science, Indian Institute of Science Education and Research, Pune, India",
+              "institution_ids": [
+                "https://openalex.org/I181996519"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Observatoire de la Côte d’Azur, Université Côte d’Azur, CNRS, IRD, Géoazur, Sophia Antipolis, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I201841394",
+                "https://openalex.org/I4210126779",
+                "https://openalex.org/I4210162320",
+                "https://openalex.org/I4210166444"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5130281738",
+            "display_name": "V. Rama Subramanian",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I121502294",
+              "display_name": "Physical Research Laboratory",
+              "ror": "https://ror.org/02p0p4q62",
+              "country_code": "IN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I121502294"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "V. Rama Subramanian",
+          "raw_affiliation_strings": [
+            "Planetary Sciences Division, Physical Research Laboratory, Ahmedabad, India"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Planetary Sciences Division, Physical Research Laboratory, Ahmedabad, India",
+              "institution_ids": [
+                "https://openalex.org/I121502294"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5117373718",
+            "display_name": "Rishav Sahoo",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I121502294",
+              "display_name": "Physical Research Laboratory",
+              "ror": "https://ror.org/02p0p4q62",
+              "country_code": "IN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I121502294"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I27674431",
+              "display_name": "Indian Institute of Technology Gandhinagar",
+              "ror": "https://ror.org/0036p5w23",
+              "country_code": "IN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27674431"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rishav Sahoo",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, Indian Institute of Technology, Gandhinagar, India",
+            "Planetary Sciences Division, Physical Research Laboratory, Ahmedabad, India"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Indian Institute of Technology, Gandhinagar, India",
+              "institution_ids": [
+                "https://openalex.org/I27674431"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Planetary Sciences Division, Physical Research Laboratory, Ahmedabad, India",
+              "institution_ids": [
+                "https://openalex.org/I121502294"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039572579",
+            "display_name": "Antoine Lucas",
+            "orcid": "https://orcid.org/0000-0003-2192-4416",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2192-4416"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I148261361",
+              "display_name": "Institut de physique du globe de Paris",
+              "ror": "https://ror.org/004gzqz66",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I148261361",
+                "https://openalex.org/I204730241",
+                "https://openalex.org/I4210148025"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I204730241",
+              "display_name": "Université Paris Cité",
+              "ror": "https://ror.org/05f82e368",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I204730241"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Antoine Lucas",
+          "raw_affiliation_strings": [
+            "Université Paris Cité, Institut de physique du globe de Paris, CNRS, Paris, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Université Paris Cité, Institut de physique du globe de Paris, CNRS, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I148261361",
+                "https://openalex.org/I204730241"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5095064371",
+            "display_name": "U. Thahira",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4076070",
+              "display_name": "Bharathidasan University",
+              "ror": "https://ror.org/02w7vnb60",
+              "country_code": "IN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4076070"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "U. Thahira",
+          "raw_affiliation_strings": [
+            "Department of Remote Sensing, Bharathidasan University, Tiruchirappalli, India"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Remote Sensing, Bharathidasan University, Tiruchirappalli, India",
+              "institution_ids": [
+                "https://openalex.org/I4076070"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5132643006",
+            "display_name": "R. Aditi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4387152645",
+              "display_name": "International Institute for Geo-Information Science and Earth Observation",
+              "ror": "https://ror.org/038v7xb98",
+              "country_code": "NL",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4387152645",
+                "https://openalex.org/I94624287"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I94624287",
+              "display_name": "University of Twente",
+              "ror": "https://ror.org/006hf6230",
+              "country_code": "NL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I94624287"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. Aditi",
+          "raw_affiliation_strings": [
+            "ITC, University of Twente, Enschede, Netherlands"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "ITC, University of Twente, Enschede, Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I4387152645",
+                "https://openalex.org/I94624287"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5149067276",
+            "display_name": "Sakthi Saravanan",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I38335241",
+              "display_name": "National Institute of Technology Raipur",
+              "ror": "https://ror.org/02y553197",
+              "country_code": "IN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I38335241"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sakthi Saravanan",
+          "raw_affiliation_strings": [
+            "Department of Applied Geology, National Institute of Technology, Raipur, India"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Applied Geology, National Institute of Technology, Raipur, India",
+              "institution_ids": [
+                "https://openalex.org/I38335241"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080382658",
+            "display_name": "K.B. Kimi",
+            "orcid": "https://orcid.org/0000-0003-2118-3902",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2118-3902"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I121502294",
+              "display_name": "Physical Research Laboratory",
+              "ror": "https://ror.org/02p0p4q62",
+              "country_code": "IN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I121502294"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I19820366",
+              "display_name": "Chinese Academy of Sciences",
+              "ror": "https://ror.org/034t30j35",
+              "country_code": "CN",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I19820366"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210115570",
+              "display_name": "National Space Science Center",
+              "ror": "https://ror.org/02nnjtm50",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210115570"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4391768066",
+              "display_name": "State Key Laboratory of Space Weather",
+              "ror": "https://ror.org/02xbz6x26",
+              "country_code": null,
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210115570",
+                "https://openalex.org/I4391768066"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "K. B. Kimi",
+          "raw_affiliation_strings": [
+            "Planetary Sciences Division, Physical Research Laboratory, Ahmedabad, India",
+            "State Key Laboratory of Space Weather, National Space Science Center, Chinese Academy of Sciences, Beijing, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Planetary Sciences Division, Physical Research Laboratory, Ahmedabad, India",
+              "institution_ids": [
+                "https://openalex.org/I121502294"
+              ]
+            },
+            {
+              "raw_affiliation_string": "State Key Laboratory of Space Weather, National Space Science Center, Chinese Academy of Sciences, Beijing, China",
+              "institution_ids": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210115570",
+                "https://openalex.org/I4391768066"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5149028745",
+            "display_name": "Sandeep",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91357014",
+              "display_name": "Banaras Hindu University",
+              "ror": "https://ror.org/04cdn2797",
+              "country_code": "IN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91357014"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sandeep",
+          "raw_affiliation_strings": [
+            "Department of Geophysics, Banaras Hindu University, Varanasi, India"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geophysics, Banaras Hindu University, Varanasi, India",
+              "institution_ids": [
+                "https://openalex.org/I91357014"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5125499072",
+            "display_name": "Anil Bhardwaj",
+            "orcid": "https://orcid.org/0000-0003-1693-453X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1693-453X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I121502294",
+              "display_name": "Physical Research Laboratory",
+              "ror": "https://ror.org/02p0p4q62",
+              "country_code": "IN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I121502294"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Anil Bhardwaj",
+          "raw_affiliation_strings": [
+            "Planetary Sciences Division, Physical Research Laboratory, Ahmedabad, India"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Planetary Sciences Division, Physical Research Laboratory, Ahmedabad, India",
+              "institution_ids": [
+                "https://openalex.org/I121502294"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1038/s44453-026-00052-x",
+        "doi": "https://doi.org/10.1038/s44453-026-00052-x",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s44453-026-00052-x",
+        "pdf_url": "https://www.nature.com/articles/s44453-026-00052-x.pdf",
+        "source": {
+          "id": "https://openalex.org/S5407050586",
+          "display_name": "npj Space Exploration",
+          "issn_l": "3059-3700",
+          "issn": [
+            "3059-3700"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "npj Space Exploration",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.nature.com/articles/s44453-026-00052-x.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W7169879179",
+      "doi": "https://doi.org/10.1016/j.epsa.2026.100007",
+      "title": "Spatial distribution of boulder falls in Tharsis bulge, Mars: Insights into various formation scenarios and recent surface changes",
+      "publication_year": 2026,
+      "cited_by_count": 0,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5026462298",
+            "display_name": "Vivek Krishnan",
+            "orcid": "https://orcid.org/0009-0003-3930-7990",
+            "observed_orcids": [
+              "https://orcid.org/0009-0003-3930-7990"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I22716965",
+              "display_name": "National Geophysical Research Institute",
+              "ror": "https://ror.org/03dy10t98",
+              "country_code": "IN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I22716965",
+                "https://openalex.org/I2799351866",
+                "https://openalex.org/I4210134808",
+                "https://openalex.org/I66760702"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I84913233",
+              "display_name": "National Centre for Earth Science Studies",
+              "ror": "https://ror.org/01a9tn778",
+              "country_code": "IN",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210100914",
+                "https://openalex.org/I84913233"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Vivek Krishnan",
+          "raw_affiliation_strings": [
+            "CSIR-National Geophysical Research Institute, Hyderabad 500007, India",
+            "National Centre for Earth Science Studies, Trivandrum 695011, India"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0003-3930-7990",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "CSIR-National Geophysical Research Institute, Hyderabad 500007, India",
+              "institution_ids": [
+                "https://openalex.org/I22716965"
+              ]
+            },
+            {
+              "raw_affiliation_string": "National Centre for Earth Science Studies, Trivandrum 695011, India",
+              "institution_ids": [
+                "https://openalex.org/I84913233"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5030440872",
+            "display_name": "P. Senthil Kumar",
+            "orcid": "https://orcid.org/0000-0002-3649-9144",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3649-9144"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I22716965",
+              "display_name": "National Geophysical Research Institute",
+              "ror": "https://ror.org/03dy10t98",
+              "country_code": "IN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I22716965",
+                "https://openalex.org/I2799351866",
+                "https://openalex.org/I4210134808",
+                "https://openalex.org/I66760702"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "P. Senthil Kumar",
+          "raw_affiliation_strings": [
+            "CSIR-National Geophysical Research Institute, Hyderabad 500007, India"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-3649-9144",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "CSIR-National Geophysical Research Institute, Hyderabad 500007, India",
+              "institution_ids": [
+                "https://openalex.org/I22716965"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1016/j.epsa.2026.100007",
+        "doi": "https://doi.org/10.1016/j.epsa.2026.100007",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.epsa.2026.100007",
+        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S3117679826000071/pdf",
+        "source": {
+          "id": "https://openalex.org/S7407057696",
+          "display_name": "Earth and Planetary Science Advances",
+          "issn_l": "3117-6798",
+          "issn": [
+            "3117-6798"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Earth and Planetary Science Advances",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S3117679826000071/pdf",
+        "any_repository_has_fulltext": false
+      }
+    }
+  ],
+  "group_by": []
+}

@@ -1,0 +1,321 @@
+{
+  "operationalLayers": [
+    {
+      "id": "PGM_Map_Database_MARS_INTERACTIVE2_4494",
+      "layerType": "ArcGISFeatureLayer",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/PGM_Map_Database_MARS_INTERACTIVE2/FeatureServer/1",
+      "visibility": true,
+      "opacity": 1,
+      "title": "Mars Maps",
+      "itemId": "a4beb237a9a94c81b12c4e7092d977c0",
+      "layerDefinition": {
+        "drawingInfo": {
+          "renderer": {
+            "visualVariables": null,
+            "type": "uniqueValue",
+            "field1": "MapStatus",
+            "uniqueValueInfos": [
+              {
+                "label": "Printed and Posted",
+                "symbol": {
+                  "color": [
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  "outline": {
+                    "color": [
+                      0,
+                      17,
+                      255,
+                      255
+                    ],
+                    "width": 1.5,
+                    "type": "esriSLS",
+                    "style": "esriSLSSolid"
+                  },
+                  "type": "esriSFS",
+                  "style": "esriSFSSolid"
+                },
+                "value": "Printed and Posted"
+              },
+              {
+                "label": "In Progress",
+                "symbol": {
+                  "color": [
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  "outline": {
+                    "color": [
+                      255,
+                      255,
+                      0,
+                      255
+                    ],
+                    "width": 1.5,
+                    "type": "esriSLS",
+                    "style": "esriSLSSolid"
+                  },
+                  "type": "esriSFS",
+                  "style": "esriSFSSolid"
+                },
+                "value": "In Progress"
+              }
+            ]
+          }
+        }
+      },
+      "popupInfo": {
+        "title": "{MapTitle}",
+        "fieldInfos": [
+          {
+            "fieldName": "MapTitle",
+            "isEditable": true,
+            "label": "Map Title",
+            "visible": true
+          },
+          {
+            "fieldName": "MapStatus",
+            "isEditable": true,
+            "label": "Map Status",
+            "visible": true
+          },
+          {
+            "fieldName": "MapScale",
+            "isEditable": true,
+            "label": "Map Scale",
+            "visible": true
+          },
+          {
+            "fieldName": "USGSMapNumber",
+            "isEditable": true,
+            "label": "USGS Map Number",
+            "visible": true
+          },
+          {
+            "fieldName": "PublicationDate",
+            "isEditable": true,
+            "label": "Publication Date",
+            "visible": true
+          },
+          {
+            "fieldName": "AuthorLastName",
+            "isEditable": true,
+            "label": "Author's Last Name",
+            "visible": true
+          },
+          {
+            "fieldName": "AuthorFirstName",
+            "isEditable": true,
+            "label": "Author's First Name",
+            "visible": true
+          },
+          {
+            "fieldName": "USGSPublicationPage",
+            "isEditable": true,
+            "label": "USGS Publication Page",
+            "visible": true
+          },
+          {
+            "fieldName": "InteractiveMap",
+            "isEditable": true,
+            "label": "Interactive Map Link",
+            "visible": true
+          },
+          {
+            "fieldName": "AstropediaPage",
+            "isEditable": true,
+            "label": "Astropedia Link",
+            "visible": true
+          },
+          {
+            "fieldName": "MapProjection",
+            "isEditable": true,
+            "label": "Map Projection",
+            "visible": true
+          },
+          {
+            "fieldName": "Basemap",
+            "isEditable": true,
+            "label": "Basemap",
+            "visible": true
+          },
+          {
+            "fieldName": "Quadrangle",
+            "isEditable": true,
+            "label": "Quadrangle",
+            "visible": true
+          },
+          {
+            "fieldName": "SuggestedCitation",
+            "isEditable": true,
+            "label": "Suggested Citation",
+            "visible": true
+          },
+          {
+            "fieldName": "MapDescription",
+            "isEditable": true,
+            "label": "Map Description",
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID_1",
+            "label": "OBJECTID_1",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "ShortMapTitle",
+            "label": "Short Map Title",
+            "isEditable": true,
+            "visible": false,
+            "stringFieldOption": "textbox"
+          },
+          {
+            "fieldName": "IsGlobal",
+            "label": "Global Map?",
+            "isEditable": true,
+            "visible": false,
+            "stringFieldOption": "textbox"
+          },
+          {
+            "fieldName": "FormattedAuthors",
+            "label": "Formatted Authors",
+            "isEditable": true,
+            "visible": false,
+            "stringFieldOption": "textbox"
+          },
+          {
+            "fieldName": "FullImageLink",
+            "label": "Full Image Link",
+            "isEditable": true,
+            "visible": false,
+            "stringFieldOption": "textbox"
+          },
+          {
+            "fieldName": "InsetImageLink",
+            "label": "Inset Image Link",
+            "isEditable": true,
+            "visible": false,
+            "stringFieldOption": "textbox"
+          },
+          {
+            "fieldName": "Hemisphere",
+            "label": "Hemisphere",
+            "isEditable": true,
+            "visible": false,
+            "stringFieldOption": "textbox"
+          }
+        ],
+        "description": null,
+        "showAttachments": false,
+        "mediaInfos": []
+      }
+    }
+  ],
+  "baseMap": {
+    "baseMapLayers": [
+      {
+        "templateUrl": "https://trek.nasa.gov/tiles/Mars/EQ/Mars_MGS_MOLA_ClrShade_merge_global_463m/1.0.0//default/default028mm/{level}/{row}/{col}.jpg",
+        "fullExtent": {
+          "xmin": -180,
+          "ymin": -89.99963666134005,
+          "xmax": 179.9992733226801,
+          "ymax": 90,
+          "spatialReference": {
+            "wkid": 104905
+          }
+        },
+        "tileInfo": {
+          "rows": 256,
+          "cols": 256,
+          "dpi": 96,
+          "origin": {
+            "x": -180,
+            "y": 90,
+            "spatialReference": {
+              "wkid": 104905
+            }
+          },
+          "spatialReference": {
+            "wkid": 104905
+          },
+          "lods": [
+            {
+              "level": 0,
+              "levelValue": "0",
+              "resolution": 0.7031235807083596,
+              "scale": 295497593.0587499
+            },
+            {
+              "level": 1,
+              "levelValue": "1",
+              "resolution": 0.3515617903541798,
+              "scale": 147748796.52937496
+            },
+            {
+              "level": 2,
+              "levelValue": "2",
+              "resolution": 0.1757808951770899,
+              "scale": 73874398.26468748
+            },
+            {
+              "level": 3,
+              "levelValue": "3",
+              "resolution": 0.08789044758854495,
+              "scale": 36937199.13234374
+            },
+            {
+              "level": 4,
+              "levelValue": "4",
+              "resolution": 0.04394522379427247,
+              "scale": 18468599.56617187
+            },
+            {
+              "level": 5,
+              "levelValue": "5",
+              "resolution": 0.021972611897136236,
+              "scale": 9234299.783085935
+            },
+            {
+              "level": 6,
+              "levelValue": "6",
+              "resolution": 0.010986305948568118,
+              "scale": 4617149.891542967
+            },
+            {
+              "level": 7,
+              "levelValue": "7",
+              "resolution": 0.005493152974284059,
+              "scale": 2308574.9457714837
+            }
+          ]
+        },
+        "wmtsInfo": {
+          "url": "https://trek.nasa.gov/tiles/Mars/EQ/Mars_MGS_MOLA_ClrShade_merge_global_463m",
+          "layerIdentifier": "Mars_MGS_MOLA_ClrShade_merge_global_463m",
+          "tileMatrixSet": "default028mm"
+        },
+        "minScale": 295497593.0587499,
+        "maxScale": 2308574.9457714837,
+        "opacity": 1,
+        "visibility": true,
+        "id": "WMTS_5275",
+        "title": "Mars_MGS_MOLA_ClrShade_merge_global_463m",
+        "type": "WebTiledLayer",
+        "layerType": "WebTiledLayer"
+      }
+    ],
+    "title": "Mars_MGS_MOLA_ClrShade_merge_global_463m"
+  },
+  "spatialReference": {
+    "wkid": 104905
+  },
+  "authoringApp": "WebMapViewer",
+  "authoringAppVersion": "10.3",
+  "version": "2.26"
+}

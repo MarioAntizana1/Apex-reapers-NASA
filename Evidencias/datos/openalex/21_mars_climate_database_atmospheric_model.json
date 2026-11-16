@@ -1,0 +1,3781 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 9332,
+    "db_response_time_ms": 110,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Mars climate database atmospheric model) in the full text",
+      "x_new_oql": "get works with (Mars climate database atmospheric model) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Mars climate database atmospheric model",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Mars climate database atmospheric model&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2231090260",
+      "doi": "https://doi.org/10.5194/epsc2024-516",
+      "title": "The Mars Climate Database, MCD version 6.",
+      "publication_year": 2024,
+      "cited_by_count": 84,
+      "type": "conference-abstract",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5065095275",
+            "display_name": "Ehouarn Millour",
+            "orcid": "https://orcid.org/0000-0003-4808-9203",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4808-9203"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Ehouarn Millour",
+          "raw_affiliation_strings": [
+            "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France (ehouarn.millour@lmd.jussieu.fr)"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4808-9203",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France (ehouarn.millour@lmd.jussieu.fr)",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051099357",
+            "display_name": "F. Forget",
+            "orcid": "https://orcid.org/0000-0002-3262-4366",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3262-4366"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Francois Forget",
+          "raw_affiliation_strings": [
+            "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France (ehouarn.millour@lmd.jussieu.fr)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France (ehouarn.millour@lmd.jussieu.fr)",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5007598001",
+            "display_name": "Aymeric Spiga",
+            "orcid": "https://orcid.org/0000-0002-6776-6268",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6776-6268"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Aymeric Spiga",
+          "raw_affiliation_strings": [
+            "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France (ehouarn.millour@lmd.jussieu.fr)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France (ehouarn.millour@lmd.jussieu.fr)",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5045107721",
+            "display_name": "Thomas Pierron",
+            "orcid": "https://orcid.org/0000-0003-0646-4300",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0646-4300"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Thomas Pierron",
+          "raw_affiliation_strings": [
+            "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France (ehouarn.millour@lmd.jussieu.fr)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France (ehouarn.millour@lmd.jussieu.fr)",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067065664",
+            "display_name": "Antoine Bierjon",
+            "orcid": "https://orcid.org/0000-0003-4936-5804",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4936-5804"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Antoine Bierjon",
+          "raw_affiliation_strings": [
+            "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France (ehouarn.millour@lmd.jussieu.fr)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France (ehouarn.millour@lmd.jussieu.fr)",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5068330082",
+            "display_name": "Luca Montabone",
+            "orcid": "https://orcid.org/0000-0003-4998-914X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4998-914X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Luca Montabone",
+          "raw_affiliation_strings": [
+            "Center for Mars Meteorology Monitoring, Paneureka, Le Bourget-du-Lac, France",
+            "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France (ehouarn.millour@lmd.jussieu.fr)"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4998-914X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Mars Meteorology Monitoring, Paneureka, Le Bourget-du-Lac, France",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France (ehouarn.millour@lmd.jussieu.fr)",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044291296",
+            "display_name": "Franck Lefèvre",
+            "orcid": "https://orcid.org/0000-0001-5294-5426",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5294-5426"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114102",
+              "display_name": "Institut Pierre-Simon Laplace",
+              "ror": "https://ror.org/02haar591",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210114102"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210154535",
+              "display_name": "Laboratoire atmosphères, milieux, observations spatiales",
+              "ror": "https://ror.org/05ppf7q77",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Franck Lefèvre",
+          "raw_affiliation_strings": [
+            "Laboratoire Atmosphères, Milieux, Observations Spatiales (LATMOS), IPSL, Paris, France"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5294-5426",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire Atmosphères, Milieux, Observations Spatiales (LATMOS), IPSL, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I4210114102",
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036952432",
+            "display_name": "Franck Montmessin",
+            "orcid": "https://orcid.org/0000-0002-4187-1457",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4187-1457",
+              "https://orcid.org/0000-0003-1082-8955"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114102",
+              "display_name": "Institut Pierre-Simon Laplace",
+              "ror": "https://ror.org/02haar591",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210114102"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210154535",
+              "display_name": "Laboratoire atmosphères, milieux, observations spatiales",
+              "ror": "https://ror.org/05ppf7q77",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Franck Montmessin",
+          "raw_affiliation_strings": [
+            "Laboratoire Atmosphères, Milieux, Observations Spatiales (LATMOS), IPSL, Paris, France"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4187-1457",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire Atmosphères, Milieux, Observations Spatiales (LATMOS), IPSL, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I4210114102",
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087134456",
+            "display_name": "Jean‐Yves Chaufray",
+            "orcid": "https://orcid.org/0000-0003-1931-124X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1931-124X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114102",
+              "display_name": "Institut Pierre-Simon Laplace",
+              "ror": "https://ror.org/02haar591",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210114102"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210154535",
+              "display_name": "Laboratoire atmosphères, milieux, observations spatiales",
+              "ror": "https://ror.org/05ppf7q77",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jean-Yves Chaufray",
+          "raw_affiliation_strings": [
+            "Laboratoire Atmosphères, Milieux, Observations Spatiales (LATMOS), IPSL, Paris, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire Atmosphères, Milieux, Observations Spatiales (LATMOS), IPSL, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I4210114102",
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5105404468",
+            "display_name": "Miguel Angel Lopez-Valverde",
+            "orcid": "https://orcid.org/0000-0002-7989-4267",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7989-4267"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210159146",
+              "display_name": "Instituto de Astrofísica de Andalucía",
+              "ror": "https://ror.org/04ka0vh05",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210159146"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Miguel Lopez-Valverde",
+          "raw_affiliation_strings": [
+            "Instituto de Astrofisica de Andalucia (IAA-CSIC), Granada, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Instituto de Astrofisica de Andalucia (IAA-CSIC), Granada, Spain",
+              "institution_ids": [
+                "https://openalex.org/I4210159146"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002229651",
+            "display_name": "Francisco González‐Galindo",
+            "orcid": "https://orcid.org/0000-0001-9443-291X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9443-291X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210159146",
+              "display_name": "Instituto de Astrofísica de Andalucía",
+              "ror": "https://ror.org/04ka0vh05",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210159146"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Francisco Gonzalez-Galindo",
+          "raw_affiliation_strings": [
+            "Instituto de Astrofisica de Andalucia (IAA-CSIC), Granada, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9443-291X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Instituto de Astrofisica de Andalucia (IAA-CSIC), Granada, Spain",
+              "institution_ids": [
+                "https://openalex.org/I4210159146"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110667143",
+            "display_name": "Marie-Christine Desjean",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799535048",
+              "display_name": "Centre National d'Études Spatiales",
+              "ror": "https://ror.org/04h1h0y33",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I2799535048"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Marie-Christine Desjean",
+          "raw_affiliation_strings": [
+            "Centre National D’Etudes Spatiales (CNES), Toulouse, France",
+            "Centre National D'Etudes Spatiales (CNES), Toulouse, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre National D’Etudes Spatiales (CNES), Toulouse, France",
+              "institution_ids": [
+                "https://openalex.org/I2799535048"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Centre National D'Etudes Spatiales (CNES), Toulouse, France",
+              "institution_ids": [
+                "https://openalex.org/I2799535048"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018810839",
+            "display_name": "F. Cipriani",
+            "orcid": "https://orcid.org/0000-0002-5867-0360",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5867-0360"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I44377176",
+              "display_name": "European Space Research and Technology Centre",
+              "ror": "https://ror.org/03h3jqn23",
+              "country_code": "NL",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I2801994115",
+                "https://openalex.org/I44377176"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Fabrice Cipriani",
+          "raw_affiliation_strings": [
+            "European Space Research and Technology Center (ESTEC), Noordwijk, The Netherlands"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "European Space Research and Technology Center (ESTEC), Noordwijk, The Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I44377176"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5112018825",
+            "display_name": "The MCD development team",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "The MCD development team",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.5194/epsc2024-516",
+        "doi": "https://doi.org/10.5194/epsc2024-516",
+        "is_oa": true,
+        "landing_page_url": "http://dx.doi.org/10.5194/epsc2024-516",
+        "pdf_url": null,
+        "source": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "posted-content"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "http://dx.doi.org/10.5194/epsc2024-516",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W1542103967",
+      "doi": "https://doi.org/10.5194/epsc2022-786",
+      "title": "The Mars Climate Database (Version 6.1)",
+      "publication_year": 2022,
+      "cited_by_count": 48,
+      "type": "conference-abstract",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5065095275",
+            "display_name": "Ehouarn Millour",
+            "orcid": "https://orcid.org/0000-0003-4808-9203",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4808-9203"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Ehouarn Millour",
+          "raw_affiliation_strings": [
+            "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, cedex 05, France (ehouarn.millour@lmd.jussieu.fr)",
+            "Palacio de Congresos de"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4808-9203",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, cedex 05, France (ehouarn.millour@lmd.jussieu.fr)",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Palacio de Congresos de",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051099357",
+            "display_name": "F. Forget",
+            "orcid": "https://orcid.org/0000-0002-3262-4366",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3262-4366"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Francois Forget",
+          "raw_affiliation_strings": [
+            "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, cedex 05, France (ehouarn.millour@lmd.jussieu.fr)",
+            "Palacio de Congresos de"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, cedex 05, France (ehouarn.millour@lmd.jussieu.fr)",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Palacio de Congresos de",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5007598001",
+            "display_name": "Aymeric Spiga",
+            "orcid": "https://orcid.org/0000-0002-6776-6268",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6776-6268"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Aymeric Spiga",
+          "raw_affiliation_strings": [
+            "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, cedex 05, France (ehouarn.millour@lmd.jussieu.fr)",
+            "Palacio de Congresos de"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, cedex 05, France (ehouarn.millour@lmd.jussieu.fr)",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Palacio de Congresos de",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5045107721",
+            "display_name": "Thomas Pierron",
+            "orcid": "https://orcid.org/0000-0003-0646-4300",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0646-4300"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Thomas Pierron",
+          "raw_affiliation_strings": [
+            "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, cedex 05, France (ehouarn.millour@lmd.jussieu.fr)",
+            "Palacio de Congresos de"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, cedex 05, France (ehouarn.millour@lmd.jussieu.fr)",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Palacio de Congresos de",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067065664",
+            "display_name": "Antoine Bierjon",
+            "orcid": "https://orcid.org/0000-0003-4936-5804",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4936-5804"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Antoine Bierjon",
+          "raw_affiliation_strings": [
+            "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, cedex 05, France (ehouarn.millour@lmd.jussieu.fr)",
+            "Palacio de Congresos de"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, cedex 05, France (ehouarn.millour@lmd.jussieu.fr)",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Palacio de Congresos de",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5068330082",
+            "display_name": "Luca Montabone",
+            "orcid": "https://orcid.org/0000-0003-4998-914X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4998-914X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Luca Montabone",
+          "raw_affiliation_strings": [
+            "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, cedex 05, France (ehouarn.millour@lmd.jussieu.fr)",
+            "Paneureka, Le Bourget-du-Lac, France"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4998-914X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, cedex 05, France (ehouarn.millour@lmd.jussieu.fr)",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Paneureka, Le Bourget-du-Lac, France",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5028047201",
+            "display_name": "Margaux Vals",
+            "orcid": "https://orcid.org/0000-0002-1178-1987",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1178-1987"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210114102",
+              "display_name": "Institut Pierre-Simon Laplace",
+              "ror": "https://ror.org/02haar591",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210114102"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210154535",
+              "display_name": "Laboratoire atmosphères, milieux, observations spatiales",
+              "ror": "https://ror.org/05ppf7q77",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Margaux Vals",
+          "raw_affiliation_strings": [
+            "LATMOS, IPSL, Paris, Guyancourt, France",
+            "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, cedex 05, France (ehouarn.millour@lmd.jussieu.fr)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LATMOS, IPSL, Paris, Guyancourt, France",
+              "institution_ids": [
+                "https://openalex.org/I4210114102",
+                "https://openalex.org/I4210154535"
+              ]
+            },
+            {
+              "raw_affiliation_string": "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, cedex 05, France (ehouarn.millour@lmd.jussieu.fr)",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044291296",
+            "display_name": "Franck Lefèvre",
+            "orcid": "https://orcid.org/0000-0001-5294-5426",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5294-5426"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114102",
+              "display_name": "Institut Pierre-Simon Laplace",
+              "ror": "https://ror.org/02haar591",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210114102"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210154535",
+              "display_name": "Laboratoire atmosphères, milieux, observations spatiales",
+              "ror": "https://ror.org/05ppf7q77",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Franck Lefèvre",
+          "raw_affiliation_strings": [
+            "LATMOS, IPSL, Paris, Guyancourt, France"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5294-5426",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LATMOS, IPSL, Paris, Guyancourt, France",
+              "institution_ids": [
+                "https://openalex.org/I4210114102",
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087134456",
+            "display_name": "Jean‐Yves Chaufray",
+            "orcid": "https://orcid.org/0000-0003-1931-124X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1931-124X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114102",
+              "display_name": "Institut Pierre-Simon Laplace",
+              "ror": "https://ror.org/02haar591",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210114102"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210154535",
+              "display_name": "Laboratoire atmosphères, milieux, observations spatiales",
+              "ror": "https://ror.org/05ppf7q77",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jean-Yves Chaufray",
+          "raw_affiliation_strings": [
+            "LATMOS, IPSL, Paris, Guyancourt, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LATMOS, IPSL, Paris, Guyancourt, France",
+              "institution_ids": [
+                "https://openalex.org/I4210114102",
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5105404468",
+            "display_name": "Miguel Angel Lopez-Valverde",
+            "orcid": "https://orcid.org/0000-0002-7989-4267",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7989-4267"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210159146",
+              "display_name": "Instituto de Astrofísica de Andalucía",
+              "ror": "https://ror.org/04ka0vh05",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210159146"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Miguel Lopez-Valverde",
+          "raw_affiliation_strings": [
+            "Instituto de Astrofisica de Andalucia (IAA-CSIC), Granada, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Instituto de Astrofisica de Andalucia (IAA-CSIC), Granada, Spain",
+              "institution_ids": [
+                "https://openalex.org/I4210159146"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002229651",
+            "display_name": "Francisco González‐Galindo",
+            "orcid": "https://orcid.org/0000-0001-9443-291X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9443-291X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210159146",
+              "display_name": "Instituto de Astrofísica de Andalucía",
+              "ror": "https://ror.org/04ka0vh05",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210159146"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Francisco Gonzalez-Galindo",
+          "raw_affiliation_strings": [
+            "Instituto de Astrofisica de Andalucia (IAA-CSIC), Granada, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9443-291X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Instituto de Astrofisica de Andalucia (IAA-CSIC), Granada, Spain",
+              "institution_ids": [
+                "https://openalex.org/I4210159146"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5026383190",
+            "display_name": "Stephen R. Lewis Jr.",
+            "orcid": "https://orcid.org/0000-0001-7237-6494",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7237-6494"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I204136569",
+              "display_name": "The Open University",
+              "ror": "https://ror.org/05mzfcs16",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I204136569"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Stephen Lewis",
+          "raw_affiliation_strings": [
+            "School of Physical Sciences, The Open University, Milton Keynes, UK"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7237-6494",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Physical Sciences, The Open University, Milton Keynes, UK",
+              "institution_ids": [
+                "https://openalex.org/I204136569"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5075983255",
+            "display_name": "Peter L. Read",
+            "orcid": "https://orcid.org/0000-0001-5040-3543",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5040-3543"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Peter Read",
+          "raw_affiliation_strings": [
+            "Atmospheric, Oceanic and Planetary Physics (AOPP), Oxford, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Atmospheric, Oceanic and Planetary Physics (AOPP), Oxford, UK",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110667143",
+            "display_name": "Marie-Christine Desjean",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799535048",
+              "display_name": "Centre National d'Études Spatiales",
+              "ror": "https://ror.org/04h1h0y33",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I2799535048"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Marie-Christine Desjean",
+          "raw_affiliation_strings": [
+            "Centre National D’Etudes Spatiales (CNES), Toulouse, France",
+            "Centre National D'Etudes Spatiales (CNES), Toulouse, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre National D’Etudes Spatiales (CNES), Toulouse, France",
+              "institution_ids": [
+                "https://openalex.org/I2799535048"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Centre National D'Etudes Spatiales (CNES), Toulouse, France",
+              "institution_ids": [
+                "https://openalex.org/I2799535048"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018810839",
+            "display_name": "F. Cipriani",
+            "orcid": "https://orcid.org/0000-0002-5867-0360",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5867-0360"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I44377176",
+              "display_name": "European Space Research and Technology Centre",
+              "ror": "https://ror.org/03h3jqn23",
+              "country_code": "NL",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I2801994115",
+                "https://openalex.org/I44377176"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Fabrice Cipriani",
+          "raw_affiliation_strings": [
+            "European Space Research and Technology Center (ESTEC/ESA), Noordwijk, The Netherlands"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "European Space Research and Technology Center (ESTEC/ESA), Noordwijk, The Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I44377176"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": null,
+            "display_name": "MCD Team",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "MCD Team",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.5194/epsc2022-786",
+        "doi": "https://doi.org/10.5194/epsc2022-786",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5194/epsc2022-786",
+        "pdf_url": null,
+        "source": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "posted-content"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.5194/epsc2022-786",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2293808460",
+      "doi": null,
+      "title": "A new Mars Climate Database v5.1",
+      "publication_year": 2014,
+      "cited_by_count": 12,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5065095275",
+            "display_name": "Ehouarn Millour",
+            "orcid": "https://orcid.org/0000-0003-4808-9203",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4808-9203"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Millour, E.",
+          "raw_affiliation_strings": [
+            "Laboratoire de Météorologie Dynamique (UMR 8539)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Météorologie Dynamique (UMR 8539)",
+              "institution_ids": [
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051099357",
+            "display_name": "F. Forget",
+            "orcid": "https://orcid.org/0000-0002-3262-4366",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3262-4366"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Forget, François",
+          "raw_affiliation_strings": [
+            "Laboratoire de Météorologie Dynamique (UMR 8539)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Météorologie Dynamique (UMR 8539)",
+              "institution_ids": [
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5007598001",
+            "display_name": "Aymeric Spiga",
+            "orcid": "https://orcid.org/0000-0002-6776-6268",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6776-6268"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Spiga, Aymeric",
+          "raw_affiliation_strings": [
+            "Laboratoire de Météorologie Dynamique (UMR 8539)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Météorologie Dynamique (UMR 8539)",
+              "institution_ids": [
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067145732",
+            "display_name": "T. Navarro",
+            "orcid": "https://orcid.org/0000-0002-0218-6617",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0218-6617"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Navarro, T.",
+          "raw_affiliation_strings": [
+            "Laboratoire de Météorologie Dynamique (UMR 8539)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Météorologie Dynamique (UMR 8539)",
+              "institution_ids": [
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018473015",
+            "display_name": "Jean‐Baptiste Madeleine",
+            "orcid": "https://orcid.org/0000-0003-4393-7103",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4393-7103"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Madeleine, J.-B.",
+          "raw_affiliation_strings": [
+            "Laboratoire de Météorologie Dynamique (UMR 8539)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Météorologie Dynamique (UMR 8539)",
+              "institution_ids": [
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5082898736",
+            "display_name": "Alizée Pottier",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Pottier, Alizée",
+          "raw_affiliation_strings": [
+            "Laboratoire de Météorologie Dynamique (UMR 8539)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Météorologie Dynamique (UMR 8539)",
+              "institution_ids": [
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5068330082",
+            "display_name": "Luca Montabone",
+            "orcid": "https://orcid.org/0000-0003-4998-914X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4998-914X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Montabone, L.",
+          "raw_affiliation_strings": [
+            "Laboratoire de Météorologie Dynamique (UMR 8539)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Météorologie Dynamique (UMR 8539)",
+              "institution_ids": [
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5048530511",
+            "display_name": "L. Kerber",
+            "orcid": "https://orcid.org/0000-0002-6092-9722",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6092-9722"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kerber, L.",
+          "raw_affiliation_strings": [
+            "Laboratoire de Météorologie Dynamique (UMR 8539)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Météorologie Dynamique (UMR 8539)",
+              "institution_ids": [
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074038210",
+            "display_name": "Arnaud Colaïtis",
+            "orcid": "https://orcid.org/0000-0003-4913-1653",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4913-1653"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Colaitis, A.",
+          "raw_affiliation_strings": [
+            "Laboratoire de Météorologie Dynamique (UMR 8539)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Météorologie Dynamique (UMR 8539)",
+              "institution_ids": [
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044291296",
+            "display_name": "Franck Lefèvre",
+            "orcid": "https://orcid.org/0000-0001-5294-5426",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5294-5426"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210154535",
+              "display_name": "Laboratoire atmosphères, milieux, observations spatiales",
+              "ror": "https://ror.org/05ppf7q77",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lefèvre, Franck",
+          "raw_affiliation_strings": [
+            "PLANETO - LATMOS"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "PLANETO - LATMOS",
+              "institution_ids": [
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036952432",
+            "display_name": "Franck Montmessin",
+            "orcid": "https://orcid.org/0000-0002-4187-1457",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4187-1457",
+              "https://orcid.org/0000-0003-1082-8955"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210154535",
+              "display_name": "Laboratoire atmosphères, milieux, observations spatiales",
+              "ror": "https://ror.org/05ppf7q77",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Montmessin, Franck",
+          "raw_affiliation_strings": [
+            "PLANETO - LATMOS"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "PLANETO - LATMOS",
+              "institution_ids": [
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087134456",
+            "display_name": "Jean‐Yves Chaufray",
+            "orcid": "https://orcid.org/0000-0003-1931-124X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1931-124X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210154535",
+              "display_name": "Laboratoire atmosphères, milieux, observations spatiales",
+              "ror": "https://ror.org/05ppf7q77",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Chaufray, Jean-Yves",
+          "raw_affiliation_strings": [
+            "PLANETO - LATMOS"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "PLANETO - LATMOS",
+              "institution_ids": [
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5105404468",
+            "display_name": "Miguel Angel Lopez-Valverde",
+            "orcid": "https://orcid.org/0000-0002-7989-4267",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7989-4267"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210159146",
+              "display_name": "Instituto de Astrofísica de Andalucía",
+              "ror": "https://ror.org/04ka0vh05",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210159146"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lopez-Valverde, M.A.",
+          "raw_affiliation_strings": [
+            "Instituto de Astrofìsica de Andalucía"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Instituto de Astrofìsica de Andalucía",
+              "institution_ids": [
+                "https://openalex.org/I4210159146"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002229651",
+            "display_name": "Francisco González‐Galindo",
+            "orcid": "https://orcid.org/0000-0001-9443-291X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9443-291X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210159146",
+              "display_name": "Instituto de Astrofísica de Andalucía",
+              "ror": "https://ror.org/04ka0vh05",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210159146"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gonzalez-Galindo, F.",
+          "raw_affiliation_strings": [
+            "Instituto de Astrofìsica de Andalucía"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Instituto de Astrofìsica de Andalucía",
+              "institution_ids": [
+                "https://openalex.org/I4210159146"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5026383190",
+            "display_name": "Stephen R. Lewis Jr.",
+            "orcid": "https://orcid.org/0000-0001-7237-6494",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7237-6494"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Lewis, S.R.",
+          "raw_affiliation_strings": [
+            "Department of Physics and Astronomy [Milton Keynes]"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physics and Astronomy [Milton Keynes]",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5075983255",
+            "display_name": "Peter L. Read",
+            "orcid": "https://orcid.org/0000-0001-5040-3543",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5040-3543"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Read, P.L.",
+          "raw_affiliation_strings": [
+            "Department of Atmospheric, Oceanic and Planetary Physics [Oxford]"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Atmospheric, Oceanic and Planetary Physics [Oxford]",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5022104387",
+            "display_name": "J. P. Huot",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I44377176",
+              "display_name": "European Space Research and Technology Centre",
+              "ror": "https://ror.org/03h3jqn23",
+              "country_code": "NL",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I2801994115",
+                "https://openalex.org/I44377176"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Huot, Jean-Paul",
+          "raw_affiliation_strings": [
+            "[European Space Research and Technology Centre]"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "[European Space Research and Technology Centre]",
+              "institution_ids": [
+                "https://openalex.org/I44377176"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:HAL:hal-01139592v1",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://hal.science/hal-01139592",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402512",
+          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1294671590",
+          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization_lineage": [
+            "https://openalex.org/I1294671590"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "The Fifth International Workshop on the Mars Atmosphere: Modelling and Observations, Jan 2014, Oxford, United Kingdom. pp.id.1301",
+        "raw_type": "info:eu-repo/semantics/conferenceObject"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://hal.science/hal-01139592",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2246697573",
+      "doi": null,
+      "title": "The Latest Mars Climate Database (MCD v5.1)",
+      "publication_year": 2014,
+      "cited_by_count": 1,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5065095275",
+            "display_name": "Ehouarn Millour",
+            "orcid": "https://orcid.org/0000-0003-4808-9203",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4808-9203"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4405264447",
+              "display_name": "Université Pierre-et-Marie-Curie",
+              "ror": "https://ror.org/01yvrd251",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4405264447"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "E. Millour",
+          "raw_affiliation_strings": [
+            "Pierre-and-Marie-Curie University"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4808-9203",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Pierre-and-Marie-Curie University",
+              "institution_ids": [
+                "https://openalex.org/I4405264447"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051099357",
+            "display_name": "F. Forget",
+            "orcid": "https://orcid.org/0000-0002-3262-4366",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3262-4366"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "F. Forget",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-3262-4366",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5007598001",
+            "display_name": "Aymeric Spiga",
+            "orcid": "https://orcid.org/0000-0002-6776-6268",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6776-6268"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Aymeric Spiga",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-6776-6268",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067145732",
+            "display_name": "T. Navarro",
+            "orcid": "https://orcid.org/0000-0002-0218-6617",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0218-6617"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "T. Navarro",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-0218-6617",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018473015",
+            "display_name": "Jean‐Baptiste Madeleine",
+            "orcid": "https://orcid.org/0000-0003-4393-7103",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4393-7103"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Jean‐Baptiste Madeleine",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-4393-7103",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5082898736",
+            "display_name": "Alizée Pottier",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Alizée Pottier",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5068330082",
+            "display_name": "Luca Montabone",
+            "orcid": "https://orcid.org/0000-0003-4998-914X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4998-914X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "L. Montabone",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5048530511",
+            "display_name": "L. Kerber",
+            "orcid": "https://orcid.org/0000-0002-6092-9722",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6092-9722"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "L. Kerber",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-6092-9722",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044291296",
+            "display_name": "Franck Lefèvre",
+            "orcid": "https://orcid.org/0000-0001-5294-5426",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5294-5426"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Franck Lefèvre",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-5294-5426",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036952432",
+            "display_name": "Franck Montmessin",
+            "orcid": "https://orcid.org/0000-0002-4187-1457",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4187-1457",
+              "https://orcid.org/0000-0003-1082-8955"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Franck Montmessin",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-4187-1457",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087134456",
+            "display_name": "Jean‐Yves Chaufray",
+            "orcid": "https://orcid.org/0000-0003-1931-124X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1931-124X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Jean‐Yves Chaufray",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5105404468",
+            "display_name": "Miguel Angel Lopez-Valverde",
+            "orcid": "https://orcid.org/0000-0002-7989-4267",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7989-4267"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M. Á. López‐Valverde",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-7989-4267",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002229651",
+            "display_name": "Francisco González‐Galindo",
+            "orcid": "https://orcid.org/0000-0001-9443-291X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9443-291X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Francisco González‐Galindo",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5026383190",
+            "display_name": "Stephen R. Lewis Jr.",
+            "orcid": "https://orcid.org/0000-0001-7237-6494",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7237-6494"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S. R. Lewis",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-7237-6494",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5075983255",
+            "display_name": "Peter L. Read",
+            "orcid": "https://orcid.org/0000-0001-5040-3543",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5040-3543"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "P. L. Read",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0001-5040-3543",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5022104387",
+            "display_name": "J. P. Huot",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "J. P. Huot",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110667143",
+            "display_name": "Marie-Christine Desjean",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Marie-Christine Desjean",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5028034391",
+            "display_name": "Mcd",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mcd",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:oro.open.ac.uk:45037",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://oro.open.ac.uk/45037/1/__userdata_documents9_srl89_Desktop_EGU2014-2102.pdf",
+        "pdf_url": "https://oro.open.ac.uk/45037/1/__userdata_documents9_srl89_Desktop_EGU2014-2102.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306401187",
+          "display_name": "Open Research Online (The Open University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I204136569",
+          "host_organization_name": "The Open University",
+          "host_organization_lineage": [
+            "https://openalex.org/I204136569"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Conference or Workshop Item"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W4225759416",
+      "doi": "https://doi.org/10.26464/epp2022026",
+      "title": "A two-dimensional energy balance climate model on Mars",
+      "publication_year": 2022,
+      "cited_by_count": 3,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5103109967",
+            "display_name": "Yaokun Li",
+            "orcid": "https://orcid.org/0000-0003-2279-5652",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2279-5652"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I25254941",
+              "display_name": "Beijing Normal University",
+              "ror": "https://ror.org/022k4wk35",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I25254941"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "YaoKun Li",
+          "raw_affiliation_strings": [
+            "College of Global Change and Earth System Science , Beijing Normal University , Beijing 100875 , China;",
+            "College of Global Change and Earth System Science, Beijing Normal University, Beijing 100875, China;"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Global Change and Earth System Science , Beijing Normal University , Beijing 100875 , China;",
+              "institution_ids": [
+                "https://openalex.org/I25254941"
+              ]
+            },
+            {
+              "raw_affiliation_string": "College of Global Change and Earth System Science, Beijing Normal University, Beijing 100875, China;",
+              "institution_ids": [
+                "https://openalex.org/I25254941"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5083994214",
+            "display_name": "Jiping Chao",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210146364",
+              "display_name": "National Marine Environmental Forecasting Center",
+              "ror": "https://ror.org/047hznt06",
+              "country_code": "CN",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I211433327",
+                "https://openalex.org/I4210127390",
+                "https://openalex.org/I4210146364"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "JiPing Chao",
+          "raw_affiliation_strings": [
+            "National Marine Environmental Forecasting Center , Beijing 100081 , China",
+            "National Marine Environmental Forecasting Center, Beijing 100081, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "National Marine Environmental Forecasting Center , Beijing 100081 , China",
+              "institution_ids": [
+                "https://openalex.org/I4210146364"
+              ]
+            },
+            {
+              "raw_affiliation_string": "National Marine Environmental Forecasting Center, Beijing 100081, China",
+              "institution_ids": [
+                "https://openalex.org/I4210146364"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.26464/epp2022026",
+        "doi": "https://doi.org/10.26464/epp2022026",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.26464/epp2022026",
+        "pdf_url": "http://www.eppcgs.org/en/article/pdf/preview/10.26464/epp2022026",
+        "source": {
+          "id": "https://openalex.org/S4210206081",
+          "display_name": "Earth and Planetary Physics",
+          "issn_l": "2096-3955",
+          "issn": [
+            "2096-3955",
+            "2097-6860"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "poland-20",
+            "russia-white-list-2"
+          ],
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Earth and Planetary Physics",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "http://www.eppcgs.org/en/article/pdf/preview/10.26464/epp2022026",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167012296",
+      "doi": "https://doi.org/10.5194/epsc2026-776",
+      "title": "The Latest Mars Climate Database, MCD version 6.2",
+      "publication_year": 2026,
+      "cited_by_count": 0,
+      "type": "conference-abstract",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5065095275",
+            "display_name": "Ehouarn Millour",
+            "orcid": "https://orcid.org/0000-0003-4808-9203",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4808-9203"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Ehouarn Millour",
+          "raw_affiliation_strings": [
+            "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4808-9203",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051099357",
+            "display_name": "F. Forget",
+            "orcid": "https://orcid.org/0000-0002-3262-4366",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3262-4366"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Francois Forget",
+          "raw_affiliation_strings": [
+            "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5007598001",
+            "display_name": "Aymeric Spiga",
+            "orcid": "https://orcid.org/0000-0002-6776-6268",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6776-6268"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Aymeric Spiga",
+          "raw_affiliation_strings": [
+            "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5045107721",
+            "display_name": "Thomas Pierron",
+            "orcid": "https://orcid.org/0000-0003-0646-4300",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0646-4300"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087306",
+              "display_name": "Laboratoire de Météorologie Dynamique",
+              "ror": "https://ror.org/000ehr937",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I142476485",
+                "https://openalex.org/I142631665",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I29607241",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Thomas Pierron",
+          "raw_affiliation_strings": [
+            "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LMD, IPSL, CNRS, Sorbonne Universite, Laboratoire de Meteorologie Dynamique, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210087306"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5068330082",
+            "display_name": "Luca Montabone",
+            "orcid": "https://orcid.org/0000-0003-4998-914X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4998-914X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Luca Montabone",
+          "raw_affiliation_strings": [
+            "Center for Mars Meteorology Monitoring, Paneureka, Le Bourget-du-Lac, France"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4998-914X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Mars Meteorology Monitoring, Paneureka, Le Bourget-du-Lac, France",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044291296",
+            "display_name": "Franck Lefèvre",
+            "orcid": "https://orcid.org/0000-0001-5294-5426",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5294-5426"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114102",
+              "display_name": "Institut Pierre-Simon Laplace",
+              "ror": "https://ror.org/02haar591",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210114102"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210154535",
+              "display_name": "Laboratoire atmosphères, milieux, observations spatiales",
+              "ror": "https://ror.org/05ppf7q77",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Franck Lefevre",
+          "raw_affiliation_strings": [
+            "Laboratoire Atmosphères, Milieux, Observations Spatiales (LATMOS), IPSL, Paris, France"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5294-5426",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire Atmosphères, Milieux, Observations Spatiales (LATMOS), IPSL, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I4210114102",
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087134456",
+            "display_name": "Jean‐Yves Chaufray",
+            "orcid": "https://orcid.org/0000-0003-1931-124X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1931-124X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114102",
+              "display_name": "Institut Pierre-Simon Laplace",
+              "ror": "https://ror.org/02haar591",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210114102"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210154535",
+              "display_name": "Laboratoire atmosphères, milieux, observations spatiales",
+              "ror": "https://ror.org/05ppf7q77",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jean-Yves Chaufray",
+          "raw_affiliation_strings": [
+            "Laboratoire Atmosphères, Milieux, Observations Spatiales (LATMOS), IPSL, Paris, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire Atmosphères, Milieux, Observations Spatiales (LATMOS), IPSL, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I4210114102",
+                "https://openalex.org/I4210154535"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Miguel Lopez Valverde",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210159146",
+              "display_name": "Instituto de Astrofísica de Andalucía",
+              "ror": "https://ror.org/04ka0vh05",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210159146"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Miguel Lopez Valverde",
+          "raw_affiliation_strings": [
+            "Instituto de Astrofisica de Andalucia (IAA-CSIC), Granada, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Instituto de Astrofisica de Andalucia (IAA-CSIC), Granada, Spain",
+              "institution_ids": [
+                "https://openalex.org/I4210159146"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002229651",
+            "display_name": "Francisco González‐Galindo",
+            "orcid": "https://orcid.org/0000-0001-9443-291X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9443-291X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210159146",
+              "display_name": "Instituto de Astrofísica de Andalucía",
+              "ror": "https://ror.org/04ka0vh05",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I134820265",
+                "https://openalex.org/I4210159146"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Francisco Gonzalez Galindo",
+          "raw_affiliation_strings": [
+            "Instituto de Astrofisica de Andalucia (IAA-CSIC), Granada, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9443-291X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Instituto de Astrofisica de Andalucia (IAA-CSIC), Granada, Spain",
+              "institution_ids": [
+                "https://openalex.org/I4210159146"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059166292",
+            "display_name": "Gaétan Lacombe",
+            "orcid": "https://orcid.org/0000-0001-7505-4140",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7505-4140"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799535048",
+              "display_name": "Centre National d'Études Spatiales",
+              "ror": "https://ror.org/04h1h0y33",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I2799535048"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gaetan Lacombe",
+          "raw_affiliation_strings": [
+            "Centre National D’Etudes Spatiales (CNES), Toulouse, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre National D’Etudes Spatiales (CNES), Toulouse, France",
+              "institution_ids": [
+                "https://openalex.org/I2799535048"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018810839",
+            "display_name": "F. Cipriani",
+            "orcid": "https://orcid.org/0000-0002-5867-0360",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5867-0360"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I44377176",
+              "display_name": "European Space Research and Technology Centre",
+              "ror": "https://ror.org/03h3jqn23",
+              "country_code": "NL",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I2801994115",
+                "https://openalex.org/I44377176"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Cipriani Fabrice",
+          "raw_affiliation_strings": [
+            "European Space Research and Technology Center (ESTEC), Noordwijk, The Netherlands"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "European Space Research and Technology Center (ESTEC), Noordwijk, The Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I44377176"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5139853306",
+            "display_name": "The AstroLEAP Phase A/B1 study team",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "The MCD Team",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.5194/epsc2026-776",
+        "doi": "https://doi.org/10.5194/epsc2026-776",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5194/epsc2026-776",
+        "pdf_url": null,
+        "source": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "posted-content"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.5194/epsc2026-776",
+        "any_repository_has_fulltext": null
+      }
+    }
+  ],
+  "group_by": []
+}

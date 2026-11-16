@@ -1,0 +1,2399 @@
+{
+  "stats": {
+    "took": 80,
+    "total": 57,
+    "estimate": false,
+    "maxScore": 177.33167
+  },
+  "results": [
+    {
+      "_meta": {
+        "score": 177.33167
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 19990025823,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "633333e9431c42218399e2c4db2acecf",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 19990025823,
+        "ear": "NO",
+        "id": "c2ba385bcdf14422977cb13f02eae32d",
+        "itar": "NO"
+      },
+      "distributionDate": "2016-06-06T00:00:00.0000000+00:00",
+      "title": "Mars Human Exploration Objectives",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-19T01:11:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 19990025823,
+          "meta": {
+            "author": {
+              "name": "Briggs, Geoff"
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA United States"
+            }
+          },
+          "id": "a9fd1abae66a4ee39dd0d8db4241c2dd"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 19990025823,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-19T01:11:00.0000000+00:00",
+      "center": {
+        "code": "ARC",
+        "name": "Ames Research Center",
+        "id": "4540cd94d24c4bf29f8773a27faf96b2"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "This paper reviews the objectives and other considerations of Human exploration of Mars. The objectives of human exploration of Mars are: (1) to learn how Mars is similar to, and different from, Earth; (2) to explore possible life, past and present; (3) to discover what Mars is like now from the perspective of Geoscience and geologic history; and (4) how did Mars form and how did its formation differ from Earth. Considerations of human Martian exploration involve: (1) having a capable base laboratory; (2) having long range transportation; (3) having operational autonomy of the crew, and the requirement of the crew to possess a range of new cognitive processes along with easy communications with terrestrial colleagues; and finally (4) creating the human habitat along with human factors which involve more than just survivability.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "publications": [
+        {
+          "submissionId": 19990025823,
+          "id": "04fd3382ef474800aad9ff11acd07a15",
+          "publicationName": "HEDS-UP Mars Exploration Forum",
+          "publicationDate": "1998-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 19990025822,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "HEDS-UP Mars Exploration Forum",
+          "stiType": "CONFERENCE_PROCEEDINGS",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 19990025822,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "HEDS-UP Mars Exploration Forum",
+          "stiType": "CONFERENCE_PROCEEDINGS",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "19990025823.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/19990025823/downloads/19990025823.pdf",
+            "pdf": "/api/citations/19990025823/downloads/19990025823.pdf",
+            "fulltext": "/api/citations/19990025823/downloads/19990025823.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 177.20216
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20210022012,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "26888cf0a13b43bda214e7e110d4df31",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Man/System Technology And Life Support"
+      ],
+      "keywords": [
+        "Mars Transit Habitat",
+        "Enhanced Habitation Capability",
+        "Transit Habitat",
+        "Mars Architecture Team",
+        "Basis of Comparison",
+        "Human Mars Exploration",
+        "Human Factors",
+        "Volume"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20210022012,
+        "ear": "NO",
+        "id": "aa3db253417c4365944c5561219c0413",
+        "itar": "NO"
+      },
+      "distributionDate": "2021-10-15T05:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "452582.81.72",
+          "submissionId": 20210022012,
+          "id": "ac1a2f25f150437ba925a658cd616eb3",
+          "type": "WBS"
+        }
+      ],
+      "title": "Functional Volume Assessment of an Early Version of the Mars Transit Habitat",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2021-09-26T23:29:17.8088310+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 0,
+          "submissionId": 20210022012,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Robert L. Howard Jr."
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "46defcb53858433da2f67422c06011e8",
+          "userType": "CIVIL",
+          "userId": "e1df2a3e7bb24506970ac3cfe96a18f3"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "SINGLE_EXPERT",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20210022012,
+      "created": "2021-09-26T23:24:08.3899360+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "During the summer of 2020, the NASA Mars Architecture Team (MAT) assessed the Enhanced Habitation Capability (EHC), the transit spacecraft that was part of what was then the current Mars human exploration architecture, the Basis of Comparison (BOC).  This assessment had six primary objectives: provide a sanity check to the BOC-derived EHC layout; understand if we can fit the hardware and functional tasks in the volume; provide a high-level assessment of how aggressive the layout is; generate a list of challenges or assumptions necessary to make it work; generate a list of future work to refine understanding; and identify proposed requirements.  The results of this evaluation are discussed, including methodological challenges and rating challenges.  Acceptability results are discussed for functions that the participants were able to rate and participant comments for functions that could not be evaluated are also described.  Final conclusions are described, including challenges or assumptions needed to make the EHC design acceptable, future work needed to refine understanding of the EHC, and proposed habitat requirements based on test data.   While NASA has since moved away from the BOC architecture, this assessment is still useful to inform the design of future Transit Habitats.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20210022012,
+        "id": "f613e61f54584a50a4bccffbcf92e1ec"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20210022012,
+          "endDate": "2022-03-12T06:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "c89d4cba478b520a8c47b5bcac2f6911",
+              "meta": {
+                "organization": {
+                  "name": "Institute of Electrical and Electronics Engineers",
+                  "location": "Piscataway, New Jersey, United States"
+                }
+              },
+              "meetingId": "a1711f732cc4478a97b0f3c89e2ffea9",
+              "id": "734eebb47d8344e9881c8f9d2d384fe9"
+            }
+          ],
+          "name": "2022 IEEE Aerospace Conference",
+          "location": "Big Sky, MT",
+          "id": "a1711f732cc4478a97b0f3c89e2ffea9",
+          "url": "https://aeroconf.org/",
+          "startDate": "2022-03-05T06:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "Functional Volume Assessment of an Early Version of the Mars Transit Habitat.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20210022012/downloads/Functional%20Volume%20Assessment%20of%20an%20Early%20Version%20of%20the%20Mars%20Transit%20Habitat.pdf",
+            "pdf": "/api/citations/20210022012/downloads/Functional%20Volume%20Assessment%20of%20an%20Early%20Version%20of%20the%20Mars%20Transit%20Habitat.pdf",
+            "fulltext": "/api/citations/20210022012/downloads/Functional%20Volume%20Assessment%20of%20an%20Early%20Version%20of%20the%20Mars%20Transit%20Habitat.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 175.66783
+      },
+      "copyright": {
+        "ntrNumber": "MSC-27152-1; \"The NTE Board has completed its review of your disclosure.  It has been determined that patent protection will not be pursued for this innovation, nor will it be published in the NASA Tech Briefs magazine.\"  - 10/4/21",
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": true,
+        "licenseType": "NO",
+        "submissionId": 20210021782,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "6145bab1eed14c60acba08f45928c2b8",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Man/System Technology And Life Support"
+      ],
+      "keywords": [
+        "Habitability",
+        "Human Factors",
+        "Common Habitat",
+        "Lunar Outpost",
+        "Mars Outpost",
+        "Transit Habitat",
+        "Deep Space Habitat"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20210021782,
+        "ear": "NO",
+        "id": "002efa17fc0f46959461c7288c1fe135",
+        "itar": "NO"
+      },
+      "distributionDate": "2021-10-15T05:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "452582.81.72",
+          "submissionId": 20210021782,
+          "id": "e8dc35ed9d824356a5ddd66c3b2897cb",
+          "type": "WBS"
+        }
+      ],
+      "title": "Internal Architecture of the Common Habitat",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2021-09-19T04:05:35.1782950+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 0,
+          "submissionId": 20210021782,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Robert L Howard"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "1fa60bc699c646479893d93afc4d1313",
+          "userType": "CIVIL",
+          "userId": "e1df2a3e7bb24506970ac3cfe96a18f3"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "SINGLE_EXPERT",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20210021782,
+      "created": "2021-09-19T03:59:57.9355480+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The core stage liquid oxygen tank of the Space Launch System can be manufactured as a habitat instead of as a propellant tank, with a common design such that it is equally suitable for use in 0g, 1/6g, 3/8g, 1g, or variable artificial gravity.  It is capable of sustaining a crew size of eight for missions up to 1200 days in duration.  This Common Habitat can be the central element of a human spaceflight architecture that encompasses the Moon, Mars, and other destinations within the inner solar system.  Within this archtiecture, the Common Habitat is specifically used as the core habitation element within a Lunar Base Camp, Mars Base Camp, and the Deep Space Exploration Vehicle.  The Common Habitat internal architecture applies a design philosophy to separate crew functions according to deck.  The lower deck is reserved for private functions.  It includes eight private crew quarters and four waste and hygiene clusters – each with a private waste management compartment, private full body hygiene compartment, and private foyer/clothes changing area.  The mid deck is primarily allocated to mission-related functions.  It includes an exercise facility, fabrication / maintenance / repair facility, physical science laboratory (physics, geology, and remote sensing: astronomy, heliophysics, planetary science, and Earth science), and life science laboratory (biology and human research).  The mid deck also has four external hatches, clocked one every 90 degrees, centered on the vehicle vertical centerline.  Each hatch has a 60-inch tall by 40-inch wide opening with the mid deck floor 16 inches below the bottom lip of the hatch opening.  The upper deck also includes some mission functions, but is primarily allocated to social functions.  It includes a large galley, wardroom with projector and display screen, plant growth chambers, bulk stowage, command and control station, medical facility, hygiene compartment, and vehicle subsystems. ",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20210021782,
+        "id": "38d491b57d2f4e019c273e162f013074"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20210021782,
+          "endDate": "2022-03-12T06:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "c89d4cba478b520a8c47b5bcac2f6911",
+              "meta": {
+                "organization": {
+                  "name": "Institute of Electrical and Electronics Engineers",
+                  "location": "Piscataway, New Jersey, United States"
+                }
+              },
+              "meetingId": "688a6a13251d48cda383da22ea56026d",
+              "id": "68f366858ad14c47abaf50ada3fc3a28"
+            }
+          ],
+          "name": "2022 IEEE Aerospace Conference",
+          "location": "Big Sky, MT",
+          "id": "688a6a13251d48cda383da22ea56026d",
+          "url": "https://aeroconf.org/",
+          "startDate": "2022-03-05T06:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "Internal Architecture of the Common Habitat.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20210021782/downloads/Internal%20Architecture%20of%20the%20Common%20Habitat.pdf",
+            "pdf": "/api/citations/20210021782/downloads/Internal%20Architecture%20of%20the%20Common%20Habitat.pdf",
+            "fulltext": "/api/citations/20210021782/downloads/Internal%20Architecture%20of%20the%20Common%20Habitat.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 161.04416
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20080042387,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "a5edd044752c482c99df9ab1c063935b",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Aerospace Medicine"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20080042387,
+        "ear": "NO",
+        "id": "8ad5ff9ed6304492b7d02e30d665c5f5",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "title": "Space Human Factors: Research to Application",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-24T07:25:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20080042387,
+          "meta": {
+            "author": {
+              "name": "Woolford, Barbara"
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "1e1295701e0442a2ad35cedd12bb3e30"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20080042387,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-24T07:25:00.0000000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Human Factors has been instrumental in preventing potential on-orbit hazards and increasing overall crew safety. Poor performance & operational learning curves on-orbit are mitigated. Human-centered design is applied to optimize design and minimize potentially hazardous conditions, especially with larger crew sizes and habitat constraints. Lunar and Mars requirements and design developments are enhanced, based on ISS Lessons Learned.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "submissionId": 20080042387,
+          "name": "International Association for the Advancement of Space Safety",
+          "location": "Noordwijk, Netherlands",
+          "id": "b3cba7079b9547c99199d49641e6054e"
+        },
+        {
+          "country": "Italy",
+          "submissionId": 20080042387,
+          "endDate": "2008-10-23T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "International Association for the Advancement of Space Safety",
+                  "location": "Noordwijk, Netherlands"
+                }
+              },
+              "meetingId": "5424541d505c4cd98a44e4229f8977a3",
+              "id": "7bebc00031ab4151b70190ddd8c3251c"
+            }
+          ],
+          "name": "3rd IAASS Conference",
+          "location": "Rome",
+          "id": "5424541d505c4cd98a44e4229f8977a3",
+          "startDate": "2008-10-21T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20080042387,
+          "id": "1e49a629694a40439edf67d172d4f7ae",
+          "publicationDate": "2008-10-21T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20080042387.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20080042387/downloads/20080042387.pdf",
+            "pdf": "/api/citations/20080042387/downloads/20080042387.pdf",
+            "fulltext": "/api/citations/20080042387/downloads/20080042387.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 155.8536
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "MAY_INCLUDE_COPYRIGHT_MATERIAL",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20230009347,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "b1a1c06d8c954a5eb9ea6c0c3ec1cfe8",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Man/System Technology and Life Support"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20230009347,
+        "ear": "NO",
+        "id": "80986079c78e418ebe6431479ff8a060",
+        "itar": "NO"
+      },
+      "distributionDate": "2020-01-23T05:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "M20-7897"
+      ],
+      "title": "8.4 M Deep Space Habitat– Medical Bay Concept Design and Human Factors Engineering Analysis",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "authorAffiliations": [
+        {
+          "organizationId": "3a843d0e49b4553689e3abf0240066f6",
+          "sequence": 0,
+          "submissionId": 20230009347,
+          "meta": {
+            "author": {
+              "name": "Mary Claire Mancl"
+            },
+            "organization": {
+              "name": "University of Wisconsin–Madison",
+              "location": "Madison, Wisconsin, United States"
+            }
+          },
+          "id": "0cb243990f2b46daa948cdfb3b41163d",
+          "userType": "OTHER",
+          "userId": "1c543f7d1caf40d3ba00e123b1af3706"
+        },
+        {
+          "organizationId": "ff293352e05b51ca965411fc94f5e325",
+          "sequence": 1,
+          "submissionId": 20230009347,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Tanya C Andrews"
+            },
+            "organization": {
+              "name": "Marshall Space Flight Center",
+              "location": "Redstone Arsenal, Alabama, United States"
+            }
+          },
+          "id": "2a8df00eae6b4ba2a5d4f670f787e94a",
+          "userType": "CIVIL",
+          "userId": "7e3c86dfb23141d0b4bc1088952d5ada"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20230009347,
+      "created": "2023-06-22T14:18:57.4851260+00:00",
+      "center": {
+        "code": "MSFC",
+        "name": "Marshall Space Flight Center",
+        "id": "a589fc1e68af409f9d2214bb08863d11"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Maintaining crew health throughout long duration deep space missions presents significant new design challenges. Since communication with Earth will be limited and it is not possible to return in the event of a medical emergency it is critical that medical care on a deep space mission be as autonomous as possible. The goal of this project was to design and assess a medical system concept for the Deep Space Habitat Concept Demonstrator derived from the core stage of the Space Launch System. The Medical Bay was designed as a primary location to support the medical care of4 crew members on a1000-daymission. It includes workspace, stowage, and direct access to all necessary medical equipment and supplies.  A Human Factors Engineering Analysis was conducted to test ergonomic effectiveness and system requirement compliance. This initial design will continue to be used by the Human Factors Engineering Team and the Advanced  Concepts  Office at NASA’s Marshall  Spaceflight  Center for further  demonstration,  analysis,  and  design  conception  for  deep space travel.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20230009347,
+        "id": "06f93acf38eb4a3d9354243c71ad83ec"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20230009347,
+          "sponsors": [
+            {
+              "organizationId": "3a843d0e49b4553689e3abf0240066f6",
+              "meta": {
+                "organization": {
+                  "name": "University of Wisconsin–Madison",
+                  "location": "Madison, Wisconsin, United States"
+                }
+              },
+              "meetingId": "5611b999eddf4feb9740647a2a56a565",
+              "id": "f7eb2a4bdd5a4c94860c98c73c854f60"
+            }
+          ],
+          "name": "29th Annual Wisconsin Space Conference",
+          "location": "Platteville, WI",
+          "id": "5611b999eddf4feb9740647a2a56a565",
+          "startDate": "2019-08-15T04:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20230009347,
+          "id": "7a749fc1861a4406be58f02e1cb10832",
+          "publicationDate": "2019-08-15T04:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "M20-7897_Paper.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20230009347/downloads/M20-7897_Paper.pdf",
+            "pdf": "/api/citations/20230009347/downloads/M20-7897_Paper.pdf",
+            "fulltext": "/api/citations/20230009347/downloads/M20-7897_Paper.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 153.66731
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20160010062,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "4d1282466531455c9bb254b077758bad",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Behavioral Sciences",
+        "Engineering (General)"
+      ],
+      "keywords": [
+        "space human factors and habitability",
+        "human systems integration",
+        "human performance"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20160010062,
+        "ear": "NO",
+        "id": "f76c07226ec243d7be25ad7827f5011e",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-11T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "ARC-E-DAA-TN33830",
+        "Report Number: ARC-E-DAA-TN33830"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "WBS 466199.02.01",
+          "submissionId": 20160010062,
+          "id": "a5c2f9b8d5bf43ed94db695797a7c079",
+          "type": "WBS"
+        }
+      ],
+      "title": "Minimizing Human Risk: Human Performance Models in the Space Human Factors and Habitability and Behavioral Health and Performance Elements",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2016-08-05T09:57:14.5000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20160010062,
+          "meta": {
+            "author": {
+              "name": "Gore, Brian F."
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "911fdf672ae344488f16520d0f2c5f5b"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20160010062,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2016-08-05T09:57:14.5000000+00:00",
+      "center": {
+        "code": "ARC",
+        "name": "Ames Research Center",
+        "id": "4540cd94d24c4bf29f8773a27faf96b2"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Human space exploration has never been more exciting than it is today. Human presence to outer worlds is becoming a reality as humans are leveraging much of our prior knowledge to the new mission of going to Mars. Exploring the solar system at greater distances from Earth than ever before will possess some unique challenges, which can be overcome thanks to the advances in modeling and simulation technologies. The National Aeronautics and Space Administration (NASA) is at the forefront of exploring our solar system. NASA's Human Research Program (HRP) focuses on discovering the best methods and technologies that support safe and productive human space travel in the extreme and harsh space environment. HRP uses various methods and approaches to answer questions about the impact of long duration missions on the human in space including: gravity's impact on the human body, isolation and confinement on the human, hostile environments impact on the human, space radiation, and how the distance is likely to impact the human. Predictive models are included in the HRP research portfolio as these models provide valuable insights into human-system operations. This paper will provide an overview of NASA's HRP and will present a number of projects that have used modeling and simulation to provide insights into human-system issues (e.g. automation, habitat design, schedules) in anticipation of space exploration.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "country": "United States",
+          "submissionId": 20160010062,
+          "endDate": "2016-07-31T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "ec5164270780452487083146c6b6112f",
+              "meta": {
+                "organization": {
+                  "name": "Applied Human Factors and Ergonomics International",
+                  "location": "United States"
+                }
+              },
+              "meetingId": "224a7696c387466382f014541c3ebc8a",
+              "id": "33cee7a1cf1c419d8fa588f42e42e3cd"
+            }
+          ],
+          "name": "Applied Human Factors and Ergonomics Conference (AHFE 2016)",
+          "location": "Orlando, FL",
+          "id": "224a7696c387466382f014541c3ebc8a",
+          "startDate": "2016-07-27T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20160010062,
+          "id": "9be64f7cbfea4a8dae901599d2aba733",
+          "publicationDate": "2016-07-27T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20160010062.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20160010062/downloads/20160010062.pdf",
+            "pdf": "/api/citations/20160010062/downloads/20160010062.pdf",
+            "fulltext": "/api/citations/20160010062/downloads/20160010062.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 150.87805
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20260006051,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "id": "caf74467ad124c6b945c314b306e76ac",
+        "determinationType": "MAY_INCLUDE_COPYRIGHT_MATERIAL",
+        "thirdPartyContentCondition": "NOT_SET"
+      },
+      "subjectCategories": [
+        "Man/System Technology and Life Support"
+      ],
+      "keywords": [
+        "Analog",
+        "ASTRO-USA",
+        "Bioregenerative Life Support Systems (BLiSS)",
+        "Hydroponics",
+        "Mycoponics",
+        "Habitat",
+        "Habitation",
+        "Habitation Systems",
+        "Life Support",
+        "Moon",
+        "Mars"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20260006051,
+        "ear": "NO",
+        "id": "74961d35f65b414eac930dfd0ecf6671",
+        "category": [
+          {
+            "submissionExportControlId": "74961d35f65b414eac930dfd0ecf6671",
+            "id": "6a10cb483fb043d1b8977c7dfa6ffbd5",
+            "category": 0
+          }
+        ],
+        "itar": "NO"
+      },
+      "distributionDate": "2026-07-14T04:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "ICES-2026-251"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "Indiana Space Grant Consortium",
+          "submissionId": 20260006051,
+          "id": "33cddd6ca4f04662b0c9a757343d083a",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "Student Fee Advisory Board (SFAB)",
+          "submissionId": 20260006051,
+          "id": "fbcabf6124d6477ea5027a4c3733f314",
+          "type": "OTHER"
+        }
+      ],
+      "title": "Analog Simulation Training and Research Outpost Utilizing Self-Sustaining Architecture: A Testbed for Moon and Mars Technology at Purdue University",
+      "stiType": "PRESENTATION",
+      "distribution": "PUBLIC",
+      "submittedDate": "2026-07-07T19:34:26.2628090+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 0,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "orcidId": "0009-0004-4792-7804",
+              "name": "John M Peters"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "3c17759d7f594215937f93cbedab7967",
+          "userType": "OTHER",
+          "userId": "f8d16038bd8c493881d998973457dec6"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 1,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Tayla C Koenig"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "8058a7884eb84c6a8f3222007fcff75f",
+          "userType": "OTHER",
+          "userId": "b1380271e64e4a1c9260dd715de784cf"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 2,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Ethan Williamson"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "fd57cadf7a824268a5a6858b478f529a",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 3,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Vijay Muthmukumar"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "7b47135b93264dc89ec655744765b5dc",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 4,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Adriana K. Sanchez"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "f3b7760e3ff9415ea726796add8d269c",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 5,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Chelsea Garcia"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "0cb12b0d16b4462a8dd382715de8aa54",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 6,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Quincy Bourell"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "09a056ab1af34f7fb617d09bc69194a1",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 7,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Alexis Greenfield"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "fb84a190bb6b45179389b0e098bcaca1",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 8,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Leesa Takara"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "9b7d723ead1f49c3973d729eb86d5a1f",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 9,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Jason White"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "ed27b413f80945b8ad9602080868c702",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 10,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Keegan Breese"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "fa26e0847d6348459576d3a0c4df6432",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 11,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Melissa Cook"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "0f26bccbf09f47cd80d8f9692932dcc0",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 12,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Swastik Patel"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "663e8918d2ad411c928db62fa5da1e31",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 13,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Sam Waymire"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "f696febcede941e9a19e901a5fd37fcf",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 14,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Shruti Subramaniyan"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "fbb4f6dcc9b64a14a453141c5f4fd094",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 15,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Henry Ewald"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "8c030366907142cdaeea42495be1689b",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 16,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Myles Bryan"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "3513edf073bc4a9d968fdd35ad45d87f",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 17,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Brayden Quale"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "11085d70d59741209f45c8c257b38654",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 18,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Heer Mehta"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "801f18e4e24f4a1b872d34c05fff5719",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 19,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "D. Marshall Porterfield"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "4001316d91aa413786a1040812ae1beb",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 20,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Robert M. Stwalley III"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "6d9ada985235494e8ec82fccf3efaccd",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 21,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Dawn Whitaker"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "fdf960110904459792ad5ae5c5c7b333",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "73842da94adc5d05a10a41f5dfdfc9c7",
+          "sequence": 22,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "name": "Richard Barker"
+            },
+            "organization": {
+              "name": "Purdue University West Lafayette",
+              "location": "West Lafayette, United States"
+            }
+          },
+          "id": "dc6b1d266b2847bcb156dee1947e4d5a",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "5c929cce29b0585fb37efe77c6e9d156",
+          "sequence": 23,
+          "submissionId": 20260006051,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Luke B Roberson"
+            },
+            "organization": {
+              "name": "Kennedy Space Center",
+              "location": "Merritt Island, United States"
+            }
+          },
+          "id": "ca136486d8b745d6b6454fbd2cc8d1f9",
+          "userType": "CIVIL",
+          "userId": "d1e3a18f5de1464584d77d6d62f77e11"
+        }
+      ],
+      "stiTypeDetails": "Presentation",
+      "technicalReviewType": "EXTERNAL_PEER_COMMITTEE",
+      "modified": "2026-07-13T11:57:40.5091560+00:00",
+      "id": 20260006051,
+      "created": "2026-07-07T19:32:28.4316100+00:00",
+      "center": {
+        "code": "KSC",
+        "name": "Kennedy Space Center",
+        "id": "a74d241e0e974719b03cb45cbace6b20"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The Analog Simulation Training and Research Outpost Utilizing Self-sustaining Architecture (ASTRO-USA) is a Purdue University project developed in collaboration with the National Aeronautics and Space Administration’s (NASA) Kennedy Space Center (KSC) and the University of Arizona to create a high-fidelity, modular analog habitat for Moon and Mars missions. Current analog facilities lack fully closed-loop life support systems and often separate waste, water, food, and power subsystems. ASTRO-USA addresses this gap by integrating these elements into a single, self-sustaining testbed for Artemis-class technologies. In the near term, a secondary Mini-Hab will demonstrate closure of the waste and nutrient loops while enabling food production and human factors research. The long-term objective is a primary habitat with closed-loop waste, water, and air systems, full environmental control, and modular construction compatible with lunar or Martian deployment. This facility will incorporate bioreactors, reverse osmosis, hydroponics, and Mycoponics™ to convert human waste and graywater into potable water, fertilizer, biogas, pharmaceuticals, and 3D-printing filament, powered by a mix of solar and biogas generation. Habitat systems will be monitored and managed by SIMOC (Scalable Interactive Model of an Off-world Community) Live and an Opto 22 control system for real-time data acquisition, automation, and fault response. Human factors design will enable precise control of lighting, atmosphere, noise, and layout to simulate circadian cycles, mission timelines, and contingency scenarios in a windowless environment. Structural materials and construction approaches will be selected to remain realistic to off-world designs. By testing and validating integrated bioregenerative life support and control technologies at a Technology Readiness Level (TRL) 6 while tightly controlling environmental parameters for human factors studies on Earth, ASTRO-USA will provide a functional platform for sustainable human habitation research and technology maturation in direct support of NASA’s Artemis program and future planetary exploration missions.",
+      "isLessonsLearned": true,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20260006051,
+        "id": "a8482831698d4e78952120425b33f310"
+      },
+      "meetings": [
+        {
+          "country": "PR",
+          "submissionId": 20260006051,
+          "endDate": "2026-07-16T04:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "b9841d0f99254bf98bd0418933449ea8",
+              "meta": {
+                "organization": {
+                  "name": "ICES Steering Committe"
+                }
+              },
+              "meetingId": "dfd59b2d6cca41199f9b7f112b7c2503",
+              "id": "179073de867b4e9f80f8a41e6e2f6ba2"
+            }
+          ],
+          "name": "55th International Conference on Environmental Systems (ICES)",
+          "location": "Rio Grande",
+          "id": "dfd59b2d6cca41199f9b7f112b7c2503",
+          "startDate": "2026-07-12T04:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "ICES-2026-251_ASTRO-USA_Presentation.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20260006051/downloads/ICES-2026-251_ASTRO-USA_Presentation.pdf",
+            "pdf": "/api/citations/20260006051/downloads/ICES-2026-251_ASTRO-USA_Presentation.pdf",
+            "fulltext": "/api/citations/20260006051/downloads/ICES-2026-251_ASTRO-USA_Presentation.pdf.txt"
+          }
+        },
+        {
+          "draft": false,
+          "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "name": "ICES-2026-251_ASTRO-USA_Presentation.pptx",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20260006051/downloads/ICES-2026-251_ASTRO-USA_Presentation.pptx",
+            "fulltext": "/api/citations/20260006051/downloads/ICES-2026-251_ASTRO-USA_Presentation.pptx.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 149.61836
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20210021780,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "598528d129404956b93dacaaa969b8d1",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Man/System Technology And Life Support"
+      ],
+      "keywords": [
+        "Habitability",
+        "Human Factors",
+        "Common Habitat",
+        "Usability",
+        "Survivability",
+        "Down-Selection",
+        "Lunar Outpost",
+        "Mars Outpost",
+        "Transit Habitat",
+        "Deep Space Habitat",
+        "Concept Trade Study"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20210021780,
+        "ear": "NO",
+        "id": "d831d3fe2b4b4fd984053d440197fa84",
+        "itar": "NO"
+      },
+      "distributionDate": "2021-10-15T05:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "452582.81.72",
+          "submissionId": 20210021780,
+          "id": "d3edb1e0103f4def821c14f5a436cfb5",
+          "type": "WBS"
+        }
+      ],
+      "title": "Down-Selection of Four Common Habitat Variants",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2021-09-18T20:44:17.8915030+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 0,
+          "submissionId": 20210021780,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Robert L Howard"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "1a309639bd144e779eb64b46d406593d",
+          "userType": "CIVIL",
+          "userId": "e1df2a3e7bb24506970ac3cfe96a18f3"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "SINGLE_EXPERT",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20210021780,
+      "created": "2021-09-18T20:36:29.6926280+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The Common Habitat is a large habitat that uses the Space Launch System core stage liquid oxygen tank as its primary structure.  It has a gravity-independent internal architecture, such that identical units can be used on the lunar surface, Mars surface, and in microgravity.  In developing the habitat, two key architectural questions emerged.  Should the internal layout use a vertical or horizontal orientation of the tank?  Should the crew size be four or eight?  This led to the design of four variants: a four-crew horizontal, four-crew vertical, eight-crew horizontal, and eight-crew vertical.  The primary consideration applied for down-selection was the crew experience living and working in the habitat, inclusive of crew productivity, well-being, and survivability.  Based on this consideration, a series of seven assessments was performed to compare the four variants.  A stowage assessment developed a standard logistics module and then considered the amounts of water to be stored in each variant.  It then estimated how much stowage could be carried onboard each Common Habitat and how many logistics modules are required by each variant for a given mission duration.  A functional analysis identified and compared the living and working functions across the four habitat, ranking them relative to each other.  A crew time assessment first estimated the total crew time, building a weekly crew timeline for both four and eight-person crews.  It then allocated time to activities linked to living and working functions, comparing how much time was available for each function in each variant.  A science productivity assessment developed a relative metric using crew time, science stowage, and assumed rates of experiment consumables use to analytically compare the four variants.  It also comparatively ranked the habitats with respect to a number of subjective parameters and a workstation acceptability rating.  A maintenance capacity assessment identified and compared eleven generic maintenance capabilities across the four variants and also ranked the variants for their predicted ability to complete twelve fabrication, maintenance, and repair scenarios.  A contingency responsiveness analysis examined twelve serious in-flight contingencies.  For each scenario, the number of crew needed to respond was predicted and acceptability of various aspects of contingency response was evaluated, comparing the four variants against each other.  Finally, in a habitability assessment, 120 habitability characteristics reflecting 13 major categories were evaluated for each habitat.  These results were compared to identify the most acceptable habitat in each category.  Ultimately, the data was shown to favor the horizontal orientation over the vertical and an eight-person crew over four.  Implications of selecting this variant are discussed, including specific architectural challenges that result from the use of the full SLS liquid oxygen tank. ",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20210021780,
+        "id": "ed333ede61bd4baf9bcbcbb11bd53320"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20210021780,
+          "endDate": "2022-03-12T06:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "c89d4cba478b520a8c47b5bcac2f6911",
+              "meta": {
+                "organization": {
+                  "name": "Institute of Electrical and Electronics Engineers",
+                  "location": "Piscataway, New Jersey, United States"
+                }
+              },
+              "meetingId": "f3687eca5f2441469d1066dd80e99588",
+              "id": "f623c6211ecb471d8df57c379f3ebf19"
+            }
+          ],
+          "name": "2022 IEEE Aerospace Conference",
+          "location": "Big Sky, MT",
+          "id": "f3687eca5f2441469d1066dd80e99588",
+          "url": "https://aeroconf.org/",
+          "startDate": "2022-03-05T06:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "Down-Selection of Four Common Habitat Variants.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20210021780/downloads/Down-Selection%20of%20Four%20Common%20Habitat%20Variants.pdf",
+            "pdf": "/api/citations/20210021780/downloads/Down-Selection%20of%20Four%20Common%20Habitat%20Variants.pdf",
+            "fulltext": "/api/citations/20210021780/downloads/Down-Selection%20of%20Four%20Common%20Habitat%20Variants.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    }
+  ],
+  "aggregations": {
+    "created": {
+      "buckets": [
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 22
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 7
+        },
+        {
+          "key_as_string": "2021",
+          "key": 1609459200000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2023",
+          "key": 1672531200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "author": {
+      "doc_count_error_upper_bound": 3,
+      "sum_other_doc_count": 210,
+      "buckets": [
+        {
+          "key": "Akshay Prasad",
+          "doc_count": 2
+        },
+        {
+          "key": "Borowski, Stanley K.",
+          "doc_count": 2
+        },
+        {
+          "key": "Campbell, Bruce",
+          "doc_count": 2
+        },
+        {
+          "key": "Caraccio, Anne",
+          "doc_count": 2
+        },
+        {
+          "key": "Chel Stromgren",
+          "doc_count": 2
+        },
+        {
+          "key": "Fieber, Joseph P.",
+          "doc_count": 2
+        },
+        {
+          "key": "Gore, Brian F.",
+          "doc_count": 2
+        },
+        {
+          "key": "Huebner-Moths, Janis",
+          "doc_count": 2
+        },
+        {
+          "key": "Lin, Tzu Yu",
+          "doc_count": 2
+        },
+        {
+          "key": "McCurdy, David R.",
+          "doc_count": 2
+        },
+        {
+          "key": "Moore, Gary T.",
+          "doc_count": 2
+        },
+        {
+          "key": "Robert L Howard",
+          "doc_count": 2
+        },
+        {
+          "key": "Smitherman, David",
+          "doc_count": 2
+        },
+        {
+          "key": "Abraham, Douglas S.",
+          "doc_count": 1
+        },
+        {
+          "key": "Adriana K. Sanchez",
+          "doc_count": 1
+        },
+        {
+          "key": "Alejandro Garbino",
+          "doc_count": 1
+        },
+        {
+          "key": "Alessandra Massa",
+          "doc_count": 1
+        },
+        {
+          "key": "Alexis Greenfield",
+          "doc_count": 1
+        },
+        {
+          "key": "Amir Behjat",
+          "doc_count": 1
+        },
+        {
+          "key": "Andersen, D. T.",
+          "doc_count": 1
+        }
+      ]
+    },
+    "reportNumber": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 57,
+      "buckets": [
+        {
+          "key": "AIAA Paper 2014-3623",
+          "doc_count": 2
+        },
+        {
+          "key": "Report Number: AIAA Paper 2014-3623",
+          "doc_count": 2
+        },
+        {
+          "key": "20250010239",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN33830",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN40251",
+          "doc_count": 1
+        },
+        {
+          "key": "E-19297",
+          "doc_count": 1
+        },
+        {
+          "key": "GRC-E-DAA-TN16571",
+          "doc_count": 1
+        },
+        {
+          "key": "GRC-E-DAA-TN35931",
+          "doc_count": 1
+        },
+        {
+          "key": "GSFC-E-DAA-TN8715",
+          "doc_count": 1
+        },
+        {
+          "key": "IAF PAPER 91-702",
+          "doc_count": 1
+        },
+        {
+          "key": "ICES-2026-251",
+          "doc_count": 1
+        },
+        {
+          "key": "ISBN: 0-938744-69-0",
+          "doc_count": 1
+        },
+        {
+          "key": "ISSN: 0033-8451",
+          "doc_count": 1
+        },
+        {
+          "key": "ISSN: 0094-5765",
+          "doc_count": 1
+        },
+        {
+          "key": "ISSN: 0273-1177",
+          "doc_count": 1
+        },
+        {
+          "key": "JPL-CL-16-3640",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-18647",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-22944",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-27648",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-29323",
+          "doc_count": 1
+        }
+      ]
+    },
+    "center": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "JSC",
+          "doc_count": 19
+        },
+        {
+          "key": "CDMS",
+          "doc_count": 10
+        },
+        {
+          "key": "KSC",
+          "doc_count": 7
+        },
+        {
+          "key": "MSFC",
+          "doc_count": 6
+        },
+        {
+          "key": "ARC",
+          "doc_count": 5
+        },
+        {
+          "key": "GRC",
+          "doc_count": 2
+        },
+        {
+          "key": "GSFC",
+          "doc_count": 2
+        },
+        {
+          "key": "JPL",
+          "doc_count": 2
+        },
+        {
+          "key": "LaRC",
+          "doc_count": 2
+        },
+        {
+          "key": "2230",
+          "doc_count": 1
+        },
+        {
+          "key": "HQ",
+          "doc_count": 1
+        }
+      ]
+    },
+    "index": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "submissions-2026-10-22-05-25",
+          "doc_count": 57
+        }
+      ]
+    },
+    "fundingNumber": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 20,
+      "buckets": [
+        {
+          "key": "452582.81.72",
+          "doc_count": 3
+        },
+        {
+          "key": "251546.04.01.23",
+          "doc_count": 2
+        },
+        {
+          "key": "451582.81.72",
+          "doc_count": 2
+        },
+        {
+          "key": "NASW-4435",
+          "doc_count": 2
+        },
+        {
+          "key": "NNC12BA01B",
+          "doc_count": 2
+        },
+        {
+          "key": "WBS 203950.01.99.99.99.99.76",
+          "doc_count": 2
+        },
+        {
+          "key": "\t452582.81.72",
+          "doc_count": 1
+        },
+        {
+          "key": "089407",
+          "doc_count": 1
+        },
+        {
+          "key": "10449.2.03.02.31.1831",
+          "doc_count": 1
+        },
+        {
+          "key": "131-20-10",
+          "doc_count": 1
+        },
+        {
+          "key": "308493.50.76",
+          "doc_count": 1
+        },
+        {
+          "key": "371544.01.21.02.21.01",
+          "doc_count": 1
+        },
+        {
+          "key": "430728.02.80.01.14 ",
+          "doc_count": 1
+        },
+        {
+          "key": "80GSFC20C0044",
+          "doc_count": 1
+        },
+        {
+          "key": "80NSSC18K1692",
+          "doc_count": 1
+        },
+        {
+          "key": "80NSSC19K1076",
+          "doc_count": 1
+        },
+        {
+          "key": "80NSSC25PA511",
+          "doc_count": 1
+        },
+        {
+          "key": "959547.20.01.04.62",
+          "doc_count": 1
+        },
+        {
+          "key": "981698.01.02.72.22.13",
+          "doc_count": 1
+        },
+        {
+          "key": "AES Project no. 371365",
+          "doc_count": 1
+        }
+      ]
+    },
+    "published": {
+      "buckets": [
+        {
+          "key_as_string": "1992",
+          "key": 694224000000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "1991",
+          "key": 662688000000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "1993",
+          "key": 725846400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2003",
+          "key": 1041379200000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2005",
+          "key": 1104537600000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2011",
+          "key": 1293840000000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1990",
+          "key": 631152000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1998",
+          "key": 883612800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1999",
+          "key": 915148800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2002",
+          "key": 1009843200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2008",
+          "key": 1199145600000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2009",
+          "key": 1230768000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2012",
+          "key": 1325376000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "distribution": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "PUBLIC",
+          "doc_count": 57
+        }
+      ]
+    },
+    "stiType": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "CONFERENCE_PAPER",
+          "doc_count": 22
+        },
+        {
+          "key": "PRESENTATION",
+          "doc_count": 10
+        },
+        {
+          "key": "ABSTRACT",
+          "doc_count": 6
+        },
+        {
+          "key": "OTHER",
+          "doc_count": 4
+        },
+        {
+          "key": "ACCEPTED_MANUSCRIPT",
+          "doc_count": 2
+        },
+        {
+          "key": "CONTRACTOR_OR_GRANTEE_REPORT",
+          "doc_count": 2
+        },
+        {
+          "key": "CONTRACTOR_REPORT",
+          "doc_count": 2
+        },
+        {
+          "key": "PREPRINT",
+          "doc_count": 2
+        },
+        {
+          "key": "REPRINT",
+          "doc_count": 2
+        },
+        {
+          "key": "WHITE_PAPER",
+          "doc_count": 2
+        },
+        {
+          "key": "CONFERENCE_PUBLICATION",
+          "doc_count": 1
+        },
+        {
+          "key": "POSTER",
+          "doc_count": 1
+        },
+        {
+          "key": "TECHNICAL_MEMORANDUM",
+          "doc_count": 1
+        }
+      ]
+    },
+    "subjectCategory": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 7,
+      "buckets": [
+        {
+          "key": "Man/System Technology And Life Support",
+          "doc_count": 19
+        },
+        {
+          "key": "Aerospace Medicine",
+          "doc_count": 10
+        },
+        {
+          "key": "Man/System Technology and Life Support",
+          "doc_count": 6
+        },
+        {
+          "key": "Lunar And Planetary Science And Exploration",
+          "doc_count": 5
+        },
+        {
+          "key": "Behavioral Sciences",
+          "doc_count": 3
+        },
+        {
+          "key": "Technology Utilization And Surface Transportation",
+          "doc_count": 3
+        },
+        {
+          "key": "Astronautics (General)",
+          "doc_count": 2
+        },
+        {
+          "key": "Space Sciences (General)",
+          "doc_count": 2
+        },
+        {
+          "key": "Spacecraft Design, Testing And Performance",
+          "doc_count": 2
+        },
+        {
+          "key": "Spacecraft Propulsion And Power",
+          "doc_count": 2
+        },
+        {
+          "key": "Systems Analysis And Operations Research",
+          "doc_count": 2
+        },
+        {
+          "key": "Astrophysics",
+          "doc_count": 1
+        },
+        {
+          "key": "Composite Materials",
+          "doc_count": 1
+        },
+        {
+          "key": "Cybernetics, Artificial Intelligence and Robotics",
+          "doc_count": 1
+        },
+        {
+          "key": "Earth Resources And Remote Sensing",
+          "doc_count": 1
+        },
+        {
+          "key": "Engineering (General)",
+          "doc_count": 1
+        },
+        {
+          "key": "Exobiology",
+          "doc_count": 1
+        },
+        {
+          "key": "Ground Support Systems And Facilities (Space)",
+          "doc_count": 1
+        },
+        {
+          "key": "Ground Support Systems and Facilities (Space)",
+          "doc_count": 1
+        },
+        {
+          "key": "Life Sciences (General)",
+          "doc_count": 1
+        }
+      ]
+    },
+    "disseminated": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "DOCUMENT_AND_METADATA",
+          "doc_count": 47
+        },
+        {
+          "key": "METADATA_ONLY",
+          "doc_count": 10
+        }
+      ]
+    },
+    "stiTypeDetails": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Conference Paper",
+          "doc_count": 22
+        },
+        {
+          "key": "Presentation",
+          "doc_count": 10
+        },
+        {
+          "key": "Abstract",
+          "doc_count": 6
+        },
+        {
+          "key": "Accepted Manuscript (Version with final changes)",
+          "doc_count": 2
+        },
+        {
+          "key": "Contractor Report (CR)",
+          "doc_count": 2
+        },
+        {
+          "key": "Contractor or Grantee Report",
+          "doc_count": 2
+        },
+        {
+          "key": "Other - Collected Works",
+          "doc_count": 2
+        },
+        {
+          "key": "Preprint (Draft being sent to journal)",
+          "doc_count": 2
+        },
+        {
+          "key": "Reprint (Version printed in journal)",
+          "doc_count": 2
+        },
+        {
+          "key": "White Paper",
+          "doc_count": 2
+        },
+        {
+          "key": "Conference Publication (CP)",
+          "doc_count": 1
+        },
+        {
+          "key": "Other",
+          "doc_count": 1
+        },
+        {
+          "key": "Other - Journal Issue",
+          "doc_count": 1
+        },
+        {
+          "key": "Poster",
+          "doc_count": 1
+        },
+        {
+          "key": "Technical Memorandum (TM)",
+          "doc_count": 1
+        }
+      ]
+    },
+    "organization": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 55,
+      "buckets": [
+        {
+          "key": "NASA Johnson Space Center",
+          "doc_count": 13
+        },
+        {
+          "key": "Johnson Space Center",
+          "doc_count": 10
+        },
+        {
+          "key": "NASA Ames Research Center",
+          "doc_count": 5
+        },
+        {
+          "key": "NASA Kennedy Space Center",
+          "doc_count": 4
+        },
+        {
+          "key": "NASA Marshall Space Flight Center",
+          "doc_count": 4
+        },
+        {
+          "key": "Ames Research Center",
+          "doc_count": 3
+        },
+        {
+          "key": "Marshall Space Flight Center",
+          "doc_count": 3
+        },
+        {
+          "key": "Wisconsin Univ.",
+          "doc_count": 3
+        },
+        {
+          "key": "Binera, Inc.",
+          "doc_count": 2
+        },
+        {
+          "key": "Florida Univ.",
+          "doc_count": 2
+        },
+        {
+          "key": "Jet Propulsion Lab., California Inst. of Tech.",
+          "doc_count": 2
+        },
+        {
+          "key": "Kennedy Space Center",
+          "doc_count": 2
+        },
+        {
+          "key": "Langley Research Center",
+          "doc_count": 2
+        },
+        {
+          "key": "NASA Glenn Research Center",
+          "doc_count": 2
+        },
+        {
+          "key": "NASA Goddard Space Flight Center",
+          "doc_count": 2
+        },
+        {
+          "key": "NASA Langley Research Center",
+          "doc_count": 2
+        },
+        {
+          "key": "Purdue University West Lafayette",
+          "doc_count": 2
+        },
+        {
+          "key": "Vantage Partners, LLC",
+          "doc_count": 2
+        },
+        {
+          "key": " Basque Culinary Institute",
+          "doc_count": 1
+        },
+        {
+          "key": "4Frontiers Corp.",
+          "doc_count": 1
+        }
+      ]
+    },
+    "modified": {
+      "buckets": [
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 53
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 4
+        }
+      ]
+    },
+    "keyword": {
+      "doc_count_error_upper_bound": 1,
+      "sum_other_doc_count": 93,
+      "buckets": [
+        {
+          "key": "Human Factors",
+          "doc_count": 6
+        },
+        {
+          "key": "Mars",
+          "doc_count": 5
+        },
+        {
+          "key": "Common Habitat",
+          "doc_count": 4
+        },
+        {
+          "key": "Habitability",
+          "doc_count": 4
+        },
+        {
+          "key": "Transit Habitat",
+          "doc_count": 4
+        },
+        {
+          "key": "Deep Space Habitat",
+          "doc_count": 3
+        },
+        {
+          "key": "Human Spaceflight",
+          "doc_count": 3
+        },
+        {
+          "key": "Lunar Outpost",
+          "doc_count": 3
+        },
+        {
+          "key": "Mars Outpost",
+          "doc_count": 3
+        },
+        {
+          "key": "Architecture",
+          "doc_count": 2
+        },
+        {
+          "key": "Concept Trade Study",
+          "doc_count": 2
+        },
+        {
+          "key": "Cost",
+          "doc_count": 2
+        },
+        {
+          "key": "Down-Selection",
+          "doc_count": 2
+        },
+        {
+          "key": "Gecko Gripper",
+          "doc_count": 2
+        },
+        {
+          "key": "Habitat",
+          "doc_count": 2
+        },
+        {
+          "key": "Habitation",
+          "doc_count": 2
+        },
+        {
+          "key": "Logistics",
+          "doc_count": 2
+        },
+        {
+          "key": "Mars spacecraft",
+          "doc_count": 2
+        },
+        {
+          "key": "Mission Analysis",
+          "doc_count": 2
+        },
+        {
+          "key": "Moon",
+          "doc_count": 2
+        }
+      ]
+    }
+  }
+}

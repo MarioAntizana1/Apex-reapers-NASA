@@ -1,0 +1,2159 @@
+{
+  "stats": {
+    "took": 98,
+    "total": 70,
+    "estimate": false,
+    "maxScore": 254.32022
+  },
+  "results": [
+    {
+      "_meta": {
+        "score": 254.32022
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20070034696,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "ca4bfe006dc644ce8ccc9d1cff62e14e",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "networks",
+        "Mars"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20070034696,
+        "ear": "NO",
+        "id": "07587e59d3444224ba1eed7589caae23",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "title": "Mars Communications Network",
+      "stiType": "PREPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-24T00:07:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20070034696,
+          "meta": {
+            "author": {
+              "name": "Edwards, Chad"
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "5fd1de3b2ca746c492ee42f88137c12e"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20070034696,
+          "meta": {
+            "author": {
+              "name": "Burleigh, Scott C."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "6c9c13a5f1d14a109d8f33a1620db10a"
+        }
+      ],
+      "stiTypeDetails": "Preprint (Draft being sent to journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20070034696,
+      "sourceIdentifiers": [
+        {
+          "number": "hdl:2014/40282",
+          "submissionId": 20070034696,
+          "id": "a0a8b705415f483196ea2c719505d997",
+          "type": "HANDLE"
+        },
+        {
+          "submissionId": 20070034696,
+          "id": "aea11cf26d5449768890cc8d71a3aef2",
+          "descriptor": "hdl:2014/40282"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-24T00:07:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "This viewgraph presentation discusses the need for a relay network at Mars and investments needed for a Mars relay network.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "meetings": [
+        {
+          "country": "United States",
+          "submissionId": 20070034696,
+          "name": "SCAWG Networking Technology Workshop",
+          "location": "Reston, VA",
+          "id": "e69f4ce5a078407d89c46d7d1cff68ca",
+          "startDate": "2006-08-10T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20070034696,
+          "id": "fcf592c2916a4ff1bc3dfe2785549281",
+          "publicationDate": "2006-08-10T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 250.67627
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20070023754,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "0d08bdb6fc8c47368560a733b29809f2",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Space Communications, Spacecraft Communications, Command And Tracking"
+      ],
+      "keywords": [
+        "telecommunications",
+        "mission overview",
+        "Mars Exploration Rovers (MER)",
+        "critical event communications",
+        "Mars relay infrastructure",
+        "Spirit"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20070023754,
+        "ear": "NO",
+        "id": "9e4a46c8767f41b1b026431751caab0e",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "title": "A Martian Telecommunications Network: UHF Relay Support of the Mars Exploration Rovers by the Mars Global Surveyor, Mars Odyssey, and Mars Express Orbiters",
+      "stiType": "PREPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-23T23:17:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20070023754,
+          "meta": {
+            "author": {
+              "name": "Edwards, Charles D., Jr."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "869783978c7b4789a6e73599fbff0d0d"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20070023754,
+          "meta": {
+            "author": {
+              "name": "Barbieri, A."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "cf1a395fe0e24de1b4028cb35d346e14"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20070023754,
+          "meta": {
+            "author": {
+              "name": "Brower, E."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "3c56617d8b93463bb95cf2f874f011be"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20070023754,
+          "meta": {
+            "author": {
+              "name": "Estabrook, P."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "97bb094bdb4c4bbd9bea26c9c5b4fdb0"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20070023754,
+          "meta": {
+            "author": {
+              "name": "Gibbs, R."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "f8cf676179fa4244a0774f436d4ecfa8"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20070023754,
+          "meta": {
+            "author": {
+              "name": "Horttor, R."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "e19d87f93e6a43aba3c1ecbfa5281182"
+        },
+        {
+          "sequence": 6,
+          "submissionId": 20070023754,
+          "meta": {
+            "author": {
+              "name": "Ludwinski, J."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "9a2378df308e4e9e8fb4bcde1da83137"
+        },
+        {
+          "sequence": 7,
+          "submissionId": 20070023754,
+          "meta": {
+            "author": {
+              "name": "Mase, R."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "67952c1deee64ff3b1e114b034ba5df4"
+        },
+        {
+          "sequence": 8,
+          "submissionId": 20070023754,
+          "meta": {
+            "author": {
+              "name": "McCarthy, C."
+            },
+            "organization": {
+              "name": "European Space Agency",
+              "location": "Paris, France"
+            }
+          },
+          "id": "90916368227643c6a53d9e87541d6f32"
+        },
+        {
+          "sequence": 9,
+          "submissionId": 20070023754,
+          "meta": {
+            "author": {
+              "name": "Schmidt, R."
+            },
+            "organization": {
+              "name": "European Space Agency",
+              "location": "Paris, France"
+            }
+          },
+          "id": "e56f1fa5c98349e2996b56d60b95fb0e"
+        },
+        {
+          "sequence": 10,
+          "submissionId": 20070023754,
+          "meta": {
+            "author": {
+              "name": "Theisinger, P."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "080cdddfde3a4f4fbfb610d8b6f0d9b2"
+        },
+        {
+          "sequence": 11,
+          "submissionId": 20070023754,
+          "meta": {
+            "author": {
+              "name": "Thorpe, T."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "1a83815ce0494931aa2d49846ba0d908"
+        },
+        {
+          "sequence": 12,
+          "submissionId": 20070023754,
+          "meta": {
+            "author": {
+              "name": "Waggoner, B."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "ade67d5578fa485bb18531bc8873eb81"
+        }
+      ],
+      "stiTypeDetails": "Preprint (Draft being sent to journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20070023754,
+      "sourceIdentifiers": [
+        {
+          "number": "hdl:2014/40031",
+          "submissionId": 20070023754,
+          "id": "78ee5213a5144a79b766dff418d7368b",
+          "type": "HANDLE"
+        },
+        {
+          "submissionId": 20070023754,
+          "id": "6132789dd1854c968ae22864efd4f9e5",
+          "descriptor": "hdl:2014/40031"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-23T23:17:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "NASA and ESA have established an international network of Mars orbiters, outfitted with relay communications payloads, to support robotic exploration of the red planet. Starting in January, 2004, this network has provided the Mars Exploration Rovers with telecommunications relay services, significantly increasing rover engineering and science data return while enhancing mission robustness and operability. Augmenting the data return capabilities of their X-band direct-to-Earth links, the rovers are equipped with UHF transceivers allowing data to be relayed at high rate to the Mars Global Surveyor (MGS), Mars Odyssey, and Mars Express orbiters. As of 21 July, 2004, over 50 Gbits of MER data have been obtained, with nearly 95% of that data returned via the MGS and Odyssey UHF relay paths, allowing a large increase in science return from the Martian surface relative to the X-band direct-to-Earth link. The MGS spacecraft also supported high-rate UHF communications of MER engineering telemetry during the critical period of entry, descent, and landing (EDL), augmenting the very low-rate EDL data collected on the X-band direct-to-Earth link. Through adoption of the new CCSDS Proximity-1 Link Protocol, NASA and ESA have achieved interoperability among these Mars assets, as validated by a successful relay demonstration between Spirit and Mars Express, enabling future interagency cross-support and establishing a truly international relay network at Mars.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "meetings": [
+        {
+          "submissionId": 20070023754,
+          "name": "International Astronautical Federation",
+          "location": "Paris, France",
+          "id": "f69713b57a864c6d9d1e5b18fddfbc44"
+        },
+        {
+          "country": "Canada",
+          "submissionId": 20070023754,
+          "endDate": "2004-10-08T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "International Astronautical Federation",
+                  "location": "Paris, France"
+                }
+              },
+              "meetingId": "dc6211cf65154e4885c717995afb5c4b",
+              "id": "21a1dec0957d43e594d02984baac60b3"
+            }
+          ],
+          "name": "55th International Astronautical Congress",
+          "location": "Vancouver, BC",
+          "id": "dc6211cf65154e4885c717995afb5c4b",
+          "startDate": "2004-10-04T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20070023754,
+          "id": "087022f15a65489e9689d7aaa5a97fde",
+          "publicationDate": "2004-10-04T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 244.16275
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20060029935,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "7f401d5171b341be86389b15e7196287",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "Relay Network planning and scheduling constrained optimization"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20060029935,
+        "ear": "NO",
+        "id": "e1e4c6406e8f40cdbcf353480d987e77",
+        "itar": "NO"
+      },
+      "distributionDate": "2018-06-07T00:00:00.0000000+00:00",
+      "title": "Recent results in Mars Relay Network planning and scheduing",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-23T17:49:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20060029935,
+          "meta": {
+            "author": {
+              "name": "Lee, C. H."
+            },
+            "organization": {}
+          },
+          "id": "3276c568a17440f8a4309832b2ef1500"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20060029935,
+          "meta": {
+            "author": {
+              "name": "Cheung, K. M."
+            },
+            "organization": {}
+          },
+          "id": "23fbfcf4f8124bc3a33918e179bee185"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20060029935,
+      "sourceIdentifiers": [
+        {
+          "number": "hdl:2014/9798",
+          "submissionId": 20060029935,
+          "id": "b1206ea4ac42498c8e5673e0001ef494",
+          "type": "HANDLE"
+        },
+        {
+          "submissionId": 20060029935,
+          "id": "e4da3e52f2924bc2879ffc940a50fefc",
+          "descriptor": "hdl:2014/9798"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-23T17:49:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "At different time periods in the future, Mars missions will overlap and previous studies indicate that during such periods existing deep space communication infrastructure will not be  able to handle all Mars communication needs. A plausible solution is to perform optimal resource allocation for the Mars relay communication network; a network consisting of multiple  surface units and orbiters on Mars and the Deep Space Stations. Unlike direct-to-earth, a relay communication, either in real-time or store-and-forward, can increase network science  data return, reduce surface unit's direct-to-earth communication demands, and enable communication even when the surface unit is not facing Earth. It is the objective of this paper to  take advantage of the relay operation to efficiently plan and schedule the network communications.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "meetings": [
+        {
+          "country": "United States",
+          "submissionId": 20060029935,
+          "name": "IEEE Aerospace Conference",
+          "location": "Big Sky, MT",
+          "id": "f1e55cf3491840d5a2d8423740a151cd"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20060029935,
+          "id": "348fb4cbb7504951bef42151c4893029",
+          "publicationDate": "2003-03-08T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 232.56602
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20060044318,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "8df7bbf9478140978aaf01e6a4cc5ac7",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "relay communications",
+        "telecommunications challenges"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20060044318,
+        "ear": "NO",
+        "id": "796c621e177a4b6cbf0d07f530b18396",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "title": "Relay communications strategies for Mars exploration through 2020",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-23T18:44:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20060044318,
+          "meta": {
+            "author": {
+              "name": "Edwards, Charles D., Jr."
+            },
+            "organization": {}
+          },
+          "id": "43d3c35dabdb44f7831e76bce26faba2"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20060044318,
+          "meta": {
+            "author": {
+              "name": "Arnold, B."
+            },
+            "organization": {}
+          },
+          "id": "eb5f180abd0d4f458f7531bbec432236"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20060044318,
+          "meta": {
+            "author": {
+              "name": "DePaula, R."
+            },
+            "organization": {}
+          },
+          "id": "82ad576daf9d4303b2ccc913999d97fb"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20060044318,
+          "meta": {
+            "author": {
+              "name": "Kazz, G."
+            },
+            "organization": {}
+          },
+          "id": "65c9ddcbf0c0447c95ad2358d558ffd1"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20060044318,
+          "meta": {
+            "author": {
+              "name": "Lee, C."
+            },
+            "organization": {}
+          },
+          "id": "0318be31bcf64764997f420fe9c06103"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20060044318,
+          "meta": {
+            "author": {
+              "name": "Noreen, G."
+            },
+            "organization": {}
+          },
+          "id": "675ceb35bf764a018e1f9f474aca4968"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20060044318,
+      "sourceIdentifiers": [
+        {
+          "number": "hdl:2014/39530",
+          "submissionId": 20060044318,
+          "id": "9a1ad60208d743b48c96e6e2b80faa99",
+          "type": "HANDLE"
+        },
+        {
+          "submissionId": 20060044318,
+          "id": "5dbe47a3aaf4435ea570be44e6936261",
+          "descriptor": "hdl:2014/39530"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-23T18:44:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "In this paper we will examine NASA's strategy for relay communications support of missions planned for this decade, and discuss options for longer-term relay network evolution in  support of second-decade missions.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "meetings": [
+        {
+          "country": "Japan",
+          "submissionId": 20060044318,
+          "endDate": "2005-10-21T00:00:00.0000000+00:00",
+          "name": "56th International Astronautical Congress",
+          "location": "Fukuoka",
+          "id": "b59c4a3e3d3a442b92c8a9b4a7073dcf",
+          "startDate": "2005-10-17T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20060044318,
+          "id": "fc04ba400f8741e48ebbc77686d36610",
+          "publicationDate": "2005-10-17T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 219.44617
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20150008785,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "473d406f111a4b4bb8ed59f4024b8430",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Space Communications, Spacecraft Communications, Command And Tracking",
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "MAVEN",
+        "UHF",
+        "ExoMars/Trace Gas Orbiter",
+        "2018 Mars Rover",
+        "Telecommunications"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20150008785,
+        "ear": "NO",
+        "id": "455edc198b3049428e7b4653dce6e715",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "title": "Relay Support for the Mars Science Laboratory and the Coming Decade of Mars Relay Network Evolution",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2015-05-26T15:37:45.0830000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20150008785,
+          "meta": {
+            "author": {
+              "name": "Edwards, Charles D., Jr."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "5b96b474557843d0ae94bea241e0fb36"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20150008785,
+          "meta": {
+            "author": {
+              "name": "Arnold, Bradford W."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "f3dbf1dc01b74e1980c19fa2e5277c92"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20150008785,
+          "meta": {
+            "author": {
+              "name": "Bell, David J."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "9f6d7816d610457b8e4f4c273b0aec6b"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20150008785,
+          "meta": {
+            "author": {
+              "name": "Bruvold, Kristoffer N."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "27d79321f8e54cecac5db41542fb4967"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20150008785,
+          "meta": {
+            "author": {
+              "name": "Gladden, Roy E."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "06f0ffdb15444950b4cbd383ede1f9cc"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20150008785,
+          "meta": {
+            "author": {
+              "name": "Ilott, Peter A."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "f0b41c8f17764c829506785f2ba09d97"
+        },
+        {
+          "sequence": 6,
+          "submissionId": 20150008785,
+          "meta": {
+            "author": {
+              "name": "Lee, Charles H."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "e46856a554444529a3115bf288d1dacd"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20150008785,
+      "sourceIdentifiers": [
+        {
+          "number": "hdl:2014/45004",
+          "submissionId": 20150008785,
+          "id": "5982bba4c77743bf980ac7a9e7693553",
+          "type": "HANDLE"
+        },
+        {
+          "submissionId": 20150008785,
+          "id": "ebdc9e8a3dff4d25b30d8f41980c7e24",
+          "descriptor": "hdl:2014/45004"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2015-05-26T15:37:45.0830000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "In the past decade, an evolving network of Mars relay orbiters has provided telecommunication relay services to the Mars Exploration Rovers, Spirit and Opportunity, and to the Mars Phoenix Lander, enabling high-bandwidth, energy-efficient data transfer and greatly increasing the volume of science data that can be returned from the Martian surface, compared to conventional direct-to-Earth links. The current relay network, consisting of NASA's Odyssey and Mars Reconnaissance Orbiter and augmented by ESA's Mars Express Orbiter, stands ready to support the Mars Science Laboratory, scheduled to arrive at Mars on Aug 6, 2012, with new capabilities enabled by the Electra and Electra-Lite transceivers carried by MRO and MSL, respectively. The MAVEN orbiter, planned for launch in 2013, and the ExoMars/Trace Gas Orbiter, planned for launch in 2016, will replenish the on-orbit relay network as the current orbiter approach their end of life. Currently planned support scenarios for this future relay network include an ESA EDL Demonstrator Module deployed by the 2016 ExoMars/TGO orbiter, and the 2018 NASA/ESA Joint Rover, representing the first step in a multimission Mars Sample Return campaign.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "meetings": [
+        {
+          "submissionId": 20150008785,
+          "name": "American Inst. of Aeronautics and Astronautics",
+          "location": "Reston, VA, United States",
+          "id": "1446777a83514621a504d0d3b8f62f9c"
+        },
+        {
+          "submissionId": 20150008785,
+          "name": "Institute of Electrical and Electronics Engineers",
+          "location": "New York, NY, United States",
+          "id": "5641c4fe2056481bb6e8c2ca5af8ee48"
+        },
+        {
+          "country": "United States",
+          "submissionId": 20150008785,
+          "endDate": "2012-03-10T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "1ceaa8d6b5e34baa9300b80c5b03c635",
+              "meta": {
+                "organization": {
+                  "name": "Institute of Electrical and Electronics Engineers",
+                  "location": "New York, NY, United States"
+                }
+              },
+              "meetingId": "f4726a0ddec34fffbd6a0154f7a9ef4c",
+              "id": "ccda56ec0a494d3a9489810d9dc0e608"
+            },
+            {
+              "organizationId": "8083684b7c754c9c879cd653383655fa",
+              "meta": {
+                "organization": {
+                  "name": "American Inst. of Aeronautics and Astronautics",
+                  "location": "Reston, VA, United States"
+                }
+              },
+              "meetingId": "f4726a0ddec34fffbd6a0154f7a9ef4c",
+              "id": "4f3bde672c4a4af69c8554770d703d85"
+            },
+            {
+              "meta": {
+                "organization": {
+                  "name": "Prognostics and Health Management Society (PHM)",
+                  "location": "Rochester, NY, United States"
+                }
+              },
+              "meetingId": "f4726a0ddec34fffbd6a0154f7a9ef4c",
+              "id": "1d61b2c6ca1b4005ade2918a261a0628"
+            },
+            {
+              "meta": {
+                "organization": {
+                  "name": "Association for Environmental Studies and Sciences",
+                  "location": "Washington, DC, United States"
+                }
+              },
+              "meetingId": "f4726a0ddec34fffbd6a0154f7a9ef4c",
+              "id": "36e79dc0ea624f5aab798c5e0b953a14"
+            }
+          ],
+          "name": "2012 IEEE Aerospace Conference",
+          "location": "Big Sky, MT",
+          "id": "f4726a0ddec34fffbd6a0154f7a9ef4c",
+          "startDate": "2012-03-03T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20150008785,
+          "id": "538fc9dcebaf481da412d390d4cc74ba",
+          "publicationDate": "2012-03-03T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 211.11775
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20060029104,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "c3a2b4bbb65741e8a0cee004301588a9",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "Mars Network navigation doppler"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20060029104,
+        "ear": "NO",
+        "id": "d95be10eaba14e6db1e9658f9c312395",
+        "itar": "NO"
+      },
+      "distributionDate": "2018-06-07T00:00:00.0000000+00:00",
+      "title": "Navigation services of the Mars Network",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-23T17:45:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20060029104,
+          "meta": {
+            "author": {
+              "name": "Ely, T. A."
+            },
+            "organization": {}
+          },
+          "id": "c86cfbdb7f97442195575d04f44bfa9b"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20060029104,
+          "meta": {
+            "author": {
+              "name": "Guinn, J."
+            },
+            "organization": {}
+          },
+          "id": "aeadbd37f04c4c18a190ea8c2191d419"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20060029104,
+          "meta": {
+            "author": {
+              "name": "Quintanilla, E."
+            },
+            "organization": {}
+          },
+          "id": "52a6897c312c4540a90041e817a3bd76"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20060029104,
+      "sourceIdentifiers": [
+        {
+          "number": "hdl:2014/7510",
+          "submissionId": 20060029104,
+          "id": "4435969c32bb4a818e4ce0ec75d93abc",
+          "type": "HANDLE"
+        },
+        {
+          "submissionId": 20060029104,
+          "id": "8c407223c83b431ca9e93c16fd7a14e9",
+          "descriptor": "hdl:2014/7510"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-23T17:45:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The Mars Network provides proximity based communications and navigation services to support Mars exploration.  The network will be comprised of science orbiters with a MN relay  transceiver, and potentially, dedicated telecommunication orbiters.  The common MN transceiver, called Electra, is currently in deployment, and is being designed for both communications  and radiometric tracking.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "meetings": [
+        {
+          "country": "United States",
+          "submissionId": 20060029104,
+          "name": "59th Annual Meeting of the Institute of Navigation",
+          "location": "Albuquerque, NM",
+          "id": "0f0fc8ec48484f43a52a636666a00094"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20060029104,
+          "id": "2df3641d2dce4b2ab2be1a2001c9bd6a",
+          "publicationDate": "2003-06-23T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 209.16835
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "approverComments": "Items in TRS are protected by copyright, but are furnished with U.S. government purpose use rights.",
+        "containsIndication": true,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20210002971,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": true,
+        "id": "8feb98c5a405434f893840d8271c84f6",
+        "belongsToAuthors": false
+      },
+      "keywords": [
+        "microsatellite",
+        "constallations",
+        "communications",
+        "navigation"
+      ],
+      "exportControl": {
+        "isExportControl": "UNSET",
+        "submissionId": 20210002971,
+        "ear": "UNSET",
+        "id": "f222632168604ca3817d64b2b40de337",
+        "itar": "UNSET"
+      },
+      "created": "1999-08-23T00:00:00.0000000+00:00",
+      "distributionDate": "1999-08-23T00:00:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 0,
+      "abstract": "A recent Mars Exploration Program Architecture Definition Study, conducted by NASA with strong international participation, recommands establishment of a low cost in-situ communications and navigation relay satellite network to provide enabling and enhancing support for the international exploration of Mars.",
+      "title": "Mars Comm/Nav MicroSat Network",
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20210002971,
+          "meta": {
+            "author": {
+              "name": "Morabito, D."
+            }
+          },
+          "id": "b4311081f09543cf955d0c897e4160d7"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210002971,
+          "meta": {
+            "author": {
+              "name": "Srinivasan, J."
+            }
+          },
+          "id": "a039512293f84e49a462fcd4a1cddf89"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210002971,
+          "meta": {
+            "author": {
+              "name": "Hastrup, R."
+            }
+          },
+          "id": "5156dbcce894467689e5f0a70784cd58"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210002971,
+          "meta": {
+            "author": {
+              "name": "Cesarone, R."
+            }
+          },
+          "id": "8bbd7509d4474834b0127f9fc5c83591"
+        }
+      ],
+      "disseminated": "METADATA_ONLY",
+      "stiTypeDetails": "Other",
+      "technicalReviewType": "NOT_SET",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20210002971,
+      "sourceIdentifiers": [
+        {
+          "number": "2014/17751",
+          "submissionId": 20210002971,
+          "id": "430f6963686e4aa8be2f3fa43693c2b1",
+          "type": "HANDLE"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20210002971,
+          "publisher": "UNKNOWN",
+          "id": "a4e961646a1d40c8a7f48814c7a88993",
+          "publicationDate": "1999-08-23T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 200.9053
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "approverComments": "Items in TRS are protected by copyright, but are furnished with U.S. government purpose use rights.",
+        "containsIndication": true,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20210008387,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": true,
+        "id": "054dae1279b944ebb563b43db025b4db",
+        "belongsToAuthors": false
+      },
+      "exportControl": {
+        "isExportControl": "UNSET",
+        "submissionId": 20210008387,
+        "ear": "UNSET",
+        "id": "6031a57da2dd49948a7ece9561135ecf",
+        "itar": "UNSET"
+      },
+      "created": "2018-05-28T00:00:00.0000000+00:00",
+      "distributionDate": "2018-05-28T00:00:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 0,
+      "abstract": "Nearly all data acquired by vehicles on the surface of Mars are returned to Earth via Mars orbiters – more than 1.7 terabits so far.  Successful communication between the various spacecraft is achieved via the careful implementation of internationally recognized CCSDS telecommunications protocols and the use of planning and coordination services provided by NASA’s Mars Program Office and the Multimission Ground Systems and Services (MGSS) Program at the Jet Propulsion Laboratory in Pasadena, CA.  This modern Mars relay network has evolved since its inception in 2004 with the addition and loss of several missions, but it has fundamentally remained unchanged.  Ground interfaces between the various spacecrafts’ mission operations centers on Earth remain largely unique for each participant, each mission maintains its own interfaces with deep space communications networks (e.g. DSN, ESTRACK), which are similar but still unique; and relay sessions at Mars require careful ground planning, coordination, and implementation.  This paper will discuss the existing architecture and consider how several technologies may be applied to the next generation of relay services at Mars.  Ultimately, these are expected to lead to the implementation of a delay and disruption tolerant network at Mars, a precursor to becoming a major element in an emerging Solar System Internet.",
+      "title": "Next Generation Relay Services at Mars via an International Relay Network",
+      "stiType": "PREPRINT",
+      "distribution": "PUBLIC",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20210008387,
+          "meta": {
+            "author": {
+              "name": "Edwards, Charles D. Jr"
+            }
+          },
+          "id": "2c8bba3a98c14539a7005a2d791d7f5b"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210008387,
+          "meta": {
+            "author": {
+              "name": "Wenkert, Daniel"
+            }
+          },
+          "id": "e3eda291330348ab9654a15dc03825fd"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210008387,
+          "meta": {
+            "author": {
+              "name": "Burleigh, Scott C."
+            }
+          },
+          "id": "f810ba7d2bf64292aca5933b2a8a89a1"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210008387,
+          "meta": {
+            "author": {
+              "name": "Kazz, Greg J."
+            }
+          },
+          "id": "946261220d264302b48a65f2fbc3ed1d"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210008387,
+          "meta": {
+            "author": {
+              "name": "Gladden, Roy E."
+            }
+          },
+          "id": "92ed6d608dd34c859c554d38ccd1db82"
+        }
+      ],
+      "disseminated": "METADATA_ONLY",
+      "stiTypeDetails": "Preprint (Draft being sent to journal)",
+      "technicalReviewType": "NOT_SET",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20210008387,
+      "sourceIdentifiers": [
+        {
+          "number": "2014/48191",
+          "submissionId": 20210008387,
+          "id": "468f74cd0818424c9d5cb90719bfbca7",
+          "type": "HANDLE"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20210008387,
+          "publisher": "Pasadena, CA: Jet Propulsion Laboratory, National Aeronautics and Space Administration, 2018",
+          "id": "90703feec9ae45e787b5dd318de9aa47",
+          "publicationDate": "2018-05-28T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    }
+  ],
+  "aggregations": {
+    "created": {
+      "buckets": [
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 30
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 14
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2021",
+          "key": 1609459200000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "1999",
+          "key": 915148800000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2020",
+          "key": 1577836800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "author": {
+      "doc_count_error_upper_bound": 5,
+      "sum_other_doc_count": 227,
+      "buckets": [
+        {
+          "key": "Gladden, Roy E.",
+          "doc_count": 9
+        },
+        {
+          "key": "Edwards, Charles D., Jr.",
+          "doc_count": 6
+        },
+        {
+          "key": "Allard, Daniel A.",
+          "doc_count": 5
+        },
+        {
+          "key": "Bell, David J.",
+          "doc_count": 5
+        },
+        {
+          "key": "Ilott, Peter A.",
+          "doc_count": 5
+        },
+        {
+          "key": "Burleigh, Scott",
+          "doc_count": 4
+        },
+        {
+          "key": "Cheung, Kar-Ming",
+          "doc_count": 3
+        },
+        {
+          "key": "Edwards, Chad",
+          "doc_count": 3
+        },
+        {
+          "key": "Gladden, Roy",
+          "doc_count": 3
+        },
+        {
+          "key": "Lee, Charles H.",
+          "doc_count": 3
+        },
+        {
+          "key": "McSmith, Gaylon W.",
+          "doc_count": 3
+        },
+        {
+          "key": "Nicholas, Austin",
+          "doc_count": 3
+        },
+        {
+          "key": "Abilleira, Fernando",
+          "doc_count": 2
+        },
+        {
+          "key": "Abraham, Douglas S.",
+          "doc_count": 2
+        },
+        {
+          "key": "Arnold, Bradford W.",
+          "doc_count": 2
+        },
+        {
+          "key": "Barkley, Erik",
+          "doc_count": 2
+        },
+        {
+          "key": "Bruvold, Kristoffer N.",
+          "doc_count": 2
+        },
+        {
+          "key": "Burleigh, Scott C.",
+          "doc_count": 2
+        },
+        {
+          "key": "DePaula, R.",
+          "doc_count": 2
+        },
+        {
+          "key": "Denis, Michel",
+          "doc_count": 2
+        }
+      ]
+    },
+    "reportNumber": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 39,
+      "buckets": [
+        {
+          "key": "AAS 04-113",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA PAPER 91-3535",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA Paper 2006-5363",
+          "doc_count": 1
+        },
+        {
+          "key": "E-10566",
+          "doc_count": 1
+        },
+        {
+          "key": "E-15729",
+          "doc_count": 1
+        },
+        {
+          "key": "IAC-10.A3.3A.3",
+          "doc_count": 1
+        },
+        {
+          "key": "IPN-PR-42-163",
+          "doc_count": 1
+        },
+        {
+          "key": "JPL-CL-16-1061",
+          "doc_count": 1
+        },
+        {
+          "key": "JPL-CL-16-1518",
+          "doc_count": 1
+        },
+        {
+          "key": "JPL-CL-16-1674",
+          "doc_count": 1
+        },
+        {
+          "key": "JPL-CL-19-7647",
+          "doc_count": 1
+        },
+        {
+          "key": "M14-3524",
+          "doc_count": 1
+        },
+        {
+          "key": "M15-4402",
+          "doc_count": 1
+        },
+        {
+          "key": "M17-6083",
+          "doc_count": 1
+        },
+        {
+          "key": "M18-6632",
+          "doc_count": 1
+        },
+        {
+          "key": "NAS 1.26:187080",
+          "doc_count": 1
+        },
+        {
+          "key": "NAS 1.26:192207",
+          "doc_count": 1
+        },
+        {
+          "key": "NAS 1.26:202304",
+          "doc_count": 1
+        },
+        {
+          "key": "NASA-CR-187080",
+          "doc_count": 1
+        },
+        {
+          "key": "NASA-CR-192207",
+          "doc_count": 1
+        }
+      ]
+    },
+    "center": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "JPL",
+          "doc_count": 47
+        },
+        {
+          "key": "CDMS",
+          "doc_count": 8
+        },
+        {
+          "key": "HQ",
+          "doc_count": 4
+        },
+        {
+          "key": "MSFC",
+          "doc_count": 4
+        },
+        {
+          "key": "GSFC",
+          "doc_count": 3
+        },
+        {
+          "key": "ARC",
+          "doc_count": 2
+        },
+        {
+          "key": "GRC",
+          "doc_count": 2
+        }
+      ]
+    },
+    "index": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "submissions-2026-10-22-05-25",
+          "doc_count": 70
+        }
+      ]
+    },
+    "fundingNumber": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "582181.01.01.01.21.12",
+          "doc_count": 2
+        },
+        {
+          "key": "NAS3-25092",
+          "doc_count": 2
+        },
+        {
+          "key": "740128.06.01.01.01",
+          "doc_count": 1
+        },
+        {
+          "key": "80HQTR21D0003",
+          "doc_count": 1
+        },
+        {
+          "key": "80NM0018D0004",
+          "doc_count": 1
+        },
+        {
+          "key": "837933.01.03",
+          "doc_count": 1
+        },
+        {
+          "key": "F19628-00-C-0002",
+          "doc_count": 1
+        },
+        {
+          "key": "NAS3-25091",
+          "doc_count": 1
+        },
+        {
+          "key": "RTOP 315-90-81",
+          "doc_count": 1
+        },
+        {
+          "key": "RTOP 316-30-19",
+          "doc_count": 1
+        },
+        {
+          "key": "WBS 141141.02.02.02.03",
+          "doc_count": 1
+        }
+      ]
+    },
+    "published": {
+      "buckets": [
+        {
+          "key_as_string": "2004",
+          "key": 1072915200000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2006",
+          "key": 1136073600000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2010",
+          "key": 1262304000000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "2003",
+          "key": 1041379200000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2012",
+          "key": 1325376000000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "1991",
+          "key": 662688000000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1999",
+          "key": 915148800000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2005",
+          "key": 1104537600000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2021",
+          "key": 1609459200000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1975",
+          "key": 157766400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1987",
+          "key": 536457600000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1989",
+          "key": 599616000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1990",
+          "key": 631152000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1992",
+          "key": 694224000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1993",
+          "key": 725846400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1996",
+          "key": 820454400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2002",
+          "key": 1009843200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2009",
+          "key": 1230768000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2011",
+          "key": 1293840000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "distribution": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "PUBLIC",
+          "doc_count": 70
+        }
+      ]
+    },
+    "stiType": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "CONFERENCE_PAPER",
+          "doc_count": 36
+        },
+        {
+          "key": "PREPRINT",
+          "doc_count": 14
+        },
+        {
+          "key": "OTHER",
+          "doc_count": 9
+        },
+        {
+          "key": "PRESENTATION",
+          "doc_count": 7
+        },
+        {
+          "key": "CONTRACTOR_REPORT",
+          "doc_count": 3
+        },
+        {
+          "key": "ABSTRACT",
+          "doc_count": 1
+        }
+      ]
+    },
+    "subjectCategory": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Space Communications, Spacecraft Communications, Command And Tracking",
+          "doc_count": 33
+        },
+        {
+          "key": "Lunar And Planetary Science And Exploration",
+          "doc_count": 23
+        },
+        {
+          "key": "Communications And Radar",
+          "doc_count": 5
+        },
+        {
+          "key": "Launch Vehicles And Launch Operations",
+          "doc_count": 2
+        },
+        {
+          "key": "Lunar And Planetary Exploration",
+          "doc_count": 2
+        },
+        {
+          "key": "Man/System Technology And Life Support",
+          "doc_count": 2
+        },
+        {
+          "key": "Space Sciences (General)",
+          "doc_count": 2
+        },
+        {
+          "key": "Aircraft Design, Testing And Performance",
+          "doc_count": 1
+        },
+        {
+          "key": "Aircraft Stability And Control",
+          "doc_count": 1
+        },
+        {
+          "key": "Astrodynamics",
+          "doc_count": 1
+        },
+        {
+          "key": "Computer Programming And Software",
+          "doc_count": 1
+        },
+        {
+          "key": "Computer Systems",
+          "doc_count": 1
+        },
+        {
+          "key": "Lunar and Planetary Science and Exploration",
+          "doc_count": 1
+        },
+        {
+          "key": "Space Communications, Spacecraft Communications, Command and Tracking",
+          "doc_count": 1
+        },
+        {
+          "key": "Space Transportation And Safety",
+          "doc_count": 1
+        },
+        {
+          "key": "Spacecraft Design, Testing And Performance",
+          "doc_count": 1
+        },
+        {
+          "key": "Spacecraft Design, Testing and Performance",
+          "doc_count": 1
+        },
+        {
+          "key": "Statistics And Probability",
+          "doc_count": 1
+        }
+      ]
+    },
+    "disseminated": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "METADATA_ONLY",
+          "doc_count": 48
+        },
+        {
+          "key": "DOCUMENT_AND_METADATA",
+          "doc_count": 22
+        }
+      ]
+    },
+    "stiTypeDetails": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Conference Paper",
+          "doc_count": 36
+        },
+        {
+          "key": "Preprint (Draft being sent to journal)",
+          "doc_count": 14
+        },
+        {
+          "key": "Presentation",
+          "doc_count": 7
+        },
+        {
+          "key": "Other",
+          "doc_count": 4
+        },
+        {
+          "key": "Other - NASA Tech Brief",
+          "doc_count": 4
+        },
+        {
+          "key": "Contractor Report (CR)",
+          "doc_count": 3
+        },
+        {
+          "key": "Abstract",
+          "doc_count": 1
+        },
+        {
+          "key": "Other - News Release/Speech",
+          "doc_count": 1
+        }
+      ]
+    },
+    "organization": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 23,
+      "buckets": [
+        {
+          "key": "Jet Propulsion Lab., California Inst. of Tech.",
+          "doc_count": 32
+        },
+        {
+          "key": "NASA Marshall Space Flight Center",
+          "doc_count": 5
+        },
+        {
+          "key": "California Inst. of Tech.",
+          "doc_count": 4
+        },
+        {
+          "key": "European Space Agency. European Space Operations Center",
+          "doc_count": 3
+        },
+        {
+          "key": "Ames Research Center",
+          "doc_count": 2
+        },
+        {
+          "key": "Goddard Space Flight Center",
+          "doc_count": 2
+        },
+        {
+          "key": "JPL",
+          "doc_count": 2
+        },
+        {
+          "key": "Jet Propulsion Laboratory (JPL), California Institute of Technology (CalTech)",
+          "doc_count": 2
+        },
+        {
+          "key": "Johnson Space Center",
+          "doc_count": 2
+        },
+        {
+          "key": "Lockheed Martin Corp.",
+          "doc_count": 2
+        },
+        {
+          "key": "NASA Glenn Research Center",
+          "doc_count": 2
+        },
+        {
+          "key": "NASA Goddard Space Flight Center",
+          "doc_count": 2
+        },
+        {
+          "key": "NASA Headquarters",
+          "doc_count": 2
+        },
+        {
+          "key": "National Aeronautics and Space Administration",
+          "doc_count": 2
+        },
+        {
+          "key": "Stanford Telecommunications, Inc.",
+          "doc_count": 2
+        },
+        {
+          "key": "ASRC Services",
+          "doc_count": 1
+        },
+        {
+          "key": "Advanced Space, LLC (United States)",
+          "doc_count": 1
+        },
+        {
+          "key": "Ball Aerospace Systems Div.",
+          "doc_count": 1
+        },
+        {
+          "key": "Bolt, Beranek, and Newman, Inc.",
+          "doc_count": 1
+        },
+        {
+          "key": "Colorado Univ.",
+          "doc_count": 1
+        }
+      ]
+    },
+    "modified": {
+      "buckets": [
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 68
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 2
+        }
+      ]
+    },
+    "keyword": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 72,
+      "buckets": [
+        {
+          "key": "Mars",
+          "doc_count": 4
+        },
+        {
+          "key": "Mars Relay Network",
+          "doc_count": 3
+        },
+        {
+          "key": "Artemis",
+          "doc_count": 2
+        },
+        {
+          "key": "Curiosity",
+          "doc_count": 2
+        },
+        {
+          "key": "Deep Impact Network Experiment",
+          "doc_count": 2
+        },
+        {
+          "key": "Deep Space Network",
+          "doc_count": 2
+        },
+        {
+          "key": "Delay Tolerant Networking",
+          "doc_count": 2
+        },
+        {
+          "key": "Entry, Decent, and Landing (EDL)",
+          "doc_count": 2
+        },
+        {
+          "key": "LunaNet",
+          "doc_count": 2
+        },
+        {
+          "key": "Telecommunications",
+          "doc_count": 2
+        },
+        {
+          "key": "communications",
+          "doc_count": 2
+        },
+        {
+          "key": "navigation",
+          "doc_count": 2
+        },
+        {
+          "key": "telecommunications",
+          "doc_count": 2
+        },
+        {
+          "key": "2018 Mars Rover",
+          "doc_count": 1
+        },
+        {
+          "key": "Communications",
+          "doc_count": 1
+        },
+        {
+          "key": "Consultative Committee for Space Data System (CCSDS)",
+          "doc_count": 1
+        },
+        {
+          "key": "DSN",
+          "doc_count": 1
+        },
+        {
+          "key": "Deep Space Network (DSN)",
+          "doc_count": 1
+        },
+        {
+          "key": "Entry, Descent, Landing (EDL)",
+          "doc_count": 1
+        },
+        {
+          "key": "ExoMars/Trace Gas Orbiter",
+          "doc_count": 1
+        }
+      ]
+    }
+  }
+}

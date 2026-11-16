@@ -1,0 +1,3409 @@
+{
+  "stats": {
+    "took": 79,
+    "total": 786,
+    "estimate": false,
+    "maxScore": 274.17398
+  },
+  "results": [
+    {
+      "_meta": {
+        "score": 274.17398
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20150007428,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "086d82a6c53a45fdbfb3065aa51b7cfa",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration",
+        "Instrumentation And Photography",
+        "Ground Support Systems And Facilities (Space)"
+      ],
+      "keywords": [
+        "thermal performance",
+        "surface operations",
+        "Mars Science Laboratory (MSL)",
+        "Mars surface"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20150007428,
+        "ear": "NO",
+        "id": "2729a6a24e7d49b6b250a19cbc1ea44a",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-17T00:00:00.0000000+00:00",
+      "title": "Thermal Performance of the Mars Science Laboratory Rover During Mars Surface Operations",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2015-05-06T15:33:38.2370000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20150007428,
+          "meta": {
+            "author": {
+              "name": "Novak, Keith S."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "9170b5a3231d47aea6794e0a54c36eb5"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20150007428,
+          "meta": {
+            "author": {
+              "name": "Kempenaar, Joshua E."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "463046c0061d484fbf0d208c5fd9121e"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20150007428,
+          "meta": {
+            "author": {
+              "name": "Liu, Yuanming"
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "12c519c8fd7448a6ba589c26fbd9c7de"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20150007428,
+          "meta": {
+            "author": {
+              "name": "Bhandari, Pradeep"
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "b87073e5d2344c3db98268190a156cc8"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20150007428,
+          "meta": {
+            "author": {
+              "name": "Lee, Chern-Jiin"
+            },
+            "organization": {
+              "name": "Applied Sciences Laboratory, Inc.",
+              "location": "Baldwin Park, CA, United States"
+            }
+          },
+          "id": "8efc22ad76734e65976dff90aa330523"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20150007428,
+      "sourceIdentifiers": [
+        {
+          "number": "hdl:2014/44139",
+          "submissionId": 20150007428,
+          "id": "4fb472b604404a10992ab3a62255df74",
+          "type": "HANDLE"
+        },
+        {
+          "submissionId": 20150007428,
+          "id": "2b4bfe04d1424e89abb65a2d55ce152d",
+          "descriptor": "hdl:2014/44139"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2015-05-06T15:33:38.2370000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "On November 26, 2011, NASA launched a large (900 kg) rover as part of the Mars Science Laboratory (MSL) mission to Mars. Eight months later, on August 5, 2012, the MSL rover (Curiosity) successfully touched down on the surface of Mars. As of the writing of this paper, the rover had completed over 200 Sols of Mars surface operations in the Gale Crater landing site (4.5 degrees South latitude). This paper describes the thermal performance of the MSL Rover during the early part of its two Earth-0.year (670 Sols) prime surface mission. Curiosity landed in Gale Crater during early Spring (Solar longitude=151) in the Southern Hemisphere of Mars. This paper discusses the thermal performance of the rover from landing day (Sol 0) through Summer Solstice (Sol 197) and out to Sol 204. The rover surface thermal design performance was very close to pre-landing predictions. The very successful thermal design allowed a high level of operational power dissipation immediately after landing without overheating and required a minimal amount of survival heating. Early morning operations of cameras and actuators were aided by successful heating activities. MSL rover surface operations thermal experiences are discussed in this paper. Conclusions about the rover surface operations thermal performance are also presented.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "meetings": [
+        {
+          "submissionId": 20150007428,
+          "name": "American Society of Mechanical Engineers",
+          "location": "New York, NY, United States",
+          "id": "8ecb069ced074090b8088317318620f2"
+        },
+        {
+          "submissionId": 20150007428,
+          "name": "American Inst. of Aeronautics and Astronautics",
+          "location": "Reston, VA, United States",
+          "id": "d850c6ba2cd745efa176e9764f2d3d91"
+        },
+        {
+          "submissionId": 20150007428,
+          "name": "American Inst. of Chemical Engineers",
+          "location": "New York, NY, United States",
+          "id": "febf6d9c17ac427f81141c6546ebdeb9"
+        },
+        {
+          "country": "United States",
+          "submissionId": 20150007428,
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "American Society of Mechanical Engineers",
+                  "location": "New York, NY, United States"
+                }
+              },
+              "meetingId": "499105e9447d4547aa0926a1bc883a7c",
+              "id": "2cf1c2b2139145b1828e07e88e60b567"
+            },
+            {
+              "meta": {
+                "organization": {
+                  "name": "American Inst. of Aeronautics and Astronautics",
+                  "location": "Reston, VA, United States"
+                }
+              },
+              "meetingId": "499105e9447d4547aa0926a1bc883a7c",
+              "id": "863615f1e74d411996782acb28ee27b3"
+            },
+            {
+              "meta": {
+                "organization": {
+                  "name": "American Inst. of Chemical Engineers",
+                  "location": "New York, NY, United States"
+                }
+              },
+              "meetingId": "499105e9447d4547aa0926a1bc883a7c",
+              "id": "1b3f9ec20f1d41de831e1803ce28edc2"
+            }
+          ],
+          "name": "International Conference on Environmental Systems (ICES)",
+          "location": "Vail, CO",
+          "id": "499105e9447d4547aa0926a1bc883a7c"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20150007428,
+          "id": "e9fa8d3449714b85970e96419dd28b7b",
+          "publicationDate": "2013-07-14T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20150012015,
+          "type": "SEE_ALSO",
+          "title": "Thermal Performance of the Mars Science Laboratory Rover During Mars Surface Operations",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 245.88681
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "approverComments": "Items in TRS are protected by copyright, but are furnished with U.S. government purpose use rights.",
+        "containsIndication": true,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20210005468,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": true,
+        "id": "447304db570d4a828b72fe4808d136b0",
+        "belongsToAuthors": false
+      },
+      "keywords": [
+        "Mars",
+        "Pathfinder",
+        "Ares",
+        "Vallis",
+        "surface",
+        "operations"
+      ],
+      "exportControl": {
+        "isExportControl": "UNSET",
+        "submissionId": 20210005468,
+        "ear": "UNSET",
+        "id": "0a70404bbcd946c4ba5023e7bb264586",
+        "itar": "UNSET"
+      },
+      "created": "1998-07-01T00:00:00.0000000+00:00",
+      "distributionDate": "1998-07-01T00:00:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 0,
+      "abstract": "Mars pathfinder successfully landed at Ares Vallis on July 4, 1997 and returned 2.3 Gbits of information during 3 months of surface operations of a lander, rover, three science instruments, engineering sensors and technology experiments.",
+      "title": "Overview of the Mars Pathfinder Mission: Launch Through Landing, Surface Operations, Data Sets, and Science Results",
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Wilson, G."
+            }
+          },
+          "id": "6c57e4b4d3f94f7dacf7ba1ee9a8c201"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Ward, W."
+            }
+          },
+          "id": "a3851818ee7441b096c99cfbd2fc798f"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Wanke, H."
+            }
+          },
+          "id": "109a19bf472e454d8091ed7d55e19ad8"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Vaughan, R. M."
+            }
+          },
+          "id": "9e5a54bcaa1f4dd2a00910cc90a6535c"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Tomasko, M. G."
+            }
+          },
+          "id": "a18d3aa366624acfa0a153b62b5b0fe8"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Thomas, N."
+            }
+          },
+          "id": "da9c59a34018412eb2f23bfe766e4e77"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Sullivan, R."
+            }
+          },
+          "id": "d10111d1d8da4674b810fb1adb9ce9c0"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Stoker, C."
+            }
+          },
+          "id": "ecac05439afa4ce88d2ce0d94cf143ca"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Spencer, D. A."
+            }
+          },
+          "id": "60ba77d80e404a70b33d798affe1cbf2"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Soderblom, L. A."
+            }
+          },
+          "id": "ea4af2b464ab40728f9173a6e60e16f8"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Smith, P. H."
+            }
+          },
+          "id": "35ed520cc3674fb6be1c45a798008719"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Singer, R."
+            }
+          },
+          "id": "9a583b835a1049ddada86977069da518"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Seiff, A."
+            }
+          },
+          "id": "491cd92e402f480184ef3709df0579ea"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Schofield, J. T."
+            }
+          },
+          "id": "a116b4622a894f7baa50b9bfef0a00f8"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Rivellini, T. P."
+            }
+          },
+          "id": "c9abd02432ab4b9ba3e7180d485cc56c"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Rieder, R."
+            }
+          },
+          "id": "75b793a15da948d2ac0e0c354b9bad62"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Parker, T. J."
+            }
+          },
+          "id": "ad7979e268744cd8b2ea0caf482a613f"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Murphy, J. R."
+            }
+          },
+          "id": "afc5c3f462d84fea9839d149942a6b9c"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Murchie, S. L."
+            }
+          },
+          "id": "e903dcee7d38486d8b0746e3e69a7e93"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Moore, H. J."
+            }
+          },
+          "id": "56c02e73528f429fb1083b4dba1fb540"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "McSween, H. Y. Jr."
+            }
+          },
+          "id": "d721652c1f984ae7b397fc68a3b037da"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Matijevic, J."
+            }
+          },
+          "id": "1e8c8806df6542aeae5e0ececfc9ceaa"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Manning, R. M."
+            }
+          },
+          "id": "9d323e97af75489e9dfee15015898797"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Malin, M. C."
+            }
+          },
+          "id": "2c1a3284e55f4ae6b844efc4646a80fe"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Maki, J. N."
+            }
+          },
+          "id": "4268d10e07604ed0852fa3fd84264fd8"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Magalhaes, J. A."
+            }
+          },
+          "id": "80d7faf2883c4365933d9d38aa7e589e"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Madsen, M. B."
+            }
+          },
+          "id": "00aa35c0719d4c86a973cd2ae4109788"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Lemmon, M."
+            }
+          },
+          "id": "482eee63adce44c4a93c09a1708c7266"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Larsen, S."
+            }
+          },
+          "id": "6bb25fac427645e88ba561f2221d49d9"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Knudsen, J. M."
+            }
+          },
+          "id": "a152370057cd4d61b823fb9cd1d70f7a"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Kirk, R. L."
+            }
+          },
+          "id": "7ae8c0790b43449587f996982749c4a7"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Keller, H. U."
+            }
+          },
+          "id": "7a5e69b849ca4cb18bbaa976732122f4"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Kallemeyn, P. H."
+            }
+          },
+          "id": "571633fbf548456f93fe4fadc9532b22"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Johnson, J. R."
+            }
+          },
+          "id": "4ee24014a0fe404683bab5e36d37c4bd"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Jaumann, R."
+            }
+          },
+          "id": "dfdb37f5c7db456a9a7eeb46cb4bafd3"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Hviid, S. F."
+            }
+          },
+          "id": "aa05db9ba4d14de79336a3e0b1b06401"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Herkenhoff, K. E."
+            }
+          },
+          "id": "66ef7f7493d1493bb7962cbf160b1495"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Haldemann, A. F. C."
+            }
+          },
+          "id": "4361e469b7f24d39946ed864c2f48d0a"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Harris, J. A."
+            }
+          },
+          "id": "d6db0b802b2544f2b5724005979a60cb"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Hargraves, R. B."
+            }
+          },
+          "id": "5db82e73375d4c9ca11228bad5ef14d7"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Haberle, R. M."
+            }
+          },
+          "id": "e373fcfc2d7e4dee87f4054c414ebd7e"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Greeley, R."
+            }
+          },
+          "id": "8af6e05977084f9d878ea036ce812553"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Folkner, W. M."
+            }
+          },
+          "id": "fd713ad3b01647e3b0781e49cbed6409"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Economou, T."
+            }
+          },
+          "id": "5254240fe7bc445f9e452ae873c00ef2"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Crisp, J."
+            }
+          },
+          "id": "f63657ca26f245589dc9477df99214c1"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Crisp, D."
+            }
+          },
+          "id": "c7cc22d649ea47d6aa7bcdf8c55e5e0d"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Cook, R. A."
+            }
+          },
+          "id": "c5bb1c3366094038936ab27e5b4cc709"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Brucker, J."
+            }
+          },
+          "id": "11223fc29b174e7f88e662265a72222e"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Britt, D. T."
+            }
+          },
+          "id": "273ff3105ce84718b125b62c4b2efeea"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Bridges, N. T."
+            }
+          },
+          "id": "2301afd138314752a8999087aea20651"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Bell, J. F. III"
+            }
+          },
+          "id": "3d4e6d686fe34247b3c4a85420d7263a"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Barnes, J. R."
+            }
+          },
+          "id": "b23b6dd983884da2b066659814b7de9c"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005468,
+          "meta": {
+            "author": {
+              "name": "Anderson, R. C."
+            }
+          },
+          "id": "93fea49923694dfeb65dda47337b2b02"
+        }
+      ],
+      "disseminated": "METADATA_ONLY",
+      "stiTypeDetails": "Other",
+      "technicalReviewType": "NOT_SET",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20210005468,
+      "sourceIdentifiers": [
+        {
+          "number": "2014/20282",
+          "submissionId": 20210005468,
+          "id": "56cdcb01bb3444028d36c51548f99a5f",
+          "type": "HANDLE"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20210005468,
+          "publisher": "UNKNOWN",
+          "id": "13b380d3397649d1a1457012fdff1b89",
+          "publicationDate": "1998-07-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 232.30643
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20150012015,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "d2064fb9bafc444e9c0ac3a8db049dbe",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "thermal design",
+        "flight operations",
+        "MSL"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20150012015,
+        "ear": "NO",
+        "id": "c727a54bfd7247449f768f9c1bab7f66",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "title": "Thermal Performance of the Mars Science Laboratory Rover During Mars Surface Operations",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2015-07-01T08:38:12.2800000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20150012015,
+          "meta": {
+            "author": {
+              "name": "Novak, Keith S."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "714304f9bf7645d9b855763fbc82560b"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20150012015,
+          "meta": {
+            "author": {
+              "name": "Kempenaar, Joshua E."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "5b841f0e89be46fabb89308e01c318d0"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20150012015,
+          "meta": {
+            "author": {
+              "name": "Liu, Yuanming"
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "9468ecd801634268b9f7de3917aa001e"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20150012015,
+          "meta": {
+            "author": {
+              "name": "Bhandari, Pradeep"
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "6c773d6e953b471b8a14a64ac776ebb8"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20150012015,
+          "meta": {
+            "author": {
+              "name": "Lee, Chern-Jiin"
+            },
+            "organization": {
+              "name": "Applied Sciences Laboratory, Inc.",
+              "location": "Baldwin Park, CA, United States"
+            }
+          },
+          "id": "01a392dadd164bf6b0a867255a88caa0"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20150012015,
+      "sourceIdentifiers": [
+        {
+          "number": "hdl:2014/45309",
+          "submissionId": 20150012015,
+          "id": "100b2c71d4e9416b9a883926f2f5948a",
+          "type": "HANDLE"
+        },
+        {
+          "submissionId": 20150012015,
+          "id": "ad74e5f7058645d79299643cc7beb3f1",
+          "descriptor": "hdl:2014/45309"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2015-07-01T08:38:12.2800000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "On November 26, 2011, NASA launched a large (900 kg) rover as part of the Mars Science Laboratory (MSL) mission to Mars. Eight months later, on August 5, 2012, the MSL rover (Curiosity) successfully touched down on the surface of Mars. As of the writing of this paper, the rover had completed over 200 Sols of Mars surface operations in the Gale Crater landing site (4.5 deg S latitude). This paper describes the thermal performance of the MSL Rover during the early part of its two Earth-0.year (670 Sols) prime surface mission. Curiosity landed in Gale Crater during early Spring (Ls=151) in the Southern Hemisphere of Mars. This paper discusses the thermal performance of the rover from landing day (Sol 0) through Summer Solstice (Sol 197) and out to Sol 204. The rover surface thermal design performance was very close to pre-landing predictions. The very successful thermal design allowed a high level of operational power dissipation immediately after landing without overheating and required a minimal amount of survival heating. Early morning operations of cameras and actuators were aided by successful heating activities. MSL rover surface operations thermal experiences are discussed in this paper. Conclusions about the rover surface operations thermal performance are also presented.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "meetings": [
+        {
+          "submissionId": 20150012015,
+          "name": "American Inst. of Aeronautics and Astronautics",
+          "location": "Los Angeles, CA, United States",
+          "id": "f308f398779b427d9b1b5ecf73a0ce07"
+        },
+        {
+          "country": "United States",
+          "submissionId": 20150012015,
+          "endDate": "2013-07-18T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "American Inst. of Aeronautics and Astronautics",
+                  "location": "Los Angeles, CA, United States"
+                }
+              },
+              "meetingId": "37fc6284f25d4a4aa6a7e08a0912aeae",
+              "id": "36d27ec34447429c9ebf43fda2b0d0d6"
+            }
+          ],
+          "name": "International Conference on Environmental Systems",
+          "location": "Vail, CO",
+          "id": "37fc6284f25d4a4aa6a7e08a0912aeae",
+          "startDate": "2013-07-14T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20150012015,
+          "id": "12676104957b4b6ebff86043f6ace740",
+          "publicationDate": "2013-07-14T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20150007428,
+          "type": "SEE_ALSO",
+          "title": "Thermal Performance of the Mars Science Laboratory Rover During Mars Surface Operations",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 232.12413
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20140006398,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "3822a329140e43cd8d842032ef2618a7",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20140006398,
+        "ear": "NO",
+        "id": "515902ee30a24a178e285acc2f312fdf",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "NF1676L-18508",
+        "Paper No. 1828211",
+        "Report Number: NF1676L-18508",
+        "Report Number: Paper No. 1828211"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "WBS 220933.01.04",
+          "submissionId": 20140006398,
+          "id": "6a789769c9ab4e80bd173b5a772cd961",
+          "type": "WBS"
+        }
+      ],
+      "title": "Human Mars Surface Science Operations",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2014-05-28T06:15:22.3130000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20140006398,
+          "meta": {
+            "author": {
+              "name": "Bobskill, Marianne R."
+            },
+            "organization": {
+              "name": "NASA Langley Research Center",
+              "location": "Hampton, VA, United States"
+            }
+          },
+          "id": "a6dbb545b2ce45c7abb2ff2957eb1040"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20140006398,
+          "meta": {
+            "author": {
+              "name": "Lupisella, Mark L."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "bb202345b8764b9989922de95dc5849b"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20140006398,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2014-05-28T06:15:22.3130000+00:00",
+      "center": {
+        "code": "LaRC",
+        "name": "Langley Research Center",
+        "id": "1e229fe5b7284965a153b0f761643383"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Human missions to the surface of Mars will have challenging science operations. This paper will explore some of those challenges, based on science operations considerations as part of more general operational concepts being developed by NASA's Human Spaceflight Architecture (HAT) Mars Destination Operations Team (DOT). The HAT Mars DOT has been developing comprehensive surface operations concepts with an initial emphasis on a multi-phased mission that includes a 500-day surface stay. This paper will address crew science activities, operational details and potential architectural and system implications in the areas of (a) traverse planning and execution, (b) sample acquisition and sample handling, (c) in-situ science analysis, and (d) planetary protection. Three cross-cutting themes will also be explored in this paper: (a) contamination control, (b) low-latency telerobotic science, and (c) crew autonomy. The present traverses under consideration are based on the report, Planning for the Scientific Exploration of Mars by Humans1, by the Mars Exploration Planning and Analysis Group (MEPAG) Human Exploration of Mars-Science Analysis Group (HEM-SAG). The traverses are ambitious and the role of science in those traverses is a key component that will be discussed in this paper. The process of obtaining, handling, and analyzing samples will be an important part of ensuring acceptable science return. Meeting planetary protection protocols will be a key challenge and this paper will explore operational strategies and system designs to meet the challenges of planetary protection, particularly with respect to the exploration of \"special regions.\" A significant challenge for Mars surface science operations with crew is preserving science sample integrity in what will likely be an uncertain environment. Crewed mission surface assets -- such as habitats, spacesuits, and pressurized rovers -- could be a significant source of contamination due to venting, out-gassing and cleanliness levels associated with crew presence. Low-latency telerobotic science operations has the potential to address a number of contamination control and planetary protection issues and will be explored in this paper. Crew autonomy is another key cross-cutting challenge regarding Mars surface science operations, because the communications delay between earth and Mars could as high as 20 minutes one way, likely requiring the crew to perform many science tasks without direct timely intervention from ground support on earth. Striking the operational balance between crew autonomy and earth support will be a key challenge that this paper will address.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "submissionId": 20140006398,
+          "name": "American Inst. of Aeronautics and Astronautics",
+          "location": "Reston, VA, United States",
+          "id": "183dfa6bd81c4899b320a60b40962aad"
+        },
+        {
+          "country": "United States",
+          "submissionId": 20140006398,
+          "endDate": "2014-05-09T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "American Inst. of Aeronautics and Astronautics",
+                  "location": "Reston, VA, United States"
+                }
+              },
+              "meetingId": "a9dca6528c0947f3ae2ec40ed675bef4",
+              "id": "47cb900ae2894c889108e0fd8718c9ed"
+            }
+          ],
+          "name": "International Conference on Space Operations (SpaceOps 2014)",
+          "location": "Pasadena, CA",
+          "id": "a9dca6528c0947f3ae2ec40ed675bef4",
+          "startDate": "2014-05-05T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20140006398,
+          "id": "0a997667c8714c0789819850f9adf1ef",
+          "publicationDate": "2014-05-05T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20140006398.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20140006398/downloads/20140006398.pdf",
+            "pdf": "/api/citations/20140006398/downloads/20140006398.pdf",
+            "fulltext": "/api/citations/20140006398/downloads/20140006398.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 207.49547
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20090017868,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "b34507719db94cf8ba4007c1aecd374c",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "remote rover operations",
+        "Mars",
+        "in situ science",
+        "remote science",
+        "navigation"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20090017868,
+        "ear": "NO",
+        "id": "aa4ce486d810468794604ead2ae3a1ca",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "title": "Targeting and Localization for Mars Rover Operations",
+      "stiType": "PREPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-24T17:53:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20090017868,
+          "meta": {
+            "author": {
+              "name": "Powell, Mark W."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "4c906310f927452eac4fdb78f9a5ae78"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20090017868,
+          "meta": {
+            "author": {
+              "name": "Crockett, Thomas"
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "2e57122dda4648baa1ca0c72b06b8d68"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20090017868,
+          "meta": {
+            "author": {
+              "name": "Fox, Jason M."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "cc02da3474bc444b8672074dbeacdeea"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20090017868,
+          "meta": {
+            "author": {
+              "name": "Joswig, Joseph C."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "6eaa84656e654dc0b3a6f1113107c893"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20090017868,
+          "meta": {
+            "author": {
+              "name": "Norris, Jeffrey S."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "1895a0981fca40e084e2a4dfd7bfbae1"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20090017868,
+          "meta": {
+            "author": {
+              "name": "Rabe, Kenneth J."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "ff3c61c98bab41f2a2facc7107cda8d9"
+        },
+        {
+          "sequence": 6,
+          "submissionId": 20090017868,
+          "meta": {
+            "author": {
+              "name": "McCurdy, Michael"
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "467bbec96bab40dd971e7bcd6181c2f7"
+        },
+        {
+          "sequence": 7,
+          "submissionId": 20090017868,
+          "meta": {
+            "author": {
+              "name": "Pyrzak, Guy"
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "62d30aa61de045a7aa235bf43f103ae7"
+        }
+      ],
+      "stiTypeDetails": "Preprint (Draft being sent to journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20090017868,
+      "sourceIdentifiers": [
+        {
+          "number": "hdl:2014/41258",
+          "submissionId": 20090017868,
+          "id": "c57565e6cb5f467a955d77aab44730aa",
+          "type": "HANDLE"
+        },
+        {
+          "submissionId": 20090017868,
+          "id": "f7ea955f866a424b8faf3144af3e9261",
+          "descriptor": "hdl:2014/41258"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-24T17:53:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "In this work we discuss how the quality of localization knowledge impacts the remote operation of rovers on the surface of Mars. We look at the techniques of localization estimation used in the Mars Pathfinder and Mars Exploration Rover missions. We examine the motivation behind the modes of targeting for different types of activities, such as navigation, remote science, and in situ science. We discuss the virtues and shortcomings of existing approaches and new improvements in the latest operations tools used to support the Mars Exploration Rover missions and rover technology development tasks at the Jet Propulsion Laboratory. We conclude with future directions we plan to explore in improving the localization knowledge available for operations and more effective targeting of rovers and their instrument payloads.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "meetings": [
+        {
+          "submissionId": 20090017868,
+          "name": "Institute of Electrical and Electronics Engineers",
+          "location": "New York, NY, United States",
+          "id": "e5eaa16d55824e33b789328528e1b4d6"
+        },
+        {
+          "country": "United States",
+          "submissionId": 20090017868,
+          "endDate": "2006-09-18T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "Institute of Electrical and Electronics Engineers",
+                  "location": "New York, NY, United States"
+                }
+              },
+              "meetingId": "1a4d6e074fad466eacaa05ee9e9e2e2d",
+              "id": "7d90bf67af85420dbe1a5f72e80b20dd"
+            }
+          ],
+          "name": "2006 IEEE Information Reuse and Integration Conference",
+          "location": "Waikola, HI",
+          "id": "1a4d6e074fad466eacaa05ee9e9e2e2d",
+          "startDate": "2006-09-16T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20090017868,
+          "id": "eac1de6527d0471386220db07b923192",
+          "publicationDate": "2006-09-16T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 204.54706
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20230001230,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "7c180379c870400195592e564a1b0fc1",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar and Planetary Science and Exploration"
+      ],
+      "keywords": [
+        "Mars",
+        "human exploration",
+        "science objectives"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20230001230,
+        "ear": "NO",
+        "id": "618cccedbae843af8d8c0a65736de1cf",
+        "itar": "NO"
+      },
+      "distributionDate": "2023-02-14T06:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "892840.11.05",
+          "submissionId": 20230001230,
+          "id": "8bf6f13ad15f4fd9b8a7ac37844e94dd",
+          "type": "WBS"
+        },
+        {
+          "number": "80JSC022DA035",
+          "submissionId": 20230001230,
+          "id": "b9c5a669deec4e55b8e185be447d54dc",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "80NSSC21D0002",
+          "submissionId": 20230001230,
+          "id": "b85f2bdb15a145e18112ad535e191791",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "80NM0018D0004P00002",
+          "submissionId": 20230001230,
+          "id": "1e221a3fdd6b46f3bde7116bfe6863ef",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "NNJ14ZKA001N",
+          "submissionId": 20230001230,
+          "id": "9af369ede22d46778809498e083409c5",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "80KSC017C0012",
+          "submissionId": 20230001230,
+          "id": "a67e79f619d248abb813085fe5e06988",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "1511125",
+          "submissionId": 20230001230,
+          "id": "097d4e850d3e4051bb16fe2300ed68c6",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "80GSFC19D0011",
+          "submissionId": 20230001230,
+          "id": "51123ced7ced4764a154946b23bf5ce2",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "1228404",
+          "submissionId": 20230001230,
+          "id": "537a47687cc342cea85ef7c9ea4859d3",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "NNH10CC04C",
+          "submissionId": 20230001230,
+          "id": "20bef9a92b4d400d9ca4c51f2a89de18",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "submittedDate": "2023-01-25T22:21:37.9044310+00:00",
+      "title": "Science Objectives for Human Exploration of Mars Workshop Report",
+      "stiType": "TECHNICAL_MEMORANDUM",
+      "distribution": "PUBLIC",
+      "authorAffiliations": [
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 0,
+          "submissionId": 20230001230,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "P B Niles"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "6bc652e7869541b687c0df2350642f5c",
+          "userType": "CIVIL",
+          "userId": "ec99094d871e4cc6b47d09621c7a721f"
+        },
+        {
+          "organizationId": "e53641f275f15469a1b19a8980e09171",
+          "sequence": 1,
+          "submissionId": 20230001230,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "D H Needham"
+            },
+            "organization": {
+              "name": "National Aeronautics and Space Administration",
+              "location": "Washington D.C., District of Columbia, United States"
+            }
+          },
+          "id": "74ec2c9e8ffd4b02bc33ee1e15781c84",
+          "userType": "CIVIL",
+          "userId": "2eced55f896b48bcb990f7aff32a460f"
+        },
+        {
+          "organizationId": "99fa64c96f0950678abfcdd84ba26bf5",
+          "sequence": 2,
+          "submissionId": 20230001230,
+          "meta": {
+            "author": {
+              "name": "D P Archer"
+            },
+            "organization": {
+              "name": "Jacobs (United States)",
+              "location": "Dallas, Texas, United States"
+            }
+          },
+          "id": "fc574e835a4641718354a2ce1fafef52",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "7f9c4cf9cb6f517db6b0fb40eb584c03",
+          "sequence": 3,
+          "submissionId": 20230001230,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "D J Banfield"
+            },
+            "organization": {
+              "name": "Ames Research Center",
+              "location": "Mountain View, California, United States"
+            }
+          },
+          "id": "a711191286004746975872a2a0873075",
+          "userType": "CIVIL",
+          "userId": "23849cdc95b44c738e095117b6265630"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 4,
+          "submissionId": 20230001230,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "D W Beaty"
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab",
+              "location": "La Cañada Flintridge, California, United States"
+            }
+          },
+          "id": "fab5558e08fd4ecba7d568f6d79bbf0d",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "df9dff849cfd41aa8d0b13cfa1c1a0f2"
+        },
+        {
+          "organizationId": "99fa64c96f0950678abfcdd84ba26bf5",
+          "sequence": 5,
+          "submissionId": 20230001230,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "M S Bell"
+            },
+            "organization": {
+              "name": "Jacobs (United States)",
+              "location": "Dallas, Texas, United States"
+            }
+          },
+          "id": "677159b361b94358b93870ffa9af9958",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "e3357cfb65474726bfe173963f69c9f0"
+        },
+        {
+          "organizationId": "7354b6f97b02576fb9c66f60d484fa23",
+          "sequence": 6,
+          "submissionId": 20230001230,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "S M Curry"
+            },
+            "organization": {
+              "name": "University of California, Berkeley",
+              "location": "Berkeley, California, United States"
+            }
+          },
+          "id": "824a453661044b52873edef33562d8ba",
+          "userType": "OTHER",
+          "userId": "33b8221467634e28b4bbaf7c3c01e85b"
+        },
+        {
+          "organizationId": "e27a3c6ccb2b54348fb1dc2c6b349332",
+          "sequence": 7,
+          "submissionId": 20230001230,
+          "meta": {
+            "author": {
+              "name": "A Gangidine"
+            },
+            "organization": {
+              "name": "Cranbrook Institute of Science ",
+              "location": "Bloomfield Hills, Michigan, United States"
+            }
+          },
+          "id": "50607fb8bfaa44b0834957815b782a2b",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "a8d96efdc14d5993be210f31e1ff538d",
+          "sequence": 8,
+          "submissionId": 20230001230,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "J Hill"
+            },
+            "organization": {
+              "name": "Arizona State University",
+              "location": "Tempe, Arizona, United States"
+            }
+          },
+          "id": "ad7dfd34e5d14912bcc28f52aea643ec",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "37b5fadaebc54978a9325051f4311996"
+        },
+        {
+          "organizationId": "02643c9e9b525162877c70e4c186571b",
+          "sequence": 9,
+          "submissionId": 20230001230,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "S Hoffman"
+            },
+            "organization": {
+              "name": "The Aerospace Corporation",
+              "location": "El Segundo, California, United States"
+            }
+          },
+          "id": "08ee97c96f914634ab228eea1bcd62f9",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "fa4d05d0105c4b25970d2883ff9656db"
+        },
+        {
+          "organizationId": "a8d96efdc14d5993be210f31e1ff538d",
+          "sequence": 10,
+          "submissionId": 20230001230,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "B H Horgan"
+            },
+            "organization": {
+              "name": "Arizona State University",
+              "location": "Tempe, Arizona, United States"
+            }
+          },
+          "id": "f8aed6ab483c466f9276cf41c7628b8f",
+          "userType": "OTHER",
+          "userId": "e1a23f78162d4c148163e3f24d072b7b"
+        },
+        {
+          "organizationId": "ac66e9c1dcfc54a9bf8eefee018bb0e2",
+          "sequence": 11,
+          "submissionId": 20230001230,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "B M Link"
+            },
+            "organization": {
+              "name": "Southeastern Universities Research Association",
+              "location": "Washington D.C., District of Columbia, United States"
+            }
+          },
+          "id": "43bea932f6014a7d953aaf5a13c9f956",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "f9f9e849d7fa49f9a86e359e7547bae5"
+        },
+        {
+          "organizationId": "0be91b7a68665cf882c2ccee8ad03aff",
+          "sequence": 12,
+          "submissionId": 20230001230,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "K Lynch"
+            },
+            "organization": {
+              "name": "Universities Space Research Association",
+              "location": "Columbia, Maryland, United States"
+            }
+          },
+          "id": "f899cae9b43b403a91c4d424d0c78733",
+          "userType": "OTHER",
+          "userId": "ae35f295a75541799187ae8e71b52acb"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 13,
+          "submissionId": 20230001230,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "L H Matthies"
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab",
+              "location": "La Cañada Flintridge, California, United States"
+            }
+          },
+          "id": "59d81b6d36f34a429e64543408b4a441",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "52a134cf8b3a41b0b01230855aeae5ae"
+        },
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 14,
+          "submissionId": 20230001230,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "M A Mischna"
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab",
+              "location": "La Cañada Flintridge, California, United States"
+            }
+          },
+          "id": "71812b8797d34fc2b91efb5aec6cc483",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "33acdcb7644b45829a93d9f4c2465690"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 15,
+          "submissionId": 20230001230,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "M Rucker"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "0a7e81b4feb9482fa4420f88aed23f85",
+          "userType": "CIVIL",
+          "userId": "72674de5a9184bb7be425ac5b78d73a6"
+        },
+        {
+          "sequence": 16,
+          "submissionId": 20230001230,
+          "meta": {
+            "author": {
+              "name": "B Stone"
+            },
+            "organization": {
+              "name": "Stone Aerospace "
+            }
+          },
+          "id": "1471b1de74b7457c9b25f0b0ff76c71e",
+          "userType": "OTHER",
+          "userId": "38d895c9b4fd47cc8b53a6ddac424aa3"
+        }
+      ],
+      "stiTypeDetails": "Technical Memorandum (TM)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20230001230,
+      "created": "2023-01-25T14:56:55.1089840+00:00",
+      "center": {
+        "code": "HQ",
+        "name": "Headquarters",
+        "id": "f0865a34ba1f474d865ab51f212fc69f"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The Science Objectives for Human Exploration of Mars Workshop was held in Denver, Colorado on May 4–6, 2022. The workshop was co-sponsored by NASA’s Science Mission Directorate and the Exploration Systems Development Mission Directorate to actively engage the planetary science community to determine what planetary science should be done by human crews on the martian surface and how those science objectives can be achieved.\n\nSessions at the Science Objectives for Human Exploration of Mars Workshop were organized around specific planetary science objectives and mission architecture concepts that were identified during the workshop as the highest priority for human exploration. The intent of this workshop was to synthesize a notional, integrated concept of operations for each scenario to aid in planning and refining the mission architecture for the first human mission to Mars. Results from the Planetary Decadal Survey Report were released xx days before the workshop and were briefed to workshop participants who incorporated the findings in the discussions.\n\nWith the Artemis missions, humans will return to the Moon using innovative technologies to explore the lunar surface. We will apply what we learn about exploration architecture, surface infrastructure, and science and exploration operations on and around the Moon to conduct successful missions with the first astronauts to Mars. A human mission to Mars will be a landmark achievement and a golden opportunity to make groundbreaking scientific discoveries on Mars. The potential scope of the science activities and impact of achieving those objectives are extraordinary.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20230001230,
+        "id": "87e93138317646ccb90935a0fe6eab45"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20230001230,
+          "endDate": "2022-05-06T05:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "caba028024835183ac5ceb068aa86384",
+              "meta": {
+                "organization": {
+                  "name": "Lunar and Planetary Institute",
+                  "location": "Houston, Texas, United States"
+                }
+              },
+              "meetingId": "3b69609741ae43c8a5caab6616f336a5",
+              "id": "e5278c9ea112440b9f67c701bbfcaf06"
+            }
+          ],
+          "name": "Science Objectives for Human Exploration Mars Workshop",
+          "location": "Denver, CO",
+          "id": "3b69609741ae43c8a5caab6616f336a5",
+          "url": "https://www.hou.usra.edu/meetings/marsexploration2022/",
+          "startDate": "2022-05-04T05:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "publications": [
+        {
+          "submissionId": 20230001230,
+          "id": "880b5534b8f746329beae4896c9e20f3",
+          "publicationDate": "2023-02-03T05:00:00.0000000+00:00"
+        }
+      ],
+      "redistributedDate": "2023-03-31T19:00:53.7129410",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "name": "Science Objectives for Human Exploration of Mars Workshop Report _ v8.docx",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20230001230/downloads/Science%20Objectives%20for%20Human%20Exploration%20of%20Mars%20Workshop%20Report%20_%20v8.docx",
+            "pdf": "/api/citations/20230001230/downloads/Science%20Objectives%20for%20Human%20Exploration%20of%20Mars%20Workshop%20Report%20_%20v8.docx.pdf",
+            "fulltext": "/api/citations/20230001230/downloads/Science%20Objectives%20for%20Human%20Exploration%20of%20Mars%20Workshop%20Report%20_%20v8.docx.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 203.91714
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20060043454,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "a1fd4aad6b47477b91a73f6113b94681",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "distributed operations",
+        "spatial databases",
+        "science activity planning",
+        "agile development",
+        "virtual field testing"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20060043454,
+        "ear": "NO",
+        "id": "2a0871876ba44911a5b2b39d13445bd2",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "title": "Science operations interfaces for Mars surface exploration",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-23T18:40:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20060043454,
+          "meta": {
+            "author": {
+              "name": "Norris, Jeffrey S."
+            },
+            "organization": {}
+          },
+          "id": "a34e5df5e27f4c16a46ce7547f628899"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20060043454,
+          "meta": {
+            "author": {
+              "name": "Powell, Mark W."
+            },
+            "organization": {}
+          },
+          "id": "9fd3c4ce53ae4569be813f9fd81aba80"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20060043454,
+          "meta": {
+            "author": {
+              "name": "Fox, Jason M."
+            },
+            "organization": {}
+          },
+          "id": "98db4032bf0c4b01aadcc4e9e90b6ede"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20060043454,
+          "meta": {
+            "author": {
+              "name": "Rabe, Kenneth J."
+            },
+            "organization": {}
+          },
+          "id": "00a7f03277994161816d49f60ef3aa70"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20060043454,
+          "meta": {
+            "author": {
+              "name": "Shu, I-Hsiang"
+            },
+            "organization": {}
+          },
+          "id": "c7749a811a2446ef9ae72762e5c266fa"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20060043454,
+      "sourceIdentifiers": [
+        {
+          "number": "hdl:2014/38341",
+          "submissionId": 20060043454,
+          "id": "03a8ba31d6804d62af0318cdc4cab6d2",
+          "type": "HANDLE"
+        },
+        {
+          "submissionId": 20060043454,
+          "id": "4ad79fbdaa1d4af6a69728f68b6d7292",
+          "descriptor": "hdl:2014/38341"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-23T18:40:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The Science Activity Planner (SAP) is the science planning tool used for the Mars Exploration Rover (MER) mission.  This paper begins with an overview of the software developed for MER  and how it was used for science downlink analysis and activity planning.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "meetings": [
+        {
+          "country": "United States",
+          "submissionId": 20060043454,
+          "endDate": "2005-10-12T00:00:00.0000000+00:00",
+          "name": "2005 IEEE Systems, Man and Cybernetics Conference",
+          "location": "HI",
+          "id": "2da7a99dbd874c3eba4754bb3137d5b0",
+          "startDate": "2005-10-10T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20060043454,
+          "id": "52a8dac9972747f490a1dcfc5513c213",
+          "publicationDate": "2005-10-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 189.25728
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20150007475,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "9572f70d92a048f6825a3a6aa87d4f47",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Cybernetics, Artificial Intelligence And Robotics",
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "Mars surface operations",
+        "in-situ operations",
+        "robotic arm",
+        "space robotics",
+        "manipulation"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20150007475,
+        "ear": "NO",
+        "id": "7bddf2e57d204172b12dfe59b817f63f",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "title": "In-Situ Operations and Planning for the Mars Science Laboratory Robotic Arm: The First 200 Sols",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2015-05-06T15:33:44.7270000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20150007475,
+          "meta": {
+            "author": {
+              "name": "Robinson, M."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "a8444da0200a41f98363e8d3113e3230"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20150007475,
+          "meta": {
+            "author": {
+              "name": "Collins, C."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "aadf9e6848044b02a09d5d008b40f233"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20150007475,
+          "meta": {
+            "author": {
+              "name": "Leger, P."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "da67931665914618ba986ba2a989582e"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20150007475,
+          "meta": {
+            "author": {
+              "name": "Carsten, J."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "e9667157c6ab438684ee875331b34cca"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20150007475,
+          "meta": {
+            "author": {
+              "name": "Tompkins, V."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "595554161f304bdda4538c1dc3c69271"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20150007475,
+          "meta": {
+            "author": {
+              "name": "Hartman, F."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "d8819b60a270435e83a5f1a18fa2af17"
+        },
+        {
+          "sequence": 6,
+          "submissionId": 20150007475,
+          "meta": {
+            "author": {
+              "name": "Yen, J."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "56dc748e7ae24cb0a22777d7ae100a14"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20150007475,
+      "sourceIdentifiers": [
+        {
+          "number": "hdl:2014/44187",
+          "submissionId": 20150007475,
+          "id": "91d3068d1b004714a13cf8c40da69c36",
+          "type": "HANDLE"
+        },
+        {
+          "submissionId": 20150007475,
+          "id": "8941137ff2a9475a83f3cf8e63f9fa8b",
+          "descriptor": "hdl:2014/44187"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2015-05-06T15:33:44.7270000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The Robotic Arm (RA) has operated for more than 200 Martian solar days (or sols) since the Mars Science Laboratory rover touched down in Gale Crater on August 5, 2012. During the first seven months on Mars the robotic arm has performed multiple contact science sols including the positioning of the Alpha Particle X-Ray Spectrometer (APXS) and/or Mars Hand Lens Imager (MAHLI) with respect to rocks or loose regolith targets. The RA has supported sample acquisition using both the scoop and drill, sample processing with CHIMRA (Collection and Handling for In- Situ Martian Rock Analysis), and delivery of sample portions to the observation tray, and the SAM (Sample Analysis at Mars) and CHEMIN (Chemistry and Mineralogy) science instruments. This paper describes the planning and execution of robotic arm activities during surface operations, and reviews robotic arm performance results from Mars to date.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "meetings": [
+        {
+          "submissionId": 20150007475,
+          "name": "Institute of Electrical and Electronics Engineers",
+          "location": "New York, NY, United States",
+          "id": "85a160521a654cc7b4cdda40a4aee10b"
+        },
+        {
+          "country": "United States",
+          "submissionId": 20150007475,
+          "endDate": "2013-06-06T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "Institute of Electrical and Electronics Engineers",
+                  "location": "New York, NY, United States"
+                }
+              },
+              "meetingId": "3d9a8ff447dd4997a89f9d7bbc3844cb",
+              "id": "004255ac12b649dba0ddf49fad8bed6c"
+            }
+          ],
+          "name": "Systems of Systems Engineering (SoSE)",
+          "location": "Maui, HI",
+          "id": "3d9a8ff447dd4997a89f9d7bbc3844cb",
+          "startDate": "2013-06-02T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20150007475,
+          "id": "f02ba3908b0f4c91abea639882bbf34e",
+          "publicationDate": "2013-06-02T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    }
+  ],
+  "aggregations": {
+    "created": {
+      "buckets": [
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 351
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 63
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 55
+        },
+        {
+          "key_as_string": "2023",
+          "key": 1672531200000,
+          "doc_count": 44
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 33
+        },
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 32
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 30
+        },
+        {
+          "key_as_string": "2021",
+          "key": 1609459200000,
+          "doc_count": 30
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 29
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 29
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 26
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 23
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 21
+        },
+        {
+          "key_as_string": "2020",
+          "key": 1577836800000,
+          "doc_count": 17
+        },
+        {
+          "key_as_string": "1996",
+          "key": 820454400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1998",
+          "key": 883612800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2001",
+          "key": 978307200000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "author": {
+      "doc_count_error_upper_bound": 9,
+      "sum_other_doc_count": 3928,
+      "buckets": [
+        {
+          "key": "Hoffman, Stephen J.",
+          "doc_count": 11
+        },
+        {
+          "key": "Evan Anzalone",
+          "doc_count": 7
+        },
+        {
+          "key": "Cheryl Gramling",
+          "doc_count": 6
+        },
+        {
+          "key": "Eppler, Dean",
+          "doc_count": 6
+        },
+        {
+          "key": "Arvidson, R. E.",
+          "doc_count": 4
+        },
+        {
+          "key": "Chin, K. B.",
+          "doc_count": 4
+        },
+        {
+          "key": "Colaprete, A.",
+          "doc_count": 4
+        },
+        {
+          "key": "Creech, Steve",
+          "doc_count": 4
+        },
+        {
+          "key": "Dec, John A.",
+          "doc_count": 4
+        },
+        {
+          "key": "Gaines, Daniel",
+          "doc_count": 4
+        },
+        {
+          "key": "Morris, R. V.",
+          "doc_count": 4
+        },
+        {
+          "key": "Abbas, M. M.",
+          "doc_count": 3
+        },
+        {
+          "key": "Altino, Karen M.",
+          "doc_count": 3
+        },
+        {
+          "key": "Bussey, Ben",
+          "doc_count": 3
+        },
+        {
+          "key": "Case, Jonathan L.",
+          "doc_count": 3
+        },
+        {
+          "key": "Chappell, Steven P.",
+          "doc_count": 3
+        },
+        {
+          "key": "Cirillo, William",
+          "doc_count": 3
+        },
+        {
+          "key": "Dylan Connell",
+          "doc_count": 3
+        },
+        {
+          "key": "Emma Lehnhardt",
+          "doc_count": 3
+        },
+        {
+          "key": "Estlin, Tara",
+          "doc_count": 3
+        }
+      ]
+    },
+    "reportNumber": {
+      "doc_count_error_upper_bound": 5,
+      "sum_other_doc_count": 777,
+      "buckets": [
+        {
+          "key": "AAS 25-156",
+          "doc_count": 2
+        },
+        {
+          "key": "AAS 25-173",
+          "doc_count": 2
+        },
+        {
+          "key": "ISSN: 0065-3438",
+          "doc_count": 2
+        },
+        {
+          "key": "ISSN: 0148-0227",
+          "doc_count": 2
+        },
+        {
+          "key": "ISSN: 0161-5297",
+          "doc_count": 2
+        },
+        {
+          "key": "ISSN: 1540-7845",
+          "doc_count": 2
+        },
+        {
+          "key": "#8049",
+          "doc_count": 1
+        },
+        {
+          "key": "09ICES-0011",
+          "doc_count": 1
+        },
+        {
+          "key": "09ICES-0029",
+          "doc_count": 1
+        },
+        {
+          "key": "2009-01-2356",
+          "doc_count": 1
+        },
+        {
+          "key": "20250010239",
+          "doc_count": 1
+        },
+        {
+          "key": "241",
+          "doc_count": 1
+        },
+        {
+          "key": "3162",
+          "doc_count": 1
+        },
+        {
+          "key": "68N17350",
+          "doc_count": 1
+        },
+        {
+          "key": "68N17371",
+          "doc_count": 1
+        },
+        {
+          "key": "80NSSC21K0698",
+          "doc_count": 1
+        },
+        {
+          "key": "A-9810764",
+          "doc_count": 1
+        },
+        {
+          "key": "AAS 08-032",
+          "doc_count": 1
+        },
+        {
+          "key": "AAS 13-421",
+          "doc_count": 1
+        },
+        {
+          "key": "AAS 25-126",
+          "doc_count": 1
+        }
+      ]
+    },
+    "center": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "MSFC",
+          "doc_count": 191
+        },
+        {
+          "key": "JSC",
+          "doc_count": 151
+        },
+        {
+          "key": "JPL",
+          "doc_count": 146
+        },
+        {
+          "key": "ARC",
+          "doc_count": 81
+        },
+        {
+          "key": "CDMS",
+          "doc_count": 61
+        },
+        {
+          "key": "HQ",
+          "doc_count": 41
+        },
+        {
+          "key": "GSFC",
+          "doc_count": 36
+        },
+        {
+          "key": "LaRC",
+          "doc_count": 28
+        },
+        {
+          "key": "GRC",
+          "doc_count": 27
+        },
+        {
+          "key": "KSC",
+          "doc_count": 23
+        }
+      ]
+    },
+    "index": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "submissions-2026-10-22-05-25",
+          "doc_count": 785
+        },
+        {
+          "key": "chorus-2026-10-24-05-58",
+          "doc_count": 1
+        }
+      ]
+    },
+    "fundingNumber": {
+      "doc_count_error_upper_bound": 5,
+      "sum_other_doc_count": 392,
+      "buckets": [
+        {
+          "key": "80MSFC18C0011",
+          "doc_count": 10
+        },
+        {
+          "key": "NNM12AA41C",
+          "doc_count": 9
+        },
+        {
+          "key": "573754.20.04.62",
+          "doc_count": 5
+        },
+        {
+          "key": "80JSC022DA035",
+          "doc_count": 5
+        },
+        {
+          "key": "452582",
+          "doc_count": 4
+        },
+        {
+          "key": "452582.81.72",
+          "doc_count": 4
+        },
+        {
+          "key": "651937",
+          "doc_count": 4
+        },
+        {
+          "key": "NCC5-679",
+          "doc_count": 4
+        },
+        {
+          "key": "255421.04.23.22.01",
+          "doc_count": 3
+        },
+        {
+          "key": "452582.03.72",
+          "doc_count": 3
+        },
+        {
+          "key": "542193.13.62",
+          "doc_count": 3
+        },
+        {
+          "key": "596118.04.64.62",
+          "doc_count": 3
+        },
+        {
+          "key": "600566.01.05",
+          "doc_count": 3
+        },
+        {
+          "key": "80ARC020D0010",
+          "doc_count": 3
+        },
+        {
+          "key": "80GSFC19D0011",
+          "doc_count": 3
+        },
+        {
+          "key": "830724.06.06.04",
+          "doc_count": 3
+        },
+        {
+          "key": "NNM05AB50C",
+          "doc_count": 3
+        },
+        {
+          "key": "007686.06.01.02.72",
+          "doc_count": 2
+        },
+        {
+          "key": "009562.50.10.62",
+          "doc_count": 2
+        },
+        {
+          "key": "11976.BL.02.03.02.19.0225",
+          "doc_count": 2
+        }
+      ]
+    },
+    "published": {
+      "buckets": [
+        {
+          "key_as_string": "2012",
+          "key": 1325376000000,
+          "doc_count": 35
+        },
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 34
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 30
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 30
+        },
+        {
+          "key_as_string": "1993",
+          "key": 725846400000,
+          "doc_count": 29
+        },
+        {
+          "key_as_string": "2008",
+          "key": 1199145600000,
+          "doc_count": 29
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 27
+        },
+        {
+          "key_as_string": "2005",
+          "key": 1104537600000,
+          "doc_count": 26
+        },
+        {
+          "key_as_string": "2009",
+          "key": 1230768000000,
+          "doc_count": 26
+        },
+        {
+          "key_as_string": "2006",
+          "key": 1136073600000,
+          "doc_count": 24
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 24
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 23
+        },
+        {
+          "key_as_string": "2010",
+          "key": 1262304000000,
+          "doc_count": 21
+        },
+        {
+          "key_as_string": "2011",
+          "key": 1293840000000,
+          "doc_count": 21
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 21
+        },
+        {
+          "key_as_string": "2007",
+          "key": 1167609600000,
+          "doc_count": 17
+        },
+        {
+          "key_as_string": "2003",
+          "key": 1041379200000,
+          "doc_count": 16
+        },
+        {
+          "key_as_string": "2004",
+          "key": 1072915200000,
+          "doc_count": 16
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 16
+        },
+        {
+          "key_as_string": "2000",
+          "key": 946684800000,
+          "doc_count": 14
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 14
+        },
+        {
+          "key_as_string": "1999",
+          "key": 915148800000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "2002",
+          "key": 1009843200000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "1998",
+          "key": 883612800000,
+          "doc_count": 10
+        },
+        {
+          "key_as_string": "2001",
+          "key": 978307200000,
+          "doc_count": 9
+        },
+        {
+          "key_as_string": "2021",
+          "key": 1609459200000,
+          "doc_count": 9
+        },
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 8
+        },
+        {
+          "key_as_string": "2020",
+          "key": 1577836800000,
+          "doc_count": 7
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "1992",
+          "key": 694224000000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "1994",
+          "key": 757382400000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "1988",
+          "key": 567993600000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1996",
+          "key": 820454400000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1997",
+          "key": 852076800000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2023",
+          "key": 1672531200000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1973",
+          "key": 94694400000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "1991",
+          "key": 662688000000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "1970",
+          "key": 0,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1976",
+          "key": 189302400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1984",
+          "key": 441763200000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1987",
+          "key": 536457600000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1989",
+          "key": 599616000000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1990",
+          "key": 631152000000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1995",
+          "key": 788918400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1967",
+          "key": -94694400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1971",
+          "key": 31536000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1974",
+          "key": 126230400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1977",
+          "key": 220924800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1981",
+          "key": 347155200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1982",
+          "key": 378691200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1983",
+          "key": 410227200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1986",
+          "key": 504921600000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "distribution": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "PUBLIC",
+          "doc_count": 786
+        }
+      ]
+    },
+    "stiType": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "CONFERENCE_PAPER",
+          "doc_count": 344
+        },
+        {
+          "key": "ABSTRACT",
+          "doc_count": 104
+        },
+        {
+          "key": "PRESENTATION",
+          "doc_count": 101
+        },
+        {
+          "key": "PREPRINT",
+          "doc_count": 57
+        },
+        {
+          "key": "OTHER",
+          "doc_count": 51
+        },
+        {
+          "key": "POSTER",
+          "doc_count": 24
+        },
+        {
+          "key": "TECHNICAL_MEMORANDUM",
+          "doc_count": 20
+        },
+        {
+          "key": "CONFERENCE_PROCEEDINGS",
+          "doc_count": 19
+        },
+        {
+          "key": "REPRINT",
+          "doc_count": 17
+        },
+        {
+          "key": "EXTENDED_ABSTRACT",
+          "doc_count": 16
+        },
+        {
+          "key": "ACCEPTED_MANUSCRIPT",
+          "doc_count": 9
+        },
+        {
+          "key": "CONTRACTOR_REPORT",
+          "doc_count": 9
+        },
+        {
+          "key": "WHITE_PAPER",
+          "doc_count": 4
+        },
+        {
+          "key": "TECHNICAL_PUBLICATION",
+          "doc_count": 3
+        },
+        {
+          "key": "CONFERENCE_PUBLICATION",
+          "doc_count": 2
+        },
+        {
+          "key": "CONTRACTOR_OR_GRANTEE_REPORT",
+          "doc_count": 2
+        },
+        {
+          "key": "VIDEO",
+          "doc_count": 2
+        },
+        {
+          "key": "BOOK_CHAPTER",
+          "doc_count": 1
+        },
+        {
+          "key": "SPECIAL_PUBLICATION",
+          "doc_count": 1
+        }
+      ]
+    },
+    "subjectCategory": {
+      "doc_count_error_upper_bound": 5,
+      "sum_other_doc_count": 203,
+      "buckets": [
+        {
+          "key": "Lunar And Planetary Science And Exploration",
+          "doc_count": 330
+        },
+        {
+          "key": "Lunar and Planetary Science and Exploration",
+          "doc_count": 79
+        },
+        {
+          "key": "Launch Vehicles And Launch Operations",
+          "doc_count": 43
+        },
+        {
+          "key": "Space Sciences (General)",
+          "doc_count": 38
+        },
+        {
+          "key": "Spacecraft Design, Testing And Performance",
+          "doc_count": 34
+        },
+        {
+          "key": "Man/System Technology And Life Support",
+          "doc_count": 29
+        },
+        {
+          "key": "Lunar And Planetary Exploration",
+          "doc_count": 27
+        },
+        {
+          "key": "Astronautics (General)",
+          "doc_count": 24
+        },
+        {
+          "key": "Cybernetics, Artificial Intelligence And Robotics",
+          "doc_count": 17
+        },
+        {
+          "key": "Engineering (General)",
+          "doc_count": 13
+        },
+        {
+          "key": "Instrumentation And Photography",
+          "doc_count": 13
+        },
+        {
+          "key": "Meteorology And Climatology",
+          "doc_count": 13
+        },
+        {
+          "key": "Spacecraft Propulsion And Power",
+          "doc_count": 13
+        },
+        {
+          "key": "Computer Programming And Software",
+          "doc_count": 11
+        },
+        {
+          "key": "Ground Support Systems And Facilities (Space)",
+          "doc_count": 11
+        },
+        {
+          "key": "Space Communications, Spacecraft Communications, Command And Tracking",
+          "doc_count": 11
+        },
+        {
+          "key": "Astrodynamics",
+          "doc_count": 9
+        },
+        {
+          "key": "Behavioral Sciences",
+          "doc_count": 9
+        },
+        {
+          "key": "Cybernetics, Artificial Intelligence and Robotics",
+          "doc_count": 9
+        },
+        {
+          "key": "Exobiology",
+          "doc_count": 8
+        }
+      ]
+    },
+    "disseminated": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "DOCUMENT_AND_METADATA",
+          "doc_count": 537
+        },
+        {
+          "key": "METADATA_ONLY",
+          "doc_count": 249
+        }
+      ]
+    },
+    "stiTypeDetails": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 6,
+      "buckets": [
+        {
+          "key": "Conference Paper",
+          "doc_count": 344
+        },
+        {
+          "key": "Abstract",
+          "doc_count": 104
+        },
+        {
+          "key": "Presentation",
+          "doc_count": 101
+        },
+        {
+          "key": "Preprint (Draft being sent to journal)",
+          "doc_count": 57
+        },
+        {
+          "key": "Poster",
+          "doc_count": 24
+        },
+        {
+          "key": "Other",
+          "doc_count": 21
+        },
+        {
+          "key": "Other - NASA Tech Brief",
+          "doc_count": 20
+        },
+        {
+          "key": "Technical Memorandum (TM)",
+          "doc_count": 20
+        },
+        {
+          "key": "Conference Proceedings",
+          "doc_count": 19
+        },
+        {
+          "key": "Extended Abstract",
+          "doc_count": 16
+        },
+        {
+          "key": "Reprint (Version printed in journal)",
+          "doc_count": 16
+        },
+        {
+          "key": "Accepted Manuscript (Version with final changes)",
+          "doc_count": 9
+        },
+        {
+          "key": "Contractor Report (CR)",
+          "doc_count": 9
+        },
+        {
+          "key": "Other - Collected Works",
+          "doc_count": 4
+        },
+        {
+          "key": "White Paper",
+          "doc_count": 4
+        },
+        {
+          "key": "Other - Technical Report",
+          "doc_count": 3
+        },
+        {
+          "key": "Technical Publication (TP)",
+          "doc_count": 3
+        },
+        {
+          "key": "Conference Publication (CP)",
+          "doc_count": 2
+        },
+        {
+          "key": "Contractor or Grantee Report",
+          "doc_count": 2
+        },
+        {
+          "key": "Video",
+          "doc_count": 2
+        }
+      ]
+    },
+    "organization": {
+      "doc_count_error_upper_bound": 9,
+      "sum_other_doc_count": 946,
+      "buckets": [
+        {
+          "key": "NASA Marshall Space Flight Center",
+          "doc_count": 131
+        },
+        {
+          "key": "Jet Propulsion Lab., California Inst. of Tech.",
+          "doc_count": 119
+        },
+        {
+          "key": "NASA Johnson Space Center",
+          "doc_count": 100
+        },
+        {
+          "key": "Marshall Space Flight Center",
+          "doc_count": 83
+        },
+        {
+          "key": "Johnson Space Center",
+          "doc_count": 73
+        },
+        {
+          "key": "NASA Ames Research Center",
+          "doc_count": 62
+        },
+        {
+          "key": "NASA Goddard Space Flight Center",
+          "doc_count": 40
+        },
+        {
+          "key": "Ames Research Center",
+          "doc_count": 39
+        },
+        {
+          "key": "Goddard Space Flight Center",
+          "doc_count": 32
+        },
+        {
+          "key": "NASA Langley Research Center",
+          "doc_count": 26
+        },
+        {
+          "key": "NASA Kennedy Space Center",
+          "doc_count": 24
+        },
+        {
+          "key": "Glenn Research Center",
+          "doc_count": 23
+        },
+        {
+          "key": "Jacobs (United States)",
+          "doc_count": 23
+        },
+        {
+          "key": "Langley Research Center",
+          "doc_count": 23
+        },
+        {
+          "key": "National Aeronautics and Space Administration",
+          "doc_count": 23
+        },
+        {
+          "key": "The Aerospace Corporation",
+          "doc_count": 23
+        },
+        {
+          "key": "NASA Glenn Research Center",
+          "doc_count": 22
+        },
+        {
+          "key": "Kennedy Space Center",
+          "doc_count": 19
+        },
+        {
+          "key": "Science Applications International Corp.",
+          "doc_count": 18
+        },
+        {
+          "key": "Alabama Univ.",
+          "doc_count": 16
+        }
+      ]
+    },
+    "modified": {
+      "buckets": [
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 746
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 39
+        }
+      ]
+    },
+    "keyword": {
+      "doc_count_error_upper_bound": 5,
+      "sum_other_doc_count": 895,
+      "buckets": [
+        {
+          "key": "Mars",
+          "doc_count": 46
+        },
+        {
+          "key": "ISRU",
+          "doc_count": 15
+        },
+        {
+          "key": "Artemis",
+          "doc_count": 14
+        },
+        {
+          "key": "Mars Exploration Rover (MER)",
+          "doc_count": 7
+        },
+        {
+          "key": "Moon",
+          "doc_count": 6
+        },
+        {
+          "key": "rovers",
+          "doc_count": 5
+        },
+        {
+          "key": "surface operations",
+          "doc_count": 5
+        },
+        {
+          "key": "EVA",
+          "doc_count": 4
+        },
+        {
+          "key": "operations",
+          "doc_count": 4
+        },
+        {
+          "key": "Gateway",
+          "doc_count": 3
+        },
+        {
+          "key": "Human Spaceflight",
+          "doc_count": 3
+        },
+        {
+          "key": "Lunar Surface Operations",
+          "doc_count": 3
+        },
+        {
+          "key": "Mars Science Laboratory",
+          "doc_count": 3
+        },
+        {
+          "key": "NRHO",
+          "doc_count": 3
+        },
+        {
+          "key": "Analogs",
+          "doc_count": 2
+        },
+        {
+          "key": "Aseptic processing",
+          "doc_count": 2
+        },
+        {
+          "key": "Atmospheric Densities",
+          "doc_count": 2
+        },
+        {
+          "key": "Autonomy",
+          "doc_count": 2
+        },
+        {
+          "key": "Cargo",
+          "doc_count": 2
+        },
+        {
+          "key": "Concept Development",
+          "doc_count": 2
+        }
+      ]
+    }
+  }
+}

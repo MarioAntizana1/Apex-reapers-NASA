@@ -1,0 +1,2546 @@
+{
+  "stats": {
+    "took": 97,
+    "total": 22,
+    "estimate": false,
+    "maxScore": 205.49788
+  },
+  "results": [
+    {
+      "_meta": {
+        "score": 205.49788
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20170003167,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "92005bac9da24c518e7d227bc8aa8b9a",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration",
+        "Chemistry And Materials (General)"
+      ],
+      "keywords": [
+        "perchlorate",
+        " oxides",
+        " Mars",
+        " perchlorate acid"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20170003167,
+        "ear": "NO",
+        "id": "73a4e0ee53914d1498af7da97541738f",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-11T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "GSFC-E-DAA-TN40326",
+        "E-ISSN: 2169-9100",
+        "ISSN: 2169-9097",
+        "Report Number: GSFC-E-DAA-TN40326"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "NNX14AG39G",
+          "submissionId": 20170003167,
+          "id": "33ea79c13f834665b078cfb977b92503",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Perchlorate Formation on Mars Through Surface Radiolysis-Initiated Atmospheric Chemistry: A Potential Mechanism",
+      "stiType": "REPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2017-04-07T08:59:08.0030000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20170003167,
+          "meta": {
+            "author": {
+              "name": "Wilson, Eric H."
+            },
+            "organization": {
+              "name": "Michigan Univ.",
+              "location": "Ann Arbor, MI, United States"
+            }
+          },
+          "id": "0b8505bb6460407daecadf507303fcc1"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20170003167,
+          "meta": {
+            "author": {
+              "name": "Atreya, Sushil K."
+            },
+            "organization": {
+              "name": "Michigan Univ.",
+              "location": "Ann Arbor, MI, United States"
+            }
+          },
+          "id": "98766be35fda469e9516ed4087d2edae"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20170003167,
+          "meta": {
+            "author": {
+              "name": "Kaiser, Ralf I."
+            },
+            "organization": {
+              "name": "Hawaii Univ. at Manoa",
+              "location": "Honolulu, HI, United States"
+            }
+          },
+          "id": "cf2025d28abc432e9f5b3e4166de2559"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20170003167,
+          "meta": {
+            "author": {
+              "name": "Mahaffy, Paul R."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "18e2eafff5dd4c27bec830618181d861"
+        }
+      ],
+      "stiTypeDetails": "Reprint (Version printed in journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20170003167,
+      "sourceIdentifiers": [
+        {
+          "number": "doi:10.1002/2016JE005078",
+          "submissionId": 20170003167,
+          "id": "cc2d9bd90cf04f8e864bddc760fd0790",
+          "type": "DOI"
+        },
+        {
+          "submissionId": 20170003167,
+          "id": "9cb4556718704a748e14c8cc7b32f275",
+          "descriptor": "doi:10.1002/2016JE005078"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2017-04-07T08:59:08.0030000+00:00",
+      "center": {
+        "code": "GSFC",
+        "name": "Goddard Space Flight Center",
+        "id": "973fae00c3584b9fb4c762ae9870d0f6"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Recent observations of the Martian surface by the Phoenix lander and the Sample Analysis at Mars indicate the presence of perchlorate (ClO4). The abundance and isotopic composition of these perchlorates suggest that the mechanisms responsible for their formation in the Martian environment may be unique in our solar system. With this in mind, we propose a potential mechanism for the production of Martian perchlorate: the radiolysis of the Martian surface by galactic cosmic rays, followed by the sublimation of chlorine oxides into the atmosphere and their subsequent synthesis to form perchloric acid (HClO4) in the atmosphere, and the surface deposition and subsequent mineralization of HClO4 in the regolith to form surface perchlorates. To evaluate the viability of this mechanism, we employ a one-dimensional chemical model, examining chlorine chemistry in the context of Martian atmospheric chemistry. Considering the chlorine oxide, OClO, we find that an OClO flux as low as 3.2 x 10(exp 7) molecules/sq cm/s sublimated into the atmosphere from the surface could produce sufficient HClO4 to explain the perchlorate concentration on Mars, assuming an accumulation depth of 30 cm and integrated over the Amazonian period. Radiolysis provides an efficient pathway for the oxidation of chlorine, bypassing the efficient Cl/HCl recycling mechanism that characterizes HClO4 formation mechanisms proposed for the Earth but not Mars.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "volume": "121",
+          "submissionId": 20170003167,
+          "issue": "8",
+          "issn": "2169-9097",
+          "publisher": "AGU Publications",
+          "eissn": "2169-9100",
+          "id": "4e56793ea43c4d2abdb0ea012fec537b",
+          "publicationName": "Journal of Geophysical Research: Planets",
+          "publicationDate": "2016-08-25T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 172.8346
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20140013375,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "d068e0bf928b4b7792638260f58c6f49",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "soil-water-ice system",
+        "Mars regolith",
+        "ice lenses"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20140013375,
+        "ear": "NO",
+        "id": "cb25b2589ac94dcf8e0308bb777184e4",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "ARC-E-DAA-TN8079",
+        "Report Number: ARC-E-DAA-TN8079"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "WBS 203959.02.02.20.01",
+          "submissionId": 20140013375,
+          "id": "4fbdc797b8234f1d976335eb9fa85570",
+          "type": "WBS"
+        }
+      ],
+      "title": "Character of Mg(ClO4)2 Brines Under Mars Regolith Conditions",
+      "stiType": "REPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2014-11-06T08:26:29.4200000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20140013375,
+          "meta": {
+            "author": {
+              "name": "Zent, A. P."
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA United States"
+            }
+          },
+          "id": "fc05194ab58e40248bb5107ed7b87a2c"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20140013375,
+          "meta": {
+            "author": {
+              "name": "Sizemore, H. G."
+            },
+            "organization": {
+              "name": "Montani Consulting",
+              "location": "Marlinton, West Virginia"
+            }
+          },
+          "id": "11dfc230b94e4df7a1f1f7d3f9156272"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20140013375,
+          "meta": {
+            "author": {
+              "name": "Rempel, A. W."
+            },
+            "organization": {
+              "name": "Oregon Univ.",
+              "location": "Eugene, OR, United States"
+            }
+          },
+          "id": "2cc19692157846b4a126a33db2055c4d"
+        }
+      ],
+      "stiTypeDetails": "Reprint (Version printed in journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20140013375,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2014-11-06T08:26:29.4200000+00:00",
+      "center": {
+        "code": "ARC",
+        "name": "Ames Research Center",
+        "id": "4540cd94d24c4bf29f8773a27faf96b2"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Elsewhere, we report on our investigation of the initiation and growth of ice lenses under Mars like conditions. In that work, we assume that the soil-water-ice system is gas and solute free. We conclude that initiation of lens initiation - the unloading of particle-particle contacts by thermomolecular forces at a given soil horizon - may be a common process in the shallow Martian regolith, and that the dominant property controlling the rate of lens growth is the freezing point depression (Delta-T(sub f)) associated with the interfacial forces of the soil. Lens growth is thus favored in clay-sized soils over silt soils due to the greater Delta-T(sub f), but segregated ice was observed at the Phoenix site, where soils were predominantly siltsized.. Perchlorate salts were also observed at the Phoenix site, and will strongly affect some of the properties associated with potential ice lens growth, over and above increases to Delta-T(sub f),. Here, we investigate the nature of Mg(ClO4)2 brines under Mars-like conditions, with particular emphasis on those aspects that might influence the in situ segregation of residual liquids during phase change, potentially leading to the formation of subsurface excess ice. We also discuss cyclic variations in the water activity (a(sub w)) that might affect the habitability of solutions in the shallow regolith. ",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "submissionId": 20140013375,
+          "name": "NASA Johnson Space Center",
+          "location": "Houston, TX, United States",
+          "id": "fc02bed3f0954d3a8db4f31ae7c4ae62"
+        },
+        {
+          "country": "United States",
+          "submissionId": 20140013375,
+          "endDate": "2013-03-22T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "8ccaff322ecb48d2811364bf91d9f59d",
+              "meta": {
+                "organization": {
+                  "name": "NASA Johnson Space Center",
+                  "location": "Houston, TX, United States"
+                }
+              },
+              "meetingId": "79436286a528434c9012fdeb790118f5",
+              "id": "bdabca2cf973471f86ec3a548f7fb438"
+            },
+            {
+              "organizationId": "c48d8d5db08e4b80b5f256cdcd1360dd",
+              "meta": {
+                "organization": {
+                  "name": "Lunar and Planetary Inst.",
+                  "location": "Houston, TX, United States"
+                }
+              },
+              "meetingId": "79436286a528434c9012fdeb790118f5",
+              "id": "cd378f5f779a45bdae8a055911743d70"
+            },
+            {
+              "meta": {
+                "organization": {
+                  "name": "Universities Space Research Association",
+                  "location": "Houston, TX, United States"
+                }
+              },
+              "meetingId": "79436286a528434c9012fdeb790118f5",
+              "id": "acb1445d696d441bb1f3b5e282810c6a"
+            }
+          ],
+          "name": "Lunar and Planetary Science Conference (LPSC) 2013",
+          "location": "The Woodlands, TX",
+          "id": "79436286a528434c9012fdeb790118f5",
+          "startDate": "2013-03-18T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20140013375,
+          "id": "8023458097cd4b448f2a28bc5338068c",
+          "publicationDate": "2013-03-18T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20140013375.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20140013375/downloads/20140013375.pdf",
+            "pdf": "/api/citations/20140013375/downloads/20140013375.pdf",
+            "fulltext": "/api/citations/20140013375/downloads/20140013375.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 139.36673
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20170009814,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "0c5c46cfc8f64610bb071d746f3bf7b6",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Life Sciences (General)",
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20170009814,
+        "ear": "NO",
+        "id": "d79432704a834d0a906691e271c0c71e",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "ARC-E-DAA-TN40581",
+        "Report Number: ARC-E-DAA-TN40581"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "SAA2401923",
+          "submissionId": 20170009814,
+          "id": "fb8a1f9b9daa4deca86ab906911edaff",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Growth and Survival of Perchlorate-Reducing Bacteria in Media Containing Elevated Perchlorate Concentrations and UV-C Conditions",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2017-10-11T14:07:00.6170000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20170009814,
+          "meta": {
+            "author": {
+              "name": "Bywaters, K. F."
+            },
+            "organization": {
+              "name": "Search for Extraterrestrial Intelligence Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "0ca9f326c7b44e6784f947cc72e210a6"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20170009814,
+          "meta": {
+            "author": {
+              "name": "Mckay, C. P."
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "2ad825836ec54c409ce7b097c3635b98"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20170009814,
+          "meta": {
+            "author": {
+              "name": "Quinn, R. C."
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "31d5012ea0674bfba06944698e8966c5"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20170009814,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2017-10-11T14:07:00.6170000+00:00",
+      "center": {
+        "code": "ARC",
+        "name": "Ames Research Center",
+        "id": "4540cd94d24c4bf29f8773a27faf96b2"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Introduction: The identification of perchlorate (ClO4(-)) on Mars has led to the possibility that complete redox couples are available for microbial metabolism in contemporary surface environments. Perchlorate-reducing bacteria (PRB) utilize ClO4(-) and chlorate (ClO3(-)) as terminal electron acceptors due to the high reduction potential. Additionally, ClO4(-) salts have been suggested as a possible source of brines on Mars and spectral evidence indicates that the hydration of ClO4(-) salts in the regolith of Martian is linked to the surface recurring slope lineae (RSL). For these reasons PRB may serve as analog organisms for possible life on Mars. However, there is very little information on the viability of PRB in aqueous environments that contain high levels of perchlorate Microorganisms on or near the surface of Mars, such as in the RSL, would potentially be exposed to high-salinity and high ultraviolet radiation environments. Under these extreme conditions, microorganisms must possess mechanisms for maintaining continued high genome fidelity. To assess possible microbial viability in contemporary Mars analog environments we are investigating the tolerance of two PRB strains in aqueous conditions under high UV-C conditions and high ClO4(-) concentrations.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "country": "United States",
+          "submissionId": 20170009814,
+          "endDate": "2017-04-28T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "c48d8d5db08e4b80b5f256cdcd1360dd",
+              "meta": {
+                "organization": {
+                  "name": "Lunar and Planetary Inst.",
+                  "location": "Houston, TX, United States"
+                }
+              },
+              "meetingId": "4f29c92927374bb592fba1e26d61948c",
+              "id": "de798c5a16184271bef1cb7ec1545ae5"
+            }
+          ],
+          "name": "Astrobiology Science Conference (AbSciCon 2017)",
+          "location": "Mesa, AZ",
+          "id": "4f29c92927374bb592fba1e26d61948c",
+          "startDate": "2017-04-24T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20170009814,
+          "id": "e8c1f17ab50242aa9ff19c20211c29bf",
+          "publicationDate": "2017-04-24T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20170009814.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20170009814/downloads/20170009814.pdf",
+            "pdf": "/api/citations/20170009814/downloads/20170009814.pdf",
+            "fulltext": "/api/citations/20170009814/downloads/20170009814.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 126.424484
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20180005357,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "cf43617be3104bce91b42b5f818c909c",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Life Sciences (General)"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "eccnNumber": "",
+        "submissionId": 20180005357,
+        "ear": "NO",
+        "id": "c5b6974f1aa0432387f1d755e4e82290",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-11T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "KSC-E-DAA-TN58241",
+        "Report Number: KSC-E-DAA-TN58241"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "NNX13AJ45A",
+          "submissionId": 20180005357,
+          "id": "d9dc1f220deb4eb9adec8422d11ea482",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Aiding in the Efforts of Bioregenerative Life Support for the Future Residents of Mars and Long-Duration Space Flights Plant Growth in Amended Martian Regolith Simulant",
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2018-09-17T10:32:27.4930000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20180005357,
+          "meta": {
+            "author": {
+              "name": "Onsay, Daphne"
+            },
+            "organization": {
+              "name": "Michigan State Univ.",
+              "location": "East Lansing, MI, United States"
+            }
+          },
+          "id": "8005a9fe108142be899a7bc76e1e9bac"
+        }
+      ],
+      "stiTypeDetails": "Other",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20180005357,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2018-09-17T10:32:27.4930000+00:00",
+      "center": {
+        "code": "KSC",
+        "name": "Kennedy Space Center",
+        "id": "a74d241e0e974719b03cb45cbace6b20"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Currently, the goal of plant growth research at KSC (Kennedy Space Center) is to provide a sustainable source of healthy food on long-duration space flights so astronauts and future residents of Mars can get the nutrition they need and produce food, recycle the atmosphere, and aid in recycling water. The sustainable production of food will aid in the efforts of closed life support. Plants have a vital application for bioregenerative life support as demands for food and oxygen can be provided through photosynthesis, while the carbon dioxide from human respiration is removed. In order for a growing medium to provide for plant growth, it needs to provide support, oxygen, ions, and liquid to the plant. This summer research determines how amended Martian regolith simulant acts as a growing medium for plants through looking at the structural properties of each amendment. Mars is covered with regolith which is crushed volcanic rock that is composed of a high amount of perchlorate salts. The composition of Martian soil is such that it is roughly basaltic and consists of sulfur, nitrates, and oxychlorine species. Martian regolith simulants have been generated to further analyze plant growth and aim to replicate features of the reference sample. The JSC (Johnson Space Center) Mars-1A regolith simulant resembles Martian regolith at the Viking I landing site. The objectives of the research this summer at Kennedy Space Center are to devise a plant growth in amended JSC Mars-1A Martian regolith simulant and perform crop studies to assess the performance of full duration crop growth in amended Martian regolith simulant. This research will provide a deeper understanding of how the combination of soil amendments to Martian regolith has a synergistic effect on improving crop production The plant growth experiment will be completed with three treatments each containing inorganic and organic soil amendments.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "publications": [
+        {
+          "submissionId": 20180005357,
+          "id": "63063bebc8374d1a8ff3c7115666ff3e",
+          "publicationDate": "2018-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20180005357.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20180005357/downloads/20180005357.pdf",
+            "pdf": "/api/citations/20180005357/downloads/20180005357.pdf",
+            "fulltext": "/api/citations/20180005357/downloads/20180005357.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 120.68378
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20150018058,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "85162cd215444d18869dc8067b215c01",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "Carbon dioxide and nitrogen",
+        "Life on Mars",
+        "presence of organics"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "eccnNumber": "",
+        "submissionId": 20150018058,
+        "ear": "NO",
+        "id": "f1943da9a76b4a4fad7f112a003d009e",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "ARC-E-DAA-TN24666",
+        "ARC-E-DAA-TN23602",
+        "Report Number: ARC-E-DAA-TN24666",
+        "Report Number: ARC-E-DAA-TN23602"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "WBS 811073.02.38.01.02",
+          "submissionId": 20150018058,
+          "id": "3f91c6fa727742799ea17cd25a603f5b",
+          "type": "WBS"
+        }
+      ],
+      "title": "The Icebreaker Mission to Search for Life on Mars",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2015-09-17T15:05:51.4600000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20150018058,
+          "meta": {
+            "author": {
+              "name": "Stoker, C."
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA United States"
+            }
+          },
+          "id": "9da51a4ad6244db9a92b939c8fa9b3e8"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20150018058,
+          "meta": {
+            "author": {
+              "name": "Mckay, C."
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA United States"
+            }
+          },
+          "id": "6765e61ebc87449985f4dc50609bb6ad"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20150018058,
+          "meta": {
+            "author": {
+              "name": "Brinckerhoff, W."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "a04c08660eca4b11b8c8527505b517b2"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20150018058,
+          "meta": {
+            "author": {
+              "name": "Davila, A."
+            },
+            "organization": {
+              "name": "Search for Extraterrestrial Intelligence Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "26295dc4a4634f04b256977135954b53"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20150018058,
+          "meta": {
+            "author": {
+              "name": "Parro, V."
+            },
+            "organization": {
+              "name": "Centro de Astrobiología",
+              "location": "Madrid, Spain"
+            }
+          },
+          "id": "4bc3cfc11ab44139a1eb8b7663ed7905"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20150018058,
+          "meta": {
+            "author": {
+              "name": "Quinn, R."
+            },
+            "organization": {
+              "name": "Search for Extraterrestrial Intelligence Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "17f1b0bc3e2c4a988a63a81aca532782"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20150018058,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2015-09-17T15:05:51.4600000+00:00",
+      "center": {
+        "code": "ARC",
+        "name": "Ames Research Center",
+        "id": "4540cd94d24c4bf29f8773a27faf96b2"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The search for evidence of life on Mars is the ultimate motivation for its scientific exploration. The results from the Phoenix mission indicate that the high N. latitude ice-rich regolith at low elevations is likely to be a recently habitable place on Mars [Stoker et al., 2010]. The near-surface ice likely provided adequate water activity during periods of high obliquity, 3 to 10 Myr ago. Carbon dioxide and nitrogen are present in the atmosphere, and nitrates may be present in the soil. Together with iron in basaltic rocks and perchlorate in the soil they provide carbon and energy sources, and oxidative power to drive metabolism. Furthermore, the presence of organics is possible, as thermally reactive perchlorate would have prevented their detection by Viking and Phoenix. The Mars Icebreaker Life mission [McKay et al., 2013] focuses on the following science goals: (1) Search for biomolecular evidence of life; (2) Search for organic matter from either exogeneous or endogeneous sources using methods that are not effected by the presence of perchlorate; (3) Characterize oxidative species that produced reactivity of soils seen by Viking; and 4) Assess the habitability of the ice bearing soils. The Icebreaker Life payload (Figure 1) includes a 1-m rotary percussive drill that brings cuttings samples to the surface where they are delivered to three instruments (Fig. 1), the Signs of Life Detector (SOLID) [Parro et al., 2011] for biomolecular analysis, Laser Desorption Mass Spectrometer (LDMS) [??? 2015]) for broad spectrum organic analysis, and Wet Chemistry Laboratory (WCL) [Hecht et al., 2009] for detecting soluble species of nutrients and reactive oxidants. The Icebreaker payload fits on the Phoenix spacecraft and can land at the well-characterized Phoe-nix landing site in 2020 in a Discovery-class mission.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "country": "United States",
+          "submissionId": 20150018058,
+          "endDate": "2015-06-19T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "c48d8d5db08e4b80b5f256cdcd1360dd",
+              "meta": {
+                "organization": {
+                  "name": "Lunar and Planetary Inst.",
+                  "location": "Houston, TX, United States"
+                }
+              },
+              "meetingId": "9a286696fa0f4538a13b9b94f9aad087",
+              "id": "7354afee9387455f91cccbf689e2e34c"
+            }
+          ],
+          "name": "Astrobiology Science Conference 2015",
+          "location": "Chicago, IL",
+          "id": "9a286696fa0f4538a13b9b94f9aad087",
+          "startDate": "2015-06-15T00:00:00.0000000+00:00"
+        },
+        {
+          "country": "United States",
+          "submissionId": 20150018058,
+          "endDate": "2015-08-16T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "c48d8d5db08e4b80b5f256cdcd1360dd",
+              "meta": {
+                "organization": {
+                  "name": "Lunar and Planetary Inst.",
+                  "location": "Houston, TX, United States"
+                }
+              },
+              "meetingId": "bae184a36d2d4a0c86a1d1091cc0805b",
+              "id": "dbdd47c8486f4cd18f75b0722c046332"
+            }
+          ],
+          "name": "Annual International Mars Society Convention",
+          "location": "Washington, D.C.",
+          "id": "bae184a36d2d4a0c86a1d1091cc0805b",
+          "startDate": "2015-08-13T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20150018058,
+          "id": "7ae4cbf901734496ba20ad8d0af57cc8",
+          "publicationDate": "2015-06-15T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20150018058.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20150018058/downloads/20150018058.pdf",
+            "pdf": "/api/citations/20150018058/downloads/20150018058.pdf",
+            "fulltext": "/api/citations/20150018058/downloads/20150018058.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 107.87914
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "MAY_INCLUDE_COPYRIGHT_MATERIAL",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "CCBY",
+        "submissionId": 20205001719,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "4cc4bfd972de4f31bfc8047f3d485931",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "Simulant",
+        "Mars",
+        "In-situ resource utilization",
+        "Evolved gas analysis",
+        "Rocknest"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20205001719,
+        "ear": "NO",
+        "id": "07eef87c25cd4aab873a3f4bf9b92d74",
+        "itar": "NO"
+      },
+      "distributionDate": "2020-06-27T04:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "NNJ13HA01C",
+          "submissionId": 20205001719,
+          "id": "3165414e6f424644a183d860d19562e1",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "submittedDate": "2020-05-04T17:38:57.4974160+00:00",
+      "title": "JSC-Rocknest: A Large-Scale Mojave Mars Simulant (MMS) Based Soil Simulant for In-Situ Resource Utilization Water-Extraction Studies",
+      "stiType": "ACCEPTED_MANUSCRIPT",
+      "distribution": "PUBLIC",
+      "authorAffiliations": [
+        {
+          "organizationId": "99fa64c96f0950678abfcdd84ba26bf5",
+          "sequence": 0,
+          "submissionId": 20205001719,
+          "meta": {
+            "author": {
+              "orcidId": "0000-0002-9544-0652",
+              "name": "J V Clark"
+            },
+            "organization": {
+              "name": "Jacobs (United States)",
+              "location": "Dallas, Texas, United States"
+            }
+          },
+          "id": "60767d693f97432a862f0f646a5c6f5d",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "ef5320d94e214ec4b91a87268c3b14e0"
+        },
+        {
+          "organizationId": "99fa64c96f0950678abfcdd84ba26bf5",
+          "sequence": 1,
+          "submissionId": 20205001719,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "P D Archer"
+            },
+            "organization": {
+              "name": "Jacobs (United States)",
+              "location": "Dallas, Texas, United States"
+            }
+          },
+          "id": "bac4297deb584ad0b4b1be7345e1a9eb",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "ea30596efc96421ab1f7da1fae105521"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 2,
+          "submissionId": 20205001719,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "J E Gruener"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "d9a824ddbaba490fb419f72b1eda38da",
+          "userType": "CIVIL",
+          "userId": "250ba6091dfd4470b437f82241e873f6"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 3,
+          "submissionId": 20205001719,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "D W Ming"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "18b0567deba84e17873df748dfc7fef8",
+          "userType": "CIVIL",
+          "userId": "2523831daebf436086dff73847d8e3d0"
+        },
+        {
+          "organizationId": "99fa64c96f0950678abfcdd84ba26bf5",
+          "sequence": 4,
+          "submissionId": 20205001719,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "V M Tu"
+            },
+            "organization": {
+              "name": "Jacobs (United States)",
+              "location": "Dallas, Texas, United States"
+            }
+          },
+          "id": "bf924de0e0044c2881a033da501dae23",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "45cc2a3979fd4325803dcaebbedcddda"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 5,
+          "submissionId": 20205001719,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "P B Niles"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "067370609e3f4b93a7c958356fc1687f",
+          "userType": "CIVIL",
+          "userId": "ec99094d871e4cc6b47d09621c7a721f"
+        },
+        {
+          "organizationId": "a8123a1d76385b1982e0de96bfe66549",
+          "sequence": 6,
+          "submissionId": 20205001719,
+          "meta": {
+            "author": {
+              "name": "S A Mertzman"
+            },
+            "organization": {
+              "name": "Franklin & Marshall College",
+              "location": "Lancaster, Pennsylvania, United States"
+            }
+          },
+          "id": "e2850d0c6e46447d8333e83712c2b6f4",
+          "userType": "OTHER"
+        }
+      ],
+      "stiTypeDetails": "Accepted Manuscript (Version with final changes)",
+      "technicalReviewType": "SINGLE_EXPERT",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20205001719,
+      "created": "2020-05-04T17:14:01.0104880+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The Johnson Space Center-Rocknest (JSC-RN) simulant was developed in response to a need by NASA's Advanced Exploration Systems (AES) In-Situ Resource Utilization (ISRU) project for a simulant to be used in component and system testing for water extraction from Mars regolith. JSC-RN was designed to be chemically and mineralogically similar to material from the aeolian sand shadow named Rocknest in Gale Crater, particularly the 1-3 wt.% low temperature (<450 ºC) water release as measured by the Sample Analysis at Mars (SAM) instrument on the  Curiosity rover. Sodium perchlorate, goethite, pyrite, ferric sulfate, regular and high capacity granular ferric oxide, and forsterite were added to a Mojave Mars Simulant (MMS) base in order to match the mineralogy, evolved gases, and elemental chemistry of Rocknest. Mineral and rock components were sent to the United States Geological Survey (USGS) in Denver for mixing. Approximately 800 kg of JSC-RN was sent back to NASA in 5 gallon buckets, which were subsampled and characterized. All samples of the USGS-produced simulants had similar evolved gas profiles as a small prototype batch of JSC-RN made in JSC laboratories, with the exception of HCl, and were similar in terms of mineralogy and total chemistry. Also, all JSC-RN subsamples were homogenous and had similar mineralogy, total chemistry, and low-temperature evolved gas profiles as the Rocknest aeolian sand shadow examined with Curiosity’s instrument suite on Mars. In particular, the low temperature water releases were similar and the amount of water evolved from JSC-RN at <450 ºC was similar to the water content of Rocknest based on SAM water peak integrations. Overall, JSC-RN is ideally suited for ISRU studies of water extraction of global martian soil due to its excellent agreement with measured properties of martian soils and its proven feasibility for large-scale production.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "country": "",
+          "submissionId": 20205001719,
+          "nctsn": "",
+          "name": "",
+          "location": "",
+          "id": "68c8b8539a504627bc188b802d223fc4",
+          "url": ""
+        }
+      ],
+      "status": "CURATED",
+      "publications": [
+        {
+          "issue": "",
+          "isbn": "",
+          "eissn": "",
+          "url": "",
+          "volume": "351",
+          "submissionId": 20205001719,
+          "issn": "0019-1035",
+          "publisher": "Elsevier",
+          "id": "28591b819b6f40ed8dbe597e7f5e8bf0",
+          "eisbn": "",
+          "publicationName": "Icarus",
+          "publicationDate": "2020-06-27T04:00:00.0000000+00:00",
+          "issuePublicationDate": "2020-11-15T05:00:00.0000000+00:00",
+          "doi": "10.1016/j.icarus.2020.113936"
+        }
+      ],
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "Clark_JSCRN_Submission_April30-2020.pdf",
+          "notes": "False positive - the numbers are line numbers and dates. ",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20205001719/downloads/Clark_JSCRN_Submission_April30-2020.pdf",
+            "pdf": "/api/citations/20205001719/downloads/Clark_JSCRN_Submission_April30-2020.pdf",
+            "fulltext": "/api/citations/20205001719/downloads/Clark_JSCRN_Submission_April30-2020.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 104.70033
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20180001276,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "cc2fcc5bb3c4411691b889e013adaa14",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Metals And Metallic Materials",
+        "Ground Support Systems And Facilities (Space)"
+      ],
+      "keywords": [
+        " Perchlorates",
+        " AA7075-T7",
+        " Aluminum Alloy",
+        " Corrosion",
+        " Brines",
+        "Mars"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20180001276,
+        "ear": "NO",
+        "id": "fb57f93454074a8799ca14d01810f3ba",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-11T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "NASA/TP-2017-219743",
+        "KSC-E-DAA-TN50505",
+        "Report Number: NASA/TP-2017-219743",
+        "Report Number: KSC-E-DAA-TN50505"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "NNK11EA08C",
+          "submissionId": 20180001276,
+          "id": "9f87db9f574143b7a91e6204b5768e03",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Corrosion on Mars: An Investigation of Corrosion Mechanisms Under Relevant Simulated Martian Environments",
+      "stiType": "TECHNICAL_PUBLICATION",
+      "distribution": "PUBLIC",
+      "submittedDate": "2018-02-15T11:03:19.1700000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20180001276,
+          "meta": {
+            "author": {
+              "name": "Calle, Luz M."
+            },
+            "organization": {
+              "name": "NASA Kennedy Space Center",
+              "location": "Cocoa Beach, FL United States"
+            }
+          },
+          "id": "e29fe8a585d9455a9fba47e4091c8e42"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20180001276,
+          "meta": {
+            "author": {
+              "name": "Li, Wenyan"
+            },
+            "organization": {
+              "name": "Vencore Services and Solutions, Inc.",
+              "location": "Kennedy Space Center, FL, United States"
+            }
+          },
+          "id": "e3134b6df1c74ad19716662f323bd891"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20180001276,
+          "meta": {
+            "author": {
+              "name": "Johansen, Michael R."
+            },
+            "organization": {
+              "name": "NASA Kennedy Space Center",
+              "location": "Cocoa Beach, FL United States"
+            }
+          },
+          "id": "dcc20666fc9040ca82bdeacebf730a11"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20180001276,
+          "meta": {
+            "author": {
+              "name": "Buhrow, Jerry W."
+            },
+            "organization": {
+              "name": "Sierra Lobo, Inc.",
+              "location": "Kennedy Space Center, FL, United States"
+            }
+          },
+          "id": "6fda7614daed47ae8c5ebb87b8145742"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20180001276,
+          "meta": {
+            "author": {
+              "name": "Calle, Carlos I."
+            },
+            "organization": {
+              "name": "NASA Kennedy Space Center",
+              "location": "Cocoa Beach, FL United States"
+            }
+          },
+          "id": "d96f4def733641d0822781e200f0c48a"
+        }
+      ],
+      "stiTypeDetails": "Technical Publication (TP)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20180001276,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2018-02-15T11:03:19.1700000+00:00",
+      "center": {
+        "code": "KSC",
+        "name": "Kennedy Space Center",
+        "id": "a74d241e0e974719b03cb45cbace6b20"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "This one-year project was selected by NASA's Science Innovation Fund in FY17 to address Corrosion on Mars which is a problem that has not been addressed before. Corrosion resistance is one of the most important properties in selecting materials for landed spacecraft and structures that will support surface operations for the human exploration of Mars. Currently, the selection of materials is done by assuming that the corrosion behavior of a material on Mars will be the same as that on Earth. This is understandable given that there is no data regarding the corrosion resistance of materials in the Mars environment. However, given that corrosion is defined as the degradation of a metal that results from its chemical interaction with the environment, it cannot be assumed that corrosion is going to be the same in both environments since they are significantly different. The goal of this research is to develop a systematic approach to understand corrosion of spacecraft materials on Mars by conducting a literature search of available data, relevant to corrosion in the Mars environment, and by performing preliminary laboratory experiments under relevant simulated Martian conditions. This project was motivated by the newly found evidence for the presence of transient liquid brines on Mars that coincided with the suggestion, by a team of researchers, that some of the structural degradation observed on Curiosity's wheels may be caused by corrosive interactions with the brines, while the most significant damage was attributed to rock scratching. An extensive literature search on data relevant to Mars corrosion confirmed the need for further investigation of the interaction between materials used for spacecraft and structures designed to support long-term surface operations on Mars. Simple preliminary experiments, designed to look at the interaction between an aerospace aluminum alloy (AA7075-T73) and the gases present in the Mars atmosphere, at 20degC and a pressure of 700 Pa, showed that there is an interaction between the small amount of oxygen present in the Mars gas and the alloy when there is a scratch that removes the protective aluminum oxide film. Further studies are needed to consider many other important components of the Mars environment that can affect this interaction such as: the effect of oxidants, the effect of radiation on their oxidizing properties and the possible catalytic effects of the clays present in the Martian regolith. The results of this one-year project provide strong justification for further investigation of the corrosion mechanism of materials relevant to long-term surface operations in support of future human exploration missions on Mars.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "publications": [
+        {
+          "submissionId": 20180001276,
+          "id": "c4aef229685c4ce7ae87b92d7d3f8105",
+          "publicationDate": "2017-12-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20180001276.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20180001276/downloads/20180001276.pdf",
+            "pdf": "/api/citations/20180001276/downloads/20180001276.pdf",
+            "fulltext": "/api/citations/20180001276/downloads/20180001276.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 91.127075
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20140010934,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "f3062d63f091481b95ac73ae0f1c9891",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "sample analysis at mars",
+        "Mars Science Laboratory",
+        "MTBSTFA",
+        "chlorohydrocarbons",
+        "perchlorates",
+        "Rocknest soil"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20140010934,
+        "ear": "NO",
+        "id": "6d7e921fa4c24a3d993a19725fbf5595",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-11T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "GSFC-E-DAA-TN10014",
+        "Report Number: GSFC-E-DAA-TN10014"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "NNJ13HA01C",
+          "submissionId": 20140010934,
+          "id": "f76c7b0d6a434e2584128dd892215dc7",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "NNG06EO90A",
+          "submissionId": 20140010934,
+          "id": "f376ea17addd4ff5a0efa3c5c7097fc1",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "NNH06CC03B",
+          "submissionId": 20140010934,
+          "id": "45cc312448474803beea6ce39b1121ec",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Evidence for Perchlorates and the Origin of Chlorinated Hydrocarbons Detected by SAM at the Rocknest Aeolian Deposit in Gale Crater",
+      "stiType": "REPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2014-08-22T08:42:28.6700000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Glavin, Daniel P."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD United States"
+            }
+          },
+          "id": "18ce93545294431b82778cc48e44f230"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Freissinet, Caroline"
+            },
+            "organization": {
+              "name": "Oak Ridge Associated Universities, Inc.",
+              "location": "Oak Ridge, TN, United States"
+            }
+          },
+          "id": "7b0c7a189ede4450aeb4ba914259cdaf"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Miller, Kristen E."
+            },
+            "organization": {
+              "name": "Massachusetts Inst. of Tech.",
+              "location": "Cambridge, MA, United States"
+            }
+          },
+          "id": "23b1c735ecb04a6782b568faa43776fa"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Eigenbrode, Jennifer L."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD United States"
+            }
+          },
+          "id": "5551d2164ad34355b5ebc6239c767ead"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Brunner, Anna E."
+            },
+            "organization": {
+              "name": "Maryland Univ.",
+              "location": "College Park, MD, United States"
+            }
+          },
+          "id": "562a8998a7b645309e9a9a546b29f084"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Buch, Arnaud"
+            },
+            "organization": {
+              "name": "Ecole Centrale de Paris",
+              "location": "France"
+            }
+          },
+          "id": "3a9733774a5247dd872cae0ba3533b07"
+        },
+        {
+          "sequence": 6,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Sutter, Brad"
+            },
+            "organization": {
+              "name": "Jacobs Technology, Inc.",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "98c9a165071c47a2b0e75d2468a68284"
+        },
+        {
+          "sequence": 7,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Archer, P. Douglas, Jr."
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "2888d6da33814021b2a3ea91232018ed"
+        },
+        {
+          "sequence": 8,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Atreya, Sushil K."
+            },
+            "organization": {
+              "name": "Michigan Univ.",
+              "location": "Ann Arbor, MI, United States"
+            }
+          },
+          "id": "78905ebcbc314a53a7f20bc91e2e1a2a"
+        },
+        {
+          "sequence": 9,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Brinckerhoff, William B."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "d6273f41bb7a45e3815821b9eacbf04f"
+        },
+        {
+          "sequence": 10,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Cabane, Michel"
+            },
+            "organization": {
+              "name": "Centre National de la Recherche Scientifique",
+              "location": "Paris, France"
+            }
+          },
+          "id": "6fafd801da6d4cc3b73184bec9187cd9"
+        },
+        {
+          "sequence": 11,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Coll, Patrice"
+            },
+            "organization": {
+              "name": "Centre National de la Recherche Scientifique",
+              "location": "Paris, France"
+            }
+          },
+          "id": "1bbf3ecf90074268bedafc2d28a9920f"
+        },
+        {
+          "sequence": 12,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Conrad, Pamela G."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "c7615881b7914e9bbcf18ec867774375"
+        },
+        {
+          "sequence": 13,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Coscia, David"
+            },
+            "organization": {
+              "name": "Centre National de la Recherche Scientifique",
+              "location": "Paris, France"
+            }
+          },
+          "id": "9d6ad73aab26419eb2d652c5bb5b8a5c"
+        },
+        {
+          "sequence": 14,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Dworkin, Jason P."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD United States"
+            }
+          },
+          "id": "9964754cc6834f36b19fad4407e18425"
+        },
+        {
+          "sequence": 15,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Franz, Heather B."
+            },
+            "organization": {
+              "name": "Maryland Univ.",
+              "location": "Baltimore, MD, United States"
+            }
+          },
+          "id": "f788e37de8874f2b857c2a6618898bf7"
+        },
+        {
+          "sequence": 16,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Grotzinger, John P."
+            },
+            "organization": {
+              "name": "California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "c80d10f234a24eda81c59a77e9b871e1"
+        },
+        {
+          "sequence": 17,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Leshin, Laurie A."
+            },
+            "organization": {
+              "name": "Rensselaer Polytechnic Inst.",
+              "location": "Troy, NY, United States"
+            }
+          },
+          "id": "ebbd0f0e05e443259af53b0d93769f08"
+        },
+        {
+          "sequence": 18,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Martin, Mildred G."
+            },
+            "organization": {
+              "name": "Catholic Univ. of America",
+              "location": "Washington, DC, United States"
+            }
+          },
+          "id": "9d20a34468304db1a2cfc2f01e94ad5e"
+        },
+        {
+          "sequence": 19,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "McKay, Christopher"
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "40deb0eaaa4d40b9881f9206d6efcbc0"
+        },
+        {
+          "sequence": 20,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Ming, Douglas W."
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "6ef0f9d474ec46fe800972f415eb612d"
+        },
+        {
+          "sequence": 21,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Navarro-Gonzalez, Rafael"
+            },
+            "organization": {
+              "name": "Ciudad Univ.",
+              "location": "Mexico City, Mexico"
+            }
+          },
+          "id": "02ae3fcc868c418ba349a57464a38fcd"
+        },
+        {
+          "sequence": 22,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Pavlov, Alexander"
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD United States"
+            }
+          },
+          "id": "3180771f93d1443699c21fffba953258"
+        },
+        {
+          "sequence": 23,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Steele, Andrew"
+            },
+            "organization": {
+              "name": "Carnegie Institution of Washington",
+              "location": "Washington, DC, United States"
+            }
+          },
+          "id": "5590790dd85c43ddb55dfd6826caf72d"
+        },
+        {
+          "sequence": 24,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Summons, Roger E."
+            },
+            "organization": {
+              "name": "Massachusetts Inst. of Tech.",
+              "location": "Cambridge, MA, United States"
+            }
+          },
+          "id": "ef13bb48156e4f078f2e5c69359adab4"
+        },
+        {
+          "sequence": 25,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Szopa, Cyril"
+            },
+            "organization": {
+              "name": "Centre National de la Recherche Scientifique",
+              "location": "Paris, France"
+            }
+          },
+          "id": "30401b534b3249c2ad90d0b6df91bedf"
+        },
+        {
+          "sequence": 26,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Teinturier, Samuel"
+            },
+            "organization": {
+              "name": "Centre National de la Recherche Scientifique",
+              "location": "Paris, France"
+            }
+          },
+          "id": "f43125299e194d59b847e8a2e09a91cc"
+        },
+        {
+          "sequence": 27,
+          "submissionId": 20140010934,
+          "meta": {
+            "author": {
+              "name": "Mahaffy, Paul R."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD United States"
+            }
+          },
+          "id": "90e6fa9c61dd462e84cad19dee4b31b6"
+        }
+      ],
+      "stiTypeDetails": "Reprint (Version printed in journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20140010934,
+      "sourceIdentifiers": [
+        {
+          "number": "doi:10.1002/jgre.20144",
+          "submissionId": 20140010934,
+          "id": "773b1640e43c4acea07b83140397796d",
+          "type": "DOI"
+        },
+        {
+          "submissionId": 20140010934,
+          "id": "50f8d3d534984793968eacad1b23cb40",
+          "descriptor": "doi:10.1002/jgre.20144"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2014-08-22T08:42:28.6700000+00:00",
+      "center": {
+        "code": "GSFC",
+        "name": "Goddard Space Flight Center",
+        "id": "973fae00c3584b9fb4c762ae9870d0f6"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "A single scoop of the Rocknest aeolian deposit was sieved (less than 150 micrometers), and four separate sample portions, each with a mass of approximately 50 mg, were delivered to individual cups inside the Sample Analysis at Mars (SAM) instrument by the Mars Science Laboratory rover's sample acquisition system. The samples were analyzed separately by the SAM pyrolysis evolved gas and gas chromatograph mass spectrometer analysis modes. Several chlorinated hydrocarbons including chloromethane, dichloromethane, trichloromethane, a chloromethylpropene, and chlorobenzene were identified by SAM above background levels with abundances of approximately 0.01 to 2.3 nmol. The evolution of the chloromethanes observed during pyrolysis is coincident with the increase in O2 released from the Rocknest sample and the decomposition of a product of N-methyl-N-(tert-butyldimethylsilyl)-trifluoroacetamide (MTBSTFA), a chemical whose vapors were released from a derivatization cup inside SAM. The best candidate for the oxychlorine compounds in Rocknest is a hydrated calcium perchlorate (Ca(ClO4)2·nH2O), based on the temperature release of O2 that correlates with the release of the chlorinated hydrocarbons measured by SAM, although other chlorine-bearing phases are being considered. Laboratory analog experiments suggest that the reaction of Martian chlorine from perchlorate decomposition with terrestrial organic carbon from MTBSTFA during pyrolysis can explain the presence of three chloromethanes and a chloromethylpropene detected by SAM. Chlorobenzene may be attributed to reactions of Martian chlorine released during pyrolysis with terrestrial benzene or toluene derived from 2,6-diphenylphenylene oxide (Tenax) on the SAM hydrocarbon trap. At this time we do not have definitive evidence to support a nonterrestrial carbon source for these chlorinated hydrocarbons, nor do we exclude the possibility that future SAM analyses will reveal the presence of organic compounds native to the Martian regolith.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "publications": [
+        {
+          "volume": "118",
+          "submissionId": 20140010934,
+          "issue": "10",
+          "publisher": "AGU",
+          "id": "44f8fcc3e3504cb3a3723650140d38b8",
+          "publicationName": "Journal of Geophysical Research: Planets",
+          "publicationDate": "2013-10-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20140010934.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20140010934/downloads/20140010934.pdf",
+            "pdf": "/api/citations/20140010934/downloads/20140010934.pdf",
+            "fulltext": "/api/citations/20140010934/downloads/20140010934.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    }
+  ],
+  "aggregations": {
+    "created": {
+      "buckets": [
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2020",
+          "key": 1577836800000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "author": {
+      "doc_count_error_upper_bound": 2,
+      "sum_other_doc_count": 133,
+      "buckets": [
+        {
+          "key": "Freissinet, Caroline",
+          "doc_count": 3
+        },
+        {
+          "key": "Atreya, Sushil K.",
+          "doc_count": 2
+        },
+        {
+          "key": "Buch, Arnaud",
+          "doc_count": 2
+        },
+        {
+          "key": "Cabane, Michel",
+          "doc_count": 2
+        },
+        {
+          "key": "Coll, Patrice",
+          "doc_count": 2
+        },
+        {
+          "key": "Eigenbrode, Jennifer L.",
+          "doc_count": 2
+        },
+        {
+          "key": "Mahaffy, Paul R.",
+          "doc_count": 2
+        },
+        {
+          "key": "Steele, Andrew",
+          "doc_count": 2
+        },
+        {
+          "key": "Szopa, Cyril",
+          "doc_count": 2
+        },
+        {
+          "key": "A Mojarro",
+          "doc_count": 1
+        },
+        {
+          "key": "A.C. Noell",
+          "doc_count": 1
+        },
+        {
+          "key": "A.J. Ricco",
+          "doc_count": 1
+        },
+        {
+          "key": "Aaron Zent",
+          "doc_count": 1
+        },
+        {
+          "key": "Alexander A. Pavlov",
+          "doc_count": 1
+        },
+        {
+          "key": "Anais Roussel",
+          "doc_count": 1
+        },
+        {
+          "key": "Andrew Duncan",
+          "doc_count": 1
+        },
+        {
+          "key": "Andrew Jackson",
+          "doc_count": 1
+        },
+        {
+          "key": "Archer, D.",
+          "doc_count": 1
+        },
+        {
+          "key": "Archer, Douglas, Jr.",
+          "doc_count": 1
+        },
+        {
+          "key": "Archer, P. D.",
+          "doc_count": 1
+        }
+      ]
+    },
+    "reportNumber": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 16,
+      "buckets": [
+        {
+          "key": "ARC-E-DAA-TN23602",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN24666",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN40581",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN8079",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN8684",
+          "doc_count": 1
+        },
+        {
+          "key": "E-ISSN: 2169-9100",
+          "doc_count": 1
+        },
+        {
+          "key": "GSFC-E-DAA-TN10014",
+          "doc_count": 1
+        },
+        {
+          "key": "GSFC-E-DAA-TN13374",
+          "doc_count": 1
+        },
+        {
+          "key": "GSFC-E-DAA-TN40326",
+          "doc_count": 1
+        },
+        {
+          "key": "GSFC.ABS.6681.2012",
+          "doc_count": 1
+        },
+        {
+          "key": "ISSN: 2169-9097",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-25583",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-27930",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-30038",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-E-DAA-TN64834",
+          "doc_count": 1
+        },
+        {
+          "key": "KSC-E-DAA-TN50505",
+          "doc_count": 1
+        },
+        {
+          "key": "KSC-E-DAA-TN58241",
+          "doc_count": 1
+        },
+        {
+          "key": "LPI-Contrib-1468",
+          "doc_count": 1
+        },
+        {
+          "key": "NASA/TP-2017-219743",
+          "doc_count": 1
+        },
+        {
+          "key": "Report Number: ARC-E-DAA-TN23602",
+          "doc_count": 1
+        }
+      ]
+    },
+    "center": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "ARC",
+          "doc_count": 6
+        },
+        {
+          "key": "GSFC",
+          "doc_count": 6
+        },
+        {
+          "key": "JSC",
+          "doc_count": 5
+        },
+        {
+          "key": "KSC",
+          "doc_count": 3
+        },
+        {
+          "key": "HQ",
+          "doc_count": 1
+        }
+      ]
+    },
+    "index": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "submissions-2026-10-22-05-25",
+          "doc_count": 21
+        },
+        {
+          "key": "chorus-2026-10-24-05-58",
+          "doc_count": 1
+        }
+      ]
+    },
+    "fundingNumber": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 2,
+      "buckets": [
+        {
+          "key": "NNJ13HA01C",
+          "doc_count": 4
+        },
+        {
+          "key": "NNG06EO90A",
+          "doc_count": 2
+        },
+        {
+          "key": "NNH06CC03B",
+          "doc_count": 2
+        },
+        {
+          "key": "308493.50.76",
+          "doc_count": 1
+        },
+        {
+          "key": "631075.05.01.01.06",
+          "doc_count": 1
+        },
+        {
+          "key": "80GSFC21M0002",
+          "doc_count": 1
+        },
+        {
+          "key": "80NSSC18K1692",
+          "doc_count": 1
+        },
+        {
+          "key": "80NSSC20K0227",
+          "doc_count": 1
+        },
+        {
+          "key": "80NSSC25PA511",
+          "doc_count": 1
+        },
+        {
+          "key": "811073.02.52.01.04.06",
+          "doc_count": 1
+        },
+        {
+          "key": "811073.02.52.01.48",
+          "doc_count": 1
+        },
+        {
+          "key": "NNH-09ZDA007O",
+          "doc_count": 1
+        },
+        {
+          "key": "NNK11EA08C",
+          "doc_count": 1
+        },
+        {
+          "key": "NNM10AA11C",
+          "doc_count": 1
+        },
+        {
+          "key": "NNX10AF13A",
+          "doc_count": 1
+        },
+        {
+          "key": "NNX10AK71A",
+          "doc_count": 1
+        },
+        {
+          "key": "NNX13AJ45A",
+          "doc_count": 1
+        },
+        {
+          "key": "NNX14AG39G",
+          "doc_count": 1
+        },
+        {
+          "key": "SAA2401923",
+          "doc_count": 1
+        },
+        {
+          "key": "WBS 203959.02.02.20.01",
+          "doc_count": 1
+        }
+      ]
+    },
+    "published": {
+      "buckets": [
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "2012",
+          "key": 1325376000000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2009",
+          "key": 1230768000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2020",
+          "key": 1577836800000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "distribution": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "PUBLIC",
+          "doc_count": 22
+        }
+      ]
+    },
+    "stiType": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "CONFERENCE_PAPER",
+          "doc_count": 8
+        },
+        {
+          "key": "REPRINT",
+          "doc_count": 4
+        },
+        {
+          "key": "ACCEPTED_MANUSCRIPT",
+          "doc_count": 3
+        },
+        {
+          "key": "ABSTRACT",
+          "doc_count": 2
+        },
+        {
+          "key": "OTHER",
+          "doc_count": 2
+        },
+        {
+          "key": "CONFERENCE_PROCEEDINGS",
+          "doc_count": 1
+        },
+        {
+          "key": "TECHNICAL_PUBLICATION",
+          "doc_count": 1
+        },
+        {
+          "key": "WHITE_PAPER",
+          "doc_count": 1
+        }
+      ]
+    },
+    "subjectCategory": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Lunar And Planetary Science And Exploration",
+          "doc_count": 15
+        },
+        {
+          "key": "Life Sciences (General)",
+          "doc_count": 3
+        },
+        {
+          "key": "Chemistry And Materials (General)",
+          "doc_count": 1
+        },
+        {
+          "key": "Exobiology",
+          "doc_count": 1
+        },
+        {
+          "key": "Ground Support Systems And Facilities (Space)",
+          "doc_count": 1
+        },
+        {
+          "key": "Man/System Technology and Life Support",
+          "doc_count": 1
+        },
+        {
+          "key": "Metals And Metallic Materials",
+          "doc_count": 1
+        },
+        {
+          "key": "Solar Physics",
+          "doc_count": 1
+        },
+        {
+          "key": "Space Sciences (General)",
+          "doc_count": 1
+        }
+      ]
+    },
+    "disseminated": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "DOCUMENT_AND_METADATA",
+          "doc_count": 20
+        },
+        {
+          "key": "METADATA_ONLY",
+          "doc_count": 2
+        }
+      ]
+    },
+    "stiTypeDetails": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Conference Paper",
+          "doc_count": 8
+        },
+        {
+          "key": "Accepted Manuscript (Version with final changes)",
+          "doc_count": 3
+        },
+        {
+          "key": "Reprint (Version printed in journal)",
+          "doc_count": 3
+        },
+        {
+          "key": "Abstract",
+          "doc_count": 2
+        },
+        {
+          "key": "Other",
+          "doc_count": 2
+        },
+        {
+          "key": "Conference Proceedings",
+          "doc_count": 1
+        },
+        {
+          "key": "Technical Publication (TP)",
+          "doc_count": 1
+        },
+        {
+          "key": "Version of Record",
+          "doc_count": 1
+        },
+        {
+          "key": "White Paper",
+          "doc_count": 1
+        }
+      ]
+    },
+    "organization": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 33,
+      "buckets": [
+        {
+          "key": "NASA Ames Research Center",
+          "doc_count": 7
+        },
+        {
+          "key": "NASA Goddard Space Flight Center",
+          "doc_count": 7
+        },
+        {
+          "key": "NASA Johnson Space Center",
+          "doc_count": 5
+        },
+        {
+          "key": "Carnegie Institution of Washington",
+          "doc_count": 4
+        },
+        {
+          "key": "Ecole Centrale de Paris",
+          "doc_count": 4
+        },
+        {
+          "key": "Ames Research Center",
+          "doc_count": 3
+        },
+        {
+          "key": "Maryland Univ.",
+          "doc_count": 3
+        },
+        {
+          "key": "Massachusetts Inst. of Tech.",
+          "doc_count": 3
+        },
+        {
+          "key": "Oak Ridge Associated Universities",
+          "doc_count": 3
+        },
+        {
+          "key": "Paris VI Univ.",
+          "doc_count": 3
+        },
+        {
+          "key": "Universidad Nacional Autonoma de Mexico",
+          "doc_count": 3
+        },
+        {
+          "key": "California Inst. of Tech.",
+          "doc_count": 2
+        },
+        {
+          "key": "Catholic Univ. of America",
+          "doc_count": 2
+        },
+        {
+          "key": "Jacobs Technologies Engineering Science Contract Group",
+          "doc_count": 2
+        },
+        {
+          "key": "Jacobs Technology, Inc.",
+          "doc_count": 2
+        },
+        {
+          "key": "Johnson Space Center",
+          "doc_count": 2
+        },
+        {
+          "key": "Michigan Univ.",
+          "doc_count": 2
+        },
+        {
+          "key": "Paris Univ.",
+          "doc_count": 2
+        },
+        {
+          "key": "Search for Extraterrestrial Intelligence Inst.",
+          "doc_count": 2
+        },
+        {
+          "key": "",
+          "doc_count": 1
+        }
+      ]
+    },
+    "modified": {
+      "buckets": [
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 19
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 2
+        }
+      ]
+    },
+    "keyword": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 11,
+      "buckets": [
+        {
+          "key": "Mars",
+          "doc_count": 2
+        },
+        {
+          "key": " AA7075-T7",
+          "doc_count": 1
+        },
+        {
+          "key": " Aluminum Alloy",
+          "doc_count": 1
+        },
+        {
+          "key": " Brines",
+          "doc_count": 1
+        },
+        {
+          "key": " Corrosion",
+          "doc_count": 1
+        },
+        {
+          "key": " Mars",
+          "doc_count": 1
+        },
+        {
+          "key": " Perchlorates",
+          "doc_count": 1
+        },
+        {
+          "key": " oxides",
+          "doc_count": 1
+        },
+        {
+          "key": " perchlorate acid",
+          "doc_count": 1
+        },
+        {
+          "key": "Carbon dioxide and nitrogen",
+          "doc_count": 1
+        },
+        {
+          "key": "Evolved gas analysis",
+          "doc_count": 1
+        },
+        {
+          "key": "Galw Crater",
+          "doc_count": 1
+        },
+        {
+          "key": "In-situ resource utilization",
+          "doc_count": 1
+        },
+        {
+          "key": "Life on Mars",
+          "doc_count": 1
+        },
+        {
+          "key": "MTBSTFA",
+          "doc_count": 1
+        },
+        {
+          "key": "Mars Curiosity Rover",
+          "doc_count": 1
+        },
+        {
+          "key": "Mars Science Laboratory",
+          "doc_count": 1
+        },
+        {
+          "key": "Mars regolith",
+          "doc_count": 1
+        },
+        {
+          "key": "Organic Compounds",
+          "doc_count": 1
+        },
+        {
+          "key": "Rocknest",
+          "doc_count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "generado": "2026-11-14T14:03:50-0500",
+  "fuente": "Recursos NASA entregados para el reto, 2026-11-14",
+  "recursos": [
+    {
+      "id": "mars_trek",
+      "url": "https://trek.nasa.gov/mars/",
+      "estado": "reutilizado",
+      "relevancia": "alta",
+      "aporta": "Capas listas para web: DEM MOLA, mosaico Viking, travesía, waypoints, elipse, minerales y geología.",
+      "decision": "integrar",
+      "limitaciones": "Base Viking de 232 m/px y DEM regional; no resuelve pendientes locales de una caminata.",
+      "evidencia": "Evidencias/datos/mars_trek/auditoria.json",
+      "resumen_auditoria": {
+        "servicios": 76,
+        "recursos_ok": null,
+        "recursos_total": null
+      }
+    },
+    {
+      "id": "usgs_pgm",
+      "url": "https://astrogeology-usgs.hub.arcgis.com/pages/interactive-maps-mars",
+      "estado": "ok",
+      "relevancia": "alta para ciencia y citas; media para capas web",
+      "aporta": "Catálogo de 148 mapas geológicos de Marte, ficha y vista previa del mapa de Jezero (SIM 3464) y enlaces interactivos por hoja.",
+      "decision": "usar como fuente de fichas, citas y enlace científico; no como capa raster",
+      "limitaciones": "Es un índice de mapas, no un mapa geológico continuo. La vista previa no está georreferenciada.",
+      "evidencia": [
+        "Evidencias/datos/recursos_nasa_2026/usgs_pgm_jezero.json",
+        "Evidencias/datos/recursos_nasa_2026/usgs_sim3464_preview.png",
+        "Evidencias/datos/recursos_nasa_2026/usgs_mars_webmap.json"
+      ]
+    },
+    {
+      "id": "curiosity_mount_sharp",
+      "url": "https://science.nasa.gov/resource/curiositys-proposed-path-up-mount-sharp/",
+      "estado": "ok",
+      "relevancia": "media (analogía, no Jezero)",
+      "aporta": "Animación de una ruta propuesta por la ladera de Mount Sharp (Gale).",
+      "decision": "usar solo como referencia visual de comunicación de rutas",
+      "limitaciones": "No es un dato georreferenciado ni una ruta validada.",
+      "evidencia": [
+        "Evidencias/datos/recursos_nasa_2026/curiosity_mount_sharp.json",
+        "Evidencias/datos/recursos_nasa_2026/curiosity_mount_sharp_route.gif"
+      ]
+    },
+    {
+      "id": "worldview",
+      "url": "https://worldview.earthdata.nasa.gov/",
+      "estado": "ok, no aplica",
+      "relevancia": "ninguna para Marte",
+      "aporta": "Observación de la Tierra, no de Marte.",
+      "decision": "rechazar para el MVP",
+      "limitaciones": "No contiene capas marcianas.",
+      "evidencia": "Evidencias/datos/recursos_nasa_2026/worldview_nota.json"
+    },
+    {
+      "id": "mars2020_raw_images",
+      "url": "https://mars.nasa.gov/mars2020/multimedia/raw-images/",
+      "estado": "ok",
+      "relevancia": "media para contexto visual; baja para el mapa",
+      "aporta": "Catálogo de más de un millón de imágenes crudas de Perseverance, con sol, instrumento, fecha UTC y crédito.",
+      "decision": "usar solo en una ficha o galería de contexto, nunca como capa georreferenciada",
+      "limitaciones": "Sin coordenadas, sin tiempo real y con abundantes primeros planos técnicos.",
+      "evidencia": [
+        "Evidencias/datos/recursos_nasa_2026/mars2020_raw_images.json",
+        "Evidencias/datos/recursos_nasa_2026/mars2020_mcz_sol2024_800.jpg",
+        "Evidencias/datos/recursos_nasa_2026/mars2020_supercam_sol2031_800.jpg"
+      ]
+    }
+  ],
+  "peticiones": [
+    {
+      "recurso": "USGS Hub — mapas interactivos de Marte",
+      "url": "https://astrogeology-usgs.hub.arcgis.com/pages/interactive-maps-mars",
+      "estado": 200,
+      "tipo": "text/html; charset=utf-8",
+      "bytes": 114135,
+      "segundos": 0.85
+    },
+    {
+      "recurso": "USGS — configuración de la app Marte",
+      "url": "https://usgs.maps.arcgis.com/sharing/rest/content/items/f693b580b2464e6989f32e4266199552/data?f=pjson",
+      "estado": 200,
+      "tipo": "text/plain;charset=utf-8",
+      "bytes": 31794,
+      "segundos": 0.63
+    },
+    {
+      "recurso": "USGS — web map de Marte",
+      "url": "https://usgs.maps.arcgis.com/sharing/rest/content/items/6136a40d6f6a40508e3b4dd2dd64f82a/data?f=pjson",
+      "estado": 200,
+      "tipo": "text/plain;charset=utf-8",
+      "bytes": 4829,
+      "segundos": 0.48
+    },
+    {
+      "recurso": "PGM — metadatos del FeatureServer",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/PGM_Map_Database_MARS_INTERACTIVE2/FeatureServer/1?f=pjson",
+      "estado": 200,
+      "tipo": "application/json; charset=utf-8",
+      "bytes": 49785,
+      "segundos": 0.76
+    },
+    {
+      "recurso": "PGM — total de mapas",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/PGM_Map_Database_MARS_INTERACTIVE2/FeatureServer/1/query?where=1%3D1&returnCountOnly=true&f=json",
+      "estado": 200,
+      "tipo": "application/json; charset=utf-8",
+      "bytes": 13,
+      "segundos": 0.55
+    },
+    {
+      "recurso": "PGM — ficha SIM 3464 (Jezero)",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/PGM_Map_Database_MARS_INTERACTIVE2/FeatureServer/1/query?where=USGSMapNumber%3D%27SIM%203464%27&outFields=*&returnGeometry=false&f=json",
+      "estado": 200,
+      "tipo": "application/json; charset=utf-8",
+      "bytes": 7929,
+      "segundos": 0.51
+    },
+    {
+      "recurso": "PGM — mapas que cubren Jezero",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/PGM_Map_Database_MARS_INTERACTIVE2/FeatureServer/1/query?where=1%3D1&geometry=-77.7,18.1,-77.2,18.7&geometryType=esriGeometryEnvelope&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=MapTitle,USGSMapNumber,PublicationDate,MapScale,FormattedAuthors,USGSPublicationPage,InteractiveMap,FullImageLink,InsetImageLink,SuggestedCitation&returnGeometry=false&f=json",
+      "estado": 200,
+      "tipo": "application/json; charset=utf-8",
+      "bytes": 7179,
+      "segundos": 0.67
+    },
+    {
+      "recurso": "USGS — vista previa SIM 3464",
+      "url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/SIM3464_Jezero_Mars_CROPPED.png",
+      "estado": 200,
+      "tipo": "image/png",
+      "bytes": 552130,
+      "segundos": 2.81
+    },
+    {
+      "recurso": "NASA Science — ruta propuesta de Curiosity",
+      "url": "https://science.nasa.gov/resource/curiositys-proposed-path-up-mount-sharp/",
+      "estado": 200,
+      "tipo": "text/html; charset=UTF-8",
+      "bytes": 265836,
+      "segundos": 4.02
+    },
+    {
+      "recurso": "NASA Science — GIF de la ruta",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/mars/resources/detail_files/2/22472_PIA23179-combo-rev_main.gif/jcr:content/renditions/cq5dam.web.1280.1280.gif",
+      "estado": 200,
+      "tipo": "image/gif",
+      "bytes": 191222,
+      "segundos": 1.47
+    },
+    {
+      "recurso": "NASA Worldview",
+      "url": "https://worldview.earthdata.nasa.gov/",
+      "estado": 200,
+      "tipo": "text/html",
+      "bytes": 4315,
+      "segundos": 0.9
+    },
+    {
+      "recurso": "Mars 2020 — catálogo de imágenes crudas",
+      "url": "https://mars.nasa.gov/rss/api/?feed=raw_images&category=mars2020&feedtype=json&num=100&page=1",
+      "estado": 200,
+      "tipo": "application/json;charset=UTF-8",
+      "bytes": 217917,
+      "segundos": 0.82
+    },
+    {
+      "recurso": "Mars 2020 — último sol publicado",
+      "url": "https://mars.nasa.gov/rss/api/?feed=raw_images&category=mars2020,ingenuity&feedtype=json&ver=1.2&latest=true",
+      "estado": 200,
+      "tipo": "application/json;charset=UTF-8",
+      "bytes": 170,
+      "segundos": 0.67
+    },
+    {
+      "recurso": "Mars 2020 — imágenes del sol 2031",
+      "url": "https://mars.nasa.gov/rss/api/?feed=raw_images&category=mars2020&feedtype=json&num=10&page=1&sol=2031",
+      "estado": 200,
+      "tipo": "application/json;charset=UTF-8",
+      "bytes": 12358,
+      "segundos": 0.51
+    },
+    {
+      "recurso": "Mars 2020 — muestra mars2020_mcz_sol2024_800.jpg",
+      "url": "https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/02024/ids/edr/browse/zcam/ZL0_2024_0846622470_145EBY_N0930000ZCAM10058_1100LMJ02_800.jpg",
+      "estado": 200,
+      "tipo": "image/jpg",
+      "bytes": 81277,
+      "segundos": 0.8
+    },
+    {
+      "recurso": "Mars 2020 — muestra mars2020_supercam_sol2031_800.jpg",
+      "url": "https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/02031/ids/edr/browse/scam/LRE_2031_0847235763_228ECM_N0930000SCAM01031_0010I4J01_800.jpg",
+      "estado": 200,
+      "tipo": "image/jpg",
+      "bytes": 24273,
+      "segundos": 0.7
+    }
+  ],
+  "nota": "Solo Mars Trek y USGS PGM aportan datos georreferenciados o citables para el mapa. Worldview es de la Tierra. Las imágenes crudas y la animación de Curiosity son contexto visual, no capas."
+}

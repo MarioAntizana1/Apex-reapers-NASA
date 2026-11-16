@@ -1,0 +1,174 @@
+{
+  "copyright": {
+    "thirdPartyPermissionsProduced": false,
+    "disclosedToPublic": false,
+    "containsIndication": false,
+    "publisherPermissionOrRightsToDistribute": false,
+    "belongsToUsGov": false,
+    "determinationType": "PUBLIC_USE_PERMITTED",
+    "thirdPartyContentCondition": "NOT_SET",
+    "belongsToContractor": false,
+    "disclosedInvention": false,
+    "submissionId": 20150019642,
+    "containsThirdPartyMaterial": false,
+    "belongsToPublisher": false,
+    "id": "f18c8349621c4f82adc3ae16c2a9d598",
+    "belongsToAuthors": false
+  },
+  "subjectCategories": [
+    "Lunar And Planetary Science And Exploration",
+    "Exobiology"
+  ],
+  "exportControl": {
+    "isExportControl": "NO",
+    "submissionId": 20150019642,
+    "ear": "NO",
+    "id": "b797d525081a4963945bd166bcfce0a6",
+    "itar": "NO"
+  },
+  "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+  "otherReportNumbers": [
+    "JSC-CN-34506",
+    "Report Number: JSC-CN-34506"
+  ],
+  "title": "McLaughlin Crater as a Candidate Landing Site for Humans on Mars",
+  "stiType": "CONFERENCE_PAPER",
+  "distribution": "PUBLIC",
+  "submittedDate": "2015-10-22T17:21:03.0830000+00:00",
+  "authorAffiliations": [
+    {
+      "sequence": 0,
+      "submissionId": 20150019642,
+      "meta": {
+        "author": {
+          "name": "Michalski, J. R."
+        },
+        "organization": {
+          "name": "Planetary Science Inst.",
+          "location": "Tucson, AZ, United States"
+        }
+      },
+      "id": "d2386f5ed5ce44bf97bf19005f5f04e5"
+    },
+    {
+      "sequence": 1,
+      "submissionId": 20150019642,
+      "meta": {
+        "author": {
+          "name": "Niles, P. B."
+        },
+        "organization": {
+          "name": "NASA Johnson Space Center",
+          "location": "Houston, TX, United States"
+        }
+      },
+      "id": "a940d7fa32a547c0bca77fef3ef246cf"
+    },
+    {
+      "sequence": 2,
+      "submissionId": 20150019642,
+      "meta": {
+        "author": {
+          "name": "Sutter, B."
+        },
+        "organization": {
+          "name": "Jacobs Technology, Inc.",
+          "location": "Houston, TX, United States"
+        }
+      },
+      "id": "b7e7a83856dc4e5aa5fd1833566d9bf6"
+    },
+    {
+      "sequence": 3,
+      "submissionId": 20150019642,
+      "meta": {
+        "author": {
+          "name": "Bell, M. S."
+        },
+        "organization": {
+          "name": "Jacobs Technology, Inc.",
+          "location": "Houston, TX, United States"
+        }
+      },
+      "id": "7b6782d5a74d4296b7fcf8703a3ecf53"
+    }
+  ],
+  "stiTypeDetails": "Conference Paper",
+  "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+  "modified": "2025-08-31T18:39:21.7150190+00:00",
+  "id": 20150019642,
+  "legacyMeta": {
+    "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+    "accessionNumber": ""
+  },
+  "created": "2015-10-22T17:21:03.0830000+00:00",
+  "center": {
+    "code": "JSC",
+    "name": "Johnson Space Center",
+    "id": "dd46994b91a94cb2a2722617cbbadc55"
+  },
+  "onlyAbstract": false,
+  "sensitiveInformation": 2,
+  "abstract": "McLaughlin Crater is an ancient (Noachian) Martian impact crater located at 337.6 East, 21.9 North, just south of the dichotomy boundary. This site should be considered for future landed exploration because: a) it is located at the boundary of three types of scientifically important terrain that will yield key results about the geological evolution and habitability of Mars; b) it contains surfaces where radiometric dating can be related to age dates estimated from crater counting, c) it contains volatile-rich rocks that will not only yield interesting results regarding ancient atmospheric chemistry, but will also be high quality, accessible targets for in-situ resource utilization (ISRU), and d) the site within the crater provides a flat, low-risk and low-elevation landing zone, which will facilitate landing large payloads on Mars.",
+  "isLessonsLearned": false,
+  "disseminated": "DOCUMENT_AND_METADATA",
+  "meetings": [
+    {
+      "country": "United States",
+      "submissionId": 20150019642,
+      "endDate": "2015-10-30T00:00:00.0000000+00:00",
+      "sponsors": [
+        {
+          "organizationId": "8ccaff322ecb48d2811364bf91d9f59d",
+          "meta": {
+            "organization": {
+              "name": "Lunar and Planetary Inst.",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "meetingId": "054880e8a8fc426c9c5c2c78d3638434",
+          "id": "7c7a0eb53ee1497d9408369b23544bd4"
+        },
+        {
+          "organizationId": "c48d8d5db08e4b80b5f256cdcd1360dd",
+          "meta": {
+            "organization": {
+              "name": "Universities Space Research Association",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "meetingId": "054880e8a8fc426c9c5c2c78d3638434",
+          "id": "204113dfc5454737aaedec08894f5317"
+        }
+      ],
+      "name": "Landing Site/Exploration Zone Workshop for Human Missions to the Surface of Mars (2015)",
+      "location": "Houston, TX",
+      "id": "054880e8a8fc426c9c5c2c78d3638434",
+      "startDate": "2015-10-27T00:00:00.0000000+00:00"
+    }
+  ],
+  "publications": [
+    {
+      "submissionId": 20150019642,
+      "id": "65b105d97bff4d10b9caeecefb67f343",
+      "publicationDate": "2015-10-27T00:00:00.0000000+00:00"
+    }
+  ],
+  "status": "CURATED",
+  "related": [],
+  "downloads": [
+    {
+      "draft": false,
+      "mimetype": "application/pdf",
+      "name": "20150019642.pdf",
+      "type": "STI",
+      "links": {
+        "original": "/api/citations/20150019642/downloads/20150019642.pdf",
+        "pdf": "/api/citations/20150019642/downloads/20150019642.pdf",
+        "fulltext": "/api/citations/20150019642/downloads/20150019642.txt"
+      }
+    }
+  ],
+  "downloadsAvailable": true,
+  "index": "submissions-2026-10-22-05-25"
+}

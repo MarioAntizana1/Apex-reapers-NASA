@@ -1,0 +1,2868 @@
+{
+  "stats": {
+    "took": 87,
+    "total": 389,
+    "estimate": false,
+    "maxScore": 226.19568
+  },
+  "results": [
+    {
+      "_meta": {
+        "score": 226.19568
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20180007641,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "95963625407a4c1f9152363cdf74b38c",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "radiation environment",
+        "Mars",
+        "Curiosity Rover"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "eccnNumber": "",
+        "submissionId": 20180007641,
+        "ear": "NO",
+        "id": "6474e0d24e5d480893a0e2646f687d67",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-08-13T11:12:10.7570000+00:00",
+      "otherReportNumbers": [
+        "GSFC-E-DAA-TN21416",
+        "ISSN: 0036-8075",
+        "E-ISSN: 1095-9203",
+        "Report Number: GSFC-E-DAA-TN21416"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "DLR-50QM0501",
+          "submissionId": 20180007641,
+          "id": "7eeacdb8006e4a2a85fe1f84876b2f96",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "DLR-50QM1201",
+          "submissionId": 20180007641,
+          "id": "c097a18ada784278930e997d3f3047f5",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "NAS9-02078",
+          "submissionId": 20180007641,
+          "id": "1c67a5b5d0d5417e9b4f715df6200bcc",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "JPL-1273039",
+          "submissionId": 20180007641,
+          "id": "79d5c231e38c43af9acba4775e12fd30",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Mars' Surface Radiation Environment Measured with the Mars Science Laboratory's Curiosity Rover",
+      "stiType": "REPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2018-11-13T08:15:13.9500000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Hassler, Donald M."
+            },
+            "organization": {
+              "name": "Southwest Research Inst.",
+              "location": "Boulder, CO, United States"
+            }
+          },
+          "id": "01902543b9524e6090b67693d95de44c"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Zeitlin, Cary"
+            },
+            "organization": {
+              "name": "Southwest Research Inst.",
+              "location": "Boulder, CO, United States"
+            }
+          },
+          "id": "c5698dcc55944512b8f6359fedd536c5"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Wimmer-Schweingruber, Robert F."
+            },
+            "organization": {
+              "name": "University of Kiel",
+              "location": "Kiel, Germany"
+            }
+          },
+          "id": "6045c089d6e141d3a2f9def29ffaae0a"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Ehresmann, Bent"
+            },
+            "organization": {
+              "name": "Southwest Research Inst.",
+              "location": "Boulder, CO, United States"
+            }
+          },
+          "id": "3d642f0632b24112a5f9fecc9ab5d9e5"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Rafkin, Scot"
+            },
+            "organization": {
+              "name": "Southwest Research Inst.",
+              "location": "Boulder, CO, United States"
+            }
+          },
+          "id": "749fadac6b1b4481a932db538a29e67b"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Eigenbrode, Jennifer L."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "391fd52afd9b42899e5976931105bf72"
+        },
+        {
+          "sequence": 6,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Brinza, David E."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "95e6efe3cd3d424489e44f3356487a2e"
+        },
+        {
+          "sequence": 7,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Weigle, Gerald"
+            },
+            "organization": {
+              "name": "Southwest Research Inst.",
+              "location": "San Antonio, TX, United States"
+            }
+          },
+          "id": "19eb1d2a4f6e422f990aceb81009cf29"
+        },
+        {
+          "sequence": 8,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Bottcher, Stephan"
+            },
+            "organization": {
+              "name": "University of Kiel",
+              "location": "Kiel, Germany"
+            }
+          },
+          "id": "791b234a1ab34c5ba0599828ba97e558"
+        },
+        {
+          "sequence": 9,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Bohm, Eckart"
+            },
+            "organization": {
+              "name": "University of Kiel",
+              "location": "Kiel, Germany"
+            }
+          },
+          "id": "94233fb3278a471392830e9465fc7529"
+        },
+        {
+          "sequence": 10,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Burmeister, Soenke"
+            },
+            "organization": {
+              "name": "University of Kiel",
+              "location": "Kiel, Germany"
+            }
+          },
+          "id": "3e1d4ba4c0a84c3289e2e64dac6e3dd3"
+        },
+        {
+          "sequence": 11,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Guo, Jingnan"
+            },
+            "organization": {
+              "name": "University of Kiel",
+              "location": "Kiel, Germany"
+            }
+          },
+          "id": "24f50f25642743a2bacd7fa1bd799ff9"
+        },
+        {
+          "sequence": 12,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Kohler, Jan"
+            },
+            "organization": {
+              "name": "University of Kiel",
+              "location": "Kiel, Germany"
+            }
+          },
+          "id": "84c7b65ae021453ba3ebaa9a34b84003"
+        },
+        {
+          "sequence": 13,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Martin, Cesar"
+            },
+            "organization": {
+              "name": "University of Kiel",
+              "location": "Kiel, Germany"
+            }
+          },
+          "id": "b5abeb76d93d43d18b65dda9d8bb2fe1"
+        },
+        {
+          "sequence": 14,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Reitz, Guenther"
+            },
+            "organization": {
+              "name": "Deutsches Zentrum fuer Luft- und Raumfahrt e.V.",
+              "location": "Cologne, Germany"
+            }
+          },
+          "id": "b224446c34a3454dab6a9a13e179cfba"
+        },
+        {
+          "sequence": 15,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Cucinotta, Francis A."
+            },
+            "organization": {
+              "name": "Nevada Univ.",
+              "location": "Las Vegas, NV, United States"
+            }
+          },
+          "id": "8eda1ceb296d4f3c8161805780a6b081"
+        },
+        {
+          "sequence": 16,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Kim, Myung-Hee"
+            },
+            "organization": {
+              "name": "Universities Space Research Association (USRA)",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "01d11ea96788460193a3eae7dfda0739"
+        },
+        {
+          "sequence": 17,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Grinspoon, David"
+            },
+            "organization": {
+              "name": "Denver Museum of Nature and Science",
+              "location": "Denver, CO, United States"
+            }
+          },
+          "id": "8eb4cbd8a5814f10aeebe386545120c7"
+        },
+        {
+          "sequence": 18,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Bullock, Mark A."
+            },
+            "organization": {
+              "name": "Southwest Research Inst.",
+              "location": "Boulder, CO, United States"
+            }
+          },
+          "id": "92445b95f7cd4bacb7d09ec372483c00"
+        },
+        {
+          "sequence": 19,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Posner, Arik"
+            },
+            "organization": {
+              "name": "NASA Headquarters",
+              "location": "Washington, DC United States"
+            }
+          },
+          "id": "8273d245098844fdaf34d0486e18e3bf"
+        },
+        {
+          "sequence": 20,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Gomez-Elvira, Javier "
+            },
+            "organization": {
+              "name": "Centro de Astrobiología",
+              "location": "Madrid, Spain"
+            }
+          },
+          "id": "8e21aaa3f67a4ea885cbf2d852ac2fc1"
+        },
+        {
+          "sequence": 21,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Vasavada, Ashwin"
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "15dfaf3a90ce4fabaa56beb2af009b4d"
+        },
+        {
+          "sequence": 22,
+          "submissionId": 20180007641,
+          "meta": {
+            "author": {
+              "name": "Grotzinger, John P."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "63b2e402454147c782355b8df4bfe4da"
+        }
+      ],
+      "stiTypeDetails": "Reprint (Version printed in journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20180007641,
+      "sourceIdentifiers": [
+        {
+          "number": "doi:10.1126/science.1244797",
+          "submissionId": 20180007641,
+          "id": "6d80f1fa7a664248a08988d8d7177c80",
+          "type": "DOI"
+        },
+        {
+          "submissionId": 20180007641,
+          "id": "f994a64f9ea84d5f94be74942ebefc1e",
+          "descriptor": "doi:10.1126/science.1244797"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2018-11-13T08:15:13.9500000+00:00",
+      "center": {
+        "code": "GSFC",
+        "name": "Goddard Space Flight Center",
+        "id": "973fae00c3584b9fb4c762ae9870d0f6"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The Radiation Assessment Detector (RAD) on the Mars Science Laboratorys Curiosity rover beganmaking detailed measurements of the cosmic ray and energetic particle radiation environmenton the surface of Mars on 7 August 2012. We report and discuss measurements of the absorbeddose and dose equivalent from galactic cosmic rays and solar energetic particles on the martiansurface for 300 days of observations during the current solar maximum. These measurementsprovide insight into the radiation hazards associated with a human mission to the surface of Marsand provide an anchor point with which to model the subsurface radiation environment, withimplications for microbial survival times of any possible extant or past life, as well as for thepreservation of potential organic biosignatures of the ancient martian environment.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "volume": "343",
+          "submissionId": 20180007641,
+          "issue": "6169",
+          "issn": "0036-8075",
+          "publisher": " American Association for the Advancement of Science",
+          "eissn": "1095-9203",
+          "id": "b416243e31b3463badd526e6a8e63240",
+          "publicationName": "Science",
+          "publicationDate": "2014-01-24T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 196.90857
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20050193754,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "daaf99adda414152b1657760ceb2a210",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "NASA Center LaRC",
+        "NASA Discipline Radiation Health",
+        "Space Flight/instrumentation",
+        "Spacecraft/instrumentation",
+        "Heavy Ions",
+        "Solar Activity",
+        "Mars",
+        "Cosmic Radiation",
+        "Models, Theoretical",
+        "Radiation Dosage",
+        "Extraterrestrial Environment",
+        "Scattering, Radiation",
+        "Linear Energy Transfer",
+        "Radiation Monitoring",
+        "Research Support, U.S. Gov't, Non-P.H.S"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20050193754,
+        "ear": "NO",
+        "id": "e1150c8a1e3f451a8add992c1ee6d384",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-11T00:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "NCC1-404",
+          "submissionId": 20050193754,
+          "id": "7644f65723bb4c85884af17c14e002de",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "A new Mars radiation environment model with visualization",
+      "stiType": "REPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-23T06:10:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20050193754,
+          "meta": {
+            "author": {
+              "name": "De Angelis, G."
+            },
+            "organization": {
+              "name": "Old Dominion University",
+              "location": "Norfolk, VA 23508, United States"
+            }
+          },
+          "id": "9ec26ee2ec3f441da60f37f26c4f48d8"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20050193754,
+          "meta": {
+            "author": {
+              "name": "Clowdsley, M. S."
+            },
+            "organization": {}
+          },
+          "id": "046fcd83e0ff420b803b3a7b9c58b4fb"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20050193754,
+          "meta": {
+            "author": {
+              "name": "Singleterry, R. C."
+            },
+            "organization": {}
+          },
+          "id": "c54f1fe3eb334cd894e45058987c44fd"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20050193754,
+          "meta": {
+            "author": {
+              "name": "Wilson, J. W."
+            },
+            "organization": {}
+          },
+          "id": "f2bb5f1d08164d05bd23a2dd5805207b"
+        }
+      ],
+      "stiTypeDetails": "Reprint (Version printed in journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20050193754,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-23T06:10:00.0000000+00:00",
+      "center": {
+        "code": "CDMS",
+        "name": "Legacy CDMS",
+        "id": "092d6e0881874968859b972d39a888dc"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "A new model for the radiation environment to be found on the planet Mars due to Galactic Cosmic Rays (OCR) has been developed at the NASA Langley Research Center. Solar modulated primary particles rescaled for Mars conditions are transported through the Martian atmosphere, with temporal properties modeled with variable timescales, down to the surface, with altitude and backscattering patterns taken into account. The Martian atmosphere has been modeled by using the Mars Global Reference Atmospheric Model--version 2001 (Mars-GRAM 2001). The altitude to compute the atmospheric thickness profile has been determined by using a model for the topography based on the data provided by the Mars Orbiter Laser Altimeter (MOLA) instrument on board the Mars Global Surveyor (MGS) spacecraft. The Mars surface composition has been modeled based on averages over the measurements obtained from orbiting spacecraft and at various landing sites, taking into account the possible volatile inventory (e.g., CO2 ice, H2O ice) along with its time variation throughout the Martian year. Particle transport has been performed with the HZETRN heavy ion code. The Mars Radiation Environment Model has been made available worldwide through the Space Ionizing Radiation Effects and Shielding Tools (SIREST) website, a project of NASA Langley Research Center. c2004 COSPAR. Published by Elsevier Ltd. All rights reserved.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "volume": "34",
+          "submissionId": 20050193754,
+          "issue": "6",
+          "id": "906b5e2a88804f5fb095bfa1fe5e3dc6",
+          "publicationName": "Advances in space research :  the official journal of the Committee on Space Research (COSPAR)",
+          "publicationDate": "2004-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 194.51138
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20000012740,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "7205f1ad464d4cf0b4737df1c965e38b",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20000012740,
+        "ear": "NO",
+        "id": "e1770d53ec1f4a3ea7d5383e06a960d8",
+        "itar": "NO"
+      },
+      "distributionDate": "2011-09-08T00:00:00.0000000+00:00",
+      "title": "Mars Surface Ionizing Radiation Environment: Need for Validation",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-19T12:27:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20000012740,
+          "meta": {
+            "author": {
+              "name": "Wilson, J. W."
+            },
+            "organization": {
+              "name": "NASA Langley Research Center",
+              "location": "Hampton, VA United States"
+            }
+          },
+          "id": "03939f2ac00c44d9b7de37e5656ad0e5"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20000012740,
+          "meta": {
+            "author": {
+              "name": "Kim, M. Y."
+            },
+            "organization": {
+              "name": "College of William and Mary",
+              "location": "Williamsburg, VA United States"
+            }
+          },
+          "id": "262c104a541d40ca9fe31452e3b4f755"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20000012740,
+          "meta": {
+            "author": {
+              "name": "Clowdsley, M. S."
+            },
+            "organization": {
+              "name": "NASA Langley Research Center",
+              "location": "Hampton, VA United States"
+            }
+          },
+          "id": "708e3e58b3be4c4985d0bb8ada66423c"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20000012740,
+          "meta": {
+            "author": {
+              "name": "Heinbockel, J. H."
+            },
+            "organization": {
+              "name": "Old Dominion Univ.",
+              "location": "Norfolk, VA United States"
+            }
+          },
+          "id": "1b656f689bdd4f0f9cdfc88c79091439"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20000012740,
+          "meta": {
+            "author": {
+              "name": "Tripathi, R. K."
+            },
+            "organization": {
+              "name": "NASA Langley Research Center",
+              "location": "Hampton, VA United States"
+            }
+          },
+          "id": "97dea7ca00e54f04a2752946084e4b9b"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20000012740,
+          "meta": {
+            "author": {
+              "name": "Singleterry, R. C."
+            },
+            "organization": {
+              "name": "NASA Langley Research Center",
+              "location": "Hampton, VA United States"
+            }
+          },
+          "id": "4d09e15296fb4b9d9721d955bb932090"
+        },
+        {
+          "sequence": 6,
+          "submissionId": 20000012740,
+          "meta": {
+            "author": {
+              "name": "Shinn, J. L."
+            },
+            "organization": {
+              "name": "NASA Langley Research Center",
+              "location": "Hampton, VA United States"
+            }
+          },
+          "id": "c75192b04f174ab2ba21a7157aceba1f"
+        },
+        {
+          "sequence": 7,
+          "submissionId": 20000012740,
+          "meta": {
+            "author": {
+              "name": "Suggs, R."
+            },
+            "organization": {
+              "name": "NASA Marshall Space Flight Center",
+              "location": "Huntsville, AL United States"
+            }
+          },
+          "id": "2f96700a06d7489d8cda4c3538ffd8d4"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20000012740,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-19T12:27:00.0000000+00:00",
+      "center": {
+        "code": "LaRC",
+        "name": "Langley Research Center",
+        "id": "1e229fe5b7284965a153b0f761643383"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Protection against the hazards from exposure to ionizing radiation remains an unresolved issue in the Human Exploration and Development of Space (HEDS) enterprise [1]. The major uncertainty is the lack of data on biological response to galactic cosmic ray (GCR) exposures but even a full understanding of the physical interaction of GCR with shielding and body tissues is not yet available and has a potentially large impact on mission costs. \"The general opinion is that the initial flights should be short-stay missions performed as fast as possible (so-called 'Sprint' missions) to minimize crew exposure to the zero-g and space radiation environment, to ease requirements on system reliability, and to enhance the probability of mission success.\" The short-stay missions tend to have long transit times and may not be the best option due to the relatively long exposure to zero-g and ionizing radiation. On the other hand the short-transit missions tend to have long stays on the surface requiring an adequate knowledge of the surface radiation environment to estimate risks and to design shield configurations. Our knowledge of the surface environment is theoretically based and suffers from an incomplete understanding of the physical interactions of GCR with the Martian atmosphere, Martian surface, and intervening shield materials. An important component of Mars surface robotic exploration is the opportunity to test our understanding of the Mars surface environment. The Mars surface environment is generated by the interaction of Galactic Cosmic Rays (GCR) and Solar Particle Events (SPEs) with the Mars atmosphere and Mars surface materials. In these interactions, multiple charged ions are reduced in size and secondary particles are generated, including neutrons. Upon impact with the Martian surface, the character of the interactions changes as a result of the differing nuclear constituents of the surface materials. Among the surface environment are many neutrons diffusing from the Martian surface and especially prominent are energetic neutrons with energies up to a few hundred MeV. Testing of these computational results is first supported by ongoing experiments at the Brookhaven National Laboratory but equally important is the validation to the extent possible by measurements on the Martian surface. Such measurements are limited by power and weight requirements of the specific mission and simplified instrumentation by necessity lacks the full discernment of particle type and spectra as is possible with laboratory experimental equipment. Yet, the surface measurements are precise and a necessary requisite to validate our understanding of the surface environment. At the very minimum the surface measurements need to provide some spectral information on the neutron environment. Of absolute necessity is the precise knowledge of the detector response functions for absolute comparisons between the computational model of the surface environment and the detector measurements on the surface.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "submissionId": 20000012740,
+          "id": "8158c61e7f0541fc84e5734e28b425d7",
+          "publicationName": "Workshop on Mars 2001: Integrated Science in Preparation for Sample Return and Human Exploration",
+          "publicationDate": "1999-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20000012695,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Workshop on Mars 2001: Integrated Science in Preparation for Sample Return and Human Exploration",
+          "stiType": "CONFERENCE_PROCEEDINGS",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20000012695,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Workshop on Mars 2001: Integrated Science in Preparation for Sample Return and Human Exploration",
+          "stiType": "CONFERENCE_PROCEEDINGS",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 176.1549
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20170008289,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "c5b25628a7f641d6afc9970297b5e729",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration",
+        "Space Radiation"
+      ],
+      "keywords": [
+        "Mars",
+        "radiation environment"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20170008289,
+        "ear": "NO",
+        "id": "3556672b3fcb44f7af632a9890f2c319",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-08-23T17:38:24.2670000+00:00",
+      "title": "Parallel Study of HEND, RAD, and DAN Instrument Response to Martian Radiation and Surface Conditions",
+      "stiType": "PRESENTATION",
+      "distribution": "PUBLIC",
+      "submittedDate": "2017-09-01T08:59:05.1930000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20170008289,
+          "meta": {
+            "author": {
+              "name": "Martiniez Sierra, Luz Maria"
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "870d249675e74d52820025b7923f5a14"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20170008289,
+          "meta": {
+            "author": {
+              "name": "Jun, Insoo"
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "cdaba829b52d4565a126927df0a52fb3"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20170008289,
+          "meta": {
+            "author": {
+              "name": "Litvak, Maxim"
+            },
+            "organization": {
+              "name": "Institute of Space Research",
+              "location": "Moscow, Russian Federation"
+            }
+          },
+          "id": "37bc802ea0f649f09fe3ae03b535d010"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20170008289,
+          "meta": {
+            "author": {
+              "name": "Sanin, Anton"
+            },
+            "organization": {
+              "name": "Institute of Space Research",
+              "location": "Moscow, Russian Federation"
+            }
+          },
+          "id": "5edbd3740a2a4f6faabc12d268798b21"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20170008289,
+          "meta": {
+            "author": {
+              "name": "Mitrofanov, Igor"
+            },
+            "organization": {
+              "name": "Institute of Space Research",
+              "location": "Moscow, Russian Federation"
+            }
+          },
+          "id": "8972f486f058465b92b9ef886f0e236b"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20170008289,
+          "meta": {
+            "author": {
+              "name": "Zeitlin, Cary"
+            },
+            "organization": {
+              "name": "Southwest Research Inst.",
+              "location": "San Antonio, TX, United States"
+            }
+          },
+          "id": "ac06293744694915830f3c18337ac28f"
+        }
+      ],
+      "stiTypeDetails": "Presentation",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20170008289,
+      "sourceIdentifiers": [
+        {
+          "number": "hdl:2014/45922",
+          "submissionId": 20170008289,
+          "id": "58d170609fa54591aadf03eea0a6485f",
+          "type": "HANDLE"
+        },
+        {
+          "submissionId": 20170008289,
+          "id": "e02f3659679441b8be99592e2b3db594",
+          "descriptor": "hdl:2014/45922"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2017-09-01T08:59:05.1930000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Nuclear detection methods are being used to understand the  radiation environment at Mars. JPL (Jet Propulsion Laboratory) assets on Mars include: Orbiter -2001 Mars Odyssey [High Energy Neutron Detector (HEND)]; Mars Science Laboratory Rover -Curiosity [(Radiation Assessment Detector (RAD); Dynamic Albedo Neutron (DAN))]. Spacecraft have instruments able to detect ionizing and non-ionizing radiation. Instrument response on orbit and on the surface of Mars to space weather and local conditions [is discussed] - Data available at NASA-PDS (Planetary Data System).",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "meetings": [
+        {
+          "submissionId": 20170008289,
+          "name": "American Geophysical Union",
+          "location": "Washington, DC, United States",
+          "id": "05b74e03baf54a7096cdbb922811fd89"
+        },
+        {
+          "country": "United States",
+          "submissionId": 20170008289,
+          "endDate": "2015-12-18T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "American Geophysical Union",
+                  "location": "Washington, DC, United States"
+                }
+              },
+              "meetingId": "0e2a3dbf18904411bd3dd3931304acb2",
+              "id": "227e8aac07454f3eaebd4b6bd3c96c77"
+            }
+          ],
+          "name": "AGU 2015 Fall Meeting",
+          "location": "San Francisco, CA",
+          "id": "0e2a3dbf18904411bd3dd3931304acb2",
+          "startDate": "2015-12-14T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20170008289,
+          "id": "b94567e04bbc46349bad074e9845edc2",
+          "publicationDate": "2015-12-15T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 172.0268
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20110011373,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "a1b0990a0725445da3771e3ba2805cc1",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Space Radiation"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20110011373,
+        "ear": "NO",
+        "id": "215f17705900402abe65cd710b646c9f",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-17T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "JSC-CN-8086",
+        "Report Number: JSC-CN-8086"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "RTOP 111-50-50-01",
+          "submissionId": 20110011373,
+          "id": "be0861e33da54bbe9d8672fd74e6548c",
+          "type": "PROJECT"
+        }
+      ],
+      "title": "Visualization of Radiation Environment on Mars: Assessment with MARIE Measurements",
+      "stiType": "ABSTRACT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-25T07:52:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20110011373,
+          "meta": {
+            "author": {
+              "name": "Saganti, P."
+            },
+            "organization": {
+              "name": "Lockheed Martin Space Operations",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "d48d84efba8544b9ab3e523b5e5b86ad"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20110011373,
+          "meta": {
+            "author": {
+              "name": "Cucinotta, F."
+            },
+            "organization": {
+              "name": "Lockheed Martin Space Operations",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "f821684fd318470eb5cc3156c886784e"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20110011373,
+          "meta": {
+            "author": {
+              "name": "Zeitlin, C."
+            },
+            "organization": {
+              "name": "California Univ., Lawrence Berkeley National Lab.",
+              "location": "Berkeley, CA, United States"
+            }
+          },
+          "id": "efb12ea83c1a42558e2d15b3af1399b1"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20110011373,
+          "meta": {
+            "author": {
+              "name": "Cleghorn, T."
+            },
+            "organization": {
+              "name": "Lockheed Martin Space Operations",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "6307aad8218442468934f6f1d914f8a5"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20110011373,
+          "meta": {
+            "author": {
+              "name": "Flanders, J."
+            },
+            "organization": {
+              "name": "Lockheed Martin Space Operations",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "8a1369cbe6064923a2a2ebb9eff47f2f"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20110011373,
+          "meta": {
+            "author": {
+              "name": "Riman, F."
+            },
+            "organization": {
+              "name": "Lockheed Martin Space Operations",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "67221ab1bb32436980f6b9fc18cdf2a5"
+        },
+        {
+          "sequence": 6,
+          "submissionId": 20110011373,
+          "meta": {
+            "author": {
+              "name": "Hu, X."
+            },
+            "organization": {
+              "name": "Universities Space Research Association",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "d37dee627bfd4dd5b163817c9c69b6c4"
+        },
+        {
+          "sequence": 7,
+          "submissionId": 20110011373,
+          "meta": {
+            "author": {
+              "name": "Pinsky, L."
+            },
+            "organization": {
+              "name": "Houston Univ.",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "1344d79137e74c5db16b0bd103299ad5"
+        },
+        {
+          "sequence": 8,
+          "submissionId": 20110011373,
+          "meta": {
+            "author": {
+              "name": "Lee, K."
+            },
+            "organization": {
+              "name": "Houston Univ.",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "986c433ea51248b5b5c3952c8591c661"
+        },
+        {
+          "sequence": 9,
+          "submissionId": 20110011373,
+          "meta": {
+            "author": {
+              "name": "Anderson, V."
+            },
+            "organization": {
+              "name": "Houston Univ.",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "f12cefaac55b4087b0790b9b013d4c68"
+        },
+        {
+          "sequence": 10,
+          "submissionId": 20110011373,
+          "meta": {
+            "author": {
+              "name": "Atwell, W."
+            },
+            "organization": {
+              "name": "Boeing Co.",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "6a3512987b6243788fea010f5a3ae833"
+        },
+        {
+          "sequence": 11,
+          "submissionId": 20110011373,
+          "meta": {
+            "author": {
+              "name": "Turner, R."
+            },
+            "organization": {
+              "name": "ANSER Corp.",
+              "location": "Arlington, VA, United States"
+            }
+          },
+          "id": "86581c0f0b98434d83946eee6fd70089"
+        }
+      ],
+      "stiTypeDetails": "Abstract",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20110011373,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-25T07:52:00.0000000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": true,
+      "sensitiveInformation": 2,
+      "abstract": "For a given GCR (Galactic Cosmic Ray) environment at Mars, particle flux of protons, alpha particles, and heavy ions, are also needed on the surface of Mars for future human exploration missions. For the past twelve months, the MARJE (Martian Radiation Environment Experiment) instrument onboard the 200J Mars Odyssey has been providing the radiation measurements from the Martian orbit. These measurements are well correlated with the HZETRN (High Z and Energy Transport) and QMSFRG (Quantum Multiple-Scattering theory of nuclear Fragmentation) model calculations. These model calculations during these specific GCR environment conditions are now extended and transported through the CO2 atmosphere onto the Martian surface. These calculated pa11icle flux distributions are presented as a function of the Martian topography making use of the MOLA (Mars Orbiter Laser Altimeter) data from the MGS (Mars Global Surveyor). Also, particle flux calculations are presented with visualization in the human body from skin depth to the internal organs including the blood-forming organs.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "country": "Australia",
+          "submissionId": 20110011373,
+          "endDate": "2003-08-22T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "a4031bd38b2848cbaba63134e7e74ba8",
+              "meta": {
+                "organization": {
+                  "name": "Australian Inst. of Nuclear Science and Engineering",
+                  "location": "Lucas Heights, Australia"
+                }
+              },
+              "meetingId": "e7af7718a22e480c92018cd9f0e1e2f9",
+              "id": "33b9745d20794c08b09f9426f568f7fd"
+            }
+          ],
+          "name": "12th International Congress of Radiation Research",
+          "location": "Brisbane",
+          "id": "e7af7718a22e480c92018cd9f0e1e2f9",
+          "startDate": "2003-08-17T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20110011373,
+          "id": "436f56e830694b8690122cc8f5384f3c",
+          "publicationDate": "2003-08-17T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20110011373.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20110011373/downloads/20110011373.pdf",
+            "pdf": "/api/citations/20110011373/downloads/20110011373.pdf",
+            "fulltext": "/api/citations/20110011373/downloads/20110011373.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 157.81242
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20040088828,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "7507e9e114cc458e9b5e23023bf8c379",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "NASA Center ARC",
+        "NASA Discipline Exobiology",
+        "Non-NASA Center",
+        "Mars",
+        "Atmosphere/chemistry",
+        "Ultraviolet Rays",
+        "Evolution, Planetary",
+        "Models, Theoretical",
+        "Extraterrestrial Environment",
+        "Exobiology",
+        "Radiobiology",
+        "Ozone/analysis",
+        "Chloroplasts/radiation effects",
+        "Carbon Dioxide/analysis",
+        "Earth (Planet)",
+        "Spacecraft",
+        "Bacillus subtilis/radiation effects",
+        "Containment of Biohazards",
+        "DNA/radiation effects"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20040088828,
+        "ear": "NO",
+        "id": "0cc3a2f2170f41f1895b40c10b38af76",
+        "itar": "NO"
+      },
+      "distributionDate": "2011-08-23T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "ISSN: 0019-1035"
+      ],
+      "title": "The ultraviolet environment of Mars: biological implications past, present, and future",
+      "stiType": "REPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-21T20:07:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20040088828,
+          "meta": {
+            "author": {
+              "name": "Cockell, C. S."
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field CA United States"
+            }
+          },
+          "id": "c79a258b8a4b4e2da662f10357a1632e"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20040088828,
+          "meta": {
+            "author": {
+              "name": "Catling, D. C."
+            },
+            "organization": {}
+          },
+          "id": "6c3d28eb795b46f09ea6600f44688827"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20040088828,
+          "meta": {
+            "author": {
+              "name": "Davis, W. L."
+            },
+            "organization": {}
+          },
+          "id": "7cc8e53b08064351aaa749eab53cfaff"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20040088828,
+          "meta": {
+            "author": {
+              "name": "Snook, K."
+            },
+            "organization": {}
+          },
+          "id": "c0a5b882ebf5468bbd2ed20a77e6d7bb"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20040088828,
+          "meta": {
+            "author": {
+              "name": "Kepner, R. L."
+            },
+            "organization": {}
+          },
+          "id": "a23e1e6f19334cfd96761d5e1b702f41"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20040088828,
+          "meta": {
+            "author": {
+              "name": "Lee, P."
+            },
+            "organization": {}
+          },
+          "id": "9cd40e88749a4ff0b384356c36b71181"
+        },
+        {
+          "sequence": 6,
+          "submissionId": 20040088828,
+          "meta": {
+            "author": {
+              "name": "McKay, C. P."
+            },
+            "organization": {}
+          },
+          "id": "1e47c03fdb474f049823791c62fdfd7b"
+        }
+      ],
+      "stiTypeDetails": "Reprint (Version printed in journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20040088828,
+      "sourceIdentifiers": [
+        {
+          "number": "doi:10.1006/icar.2000.6393",
+          "submissionId": 20040088828,
+          "id": "e783280cd2b248dc9ef9e9402a8fa8e0",
+          "type": "DOI"
+        },
+        {
+          "submissionId": 20040088828,
+          "id": "2366e3e0239d4aa186a08583d68dd1c6",
+          "descriptor": "doi:10.1006/icar.2000.6393"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-21T20:07:00.0000000+00:00",
+      "center": {
+        "code": "CDMS",
+        "name": "Legacy CDMS",
+        "id": "092d6e0881874968859b972d39a888dc"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "A radiative transfer model is used to quantitatively investigate aspects of the martian ultraviolet radiation environment, past and present. Biological action spectra for DNA inactivation and chloroplast (photosystem) inhibition are used to estimate biologically effective irradiances for the martian surface under cloudless skies. Over time Mars has probably experienced an increasingly inhospitable photobiological environment, with present instantaneous DNA weighted irradiances 3.5-fold higher than they may have been on early Mars. This is in contrast to the surface of Earth, which experienced an ozone amelioration of the photobiological environment during the Proterozoic and now has DNA weighted irradiances almost three orders of magnitude lower than early Earth. Although the present-day martian UV flux is similar to that of early Earth and thus may not be a critical limitation to life in the evolutionary context, it is a constraint to an unadapted biota and will rapidly kill spacecraft-borne microbes not covered by a martian dust layer. Microbial strategies for protection against UV radiation are considered in the light of martian photobiological calculations, past and present. Data are also presented for the effects of hypothetical planetary atmospheric manipulations on the martian UV radiation environment with estimates of the biological consequences of such manipulations.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "volume": "146",
+          "submissionId": 20040088828,
+          "issue": "2",
+          "issn": "0019-1035",
+          "id": "f6c3e889a20d49118dafecce7ca9fd4f",
+          "publicationName": "Icarus",
+          "publicationDate": "2000-08-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 153.95071
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20040103023,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "3f0f513dc0e14b3fa3ee49e8cf23e388",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "Extraterrestrial Environment",
+        "Environmental Pollution/prevention & control",
+        "Mars",
+        "Radiation Protection",
+        "Space Flight",
+        "Weightlessness",
+        "Human",
+        "Exobiology",
+        "Aerospace Medicine",
+        "Solar Activity",
+        "Cosmic Radiation",
+        "Support, Non-U.S. Gov't",
+        "Containment of Biohazards",
+        "Ultraviolet Rays",
+        "Meteoroids"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20040103023,
+        "ear": "NO",
+        "id": "fc5155f8cf504412b61d2d57c98c8a70",
+        "itar": "NO"
+      },
+      "distributionDate": "2011-08-23T00:00:00.0000000+00:00",
+      "title": "Critical issues in connection with human missions to Mars: protection of and from the Martian environment",
+      "stiType": "REPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-21T23:28:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20040103023,
+          "meta": {
+            "author": {
+              "name": "Horneck, G."
+            },
+            "organization": {
+              "name": "Institute of Aerospace Medicine",
+              "location": "Cologne, Germany"
+            }
+          },
+          "id": "500251a6bab7427dad9ed5574d644d95"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20040103023,
+          "meta": {
+            "author": {
+              "name": "Facius, R."
+            },
+            "organization": {}
+          },
+          "id": "a10c26a2c6934ca58c4254d8b73fa749"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20040103023,
+          "meta": {
+            "author": {
+              "name": "Reitz, G."
+            },
+            "organization": {}
+          },
+          "id": "01bfbbb6c73c4d74b7c82a81319d7b8a"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20040103023,
+          "meta": {
+            "author": {
+              "name": "Rettberg, P."
+            },
+            "organization": {}
+          },
+          "id": "93f32b6c715340929880db1008a43877"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20040103023,
+          "meta": {
+            "author": {
+              "name": "Baumstark-Khan, C."
+            },
+            "organization": {}
+          },
+          "id": "28a581463c7f4773b1dc0a4be74aa378"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20040103023,
+          "meta": {
+            "author": {
+              "name": "Gerzer, R."
+            },
+            "organization": {}
+          },
+          "id": "ce28872dc67d458a97133af479088309"
+        }
+      ],
+      "stiTypeDetails": "Reprint (Version printed in journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20040103023,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-21T23:28:00.0000000+00:00",
+      "center": {
+        "code": "CDMS",
+        "name": "Legacy CDMS",
+        "id": "092d6e0881874968859b972d39a888dc"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Human missions to Mars are planned to happen within this century. Activities associated therewith will interact with the environment of Mars in two reciprocal ways: (i) the mission needs to be protected from the natural environmental elements that can be harmful to human health, the equipment or to their operations; (ii) the specific natural environment of Mars should be protected so that it retains its value for scientific and other purposes. The following environmental elements need to be considered in order to protect humans and the equipment on the planetary surface: (i) cosmic ionizing radiation, (ii) solar particle events; (iii) solar ultraviolet radiation; (iv) reduced gravity; (v) thin atmosphere; (vi) extremes in temperatures and their fluctuations; and (vii) surface dust. In order to protect the planetary environment, the requirements for planetary protection as adopted by COSPAR for lander missions need to be revised in view of human presence on the planet. Landers carrying equipment for exobiological investigations require special consideration to reduce contamination by terrestrial microorganisms and organic matter to the greatest feasible extent. Records of human activities on the planet's surface should be maintained in sufficient detail that future scientific experimenters can determine whether environmental modifications have resulted from explorations. c2002 COSPAR. Published by Elsevier Science Ltd. All rights reserved.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "volume": "31",
+          "submissionId": 20040103023,
+          "issue": "1",
+          "id": "04473f73268749c99cea854da1705428",
+          "publicationName": "Advances in space research :  the official journal of the Committee on Space Research (COSPAR)",
+          "publicationDate": "2003-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 152.3991
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20000012730,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "ff26a475e42e4fadbffe6671e0af35f7",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20000012730,
+        "ear": "NO",
+        "id": "e01e51f804884b54bd5809751376b8ef",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-08-14T16:25:13.0200000+00:00",
+      "title": "The Martian Radiation Environment from Orbit and on the Surface",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-19T12:27:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20000012730,
+          "meta": {
+            "author": {
+              "name": "Reedy, R. C."
+            },
+            "organization": {
+              "name": "Los Alamos National Lab.",
+              "location": "NM United States"
+            }
+          },
+          "id": "1bffa15638f2452982a6aae6e9a9e404"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20000012730,
+          "meta": {
+            "author": {
+              "name": "Howe, S. D."
+            },
+            "organization": {
+              "name": "Los Alamos National Lab.",
+              "location": "NM United States"
+            }
+          },
+          "id": "39bbd7ac9dd94cc5abcd82918c410ad3"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20000012730,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-19T12:27:00.0000000+00:00",
+      "center": {
+        "code": "HQ",
+        "name": "Headquarters",
+        "id": "f0865a34ba1f474d865ab51f212fc69f"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "A good knowledge of the Martian radiation environment and its interactions with Mars is needed for many reasons. It is needed to help unfold the results of the Mars-2001 orbiter's gamma-ray spectrometer (GRS) and neutron spectrometers (NS) to determine elemental abundances on the Martian surface. It is needed to interpret the measurements of the Martian Radiation Environment Experiments (MARIE) on both the Mars 2001 orbiter and lander. It is needed to calculate production rates of cosmogenic nuclides that will be measured in samples returned from Mars. It is needed to determine the doses that astronauts would receive in Martian orbit and especially on the surface of Mars. We discuss the two types of energetic particles in the vicinity of Mars and the nature of their interactions. Solar energetic particles (SEPs) occur very rarely but can have high fluxes that are dangerous in space. However, their energies are low enough that few solar energetic particles reach the surface of Mars. Their interactions can be fairly easily modeled because SEPs create few secondary particles. Galactic cosmic rays (GCRs) have high energies and are the dominant source of energetic particles on the Martian surface, mainly secondary neutrons. Modeling their interactions is complicated because of the range of nuclei in the GCR and their high energies. Work at Los Alamos on GCR interactions will be presented.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "submissionId": 20000012730,
+          "id": "08523f1e55e94a4aa3bd23daa7e2e911",
+          "publicationName": "Workshop on Mars 2001: Integrated Science in Preparation for Sample Return and Human Exploration",
+          "publicationDate": "1999-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20000012695,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Workshop on Mars 2001: Integrated Science in Preparation for Sample Return and Human Exploration",
+          "stiType": "CONFERENCE_PROCEEDINGS",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20000012695,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Workshop on Mars 2001: Integrated Science in Preparation for Sample Return and Human Exploration",
+          "stiType": "CONFERENCE_PROCEEDINGS",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    }
+  ],
+  "aggregations": {
+    "created": {
+      "buckets": [
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 212
+        },
+        {
+          "key_as_string": "2023",
+          "key": 1672531200000,
+          "doc_count": 22
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 19
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 19
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 19
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 16
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 16
+        },
+        {
+          "key_as_string": "2021",
+          "key": 1609459200000,
+          "doc_count": 15
+        },
+        {
+          "key_as_string": "2020",
+          "key": 1577836800000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 8
+        },
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 8
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 7
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 6
+        }
+      ]
+    },
+    "author": {
+      "doc_count_error_upper_bound": 5,
+      "sum_other_doc_count": 1854,
+      "buckets": [
+        {
+          "key": "Abbas, M. M.",
+          "doc_count": 7
+        },
+        {
+          "key": "Minow, Joseph I.",
+          "doc_count": 7
+        },
+        {
+          "key": " Peter Chi",
+          "doc_count": 6
+        },
+        {
+          "key": " Shahab Fatemi",
+          "doc_count": 5
+        },
+        {
+          "key": " Tiago Matos",
+          "doc_count": 5
+        },
+        {
+          "key": "Cucinotta, Francis A.",
+          "doc_count": 5
+        },
+        {
+          "key": "Tankosic, D.",
+          "doc_count": 5
+        },
+        {
+          "key": "Heidi Fuqua Haviland",
+          "doc_count": 4
+        },
+        {
+          "key": "Jasper Halekas",
+          "doc_count": 4
+        },
+        {
+          "key": "Mancinelli, Rocco L.",
+          "doc_count": 4
+        },
+        {
+          "key": "McKay, C. P.",
+          "doc_count": 4
+        },
+        {
+          "key": "Schneider, Todd",
+          "doc_count": 4
+        },
+        {
+          "key": " Rhyan Sawyer ",
+          "doc_count": 3
+        },
+        {
+          "key": "Abhijith Kunneparambil Sukumaran",
+          "doc_count": 3
+        },
+        {
+          "key": "Altstatt, Richard L.",
+          "doc_count": 3
+        },
+        {
+          "key": "Annette Gray",
+          "doc_count": 3
+        },
+        {
+          "key": "Arnold, James E.",
+          "doc_count": 3
+        },
+        {
+          "key": "LeClair, A.",
+          "doc_count": 3
+        },
+        {
+          "key": "Quattrochi, Dale A.",
+          "doc_count": 3
+        },
+        {
+          "key": "Spann, J. F.",
+          "doc_count": 3
+        }
+      ]
+    },
+    "reportNumber": {
+      "doc_count_error_upper_bound": 5,
+      "sum_other_doc_count": 441,
+      "buckets": [
+        {
+          "key": "ISSN: 0161-5297",
+          "doc_count": 4
+        },
+        {
+          "key": "E-18756",
+          "doc_count": 2
+        },
+        {
+          "key": "E-ISSN: 2214-5532",
+          "doc_count": 2
+        },
+        {
+          "key": "GRC-E-DAA-TN10204",
+          "doc_count": 2
+        },
+        {
+          "key": "ISSN: 0019-1035",
+          "doc_count": 2
+        },
+        {
+          "key": "ISSN: 0036-8075",
+          "doc_count": 2
+        },
+        {
+          "key": "ISSN: 1120-1797",
+          "doc_count": 2
+        },
+        {
+          "key": "ISSN: 1531-1074",
+          "doc_count": 2
+        },
+        {
+          "key": "ISSN: 2214-5524",
+          "doc_count": 2
+        },
+        {
+          "key": "No Number: ",
+          "doc_count": 2
+        },
+        {
+          "key": "3249",
+          "doc_count": 1
+        },
+        {
+          "key": "A-9810764",
+          "doc_count": 1
+        },
+        {
+          "key": "AFRL-VS-HA-TR-2004-1010",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA PAPER 90-3539",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA PAPER 90-3732",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA PAPER 92-4584",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA paper  2010-0443",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN10240",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN1069",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN23941",
+          "doc_count": 1
+        }
+      ]
+    },
+    "center": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "MSFC",
+          "doc_count": 135
+        },
+        {
+          "key": "CDMS",
+          "doc_count": 57
+        },
+        {
+          "key": "ARC",
+          "doc_count": 45
+        },
+        {
+          "key": "JSC",
+          "doc_count": 30
+        },
+        {
+          "key": "LaRC",
+          "doc_count": 28
+        },
+        {
+          "key": "GRC",
+          "doc_count": 22
+        },
+        {
+          "key": "HQ",
+          "doc_count": 21
+        },
+        {
+          "key": "GSFC",
+          "doc_count": 19
+        },
+        {
+          "key": "JPL",
+          "doc_count": 16
+        },
+        {
+          "key": "KSC",
+          "doc_count": 13
+        },
+        {
+          "key": "AFRC",
+          "doc_count": 1
+        }
+      ]
+    },
+    "index": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "submissions-2026-10-22-05-25",
+          "doc_count": 387
+        },
+        {
+          "key": "chorus-2026-10-24-05-58",
+          "doc_count": 2
+        }
+      ]
+    },
+    "fundingNumber": {
+      "doc_count_error_upper_bound": 3,
+      "sum_other_doc_count": 165,
+      "buckets": [
+        {
+          "key": "NNA15BB15C",
+          "doc_count": 13
+        },
+        {
+          "key": "255.421.04.08.20.01",
+          "doc_count": 8
+        },
+        {
+          "key": "811073.02.52.01.47",
+          "doc_count": 6
+        },
+        {
+          "key": "869021.01.23.01.01",
+          "doc_count": 5
+        },
+        {
+          "key": "NASW-4574",
+          "doc_count": 5
+        },
+        {
+          "key": "NNM12AA41C",
+          "doc_count": 5
+        },
+        {
+          "key": "255421.04.08.21.01",
+          "doc_count": 4
+        },
+        {
+          "key": "571232.04.56.76",
+          "doc_count": 3
+        },
+        {
+          "key": "80MSFC18C0011",
+          "doc_count": 3
+        },
+        {
+          "key": "NCC1-404",
+          "doc_count": 3
+        },
+        {
+          "key": "NCC5-679",
+          "doc_count": 3
+        },
+        {
+          "key": "NNA14AB82C",
+          "doc_count": 3
+        },
+        {
+          "key": "NNC12BA01B",
+          "doc_count": 3
+        },
+        {
+          "key": "NNJ15HK11B",
+          "doc_count": 3
+        },
+        {
+          "key": "NNK11EA08C",
+          "doc_count": 3
+        },
+        {
+          "key": "\t954879.06.03.07.62",
+          "doc_count": 2
+        },
+        {
+          "key": "039889.02.07.62",
+          "doc_count": 2
+        },
+        {
+          "key": "1273039",
+          "doc_count": 2
+        },
+        {
+          "key": "295670.01.23.72",
+          "doc_count": 2
+        },
+        {
+          "key": "604746.01.01.01.12.04",
+          "doc_count": 2
+        }
+      ]
+    },
+    "published": {
+      "buckets": [
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 17
+        },
+        {
+          "key_as_string": "2001",
+          "key": 978307200000,
+          "doc_count": 16
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 15
+        },
+        {
+          "key_as_string": "1999",
+          "key": 915148800000,
+          "doc_count": 14
+        },
+        {
+          "key_as_string": "2007",
+          "key": 1167609600000,
+          "doc_count": 14
+        },
+        {
+          "key_as_string": "2003",
+          "key": 1041379200000,
+          "doc_count": 13
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 13
+        },
+        {
+          "key_as_string": "1992",
+          "key": 694224000000,
+          "doc_count": 12
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 12
+        },
+        {
+          "key_as_string": "2000",
+          "key": 946684800000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "2004",
+          "key": 1072915200000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "2006",
+          "key": 1136073600000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "2008",
+          "key": 1199145600000,
+          "doc_count": 10
+        },
+        {
+          "key_as_string": "2010",
+          "key": 1262304000000,
+          "doc_count": 10
+        },
+        {
+          "key_as_string": "2012",
+          "key": 1325376000000,
+          "doc_count": 10
+        },
+        {
+          "key_as_string": "1998",
+          "key": 883612800000,
+          "doc_count": 8
+        },
+        {
+          "key_as_string": "2002",
+          "key": 1009843200000,
+          "doc_count": 8
+        },
+        {
+          "key_as_string": "2005",
+          "key": 1104537600000,
+          "doc_count": 8
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 7
+        },
+        {
+          "key_as_string": "2011",
+          "key": 1293840000000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2023",
+          "key": 1672531200000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "1989",
+          "key": 599616000000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "2020",
+          "key": 1577836800000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "1990",
+          "key": 631152000000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1991",
+          "key": 662688000000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1993",
+          "key": 725846400000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1995",
+          "key": 788918400000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1996",
+          "key": 820454400000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2009",
+          "key": 1230768000000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2021",
+          "key": 1609459200000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1994",
+          "key": 757382400000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "1965",
+          "key": -157766400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1973",
+          "key": 94694400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1981",
+          "key": 347155200000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1985",
+          "key": 473385600000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1997",
+          "key": 852076800000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1963",
+          "key": -220924800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1964",
+          "key": -189388800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1970",
+          "key": 0,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1972",
+          "key": 63072000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1977",
+          "key": 220924800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1982",
+          "key": 378691200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1986",
+          "key": 504921600000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "distribution": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "PUBLIC",
+          "doc_count": 389
+        }
+      ]
+    },
+    "stiType": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "CONFERENCE_PAPER",
+          "doc_count": 109
+        },
+        {
+          "key": "ABSTRACT",
+          "doc_count": 71
+        },
+        {
+          "key": "PRESENTATION",
+          "doc_count": 49
+        },
+        {
+          "key": "REPRINT",
+          "doc_count": 32
+        },
+        {
+          "key": "CONFERENCE_PROCEEDINGS",
+          "doc_count": 28
+        },
+        {
+          "key": "POSTER",
+          "doc_count": 24
+        },
+        {
+          "key": "OTHER",
+          "doc_count": 20
+        },
+        {
+          "key": "TECHNICAL_MEMORANDUM",
+          "doc_count": 14
+        },
+        {
+          "key": "PREPRINT",
+          "doc_count": 10
+        },
+        {
+          "key": "ACCEPTED_MANUSCRIPT",
+          "doc_count": 9
+        },
+        {
+          "key": "CONTRACTOR_OR_GRANTEE_REPORT",
+          "doc_count": 5
+        },
+        {
+          "key": "TECHNICAL_PUBLICATION",
+          "doc_count": 4
+        },
+        {
+          "key": "CONFERENCE_PUBLICATION",
+          "doc_count": 3
+        },
+        {
+          "key": "CONTRACTOR_REPORT",
+          "doc_count": 3
+        },
+        {
+          "key": "EXTENDED_ABSTRACT",
+          "doc_count": 3
+        },
+        {
+          "key": "BOOK_CHAPTER",
+          "doc_count": 1
+        },
+        {
+          "key": "CONTRIBUTION_TO_LARGER_WORK",
+          "doc_count": 1
+        },
+        {
+          "key": "SPECIAL_PUBLICATION",
+          "doc_count": 1
+        },
+        {
+          "key": "THESIS_DISSERTATION",
+          "doc_count": 1
+        },
+        {
+          "key": "WHITE_PAPER",
+          "doc_count": 1
+        }
+      ]
+    },
+    "subjectCategory": {
+      "doc_count_error_upper_bound": 2,
+      "sum_other_doc_count": 156,
+      "buckets": [
+        {
+          "key": "Lunar And Planetary Science And Exploration",
+          "doc_count": 93
+        },
+        {
+          "key": "Space Radiation",
+          "doc_count": 28
+        },
+        {
+          "key": "Spacecraft Design, Testing And Performance",
+          "doc_count": 22
+        },
+        {
+          "key": "Space Sciences (General)",
+          "doc_count": 19
+        },
+        {
+          "key": "Lunar and Planetary Science and Exploration",
+          "doc_count": 17
+        },
+        {
+          "key": "Life Sciences (General)",
+          "doc_count": 14
+        },
+        {
+          "key": "Fluid Mechanics And Thermodynamics",
+          "doc_count": 12
+        },
+        {
+          "key": "Geosciences (General)",
+          "doc_count": 12
+        },
+        {
+          "key": "Instrumentation and Photography",
+          "doc_count": 10
+        },
+        {
+          "key": "Aerospace Medicine",
+          "doc_count": 9
+        },
+        {
+          "key": "Environment Pollution",
+          "doc_count": 9
+        },
+        {
+          "key": "Geophysics",
+          "doc_count": 9
+        },
+        {
+          "key": "Ground Support Systems And Facilities (Space)",
+          "doc_count": 9
+        },
+        {
+          "key": "Lunar And Planetary Exploration",
+          "doc_count": 9
+        },
+        {
+          "key": "Man/System Technology And Life Support",
+          "doc_count": 9
+        },
+        {
+          "key": "Solar Physics",
+          "doc_count": 9
+        },
+        {
+          "key": "Chemistry And Materials (General)",
+          "doc_count": 8
+        },
+        {
+          "key": "Engineering (General)",
+          "doc_count": 8
+        },
+        {
+          "key": "Exobiology",
+          "doc_count": 8
+        },
+        {
+          "key": "Nonmetallic Materials",
+          "doc_count": 8
+        }
+      ]
+    },
+    "disseminated": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "DOCUMENT_AND_METADATA",
+          "doc_count": 278
+        },
+        {
+          "key": "METADATA_ONLY",
+          "doc_count": 111
+        }
+      ]
+    },
+    "stiTypeDetails": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 9,
+      "buckets": [
+        {
+          "key": "Conference Paper",
+          "doc_count": 109
+        },
+        {
+          "key": "Abstract",
+          "doc_count": 71
+        },
+        {
+          "key": "Presentation",
+          "doc_count": 49
+        },
+        {
+          "key": "Reprint (Version printed in journal)",
+          "doc_count": 31
+        },
+        {
+          "key": "Conference Proceedings",
+          "doc_count": 28
+        },
+        {
+          "key": "Poster",
+          "doc_count": 24
+        },
+        {
+          "key": "Technical Memorandum (TM)",
+          "doc_count": 14
+        },
+        {
+          "key": "Preprint (Draft being sent to journal)",
+          "doc_count": 10
+        },
+        {
+          "key": "Other",
+          "doc_count": 9
+        },
+        {
+          "key": "Accepted Manuscript (Version with final changes)",
+          "doc_count": 8
+        },
+        {
+          "key": "Contractor or Grantee Report",
+          "doc_count": 5
+        },
+        {
+          "key": "Technical Publication (TP)",
+          "doc_count": 4
+        },
+        {
+          "key": "Conference Publication (CP)",
+          "doc_count": 3
+        },
+        {
+          "key": "Contractor Report (CR)",
+          "doc_count": 3
+        },
+        {
+          "key": "Extended Abstract",
+          "doc_count": 3
+        },
+        {
+          "key": "Other - NASA Tech Brief",
+          "doc_count": 3
+        },
+        {
+          "key": "Other - Collected Works",
+          "doc_count": 2
+        },
+        {
+          "key": "Other - NASA Technical Note (TN)",
+          "doc_count": 2
+        },
+        {
+          "key": "Accepted Manuscript",
+          "doc_count": 1
+        },
+        {
+          "key": "Book Chapter",
+          "doc_count": 1
+        }
+      ]
+    },
+    "organization": {
+      "doc_count_error_upper_bound": 5,
+      "sum_other_doc_count": 538,
+      "buckets": [
+        {
+          "key": "NASA Marshall Space Flight Center",
+          "doc_count": 102
+        },
+        {
+          "key": "Marshall Space Flight Center",
+          "doc_count": 53
+        },
+        {
+          "key": "NASA Johnson Space Center",
+          "doc_count": 26
+        },
+        {
+          "key": "Langley Research Center",
+          "doc_count": 23
+        },
+        {
+          "key": "Ames Research Center",
+          "doc_count": 21
+        },
+        {
+          "key": "Jet Propulsion Lab., California Inst. of Tech.",
+          "doc_count": 21
+        },
+        {
+          "key": "NASA Ames Research Center",
+          "doc_count": 21
+        },
+        {
+          "key": "NASA Goddard Space Flight Center",
+          "doc_count": 19
+        },
+        {
+          "key": "NASA Langley Research Center",
+          "doc_count": 16
+        },
+        {
+          "key": "Universities Space Research Association",
+          "doc_count": 16
+        },
+        {
+          "key": "Alabama Univ.",
+          "doc_count": 14
+        },
+        {
+          "key": "Analytical Mechanics Associates (United States)",
+          "doc_count": 13
+        },
+        {
+          "key": "NASA Glenn Research Center",
+          "doc_count": 13
+        },
+        {
+          "key": "Goddard Space Flight Center",
+          "doc_count": 12
+        },
+        {
+          "key": "Kennedy Space Center",
+          "doc_count": 10
+        },
+        {
+          "key": "NASA Kennedy Space Center",
+          "doc_count": 10
+        },
+        {
+          "key": "Glenn Research Center",
+          "doc_count": 7
+        },
+        {
+          "key": "NASA Headquarters",
+          "doc_count": 7
+        },
+        {
+          "key": "Johnson Space Center",
+          "doc_count": 6
+        },
+        {
+          "key": "Southwest Research Inst.",
+          "doc_count": 6
+        }
+      ]
+    },
+    "modified": {
+      "buckets": [
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 369
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 18
+        }
+      ]
+    },
+    "keyword": {
+      "doc_count_error_upper_bound": 7,
+      "sum_other_doc_count": 885,
+      "buckets": [
+        {
+          "key": "Mars",
+          "doc_count": 26
+        },
+        {
+          "key": "Moon",
+          "doc_count": 16
+        },
+        {
+          "key": "Radiation",
+          "doc_count": 13
+        },
+        {
+          "key": "Extraterrestrial Environment",
+          "doc_count": 11
+        },
+        {
+          "key": "Analog Environment",
+          "doc_count": 8
+        },
+        {
+          "key": "Analog",
+          "doc_count": 7
+        },
+        {
+          "key": "Cave",
+          "doc_count": 7
+        },
+        {
+          "key": "ISRU",
+          "doc_count": 7
+        },
+        {
+          "key": "Lunar",
+          "doc_count": 7
+        },
+        {
+          "key": "Cosmic Radiation",
+          "doc_count": 6
+        },
+        {
+          "key": "Exploration Systems",
+          "doc_count": 6
+        },
+        {
+          "key": "GPS Denied",
+          "doc_count": 6
+        },
+        {
+          "key": "Geology",
+          "doc_count": 6
+        },
+        {
+          "key": "In-Situ Resource Utilization",
+          "doc_count": 6
+        },
+        {
+          "key": "NASA Discipline Radiation Health",
+          "doc_count": 6
+        },
+        {
+          "key": "Solar Activity",
+          "doc_count": 6
+        },
+        {
+          "key": "Habitation",
+          "doc_count": 5
+        },
+        {
+          "key": "Impact Melt",
+          "doc_count": 5
+        },
+        {
+          "key": "Instrument Development",
+          "doc_count": 5
+        },
+        {
+          "key": "KNaCK",
+          "doc_count": 5
+        }
+      ]
+    }
+  }
+}

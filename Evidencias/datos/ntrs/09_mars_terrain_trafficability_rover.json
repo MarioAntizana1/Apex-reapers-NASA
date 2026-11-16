@@ -1,0 +1,2172 @@
+{
+  "stats": {
+    "took": 73,
+    "total": 8,
+    "estimate": false,
+    "maxScore": 167.57298
+  },
+  "results": [
+    {
+      "_meta": {
+        "score": 167.57298
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20010013031,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "2b4a420a507940cdbff486711a299694",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20010013031,
+        "ear": "NO",
+        "id": "3905b25d6d6349469bf83b8a1817cdde",
+        "itar": "NO"
+      },
+      "distributionDate": "2011-09-08T00:00:00.0000000+00:00",
+      "title": "Global Database of GSSR Mars Delay-Doppler Radar Observations: Analysis for Landing Site Characterization and Rover Trafficability",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-20T01:09:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20010013031,
+          "meta": {
+            "author": {
+              "name": "Haldemann, A. F. C."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA United States"
+            }
+          },
+          "id": "0f9c71f3f0e24d6fb392746c6803f22d"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20010013031,
+          "meta": {
+            "author": {
+              "name": "Jurgens, R. F."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA United States"
+            }
+          },
+          "id": "7e75caa829e54a2db2464c93d96ef6dd"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20010013031,
+          "meta": {
+            "author": {
+              "name": "Slade, M. A."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA United States"
+            }
+          },
+          "id": "76e0aaec0e004a84a983af0ca4906c47"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20010013031,
+          "meta": {
+            "author": {
+              "name": "Thompson, T. W."
+            },
+            "organization": {
+              "name": "Arizona Univ.",
+              "location": "Tucson, AZ United States"
+            }
+          },
+          "id": "9940a2976eb046a1b5de534388bc1003"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20010013031,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-20T01:09:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Earth-based radar data remain an important part of the information set used to select and certify spacecraft landing sites on Mars. Constraints on robotic landings on Mars include: terrain elevation, radar reflectivity, regional and local slopes, rock distribution and coverage, and surface roughness, all of which are addressed by radar data. Indeed, the usefulness of radar data for Mars exploration has been demonstrated in the past. Radar data were critical in assessing the Viking Lander 1 site, and more recently, the Mars Pathfinder landing site.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "submissionId": 20010013031,
+          "id": "c236aa99ccd641f9a85e1997e688a2c8",
+          "publicationName": "Second Mars Surveyor Landing Site Workshop",
+          "publicationDate": "1999-06-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20010013008,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Second Mars Surveyor Landing Site Workshop",
+          "stiType": "CONFERENCE_PROCEEDINGS",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20010013008,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Second Mars Surveyor Landing Site Workshop",
+          "stiType": "CONFERENCE_PROCEEDINGS",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 155.71817
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20000056072,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "e79d8843229a499d99c4f84884a2a144",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20000056072,
+        "ear": "NO",
+        "id": "b4f51bfaeded4ccba238cdc0d3e1a2b9",
+        "itar": "NO"
+      },
+      "distributionDate": "2013-08-29T00:00:00.0000000+00:00",
+      "title": "Global Database of GSSR Mars Delay-Doppler Radar Obsevations: Analysis for Landing Site Characterization and Rover Trafficability",
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-09-07T12:12:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20000056072,
+          "meta": {
+            "author": {
+              "name": "Haldemann, A. F. C."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA United States"
+            }
+          },
+          "id": "ddf9591ab70e47e6ac973ff1637753fe"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20000056072,
+          "meta": {
+            "author": {
+              "name": "Jurgens, R. F."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA United States"
+            }
+          },
+          "id": "104c2b7e666b4b009684f9e28cc32f9c"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20000056072,
+          "meta": {
+            "author": {
+              "name": "Slade, M. A."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA United States"
+            }
+          },
+          "id": "ba163dc9ff6f48ebbb1db94b97054a06"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20000056072,
+          "meta": {
+            "author": {
+              "name": "Thompson, T. W."
+            },
+            "organization": {
+              "name": "Arizona Univ.",
+              "location": "Tucson, AZ United States"
+            }
+          },
+          "id": "546e03b198cb42b8978426499b75e303"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20000056072,
+          "meta": {
+            "author": {
+              "name": "Rojas, F."
+            },
+            "organization": {
+              "name": "Arizona Univ.",
+              "location": "Tucson, AZ United States"
+            }
+          },
+          "id": "a5fb0f4f5ffe40f5be33136ae436abef"
+        }
+      ],
+      "stiTypeDetails": "Other",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20000056072,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-09-07T12:12:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Earth-based radar data remain an important part of the information set used to select and certify spacecraft landing sites on Mars. Constraints on robotic landings on Mars include: terrain elevation, radar reflectivity, regional and local slopes, rock distribution and coverage, and surface roughness, all of which are addressed by radar data. Indeed, the usefulness of radar data for Mars exploration has been demonstrated in the past. Radar data were critical in assessing the Viking Lander, and more recently, the Mars Pathfinder landing.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "publications": [
+        {
+          "submissionId": 20000056072,
+          "id": "66b62e5b1c53491e84e32df88ac4a0b3",
+          "publicationDate": "2000-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20000056072.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20000056072/downloads/20000056072.pdf",
+            "pdf": "/api/citations/20000056072/downloads/20000056072.pdf",
+            "fulltext": "/api/citations/20000056072/downloads/20000056072.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 108.93681
+      },
+      "copyright": {
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20040065746,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "0a2fecce7b8642a38d309338aaf29f7c",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20040065746,
+        "ear": "NO",
+        "id": "6ec20e56e86e4aa18e4aae0285b486da",
+        "itar": "NO"
+      },
+      "distributionDate": "2004-05-25T04:00:00.0000000+00:00",
+      "title": "High Resolution Digital Elevation Models of Pristine Explosion Craters",
+      "stiType": "ABSTRACT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-21T18:40:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+          "sequence": 0,
+          "submissionId": 20040065746,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "T G Farr"
+            },
+            "organization": {
+              "name": "Jet Propulsion Laboratory",
+              "location": "La Cañada Flintridge, United States"
+            }
+          },
+          "id": "56da4d690fb2487c89dcaf2bf77007a3",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "5f6883e9068e4f5d86da2109daa91c46"
+        },
+        {
+          "organizationId": "e081fcbdcd5059fa8fa7b6c5c6a2c483",
+          "sequence": 1,
+          "submissionId": 20040065746,
+          "meta": {
+            "author": {
+              "name": "W Krabill"
+            },
+            "organization": {
+              "name": "Goddard Space Flight Center",
+              "location": "Greenbelt, United States"
+            }
+          },
+          "id": "c93b571a703f44d8839c9c4dbe6089c8",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "e53641f275f15469a1b19a8980e09171",
+          "sequence": 2,
+          "submissionId": 20040065746,
+          "meta": {
+            "author": {
+              "name": "J B Garvin"
+            },
+            "organization": {
+              "name": "National Aeronautics and Space Administration",
+              "location": "Washington, United States"
+            }
+          },
+          "id": "2e623ba2ff4d434f942fb11267b427fd",
+          "userType": "OTHER"
+        }
+      ],
+      "stiTypeDetails": "Abstract",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20040065746,
+      "sourceIdentifiers": [
+        {
+          "number": "https://www.lpi.usra.edu/meetings/lpsc2004/pdf/2146.pdf",
+          "submissionId": 20040065746,
+          "id": "3ff6b9710b9b4a0eb176b5a44b62b8e6",
+          "descriptor": "LPI Abstract",
+          "type": "URL"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-21T18:40:00.0000000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "In order to effectively capture a realistic terrain applicable to studies of cratering processes and landing hazards on Mars, we have obtained high resolution digital elevation models of several pristine explosion craters at the Nevada Test Site. We used the Airborne Terrain Mapper (ATM), operated by NASA's Wallops Flight Facility to obtain DEMs with 1 m spacing and 10 cm vertical errors of 4 main craters and many other craters and collapse pits. The main craters that were mapped are Sedan, Scooter, Schooner, and Danny Boy. The 370 m diameter Sedan crater, located on Yucca Flat, is the largest and freshest explosion crater on Earth that was formed under conditions similar to hypervelocity impact cratering. As such, it is effectively pristine, having been formed in 1962 as a result of a controlled detonation of a 100 kiloton thermonuclear device, buried at the appropriate equivalent depth of burst required to make a simple crater. Sedan was formed in alluvium of mixed lithology and subsequently studied using a variety of field-based methods. Nearby secondary craters were also formed at the time and were also mapped by ATM. Adjacent to Sedan and also in alluvium is Scooter, about 90 m in diameter and formed by a high-explosive event. Schooner (240 m) and Danny Boy (80 m) craters were also important targets for ATM as they were excavated in hard basalt and therefore have much rougher ejecta. This will allow study of ejecta patterns in hard rock as well as engineering tests of crater and rock avoidance and rover trafficability. In addition to the high resolution DEMs, crater geometric characteristics, RMS roughness maps, and other higher-order derived data products will be generated using these data. These will provide constraints for models of landing hazards on Mars and for rover trafficability. Other planned studies will include ejecta size-frequency distribution at the resolution of the DEM and at finer resolution through air photography and field measurements, correlation of ejecta size and composition with radar and visible-thermal IR remote sensing signatures, and comparison of these results with similar measurements of Mars. The final DEMs, ancillary data sets, and derived data products will be made available to the community.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "cui": {
+        "submissionId": 20040065746,
+        "id": "6b131b3da6aa4cb0b4f4044265fea2e0"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20040065746,
+          "endDate": "2004-03-19T05:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "caba028024835183ac5ceb068aa86384",
+              "meta": {
+                "organization": {
+                  "name": "Lunar and Planetary Institute",
+                  "location": "Houston, Texas, United States"
+                }
+              },
+              "meetingId": "a8ec0f9f215f40329ff193a83e7c875b",
+              "id": "248e130f8f194e449121eb758bfde549"
+            },
+            {
+              "organizationId": "e53641f275f15469a1b19a8980e09171",
+              "meta": {
+                "organization": {
+                  "name": "National Aeronautics and Space Administration",
+                  "location": "Washington, United States"
+                }
+              },
+              "meetingId": "a8ec0f9f215f40329ff193a83e7c875b",
+              "id": "7a34d928dfd1407a97baf8dc5567b3b1"
+            }
+          ],
+          "name": "35th Lunar and Planetary Science Conference",
+          "location": "Houston, TX",
+          "id": "a8ec0f9f215f40329ff193a83e7c875b",
+          "url": "https://www.lpi.usra.edu/meetings/lpsc2004/",
+          "startDate": "2004-03-15T05:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20040065746,
+          "publisher": "Lunar and Planetary Institute",
+          "id": "24c8aca79eb3413e8a98a173750bbdf8",
+          "publicationName": "Lunar and Planetary Science XXXV: Mars Impact Cratering",
+          "publicationDate": "2004-01-01T05:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20040065744,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Lunar and Planetary Science XXXV: Mars Impact Cratering",
+          "stiType": "CONFERENCE_PROCEEDINGS",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20040065744,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Lunar and Planetary Science XXXV: Mars Impact Cratering",
+          "stiType": "CONFERENCE_PROCEEDINGS",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 96.63802
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20150021128,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "d8cb7a1b69124af89317c2ed88780e77",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20150021128,
+        "ear": "NO",
+        "id": "1a78301c5aa4470f801918d4a7a8a3ee",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "JSC-CN-34419",
+        "Report Number: JSC-CN-34419"
+      ],
+      "title": "Noctis Landing: A Proposed Landing Site/Exploration Zone for Human Missions to the Surface of Mars",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2015-11-12T15:52:46.0800000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Lee, Pascal"
+            },
+            "organization": {
+              "name": "Search for Extraterrestrial Intelligence Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "b2b6949c81944df9b07cfcca3636cbf6"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Acedillo, Shannen"
+            },
+            "organization": {
+              "name": "Search for Extraterrestrial Intelligence Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "c9b1a6e36e4243a59d85dadfab5026ec"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Braham, Stephen"
+            },
+            "organization": {
+              "name": "Mars Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "d006aa8ba4ae466aac4f7b98eba62dda"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Brown, Adrian"
+            },
+            "organization": {
+              "name": "Search for Extraterrestrial Intelligence Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "de9110c3d79442cc939f7acb50226dae"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Elphic, Richard"
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "f508139aad974e9aaad32a50827ce42b"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Fong, Terry"
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "c5800682cd654110a158e475fa64e1b1"
+        },
+        {
+          "sequence": 6,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Glass, Brian"
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "ca60aae31f3b4e888b880f63fb0efc7f"
+        },
+        {
+          "sequence": 7,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Hoftun, Christopher"
+            },
+            "organization": {
+              "name": "Mars Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "67078dcec2f54ce1a00193d9a3f91fdf"
+        },
+        {
+          "sequence": 8,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Johansen, Brage W."
+            },
+            "organization": {
+              "name": "Mars Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "eb79a00439e5418eb430de806fd793ce"
+        },
+        {
+          "sequence": 9,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Lorber, Kira"
+            },
+            "organization": {
+              "name": "Mars Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "e5e2e6188c3a4a9fbd52ee4000c6569d"
+        },
+        {
+          "sequence": 10,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Mittlefehldt, David"
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "8a85ac3af5e74530b3d85725fc3f118d"
+        },
+        {
+          "sequence": 11,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Takagi, Yuta"
+            },
+            "organization": {
+              "name": "Mars Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "ad55239688e0488087eae06b89c3d9bc"
+        },
+        {
+          "sequence": 12,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Thomas, Peter"
+            },
+            "organization": {
+              "name": "Cornell Univ.",
+              "location": "Ithaca, NY, United States"
+            }
+          },
+          "id": "a39920eb1fdb4cdb92c920466d5d92ce"
+        },
+        {
+          "sequence": 13,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "West, Michael"
+            },
+            "organization": {
+              "name": "Mars Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "b1107fbb749f4d448e0e7dec74bc6ffb"
+        },
+        {
+          "sequence": 14,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "West, Stephen"
+            },
+            "organization": {
+              "name": "Mars Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "d8d6d5d7798b4d15bf7a3a6af2c53dfe"
+        },
+        {
+          "sequence": 15,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Zolensky, Michael"
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "c118b2921ddc47e9a361161b880fbb21"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20150021128,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2015-11-12T15:52:46.0800000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The proposed Noctis Landing Site/Exploration Zone (LS/EZ) is shown in Figure 1. Our preliminary study suggests that the proposed site meets all key Science and Resources (incl. Civil Engineering) requirements. The site is of significant interest, as the EZ not only offers a large number and wide range of regions of interest (ROIs) for short-term exploration, it is also located strategically at the crossroads between Tharsis and Valles Marineris, which are key for long-term exploration. The proposed site contains Regions of Interest (ROIs) that meet the following Science requirements: -­‐ Access to (1) deposits with a high preservation potential for evidence of past habitability and fossil biosignatures and (2) sites that are promising for present habitability. The site presents a wide variety of ROIs qith likely aqueous features and deposits, including sinous channels and valleys, slope gullies, lobate debris aprons, impact craters with lobate ejecta flows, and \"bathtub ring\" deposits. Neutron spectrometry also suggests hydrogen is present within the topmost 0.3 m or so of 4 to 10 wt% WEH (Water Equivalent Hydrogen). -­‐ Noachian and/or Hesperian rocks in a stratigraphic context that have a high likelihood of containing trapped atmospheric gases. Collapsed canyon rim material with preserved stratigraphy is abundantly present and accessible. -­‐ Exposures of at least two crustal units that have regional or global extents, that are suitable for radiometric dating, and that have relative ages that sample a significant range of martian geological time. Canyons floors in Ius Chasma, Tithonium Chasma, and plateau tops on Tharsis and in Sinai Planum offer access to distinct crustal units of regional extent. -­‐ Access to outcrops with linked morphological and/or geochemical signatures indicative of aqueous or groundwater/ mineral interactions. Iron and sulfur-bearing deposits on canyon floors in Noctis Labyrinthus, and in Ius Chasma (IC) and Tithonium Chasma (TC) offer many such outcrop options. -­‐ Identifiable stratigraphic contacts and cross-cutting relationships from which relative ages can be determined. In place and collapsed canyon walls in NL, TC, and IC offer such opportunities. -­‐ Other types of ROIs include access points to surrounding plateau top areas for longer term regional exploration. A key attribute of the proposed Noctic Landing site is its strategic location to allow the shortest possible surface excusions to Tharsis and Valles Marineris (VM). VM is the feature and region on Mars that exposes the longest record of Mars' geology and evolution through time. Tharsis is the region of Mars that has experienced the longest and most extensive volcanic history, and might still be volcanically active. Some of the youngest lava flows on Mars have been identified on the western flanks of the Tharsis Bulge, i.e., within driving range of future longrange (500 - 1000 km) pressurized rover traverses. The proposed site also contains ROIs that offer the following Resources (incl. Civil Engineering) characteristics: -­‐ Access to raw material that exhibits the potential to (1) be used as feedstock for water-generating in situ resource utilization (ISRU) processes and (2) yield significant quantities (greater than 100 MT) of water. The raw material is likely in the form of hydrated minerals, and possibly ice/regolith mix. The top of the raw material deposit is at the surface. -­‐ Access to a region where infrastructure can be emplaced or constructed. This region is less than 5 km from the LS and contains flat, stable terrain. The region exhibits evidence for an abundant source of loose regolith. Several deep pits in the area combined with the availability of sand suggests that some natural terrain features can be adapted for construction purposes. -­‐ Access to raw material that exhibits the potential to be used as metal feedstock for ISRU and construction purposes. Iron and sulfur-rich mineral surface deposits have been identified in CRISM data in many locations in this area. Noctis Landing is the lowest-altitude location on Mars that straddles both the Tharsis region (above average geothermal gradients) and Valles Marineris (minimal crustal thickness from surface (valley floor) to a subsurface liquid water table. Noctis Landing has the potential for being an ideal site for eventual deep drilling on Mars to access deep subsurface liquid water and potentially encountering extant life. Available data remains insufficient to fully qualify the Noctis Landing site. Additional remote sensing data (visible, Near and Mid-IR, and radar) and surface reconnaissance via a high-mobility robotic rover are recommended. In particular, it will be important to assess the trafficability of the site, and its potential for yielding water and metals as a resource. Access to plateau tops from the Noctis Landing site on the canyon floor should be demonstrated. Future exploration of the site would also be enhanced significantly by the availability of robotic (tele-operatable) surveying and sample-collecting drones. Testing of the use of such collaborative science and exploration technologies should be conducted at terrestrial sites such as the Haughton-Mars Project site on Devon Island, High Arctic, among others. Note: Noctis Landing is not an official Mars nomenclature name for this location. Because the area of the proposed LS/EZ had no name, and because it is close to Noctis Labyrinthus to the West while being distinct from it, the provisional name Noctis Landing is proposed. Noctis means night in Latin.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "country": "United States",
+          "submissionId": 20150021128,
+          "endDate": "2015-10-22T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "8ccaff322ecb48d2811364bf91d9f59d",
+              "meta": {
+                "organization": {
+                  "name": "Lunar and Planetary Inst.",
+                  "location": "Houston, TX, United States"
+                }
+              },
+              "meetingId": "0acfc2b55d2e4e3c99a2c04a8a0a639a",
+              "id": "e02112dd73ba4f82a7da77284590fb21"
+            },
+            {
+              "organizationId": "c48d8d5db08e4b80b5f256cdcd1360dd",
+              "meta": {
+                "organization": {
+                  "name": "Universities Space Research Association",
+                  "location": "Houston, TX, United States"
+                }
+              },
+              "meetingId": "0acfc2b55d2e4e3c99a2c04a8a0a639a",
+              "id": "30689c77ff14422ba4e4c657cc3a24a5"
+            }
+          ],
+          "name": "2015 Annual Meeting of the Lunar Exploration Analysis Group",
+          "location": "Columbia, MD",
+          "id": "0acfc2b55d2e4e3c99a2c04a8a0a639a",
+          "startDate": "2015-10-20T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20150021128,
+          "id": "aeba67f1bc774ab08d04a19b45f84f45",
+          "publicationDate": "2015-10-20T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20150021128.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20150021128/downloads/20150021128.pdf",
+            "pdf": "/api/citations/20150021128/downloads/20150021128.pdf",
+            "fulltext": "/api/citations/20150021128/downloads/20150021128.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 93.08114
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 19870014122,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "0f77cf0869724328abf989f16581e6bf",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 19870014122,
+        "ear": "NO",
+        "id": "812fc92521a34a1faf0fbbf69adc1e70",
+        "itar": "NO"
+      },
+      "distributionDate": "2013-08-29T00:00:00.0000000+00:00",
+      "title": "Martian terrains",
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-09-05T11:00:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 19870014122,
+          "meta": {
+            "author": {
+              "name": "Masursky, Harold"
+            },
+            "organization": {
+              "name": "Geological Survey",
+              "location": "Flagstaff, AZ, United States"
+            }
+          },
+          "id": "4f340b4267a24eae978295d4326ab1ef"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 19870014122,
+          "meta": {
+            "author": {
+              "name": "Chapman, M. G."
+            },
+            "organization": {
+              "name": "Geological Survey",
+              "location": "Flagstaff, AZ, United States"
+            }
+          },
+          "id": "4a5b90167a6c4aa08ff968c582eaec20"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 19870014122,
+          "meta": {
+            "author": {
+              "name": "Davis, P. A."
+            },
+            "organization": {
+              "name": "Geological Survey",
+              "location": "Flagstaff, AZ, United States"
+            }
+          },
+          "id": "f887ef0de35442bdb1d0d3894162b013"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 19870014122,
+          "meta": {
+            "author": {
+              "name": "Dial, A. L., Jr."
+            },
+            "organization": {
+              "name": "Geological Survey",
+              "location": "Flagstaff, AZ, United States"
+            }
+          },
+          "id": "10ae108c051f4f8ea3e267b95bdce98a"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 19870014122,
+          "meta": {
+            "author": {
+              "name": "Strobell, M. E."
+            },
+            "organization": {
+              "name": "Geological Survey",
+              "location": "Flagstaff, AZ, United States"
+            }
+          },
+          "id": "57907abdf75d4431b875e1c374184cb8"
+        }
+      ],
+      "stiTypeDetails": "Other",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 19870014122,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": "87N23555"
+      },
+      "created": "2013-09-05T11:00:00.0000000+00:00",
+      "center": {
+        "code": "CDMS",
+        "name": "Legacy CDMS",
+        "id": "092d6e0881874968859b972d39a888dc"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Terrain studies of candidate landing sites for a future rover/sample-return mission to Mars are being conducted to evaluate the geologic and trafficability aspects of each site. An optimum site should have geologic units of widely diverse ages and chemical compositions occurring in close enough proximity and in smooth enough terrain so that a roving vehicle of limited traverse ability (+ or - 100 km) could collect representative samples. In FY 1986, geologic maps were compiled at 1:500,000 and 1:2 million scales of the Mangala Valles, Kasei Valles, Chasma Boreale (north polar), and Planum Australe (south polar) areas, and a study was begun of the topography and surface roughness characteristics of the Mangala Valles site. Geologic mapping has been greatly facilitated by specially enhanced, high-resolution Viking photographs, which clarify stratigraphic relations of units unrecognized earlier. Photoclinometric profiles of topographic features provide width and depth measurements of four classes of channels, the thickness of some volcanic units, and the throw on some faults. Estimates of the surface roughness of units are calculated using a newly developed USGS computer program and using measurements derived from Earth-based radar.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "publications": [
+        {
+          "submissionId": 19870014122,
+          "id": "8e37ecab38bf4c0ca74a948f5848fe1b",
+          "publicationName": "NASA, Washington, Reports of Planetary Geology and Geophysics Program, 1986",
+          "publicationDate": "1987-05-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "19870014122.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/19870014122/downloads/19870014122.pdf",
+            "pdf": "/api/citations/19870014122/downloads/19870014122.pdf",
+            "fulltext": "/api/citations/19870014122/downloads/19870014122.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 83.938774
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20010013008,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "f37075047665496c87e9b035c2c71e6c",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20010013008,
+        "ear": "NO",
+        "id": "090430a69ad24cf2bd18990a8e600057",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "title": "Second Mars Surveyor Landing Site Workshop",
+      "stiType": "CONFERENCE_PROCEEDINGS",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-09-07T12:24:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20010013008,
+          "meta": {
+            "author": {
+              "name": "Gulick, Virginia"
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA United States"
+            }
+          },
+          "id": "a1d28f9ad9c0477ea43f781f0282f6f7"
+        }
+      ],
+      "stiTypeDetails": "Conference Proceedings",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20010013008,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-09-07T12:24:00.0000000+00:00",
+      "center": {
+        "code": "ARC",
+        "name": "Ames Research Center",
+        "id": "4540cd94d24c4bf29f8773a27faf96b2"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "This publication presents abstracts accepted for presentation at the 2nd Mars Surveyor Landing Site Workshop, held at the State University of New York at Buffalo, June 22-23, 1999. The general theme of the conference centers on the engineering and topographical constraints placed upon the Mars Surveyor 2001 lander and proposed landing sites that fall within these constraints.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "country": "United States",
+          "submissionId": 20010013008,
+          "endDate": "1999-06-23T00:00:00.0000000+00:00",
+          "name": "Second Mars Surveyor Landing Site Workshop",
+          "location": "Buffalo, NY",
+          "id": "ab3a94714e2043eb82be63c911e95618",
+          "startDate": "1999-06-22T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20010013008,
+          "id": "403c56eef8c54f81892d2fc28d0a0630",
+          "publicationName": "Second Mars Surveyor Landing Site Workshop",
+          "publicationDate": "1999-06-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013014,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Mars Surveyor Program, Human Exploration Objectives and the Case for Gusev Crater",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013046,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Landing Site Engineering Constraints",
+          "stiType": "ABSTRACT",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013025,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Potential Landing Sites in Margaritifer Basin, Margaritifer Sinus, Mars",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013031,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Global Database of GSSR Mars Delay-Doppler Radar Observations: Analysis for Landing Site Characterization and Rover Trafficability",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013039,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Topographic Evaluation of Mars 2001 Candidate Landing Sites: A MGS-Viking Synergistic Study",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013016,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "A Proposed Landing Site for the 2001 Lander in a Hematite-Rich Region in Sinus Meridiani",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013023,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Potential Mars 2001 Sites Coincident with Magnetic Anomalies",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013024,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Constraints and Approach for Selecting the Mars Surveyor '01 Landing Site",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013025,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Potential Landing Sites in Margaritifer Basin, Margaritifer Sinus, Mars",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013028,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Candidate Mars Surveyor Landing Sites Near Apollinaris Patera",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013029,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "A Virtual Collaborative Environment for Mars Surveyor Landing Site Studies",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013030,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Lybia Montes: A Safe, Ancient Cratered Terrain, Mars Surveyor Landing Site at the Isidis Basin Rim",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013031,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Global Database of GSSR Mars Delay-Doppler Radar Observations: Analysis for Landing Site Characterization and Rover Trafficability",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013037,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Characterization of Terrain in the Mars Surveyor 2001 Landing Site Latitude and Elevation Region Using Mapping Phase Mars Global Surveyor MOC Images",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013039,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Topographic Evaluation of Mars 2001 Candidate Landing Sites: A MGS-Viking Synergistic Study",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013042,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Proposed Mars Surveyor 2001 Landing Site at 'Ibishead Peninsula', Southern Elysium Planitia",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013046,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Landing Site Engineering Constraints",
+          "stiType": "ABSTRACT",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013050,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Potential 2001 Landing Sites in Melas Chasma, Mars",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013024,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Constraints and Approach for Selecting the Mars Surveyor '01 Landing Site",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013010,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Sampling the Old and the New: Landing Site Proposals for the Dichotomy Boundary (6 S,210 W) and the Ares Vallis Headlands (2 S,18 W)",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013010,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Sampling the Old and the New: Landing Site Proposals for the Dichotomy Boundary (6 S,210 W) and the Ares Vallis Headlands (2 S,18 W)",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013012,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Concept Mapping as a Support for Mars Landing-Site Selection",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013013,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Candidate-Landing Sites and Backups for the Mars Surveyor Program in the Schiaparelli. Crater Region",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013014,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Mars Surveyor Program, Human Exploration Objectives and the Case for Gusev Crater",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013016,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "A Proposed Landing Site for the 2001 Lander in a Hematite-Rich Region in Sinus Meridiani",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013017,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Confluence of Gangis and Eos Chasmas (5-12 deg S, 31-41 deg W): Geologic, Hydrologic, and Exobiologic Considerations for Landing Site at the East End of Valles Marineris",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013018,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Highland Valley Networks and Ephemeral Lake Basins, Libya Montes, SW Isidis Basin Margin",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013037,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Characterization of Terrain in the Mars Surveyor 2001 Landing Site Latitude and Elevation Region Using Mapping Phase Mars Global Surveyor MOC Images",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013013,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Candidate-Landing Sites and Backups for the Mars Surveyor Program in the Schiaparelli. Crater Region",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013018,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Highland Valley Networks and Ephemeral Lake Basins, Libya Montes, SW Isidis Basin Margin",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013012,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Concept Mapping as a Support for Mars Landing-Site Selection",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013017,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "The Confluence of Gangis and Eos Chasmas (5-12 deg S, 31-41 deg W): Geologic, Hydrologic, and Exobiologic Considerations for Landing Site at the East End of Valles Marineris",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013029,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "A Virtual Collaborative Environment for Mars Surveyor Landing Site Studies",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013030,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Lybia Montes: A Safe, Ancient Cratered Terrain, Mars Surveyor Landing Site at the Isidis Basin Rim",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013042,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Proposed Mars Surveyor 2001 Landing Site at 'Ibishead Peninsula', Southern Elysium Planitia",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013023,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Potential Mars 2001 Sites Coincident with Magnetic Anomalies",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013050,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Potential 2001 Landing Sites in Melas Chasma, Mars",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20010013028,
+          "type": "ANALYTIC_SUBSIDIARY",
+          "title": "Candidate Mars Surveyor Landing Sites Near Apollinaris Patera",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20010013008.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20010013008/downloads/20010013008.pdf",
+            "pdf": "/api/citations/20010013008/downloads/20010013008.pdf",
+            "fulltext": "/api/citations/20010013008/downloads/20010013008.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 75.06201
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20000112989,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "8fc55db6ab8c40899ab10b728100b536",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20000112989,
+        "ear": "NO",
+        "id": "45d71a2f8fbd4a6e8d20f9350e0b9717",
+        "itar": "NO"
+      },
+      "distributionDate": "2011-09-08T00:00:00.0000000+00:00",
+      "title": "Selection and Assessment of Predictions of the Mars Pathfinder Landing Site",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-19T18:32:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20000112989,
+          "meta": {
+            "author": {
+              "name": "Golombek, M. P."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA United States"
+            }
+          },
+          "id": "974ee88633244698ad0bc8a491de8ee5"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20000112989,
+          "meta": {
+            "author": {
+              "name": "Moore, H. J."
+            },
+            "organization": {
+              "name": "Geological Survey",
+              "location": "Menlo Park, CA United States"
+            }
+          },
+          "id": "096a8934a87344d7b784617c7a1c9687"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20000112989,
+          "meta": {
+            "author": {
+              "name": "Haldemann, A. F. C."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA United States"
+            }
+          },
+          "id": "3d8cc27d74394e43834f6a47b1acbd49"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20000112989,
+          "meta": {
+            "author": {
+              "name": "Cook, R. A."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA United States"
+            }
+          },
+          "id": "bfc0dbf6bfc54f81a9e5024c7b4402ac"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20000112989,
+          "meta": {
+            "author": {
+              "name": "Parker, T. J."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA United States"
+            }
+          },
+          "id": "2959a26c79894639be4b3910d3335e8c"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20000112989,
+          "meta": {
+            "author": {
+              "name": "Schofield, J. T."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA United States"
+            }
+          },
+          "id": "8670830305214953b97b7d0c5f8908b6"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20000112989,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-19T18:32:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The successful landing of the Mars Pathfinder spacecraft on Mars allows the review of the process of selecting the landing site and assessing predictions made for the site based on Viking and Earth-based data. Selection of the landing site for Mars Pathfinder was a two-phase process. The first phase took place from October 1993 to June 1994 and involved: initial identification of engineering constraints, definition of environmental conditions at the site for spacecraft design, and evaluation of the scientific potential of different landing sites. This phase culminated with the first \"Mars Pathfinder Landing Site Workshop\", held at the Lunar and Planetary Institute in Houston, Texas on April 18-19, 1994, in which suggested approaches and landing sites were solicited from the entire scientific community. A preliminary site was selected by the project for design purposes in June 1994. The second phase took place from July 1994 to March 1996 and involved: developing criteria for evaluating site safety using images and remote sensing data, testing of the spacecraft and landing subsystems (with design improvements) to establish quantitative engineering constraints on landing site characteristics, evaluating all potential landing sites on Mars, and certification of the site by the project. This phase included a second open workshop, \"Mars Pathfinder Landing Site Workshop II: Characteristics of the Ares Vallis Region and Field Trips in the Channeled Scabland, Washington\" held in Spokane and Moses Lake September 24-30, 1995 and formal acceptance of the site by NASA Headquarters. Engineering constraints on Pathfinder landing sites were developed from the initial design of the spacecraft and the entry, descent and landing scenario. The site must be within 5 degrees of the subsolar latitude at the time of landing (15N for maximum solar power and flexible communications with Earth. It also must be below 0 km elevation to enable enough time for the parachute to bring the lander to the proper terminal velocity for landing. The entire landing ellipse, which is 70 km by 200 km due to navigational, ephemeris and atmospheric uncertainties, must be free of steep slopes, scarps and obvious hazards in Viking orbiter images, have acceptable radar reflectivity, moderate rock abundances and have little or no dust. Scientific considerations of the Mars Pathfinder payload and mission indicate that analyses of \"grab bag\" samples at the mouths of outflow channels can offer a first order assessment of a variety of rock types on Mars. Highland sites offer the advantage of in situ analysis of ancient rocks on Mars that record crustal differentiation and the nature of the early environment. Dark gray sites offer the potential of analyzing unweathered and unoxidized materials. Following a general assessment of the safety of different sites, a preliminary selection of a \"grab bag\" site was made. This site, Ares Vallis, is near the mouth of an outflow channel that may contain ancient Noachian terrain, Hesperian ridged plains, and reworked channel materials. All potential landing sites on Mars that met basic safety criteria were analyzed in detail. Sites (100 by 200 km target ellipses) were considered safe if they were below 0 km elevation, were free of obvious hazards (high relief surface features) in high-resolution (< 50 m/pixel) Viking orbiter images and had acceptable reflectivity and roughness at radar wavelengths, high thermal inertia, moderate rock abundance, low red to violet ratio, and low albedo. Only 4 sites on Mars met all the above criteria, which included 1995 opposition 3.5 cm delay-Doppler radar data. Complete data were evaluated for 7 sites and the Viking landing sites for comparison for all the above criteria as well as crater abundance, hill and mesa abundance, slopes over meter to kilometer scales, low altitude winds (from global circulation models and slopes), the size-frequency distribution of large rocks, as well as rover trafficability and science potential. Discussion of potential hazards at Ares Vallis using a variety of data sets (including radar) at a second open workshop, indicated this site cannot be shown to be any more hazardous than the Viking landing sites. Field trips to the Channeled Scabland and the Ephrata Fan, analogs for Ares Vallis and the landing site, respectively, provided valuable insight into possible geologic processes and potential surface characteristics. Three sites met all the data requirements and safety criteria for landing Pathfinder. Ares Vallis was selected by the project because it appeared acceptably safe (although it appeared to have greater rock abundances than other sites, its elevation was likely the best known) and offered the prospect of analyzing a variety of rock types expected to be deposited by catastrophic floods, which would enable addressing first-order scientific questions such as differentiation of the crust, the development of weathering products, and the nature of the early martian environment and its subsequent evolution. The selection was reviewed by an external board at a number of meetings and accepted, and the site was approved by NASA Headquarters. Data gathered by the Pathfinder lander' and rover provides the opportunity to test the predictions made for the site in the selection process based on remote observations from Earth, orbit, and the surface. The discussion below is taken from Golombek et al. to which the reader is referred for a more complete discussion and a complete list of references, which are omitted here for brevity. Many characteristics of the landing site are consistent with its being shaped and deposited by the Ares and Tiu catastrophic floods. The rocky surface is consistent a depositional plain comprising semi-rounded pebbles, cobbles and tabular boulders (some of which appear imbricated and/or inclined in the direction of flow) that appear similar to depositional plains in terrestrial catastrophic floods. The Twin Peaks appear to be streamlined hills in lander images, which is consistent with interpretations of larger hills in Viking orbiter images of the region that suggest the lander is on the flank of a broad, gentle ridge trending northeast from Twin Peaks. This ridge, which is the rise to the north of the lander, is aligned in the downstream direction from the Ares and Tiu Valles floods, and may be a debris tail deposited in the wake of the Twin Peaks. Channels visible throughout the scene may be a result of late stage drainage. As predicted by delay-Doppler radar measurements and tracking results, the average elevation of the center of the site was about the same as Viking Lander I relative to the 6.1 mbar geoid. The Doppler tracking and two-way ranging estimate for the elevation of the spacecraft is only 45 in lower than the Viking I Lander and within 100 in of that expected, which is within the uncertainties of the measurements. After landing, surface pressures and winds (5-10 m/s) were found to be similar to expectations based on Viking data, although temperatures were about 10 K warmer. The temperature profile below 50 km was also roughly 20 K warmer. As a result, predicted densities were 5% higher near the surface and up to 40% lower at 50 km but within the entry, descent and landing design margins. The populations of craters and small hills and the slopes of the hills measured in high-resolution (38 m/pixel) Viking orbiter images and the radar derived slopes of the landing site are all consistent with observations of these properties in the lander images. A rocky surface was expected from Viking Infra-Red Thermal Mapper (IRTM) observations and comparisons with the Viking landing sites. The observed cumulative fraction of area covered by rocks with diameters greater than 3 cm and heights greater than 0.5 in (potentially hazardous to landing) at Ares is similar to that predicted by IRTM observations and models of Viking lander and Earth analog rock size-frequency distributions. The IRTM prediction postulated an effective thermal inertia of 30 (10(exp -3) cgs units - cal/cubic cm/s(exp 0.5)/K) for the rock population, but we obtain a slightly different effective thermal inertia for the actual rock population. The validity of interpretations of radar echoes prior to landing are supported by a simple radar echo model, an estimate of the reflectivity of the soil from its bulk density, and the fraction of area covered by rocks. In the calculations, the soil produces the quasi-specular echo and the rocks produce the diffuse echo. The derived quasispecular cross section is comparable to the cross-sections and reflectivities reported for 3.5-cm wavelength observations. The model yields a diffuse echo that is modestly larger than the polarized diffuse echo reported for 3.5-cm wavelength observations. At 12.5-cm wavelength, similar rock populations at Ares and the Viking I site were expected because the diffuse echoes are comparable, but the large normal reflectivities suggests that bulk densities of the soils at depth are greater than those at the surface. We also obtain a fine-component inertia near 8.4 which agrees with the fine-component inertia of 8.7 (in 10(exp -3) cgs units) estimated from thermal observations from orbit by the IRTM; for this estimate, we used a bulk thermal inertia of 10.4 for the landing site, an effective thermal inertia near 40 (10(exp -3) cgs units) for the rock population, and a graphical representation of Kieffer's model. Color and albedo data for Ares suggested surfaces of materials at Ares Vallis would be relatively dust free or unweathered prior to landing compared with the materials at the Viking landing sites. This suggestion is supported by the abundance of relatively dark-gray rocks at Ares and their relative rarity at the Viking landing sites, where rocks are commonly coated with bright red dust. Finally, the 40 km long Ephrata Fan of the Channeled Scabland in Washington state, which was deposited where c",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "submissionId": 20000112989,
+          "id": "329046c056d847039236ca38849c7d61",
+          "publicationName": "Mars Surveyor 2001 Landing Site Workshop",
+          "publicationDate": "1998-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20000112986,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Mars Surveyor 2001 Landing Site Workshop",
+          "stiType": "CONFERENCE_PROCEEDINGS",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20000112986,
+          "type": "ANALYTIC_PRIMARY",
+          "title": "Mars Surveyor 2001 Landing Site Workshop",
+          "stiType": "CONFERENCE_PROCEEDINGS",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 68.431885
+      },
+      "copyright": {
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "MAY_INCLUDE_COPYRIGHT_MATERIAL",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20240001707,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "7c7dd04bbefc4abba1a39ac178fc6ed4",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar and Planetary Science and Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20240001707,
+        "ear": "NO",
+        "id": "f8af72fcf54040d780720bdbdca70b3b",
+        "itar": "NO"
+      },
+      "distributionDate": "2024-03-11T07:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "993436.04.01",
+          "submissionId": 20240001707,
+          "id": "1351c1583f2d42fbab1a8f4d12214383",
+          "type": "WBS"
+        }
+      ],
+      "title": "Viper Science Operations: Lunar Dynamic Science Table and ‘Tracker’ Tool.",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2024-02-06T23:13:04.0169110+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "7f9c4cf9cb6f517db6b0fb40eb584c03",
+          "sequence": 0,
+          "submissionId": 20240001707,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Darlene Sze Shien Lim"
+            },
+            "organization": {
+              "name": "Ames Research Center",
+              "location": "Mountain View, United States"
+            }
+          },
+          "id": "7f60ca442f6e490a95325fd53c50c68f",
+          "userType": "CIVIL",
+          "userId": "ca2bcb2d5d4b49139190751c90d48045"
+        },
+        {
+          "organizationId": "7a9f0f27fd1e5f85bd2531f843abe724",
+          "sequence": 1,
+          "submissionId": 20240001707,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Zara Mirmalek"
+            },
+            "organization": {
+              "name": "Bay Area Environmental Research Institute",
+              "location": "Petaluma, United States"
+            }
+          },
+          "id": "5df2378edff24ddd80ba86f483050e83",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "ba81a8a39cee4161921c1f45c0e42526"
+        },
+        {
+          "organizationId": "c73b9dc05dc45c709db595aa74763fe1",
+          "sequence": 2,
+          "submissionId": 20240001707,
+          "meta": {
+            "author": {
+              "name": "S. Kobs-Nawotniak"
+            },
+            "organization": {
+              "name": "Idaho State University",
+              "location": "Pocatello, United States"
+            }
+          },
+          "id": "cc1f466516c94f3bbc1410c71b955f6d",
+          "userType": "OTHER"
+        },
+        {
+          "organizationId": "7f9c4cf9cb6f517db6b0fb40eb584c03",
+          "sequence": 3,
+          "submissionId": 20240001707,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Anthony Colaprete"
+            },
+            "organization": {
+              "name": "Ames Research Center",
+              "location": "Mountain View, United States"
+            }
+          },
+          "id": "c0843f87f1874a80a71dbf2d0da3ad1d",
+          "userType": "CIVIL",
+          "userId": "973c70de999f44859d7004593ee89b41"
+        },
+        {
+          "organizationId": "30956d12b05c56f99ba04cefabd82400",
+          "sequence": 4,
+          "submissionId": 20240001707,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "David Lees"
+            },
+            "organization": {
+              "name": "KBR (United States)",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "9bbb8a85411f4a0ba730dec9539502ae",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "4b35300520334dcb97fc2f71e089cad4"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20240001707,
+      "created": "2024-02-06T23:03:21.2593690+00:00",
+      "center": {
+        "code": "ARC",
+        "name": "Ames Research Center",
+        "id": "4540cd94d24c4bf29f8773a27faf96b2"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "<b>Introduction:</b> The NASA VIPER lunar rover mission [1] presents a unique operational paradigm within the history of robotic spaceflight. The proximity of the Moon to the Earth and the terrain elements (surface characteristics, light/shadow dynamics, communication links) of the Lunar South Polar landing site create unprecedented operational conditions between these two planetary bodies. Apollo era lunar science and exploration included humans <i>in situ</i> to operate instruments and assimilate observational inputs \nin real-time. Previous lunar orbital missions have worked to operational timescales, e.g., decisional \ntimelines and communication exchanges, that were weeks in duration. Mars rover missions have worked to \noperational timescales, e.g., decisional timelines and communication exchanges between Mars and Earth, \nthat were hours, days, and weeks in length. In the case of the VIPER mission, our operational decisioning for \nrover driving and instrument commanding will be compressed to minute-scale timeframes. \n\nThese operational conditions will directly impact the workflow and speed with which the VIPER Science \nTeam (VST) will be required to synthesize and analyze data and produce timely science-driven decisions \nthroughout surface mission operations [2]. The VST in the VIPER Mission Science Center (MSC) and the \nMission Operations Center (MOC) shall provide mission-enhancing scientific input to guide traverse \nplanning and drill site confirmation/selection throughout surface operations. Further, the VST input \nwill be of vital importance to the mission’s ability to maximize science return and to meet broader NASA \nobjectives for future lunar ISRU and exploration activities. Specifically, the VST in the MSC and MOC\nwill provide science-driven, consensus-based, timely input and decision-making to enhance mission \noperations and align mission science return with broader Agency goals. They will enable the characterization of the distribution (lateral and vertical extent, concentration, variability), form (chemical/physical state of these reservoirs of lunar water and key isotopes), and context (e.g., accessibility/overburden, environment, soil mechanics, trafficability, and temperatures) of lunar polar volatiles and water content for the VIPER mission. Additionally, the MSC will be selecting or reconfirming the location and path towards and from the third drill site (Drill Site Charlie) within each Science Station [6].\n\nTo enable scientific decision-making within the operational paradigm of the VIPER lunar rover mission requires detailed articulation of the VST’s scientific objectives and goals, and the operationalization of these \nobjectives and goals through their association with specific data products, tasks, and decisional procedures. Further, defining and tracking scientific success metrics throughout surface operations will enable the VST to have a quantified understanding of the mission’s evolving ability to accomplish the stated scientific objectives and goals both during and after the mission. This abstract provides an overview of the methods and development activities towards defining, operationalizing, and tracking scientific objectives and goals throughout VIPER surface operations. Specifically, we focus on the VIPER Lunar Dynamic \nScience Table (LDST) and the VIPER “Tracker” tool. ",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20240001707,
+        "id": "b70a389b8a614b5f81e21a7eae170e03"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20240001707,
+          "endDate": "2024-03-15T07:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "caba028024835183ac5ceb068aa86384",
+              "meta": {
+                "organization": {
+                  "name": "Lunar and Planetary Institute",
+                  "location": "Houston, Texas, United States"
+                }
+              },
+              "meetingId": "6f5358088f5d47ff9968209b4ade2e4a",
+              "id": "746839f26caf4dcfbab17cd27fb67999"
+            }
+          ],
+          "name": "Lunar and Planetary Science Conference 2024",
+          "location": "The Woodlands, TX",
+          "id": "6f5358088f5d47ff9968209b4ade2e4a",
+          "url": "https://www.hou.usra.edu/meetings/lpsc2024/",
+          "startDate": "2024-03-11T07:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20240001707-LPSC2024_Lim et al_LDST_vFINAL.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20240001707/downloads/20240001707-LPSC2024_Lim%20et%20al_LDST_vFINAL.pdf",
+            "pdf": "/api/citations/20240001707/downloads/20240001707-LPSC2024_Lim%20et%20al_LDST_vFINAL.pdf",
+            "fulltext": "/api/citations/20240001707/downloads/20240001707-LPSC2024_Lim%20et%20al_LDST_vFINAL.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    }
+  ],
+  "aggregations": {
+    "created": {
+      "buckets": [
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "author": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 20,
+      "buckets": [
+        {
+          "key": "Haldemann, A. F. C.",
+          "doc_count": 3
+        },
+        {
+          "key": "Jurgens, R. F.",
+          "doc_count": 2
+        },
+        {
+          "key": "Slade, M. A.",
+          "doc_count": 2
+        },
+        {
+          "key": "Thompson, T. W.",
+          "doc_count": 2
+        },
+        {
+          "key": "Acedillo, Shannen",
+          "doc_count": 1
+        },
+        {
+          "key": "Anthony Colaprete",
+          "doc_count": 1
+        },
+        {
+          "key": "Braham, Stephen",
+          "doc_count": 1
+        },
+        {
+          "key": "Brown, Adrian",
+          "doc_count": 1
+        },
+        {
+          "key": "Chapman, M. G.",
+          "doc_count": 1
+        },
+        {
+          "key": "Cook, R. A.",
+          "doc_count": 1
+        },
+        {
+          "key": "Darlene Sze Shien Lim",
+          "doc_count": 1
+        },
+        {
+          "key": "David Lees",
+          "doc_count": 1
+        },
+        {
+          "key": "Davis, P. A.",
+          "doc_count": 1
+        },
+        {
+          "key": "Dial, A. L., Jr.",
+          "doc_count": 1
+        },
+        {
+          "key": "Elphic, Richard",
+          "doc_count": 1
+        },
+        {
+          "key": "Fong, Terry",
+          "doc_count": 1
+        },
+        {
+          "key": "Glass, Brian",
+          "doc_count": 1
+        },
+        {
+          "key": "Golombek, M. P.",
+          "doc_count": 1
+        },
+        {
+          "key": "Gulick, Virginia",
+          "doc_count": 1
+        },
+        {
+          "key": "Hoftun, Christopher",
+          "doc_count": 1
+        }
+      ]
+    },
+    "reportNumber": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "JSC-CN-34419",
+          "doc_count": 1
+        },
+        {
+          "key": "Report Number: JSC-CN-34419",
+          "doc_count": 1
+        }
+      ]
+    },
+    "center": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "JPL",
+          "doc_count": 3
+        },
+        {
+          "key": "ARC",
+          "doc_count": 2
+        },
+        {
+          "key": "JSC",
+          "doc_count": 2
+        },
+        {
+          "key": "CDMS",
+          "doc_count": 1
+        }
+      ]
+    },
+    "index": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "submissions-2026-10-22-05-25",
+          "doc_count": 8
+        }
+      ]
+    },
+    "fundingNumber": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "993436.04.01",
+          "doc_count": 1
+        }
+      ]
+    },
+    "published": {
+      "buckets": [
+        {
+          "key_as_string": "1999",
+          "key": 915148800000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1987",
+          "key": 536457600000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1998",
+          "key": 883612800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2000",
+          "key": 946684800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2004",
+          "key": 1072915200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "distribution": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "PUBLIC",
+          "doc_count": 8
+        }
+      ]
+    },
+    "stiType": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "CONFERENCE_PAPER",
+          "doc_count": 4
+        },
+        {
+          "key": "OTHER",
+          "doc_count": 2
+        },
+        {
+          "key": "ABSTRACT",
+          "doc_count": 1
+        },
+        {
+          "key": "CONFERENCE_PROCEEDINGS",
+          "doc_count": 1
+        }
+      ]
+    },
+    "subjectCategory": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Lunar And Planetary Science And Exploration",
+          "doc_count": 6
+        },
+        {
+          "key": "Lunar And Planetary Exploration",
+          "doc_count": 1
+        },
+        {
+          "key": "Lunar and Planetary Science and Exploration",
+          "doc_count": 1
+        }
+      ]
+    },
+    "disseminated": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "DOCUMENT_AND_METADATA",
+          "doc_count": 5
+        },
+        {
+          "key": "METADATA_ONLY",
+          "doc_count": 3
+        }
+      ]
+    },
+    "stiTypeDetails": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Conference Paper",
+          "doc_count": 4
+        },
+        {
+          "key": "Other",
+          "doc_count": 2
+        },
+        {
+          "key": "Abstract",
+          "doc_count": 1
+        },
+        {
+          "key": "Conference Proceedings",
+          "doc_count": 1
+        }
+      ]
+    },
+    "organization": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Jet Propulsion Lab., California Inst. of Tech.",
+          "doc_count": 3
+        },
+        {
+          "key": "Arizona Univ.",
+          "doc_count": 2
+        },
+        {
+          "key": "Geological Survey",
+          "doc_count": 2
+        },
+        {
+          "key": "NASA Ames Research Center",
+          "doc_count": 2
+        },
+        {
+          "key": "Ames Research Center",
+          "doc_count": 1
+        },
+        {
+          "key": "Bay Area Environmental Research Institute",
+          "doc_count": 1
+        },
+        {
+          "key": "Cornell Univ.",
+          "doc_count": 1
+        },
+        {
+          "key": "Goddard Space Flight Center",
+          "doc_count": 1
+        },
+        {
+          "key": "Idaho State University",
+          "doc_count": 1
+        },
+        {
+          "key": "Jet Propulsion Laboratory",
+          "doc_count": 1
+        },
+        {
+          "key": "KBR (United States)",
+          "doc_count": 1
+        },
+        {
+          "key": "Mars Inst.",
+          "doc_count": 1
+        },
+        {
+          "key": "NASA Johnson Space Center",
+          "doc_count": 1
+        },
+        {
+          "key": "National Aeronautics and Space Administration",
+          "doc_count": 1
+        },
+        {
+          "key": "Search for Extraterrestrial Intelligence Inst.",
+          "doc_count": 1
+        }
+      ]
+    },
+    "modified": {
+      "buckets": [
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 8
+        }
+      ]
+    },
+    "keyword": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": []
+    }
+  }
+}

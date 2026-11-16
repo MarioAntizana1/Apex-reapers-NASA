@@ -1,0 +1,1995 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 340,
+    "db_response_time_ms": 104,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Mars extravehicular activity traverse planning) in the full text",
+      "x_new_oql": "get works with (Mars extravehicular activity traverse planning) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Mars extravehicular activity traverse planning",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Mars extravehicular activity traverse planning&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2922144251",
+      "doi": "https://doi.org/10.1089/ast.2018.1850",
+      "title": "Strategic Planning Insights for Future Science-Driven Extravehicular Activity on Mars",
+      "publication_year": 2019,
+      "cited_by_count": 17,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5080065169",
+            "display_name": "Allyson L. Brady",
+            "orcid": "https://orcid.org/0000-0003-0893-5532",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0893-5532"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98251732",
+              "display_name": "McMaster University",
+              "ror": "https://ror.org/02fa3aq29",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98251732"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Allyson L. Brady",
+          "raw_affiliation_strings": [
+            "School of Geography and Earth Sciences, McMaster University, Hamilton, Canada"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Geography and Earth Sciences, McMaster University, Hamilton, Canada",
+              "institution_ids": [
+                "https://openalex.org/I98251732"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5043558668",
+            "display_name": "Shannon E. Kobs Nawotniak",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I106969075",
+              "display_name": "Idaho State University",
+              "ror": "https://ror.org/0162z8b04",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I106969075"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Shannon E. Kobs Nawotniak",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Idaho State University, Pocatello, Idaho"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Idaho State University, Pocatello, Idaho",
+              "institution_ids": [
+                "https://openalex.org/I106969075"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5062654618",
+            "display_name": "S. S. Hughes",
+            "orcid": "https://orcid.org/0000-0002-5847-3535",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5847-3535"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I106969075",
+              "display_name": "Idaho State University",
+              "ror": "https://ror.org/0162z8b04",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I106969075"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Scott S. Hughes",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Idaho State University, Pocatello, Idaho"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Idaho State University, Pocatello, Idaho",
+              "institution_ids": [
+                "https://openalex.org/I106969075"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5063983730",
+            "display_name": "Samuel J. Payler",
+            "orcid": "https://orcid.org/0000-0003-3296-7649",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3296-7649"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98677209",
+              "display_name": "University of Edinburgh",
+              "ror": "https://ror.org/01nrxwf90",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Samuel J. Payler",
+          "raw_affiliation_strings": [
+            "UK Centre for Astrobiology, School of Physics and Astronomy, University of Edinburgh, Edinburgh, United Kingdom"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UK Centre for Astrobiology, School of Physics and Astronomy, University of Edinburgh, Edinburgh, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5083626774",
+            "display_name": "Adam Stevens",
+            "orcid": "https://orcid.org/0000-0001-8335-4143",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8335-4143"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98677209",
+              "display_name": "University of Edinburgh",
+              "ror": "https://ror.org/01nrxwf90",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Adam H. Stevens",
+          "raw_affiliation_strings": [
+            "UK Centre for Astrobiology, School of Physics and Astronomy, University of Edinburgh, Edinburgh, United Kingdom"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UK Centre for Astrobiology, School of Physics and Astronomy, University of Edinburgh, Edinburgh, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009578044",
+            "display_name": "Charles S. Cockell",
+            "orcid": "https://orcid.org/0000-0003-3662-0503",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3662-0503"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98677209",
+              "display_name": "University of Edinburgh",
+              "ror": "https://ror.org/01nrxwf90",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Charles S. Cockell",
+          "raw_affiliation_strings": [
+            "UK Centre for Astrobiology, School of Physics and Astronomy, University of Edinburgh, Edinburgh, United Kingdom"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UK Centre for Astrobiology, School of Physics and Astronomy, University of Edinburgh, Edinburgh, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5084602402",
+            "display_name": "Richard C. Elphic",
+            "orcid": "https://orcid.org/0009-0008-3020-801X",
+            "observed_orcids": [
+              "https://orcid.org/0009-0008-3020-801X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Richard C. Elphic",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center, Moffett Field, California"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center, Moffett Field, California",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052779549",
+            "display_name": "Alexander Sehlke",
+            "orcid": "https://orcid.org/0000-0001-7929-1776",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7929-1776"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alexander Sehlke",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center, Moffett Field, California"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center, Moffett Field, California",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5028859862",
+            "display_name": "Christopher W. Haberle",
+            "orcid": "https://orcid.org/0000-0003-1174-7313",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1174-7313"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Christopher W. Haberle",
+          "raw_affiliation_strings": [
+            "School of Earth and Space Exploration, Arizona State University, Tempe, Arizona"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Space Exploration, Arizona State University, Tempe, Arizona",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009686858",
+            "display_name": "Greg F. Slater",
+            "orcid": "https://orcid.org/0000-0001-7418-7566",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7418-7566"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98251732",
+              "display_name": "McMaster University",
+              "ror": "https://ror.org/02fa3aq29",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98251732"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Greg F. Slater",
+          "raw_affiliation_strings": [
+            "School of Geography and Earth Sciences, McMaster University, Hamilton, Canada"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Geography and Earth Sciences, McMaster University, Hamilton, Canada",
+              "institution_ids": [
+                "https://openalex.org/I98251732"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5077769926",
+            "display_name": "Darlene S. S. Lim",
+            "orcid": "https://orcid.org/0000-0002-3211-0795",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3211-0795"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2800713631",
+              "display_name": "NASA Research Park",
+              "ror": "https://ror.org/04hccab49",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I2800713631",
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210109616",
+              "display_name": "Bay Area Environmental Research Institute",
+              "ror": "https://ror.org/024tt5x58",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210109616"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Darlene S.S. Lim",
+          "raw_affiliation_strings": [
+            "Bay Area Environmental Research Institute (BAERI), NASA Research Park, Moffett Field, California",
+            "NASA Ames Research Center, Moffett Field, California"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Bay Area Environmental Research Institute (BAERI), NASA Research Park, Moffett Field, California",
+              "institution_ids": [
+                "https://openalex.org/I2800713631",
+                "https://openalex.org/I4210109616"
+              ]
+            },
+            {
+              "raw_affiliation_string": "NASA Ames Research Center, Moffett Field, California",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1089/ast.2018.1850",
+        "doi": "https://doi.org/10.1089/ast.2018.1850",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1089/ast.2018.1850",
+        "pdf_url": "https://www.liebertpub.com/doi/pdf/10.1089/ast.2018.1850",
+        "source": {
+          "id": "https://openalex.org/S202896352",
+          "display_name": "Astrobiology",
+          "issn_l": "1531-1074",
+          "issn": [
+            "1531-1074",
+            "1557-8070"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "medline",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320443",
+          "host_organization_name": "Mary Ann Liebert, Inc.",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320443",
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [
+            "Mary Ann Liebert, Inc.",
+            "SAGE Publishing"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Astrobiology",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.liebertpub.com/doi/pdf/10.1089/ast.2018.1850",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2293875332",
+      "doi": null,
+      "title": "Integrated Extravehicular Activity Human Research Plan: 2016",
+      "publication_year": 2016,
+      "cited_by_count": 4,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5078952917",
+            "display_name": "Andrew F. J. Abercromby",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Andrew F. J. Abercromby",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051843434",
+            "display_name": "Amy J. Ross",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Amy Ross",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5079340955",
+            "display_name": "J. Scott Cupples",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "J. Scott Cupples",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111571060",
+            "display_name": "Sudhakar Rajulu",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Sudhakar Rajulu",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020185877",
+            "display_name": "Jason R. Norcross",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Jason Norcross",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5110908260",
+            "display_name": "Steven P. Chappell",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Steven P. Chappell",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:casi.ntrs.nasa.gov:20170001523",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/2060/20170001523",
+        "pdf_url": "https://ntrs.nasa.gov/api/citations/20170001523/downloads/20170001523.pdf",
+        "source": {
+          "id": "https://openalex.org/S4377196257",
+          "display_name": "NASA STI Repository (National Aeronautics and Space Administration)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4210124779",
+          "host_organization_name": "National Aeronautics and Space Administration",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210124779"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "CASI",
+        "raw_type": "JSC-CN-38643"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ntrs.nasa.gov/api/citations/20170001523/downloads/20170001523.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2152906540",
+      "doi": null,
+      "title": "Extravehicular Activity and Planetary Protection",
+      "publication_year": 2015,
+      "cited_by_count": 0,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5013461802",
+            "display_name": "Jesse Buffington",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jesse Buffington",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center Houston, TX, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center Houston, TX, United States",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5001493093",
+            "display_name": "Natalie Mary",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1322124587",
+              "display_name": "Booz Allen Hamilton (United States)",
+              "ror": "https://ror.org/051rcp357",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I1322124587"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Natalie Mary",
+          "raw_affiliation_strings": [
+            "Booz-Allen and Hamilton, Inc. Houston, TX, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Booz-Allen and Hamilton, Inc. Houston, TX, United States",
+              "institution_ids": [
+                "https://openalex.org/I1322124587"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:casi.ntrs.nasa.gov:20150000533",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/2060/20150000533",
+        "pdf_url": "http://hdl.handle.net/2060/20150000533",
+        "source": {
+          "id": "https://openalex.org/S4377196257",
+          "display_name": "NASA STI Repository (National Aeronautics and Space Administration)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4210124779",
+          "host_organization_name": "National Aeronautics and Space Administration",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210124779"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "CASI",
+        "raw_type": "JSC-CN-32625"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2060/20150000533",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2920855452",
+      "doi": "https://doi.org/10.1089/ast.2018.1838",
+      "title": "Future Needs for Science-Driven Geospatial and Temporal Extravehicular Activity Planning and Execution",
+      "publication_year": 2019,
+      "cited_by_count": 26,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5057502078",
+            "display_name": "Jessica J. Márquez",
+            "orcid": "https://orcid.org/0009-0006-4279-1201",
+            "observed_orcids": [
+              "https://orcid.org/0009-0006-4279-1201"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Jessica J. Marquez",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center, Moffett Field, California"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center, Moffett Field, California",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5102804540",
+            "display_name": "Matthew James Miller",
+            "orcid": "https://orcid.org/0000-0002-9218-1472",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9218-1472"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Matthew J. Miller",
+          "raw_affiliation_strings": [
+            "Jacobs/NASA Johnson Space Center, Houston, Texas"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jacobs/NASA Johnson Space Center, Houston, Texas",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5019580716",
+            "display_name": "Tamar E. Cohen",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tamar Cohen",
+          "raw_affiliation_strings": [
+            "SGT/NASA Ames Research Center, Moffett Field, California"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "SGT/NASA Ames Research Center, Moffett Field, California",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5024018872",
+            "display_name": "Ivonne Deliz",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ivonne Deliz",
+          "raw_affiliation_strings": [
+            "ASRC Federal/NASA Ames Research Center, Moffett Field, California"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "ASRC Federal/NASA Ames Research Center, Moffett Field, California",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110602251",
+            "display_name": "David S. Lees",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I74973139",
+              "display_name": "Carnegie Mellon University",
+              "ror": "https://ror.org/05x2bcf33",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I74973139"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "David S. Lees",
+          "raw_affiliation_strings": [
+            "Carnegie Mellon University, Silicon Valley/NASA Ames Research Center, Moffett Field, California"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Carnegie Mellon University, Silicon Valley/NASA Ames Research Center, Moffett Field, California",
+              "institution_ids": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I74973139"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5114164632",
+            "display_name": "Jimin Zheng",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I51504820",
+              "display_name": "San Jose State University",
+              "ror": "https://ror.org/04qyvz380",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I51504820"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jimin Zheng",
+          "raw_affiliation_strings": [
+            "San Jose State University Research Foundation/NASA Ames Research Center, Moffett Field, California"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "San Jose State University Research Foundation/NASA Ames Research Center, Moffett Field, California",
+              "institution_ids": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I51504820"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Yeon J. Lee",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yeon J. Lee",
+          "raw_affiliation_strings": [
+            "SGT/NASA Ames Research Center, Moffett Field, California"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "SGT/NASA Ames Research Center, Moffett Field, California",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5076437157",
+            "display_name": "Bob Kanefsky",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I51504820",
+              "display_name": "San Jose State University",
+              "ror": "https://ror.org/04qyvz380",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I51504820"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bob Kanefsky",
+          "raw_affiliation_strings": [
+            "San Jose State University Research Foundation/NASA Ames Research Center, Moffett Field, California"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "San Jose State University Research Foundation/NASA Ames Research Center, Moffett Field, California",
+              "institution_ids": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I51504820"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5048887224",
+            "display_name": "Johannes J. Norheim",
+            "orcid": "https://orcid.org/0009-0004-9989-0740",
+            "observed_orcids": [
+              "https://orcid.org/0009-0004-9989-0740"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Johannes Norheim",
+          "raw_affiliation_strings": [
+            "Department of Aeronautics and Astronautics, Massachusetts Institute of Technology, Cambridge, Massachusetts"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Aeronautics and Astronautics, Massachusetts Institute of Technology, Cambridge, Massachusetts",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5068594929",
+            "display_name": "Matthew C. Deans",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Matthew Deans",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center, Moffett Field, California"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center, Moffett Field, California",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5108752151",
+            "display_name": "Steven Hillenius",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Steven Hillenius",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center, Moffett Field, California"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center, Moffett Field, California",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1089/ast.2018.1838",
+        "doi": "https://doi.org/10.1089/ast.2018.1838",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1089/ast.2018.1838",
+        "pdf_url": "https://www.liebertpub.com/doi/pdf/10.1089/ast.2018.1838",
+        "source": {
+          "id": "https://openalex.org/S202896352",
+          "display_name": "Astrobiology",
+          "issn_l": "1531-1074",
+          "issn": [
+            "1531-1074",
+            "1557-8070"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "medline",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320443",
+          "host_organization_name": "Mary Ann Liebert, Inc.",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320443",
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [
+            "Mary Ann Liebert, Inc.",
+            "SAGE Publishing"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Astrobiology",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.liebertpub.com/doi/pdf/10.1089/ast.2018.1838",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2974712193",
+      "doi": null,
+      "title": "Integrated Extravehicular Activity (EVA) Human Research Plan: 2016",
+      "publication_year": 2016,
+      "cited_by_count": 1,
+      "type": "other",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5078952917",
+            "display_name": "Andrew F. J. Abercromby",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Andrew F. J. Abercromby",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018198270",
+            "display_name": "Scott Cupples",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Scott Cupples",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111571060",
+            "display_name": "Sudhakar Rajulu",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Sudhakar Rajulu",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013461802",
+            "display_name": "Jesse Buffington",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Jesse Buffington",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020185877",
+            "display_name": "Jason R. Norcross",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Jason Norcross",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5110908260",
+            "display_name": "Steven P. Chappell",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Steven P. Chappell",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:ttu-ir.tdl.org:2346/67694",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/2346/67694",
+        "pdf_url": "http://hdl.handle.net/2346/67694",
+        "source": {
+          "id": "https://openalex.org/S4306402519",
+          "display_name": "ThinkTech (Texas Tech University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I12315562",
+          "host_organization_name": "Texas Tech University",
+          "host_organization_lineage": [
+            "https://openalex.org/I12315562"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "Presentation"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2346/67694",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2921548341",
+      "doi": "https://doi.org/10.1089/ast.2018.1912",
+      "title": "Assessing the Acceptability of Science Operations Concepts and the Level of Mission Enhancement of Capabilities for Human Mars Exploration Extravehicular Activity",
+      "publication_year": 2019,
+      "cited_by_count": 16,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5112709992",
+            "display_name": "Kara H. Beaton",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I144472018",
+              "display_name": "Wyle (United States)",
+              "ror": "https://ror.org/02zeryz43",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I144472018",
+                "https://openalex.org/I153156064"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "K.H. Beaton",
+          "raw_affiliation_strings": [
+            "KBRwyle, Houston, Texas, USA",
+            "NASA Johnson Space Center, Houston, Texas, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "KBRwyle, Houston, Texas, USA",
+              "institution_ids": [
+                "https://openalex.org/I144472018"
+              ]
+            },
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center, Houston, Texas, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110204023",
+            "display_name": "Steve Chappell",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I144472018",
+              "display_name": "Wyle (United States)",
+              "ror": "https://ror.org/02zeryz43",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I144472018",
+                "https://openalex.org/I153156064"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "S.P. Chappell",
+          "raw_affiliation_strings": [
+            "KBRwyle, Houston, Texas, USA",
+            "NASA Johnson Space Center, Houston, Texas, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "KBRwyle, Houston, Texas, USA",
+              "institution_ids": [
+                "https://openalex.org/I144472018"
+              ]
+            },
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center, Houston, Texas, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5078952917",
+            "display_name": "Andrew F. J. Abercromby",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A.F.J. Abercromby",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center, Houston, Texas, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center, Houston, Texas, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5102804540",
+            "display_name": "Matthew James Miller",
+            "orcid": "https://orcid.org/0000-0002-9218-1472",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9218-1472"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M.J. Miller",
+          "raw_affiliation_strings": [
+            "Jacobs Technology, Houston, Texas, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jacobs Technology, Houston, Texas, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5043558668",
+            "display_name": "Shannon E. Kobs Nawotniak",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I106969075",
+              "display_name": "Idaho State University",
+              "ror": "https://ror.org/0162z8b04",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I106969075"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "S.E. Kobs Nawotniak",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Idaho State University, Pocatello, Idaho, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Idaho State University, Pocatello, Idaho, USA",
+              "institution_ids": [
+                "https://openalex.org/I106969075"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080065169",
+            "display_name": "Allyson L. Brady",
+            "orcid": "https://orcid.org/0000-0003-0893-5532",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0893-5532"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98251732",
+              "display_name": "McMaster University",
+              "ror": "https://ror.org/02fa3aq29",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98251732"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A.L. Brady",
+          "raw_affiliation_strings": [
+            "School of Geography and Earth Sciences, McMaster University, Hamilton, Ontario, Canada"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Geography and Earth Sciences, McMaster University, Hamilton, Ontario, Canada",
+              "institution_ids": [
+                "https://openalex.org/I98251732"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5083626774",
+            "display_name": "Adam Stevens",
+            "orcid": "https://orcid.org/0000-0001-8335-4143",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8335-4143"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210091160",
+              "display_name": "European Astronaut Centre",
+              "ror": "https://ror.org/00hdhxd58",
+              "country_code": "DE",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I2801994115",
+                "https://openalex.org/I4210091160"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A.H. Stevens",
+          "raw_affiliation_strings": [
+            "European Astronaut Centre, European Space Agency, Cologne, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "European Astronaut Centre, European Space Agency, Cologne, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4210091160"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5063983730",
+            "display_name": "Samuel J. Payler",
+            "orcid": "https://orcid.org/0000-0003-3296-7649",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3296-7649"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210091160",
+              "display_name": "European Astronaut Centre",
+              "ror": "https://ror.org/00hdhxd58",
+              "country_code": "DE",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I2801994115",
+                "https://openalex.org/I4210091160"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "S.J. Payler",
+          "raw_affiliation_strings": [
+            "European Astronaut Centre, European Space Agency, Cologne, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "European Astronaut Centre, European Space Agency, Cologne, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4210091160"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5062654618",
+            "display_name": "S. S. Hughes",
+            "orcid": "https://orcid.org/0000-0002-5847-3535",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5847-3535"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I106969075",
+              "display_name": "Idaho State University",
+              "ror": "https://ror.org/0162z8b04",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I106969075"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "S.S. Hughes",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Idaho State University, Pocatello, Idaho, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Idaho State University, Pocatello, Idaho, USA",
+              "institution_ids": [
+                "https://openalex.org/I106969075"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5077769926",
+            "display_name": "Darlene S. S. Lim",
+            "orcid": "https://orcid.org/0000-0002-3211-0795",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3211-0795"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "D.S.S. Lim",
+          "raw_affiliation_strings": [
+            "BAER Institute, Moffett Field, California, USA",
+            "NASA Ames Research Center, Moffett Field, California, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BAER Institute, Moffett Field, California, USA",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "NASA Ames Research Center, Moffett Field, California, USA",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1089/ast.2018.1912",
+        "doi": "https://doi.org/10.1089/ast.2018.1912",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1089/ast.2018.1912",
+        "pdf_url": "https://www.liebertpub.com/doi/pdf/10.1089/ast.2018.1912",
+        "source": {
+          "id": "https://openalex.org/S202896352",
+          "display_name": "Astrobiology",
+          "issn_l": "1531-1074",
+          "issn": [
+            "1531-1074",
+            "1557-8070"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "medline",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320443",
+          "host_organization_name": "Mary Ann Liebert, Inc.",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320443",
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [
+            "Mary Ann Liebert, Inc.",
+            "SAGE Publishing"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Astrobiology",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.liebertpub.com/doi/pdf/10.1089/ast.2018.1912",
+        "any_repository_has_fulltext": true
+      }
+    }
+  ],
+  "group_by": []
+}

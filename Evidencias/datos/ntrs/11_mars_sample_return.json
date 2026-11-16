@@ -1,0 +1,3253 @@
+{
+  "stats": {
+    "took": 73,
+    "total": 1576,
+    "estimate": false,
+    "maxScore": 285.95636
+  },
+  "results": [
+    {
+      "_meta": {
+        "score": 285.95636
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "approverComments": "Items in TRS are protected by copyright, but are furnished with U.S. government purpose use rights.",
+        "containsIndication": true,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20210003261,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": true,
+        "id": "f0720d1e1a3c476790cdbf50c3b51bab",
+        "belongsToAuthors": false
+      },
+      "keywords": [
+        "Rendezvous",
+        "Mars",
+        "sample",
+        "return",
+        "mission"
+      ],
+      "exportControl": {
+        "isExportControl": "UNSET",
+        "submissionId": 20210003261,
+        "ear": "UNSET",
+        "id": "54745516cefb4515945e9ce124cc38d3",
+        "itar": "UNSET"
+      },
+      "created": "1999-08-16T00:00:00.0000000+00:00",
+      "distributionDate": "1999-08-16T00:00:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 0,
+      "abstract": "The primary objective of the Mars 2003/2005 Sample Return Project is to return Martian surface materials to Earth from two different sites by the year 2008.",
+      "title": "Mars Orbit Rendezvous Strategy for the Mars 2003/2005 Sample Return Mission",
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20210003261,
+          "meta": {
+            "author": {
+              "name": "Smith, J."
+            }
+          },
+          "id": "ddd981a3ef1e4cdd8c64daca1ea256d8"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210003261,
+          "meta": {
+            "author": {
+              "name": "Roncoli, R."
+            }
+          },
+          "id": "e42994b34c8845ad9579fc9a61b294f4"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210003261,
+          "meta": {
+            "author": {
+              "name": "Lee, W."
+            }
+          },
+          "id": "74cd483b9e314ae6a39da0b08f2f1f5b"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210003261,
+          "meta": {
+            "author": {
+              "name": "\"D'Amario, L.\", 'Bollman, W."
+            }
+          },
+          "id": "c3cabaa05c834d9dbb43154d24c84fe1"
+        }
+      ],
+      "disseminated": "METADATA_ONLY",
+      "stiTypeDetails": "Other",
+      "technicalReviewType": "NOT_SET",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20210003261,
+      "sourceIdentifiers": [
+        {
+          "number": "2014/16914",
+          "submissionId": 20210003261,
+          "id": "8d0b3801dd00434297cd2b73a4f1e329",
+          "type": "HANDLE"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20210003261,
+          "publisher": "UNKNOWN",
+          "id": "43bc3038ac1e4da1b488eb42b3b48a8f",
+          "publicationDate": "1999-08-16T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 282.3908
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "approverComments": "Items in TRS are protected by copyright, but are furnished with U.S. government purpose use rights.",
+        "containsIndication": true,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20210005335,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": true,
+        "id": "7e5ee17020344e399d638233ccd50b7c",
+        "belongsToAuthors": false
+      },
+      "keywords": [
+        "rovers",
+        "Mars",
+        "sample",
+        "return",
+        "autonomy",
+        "technology"
+      ],
+      "exportControl": {
+        "isExportControl": "UNSET",
+        "submissionId": 20210005335,
+        "ear": "UNSET",
+        "id": "694be85907154110ab6f89dec8fa855e",
+        "itar": "UNSET"
+      },
+      "created": "1999-06-01T00:00:00.0000000+00:00",
+      "distributionDate": "1999-06-01T00:00:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 0,
+      "abstract": "This paper summarizes a series of experimental results in the evaluation and demonstration of planetary rover autonomy, with a particular emphasis on rover system technology capabilities under development for a 2005 Mars sample return mission and its precursor missions.",
+      "title": "Autonomous Rover Technology for Mars Sample Return",
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20210005335,
+          "meta": {
+            "author": {
+              "name": "Das, H."
+            }
+          },
+          "id": "61aaa03fe5ba4fc0ae6345002578e7cf"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005335,
+          "meta": {
+            "author": {
+              "name": "Hayati, S."
+            }
+          },
+          "id": "c683bfd568914b719cdb12be86db9515"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005335,
+          "meta": {
+            "author": {
+              "name": "Schenker, P. S."
+            }
+          },
+          "id": "bac2a4844bf543e8912c0bd0ee6db100"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005335,
+          "meta": {
+            "author": {
+              "name": "Rodriguez, G."
+            }
+          },
+          "id": "d9f406b0970243ffb6158ffbc2076002"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005335,
+          "meta": {
+            "author": {
+              "name": "Weisbin, C."
+            }
+          },
+          "id": "1226d1771c7e4bf88e887323ee79617c"
+        }
+      ],
+      "disseminated": "METADATA_ONLY",
+      "stiTypeDetails": "Other",
+      "technicalReviewType": "NOT_SET",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20210005335,
+      "sourceIdentifiers": [
+        {
+          "number": "2014/20780",
+          "submissionId": 20210005335,
+          "id": "eb2b876be01f4eda9d79ce82c44832b6",
+          "type": "HANDLE"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20210005335,
+          "publisher": "UNKNOWN",
+          "id": "7da93f71a3fb4084bb7025a807b92a72",
+          "publicationDate": "1999-06-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 280.81686
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20140011316,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "304b41511bc84d82bfa92b0e56d09153",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Astrodynamics",
+        "Spacecraft Design, Testing And Performance"
+      ],
+      "keywords": [
+        "ascent",
+        "sample return missions",
+        "Mars sample return missions"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20140011316,
+        "ear": "NO",
+        "id": "9b61438788e54df285ac294bbc10090a",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-11T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "NASA/TM-2013-216620",
+        "ARC-E-DAA-TN12232",
+        "Report Number: NASA/TM-2013-216620",
+        "Report Number: ARC-E-DAA-TN12232"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "NNA10DF26C",
+          "submissionId": 20140011316,
+          "id": "00e9c89cf5274130830d5de8d2a16569",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Mars Sample Return: Mars Ascent Vehicle Mission and Technology Requirements",
+      "stiType": "TECHNICAL_MEMORANDUM",
+      "distribution": "PUBLIC",
+      "submittedDate": "2014-09-03T08:47:01.2470000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20140011316,
+          "meta": {
+            "author": {
+              "name": "Bowles, Jeffrey V."
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA United States"
+            }
+          },
+          "id": "172f3021d94a4fecb58f6213936c9618"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20140011316,
+          "meta": {
+            "author": {
+              "name": "Huynh, Loc C."
+            },
+            "organization": {
+              "name": "Science and Technology Corp.",
+              "location": "Hampton, VA, United States"
+            }
+          },
+          "id": "2e204cd0b4bf464fa9f317fe06763a75"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20140011316,
+          "meta": {
+            "author": {
+              "name": "Hawke, Veronica M."
+            },
+            "organization": {
+              "name": "Science and Technology Corp.",
+              "location": "Hampton, VA, United States"
+            }
+          },
+          "id": "a1405f3706014cb1b36e4a9ab3df8197"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20140011316,
+          "meta": {
+            "author": {
+              "name": "Jiang, Xun J."
+            },
+            "organization": {
+              "name": "Science and Technology Corp.",
+              "location": "Hampton, VA, United States"
+            }
+          },
+          "id": "a0e64e1ffaa042a293445e2435a65b9d"
+        }
+      ],
+      "stiTypeDetails": "Technical Memorandum (TM)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20140011316,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2014-09-03T08:47:01.2470000+00:00",
+      "center": {
+        "code": "ARC",
+        "name": "Ames Research Center",
+        "id": "4540cd94d24c4bf29f8773a27faf96b2"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "A Mars Sample Return mission is the highest priority science mission for the next decade recommended by the recent Decadal Survey of Planetary Science, the key community input process that guides NASAs science missions. A feasibility study was conducted of a potentially simple and low cost approach to Mars Sample Return mission enabled by the use of developing commercial capabilities. Previous studies of MSR have shown that landing an all up sample return mission with a high mass capacity lander is a cost effective approach. The approach proposed is the use of an emerging commercially available capsule to land the launch vehicle system that would return samples to Earth. This paper describes the mission and technology requirements impact on the launch vehicle system design, referred to as the Mars Ascent Vehicle (MAV).",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "publications": [
+        {
+          "submissionId": 20140011316,
+          "id": "32e6cc6ca3c946a2a65b0b0422a5a803",
+          "publicationDate": "2013-11-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20130013542,
+          "type": "SEE_ALSO",
+          "title": "Mars Sample Return: Mars Ascent Vehicle Mission and Technology Requirements",
+          "stiType": "TECHNICAL_MEMORANDUM",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20130013542,
+          "type": "SUPERSEDED_BY",
+          "title": "Mars Sample Return: Mars Ascent Vehicle Mission and Technology Requirements",
+          "stiType": "TECHNICAL_MEMORANDUM",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20140011316.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20140011316/downloads/20140011316.pdf",
+            "pdf": "/api/citations/20140011316/downloads/20140011316.pdf",
+            "fulltext": "/api/citations/20140011316/downloads/20140011316.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 279.12885
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "approverComments": "Items in TRS are protected by copyright, but are furnished with U.S. government purpose use rights.",
+        "containsIndication": true,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20210005587,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": true,
+        "id": "18edc25a9d8349278bf2e1286d814a2b",
+        "belongsToAuthors": false
+      },
+      "keywords": [
+        "sample",
+        "return",
+        "Mars",
+        "Mars",
+        "Surveyor",
+        "Program",
+        "Architecture",
+        "mission",
+        "architecture",
+        "Mars",
+        "mission"
+      ],
+      "exportControl": {
+        "isExportControl": "UNSET",
+        "submissionId": 20210005587,
+        "ear": "UNSET",
+        "id": "dfa6dfa22afc43f5941e3e6b419ce906",
+        "itar": "UNSET"
+      },
+      "created": "1998-08-10T00:00:00.0000000+00:00",
+      "distributionDate": "1998-08-10T00:00:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 0,
+      "abstract": "A Mars sample return is the culmination of many years of exciting missions of the Mars Surveyor Program.",
+      "title": "A Few Good Rocks: The 2005 Mars Sample Return Mission Architecture",
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20210005587,
+          "meta": {
+            "author": {
+              "name": "Weinstein, S."
+            }
+          },
+          "id": "404f6dffbf1a44ff96ffbb7f87ee7ba8"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005587,
+          "meta": {
+            "author": {
+              "name": "Miller, S."
+            }
+          },
+          "id": "0e9e22f194b24d768f4fae1fb6890671"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005587,
+          "meta": {
+            "author": {
+              "name": "Lee, W."
+            }
+          },
+          "id": "2ba50712e30049b2a052ce2576dde790"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005587,
+          "meta": {
+            "author": {
+              "name": "Adler, M."
+            }
+          },
+          "id": "55349d7c4e654d909a4786f0e9140e92"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210005587,
+          "meta": {
+            "author": {
+              "name": "Matousek, S."
+            }
+          },
+          "id": "d87b7110927c481aa8256b83c832a1b0"
+        }
+      ],
+      "disseminated": "METADATA_ONLY",
+      "stiTypeDetails": "Other",
+      "technicalReviewType": "NOT_SET",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20210005587,
+      "sourceIdentifiers": [
+        {
+          "number": "2014/19064",
+          "submissionId": 20210005587,
+          "id": "a460e6a5f94449baaae4aa4eed1674c6",
+          "type": "HANDLE"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20210005587,
+          "publisher": "UNKNOWN",
+          "id": "779c842355de4d5db993f3e4bfb11ff4",
+          "publicationDate": "1998-08-10T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 272.60855
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20180006505,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "8dee9add6555430db41a9f719028caa4",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Space Sciences (General)"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "eccnNumber": "",
+        "submissionId": 20180006505,
+        "ear": "NO",
+        "id": "59acd60145804c9dae5848f096da0442",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "JSC-E-DAA-TN52615",
+        "Report Number: JSC-E-DAA-TN52615"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "NNA16BD26C",
+          "submissionId": 20180006505,
+          "id": "fcb1f2e8b27348afb5de596706d075a6",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Seeking Signs of Life on Mars: the Importance of Sedimentary Suites as Part of a Mars Sample Return Campaign",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2018-10-18T11:52:25.6430000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Mangold, N."
+            },
+            "organization": {
+              "name": "Laboratoire de Planetologie et Geodynamique de Nantes (LPG)",
+              "location": "Nantes, France"
+            }
+          },
+          "id": "d466e7d6916b42f2a4a91106e825384a"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "McLennan, S. M."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "dcb12a6a35484b299cf314a5507ec0f2"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Czaja, A. D."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "b48d7d0aa2fc4c0ea694d9ddbcf949f5"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Ori, G. G."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "4a39bd29a5144dd3b9b2ac5d730cfb95"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Tosca, N. J."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "a64b615e62994e7288ee564e1b956574"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Altieri, F."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "daeadb1a53e147c6a62593e7b88ca5c5"
+        },
+        {
+          "sequence": 6,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Amelin, Y."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "620f29f772cc4c2cbf1cfe161c9401c1"
+        },
+        {
+          "sequence": 7,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Ammannito, E."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "64758e7d3f9e4dea9ace77a81be72907"
+        },
+        {
+          "sequence": 8,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Anand, M."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "a2d00f6a91cb40b7a9c8883aa12ae33f"
+        },
+        {
+          "sequence": 9,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Beaty, D. W."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "f3303602a2844f9aa18e68bdce2319d1"
+        },
+        {
+          "sequence": 10,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Benning, L. G."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "db3a0e6e5f104989b17ec66296baa622"
+        },
+        {
+          "sequence": 11,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Bishop, J. L."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "f43d5f3663e547789f65739728952364"
+        },
+        {
+          "sequence": 12,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Borg, L. E."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "854ebff0dccd492cadf6e84699b8d585"
+        },
+        {
+          "sequence": 13,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Boucher, D."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "d4950e43d7ee4bf1a6c39d533b660f52"
+        },
+        {
+          "sequence": 14,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Brucato, J. R."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "2a996d32dc06449abc595b2a63ee3032"
+        },
+        {
+          "sequence": 15,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Busemann, H."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "0c636189568645f2947921847882ff39"
+        },
+        {
+          "sequence": 16,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Campbell, K. A."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "81c7c67d732945cf914449d322778245"
+        },
+        {
+          "sequence": 17,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Carrier, B. L."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "5d33d89b914a4119914abf6fe4d44b0d"
+        },
+        {
+          "sequence": 18,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Debaille, V."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "b19b04387f994118bf24c3197334b587"
+        },
+        {
+          "sequence": 19,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Des Marais, D. J."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "08b3d985fdce446d874e478bfd3aa1cb"
+        },
+        {
+          "sequence": 20,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Dixon, M."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "beed7a8d47e14915a40cd2bbf1ff1cfd"
+        },
+        {
+          "sequence": 21,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Ehlmann, B. L."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "a95ac431b6aa49c79d71b42fedeff333"
+        },
+        {
+          "sequence": 22,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Farmer, J. D."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "1606156805d648e1b4ea563568fb9a67"
+        },
+        {
+          "sequence": 23,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Fernandez-Remolar, D. C."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "72eadef2ced04a95811d78b17b800449"
+        },
+        {
+          "sequence": 24,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Fogarty, J."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "62de80e33a274df5be735e3b60c9fc0a"
+        },
+        {
+          "sequence": 25,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Glavin, D. P."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "b1a5bd8d0c4543fab92372f1042cb7a8"
+        },
+        {
+          "sequence": 26,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Goreva, Y. S."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "e413f34268474e4986bc82ef7dfa6b21"
+        },
+        {
+          "sequence": 27,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Grady, M. M."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "5302a90c13904c11942892c54cc04799"
+        },
+        {
+          "sequence": 28,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Hallis, L. J."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "76a7a7e63e9344bd837e4e9cfb32562e"
+        },
+        {
+          "sequence": 29,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Harrington, A. D."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "55217598df1e4db7addb02afc51df66f"
+        },
+        {
+          "sequence": 30,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Hausrath, E. M."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "ae32f943dce74ac9a14066e9f47da932"
+        },
+        {
+          "sequence": 31,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Herd, C. D. K."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "8a91c244f32a410fa10e5fce92960db7"
+        },
+        {
+          "sequence": 32,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Horgan, B."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "cc239d6085b8459ebc1d2a150c592389"
+        },
+        {
+          "sequence": 33,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Humayun, M."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "6995bfeb256d4aa2ae38395bcbd997af"
+        },
+        {
+          "sequence": 34,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Kleine, T."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "6f0666a9d6a0480084184716eabf08bf"
+        },
+        {
+          "sequence": 35,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Kleinhenz, J."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "413be617804441f798334cc548d0c49e"
+        },
+        {
+          "sequence": 36,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Mackelprang, R."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "26dded91a5fe4a088286435f52986da2"
+        },
+        {
+          "sequence": 37,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Mayhew, L. E."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "964ff2e3df594330b0f5a328e3c94403"
+        },
+        {
+          "sequence": 38,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "McCubbin, F. M."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "815bc534970448db8724a55aa7afe163"
+        },
+        {
+          "sequence": 39,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "McCoy, J. T."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "15cc957f3a0344828a50b4b9c41266a6"
+        },
+        {
+          "sequence": 40,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "McSween, H. Y."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "def17e6141324ac1a0bb4a7d2194fdea"
+        },
+        {
+          "sequence": 41,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Moser, D. E."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "49d7d16aad4e4f61b6765428fa79e48b"
+        },
+        {
+          "sequence": 42,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Moynier, F."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "02a5d48761fd44eda64a463f93bf0611"
+        },
+        {
+          "sequence": 43,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Mustard, J. F."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "5921b3a5c8444dd68258082cffda3ef5"
+        },
+        {
+          "sequence": 44,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Niles, P. B."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "4dfa3c500fde44eba69698b667538511"
+        },
+        {
+          "sequence": 45,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Raulin, F."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "3cc6ef31a7fb48b2a5ab7477534a4eb9"
+        },
+        {
+          "sequence": 46,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Rettberg, P."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "0f04776c65df466eae6a3658325fba5e"
+        },
+        {
+          "sequence": 47,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Rucker, M. A."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "7cfd135bbf0047619664752c07fb7f39"
+        },
+        {
+          "sequence": 48,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Schmitz, N."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "43c5149c396847738e2a263c0bf244a4"
+        },
+        {
+          "sequence": 49,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Sefton-Nash, E."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "814cfb695117412885527db05e57c17a"
+        },
+        {
+          "sequence": 50,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Sephton, M. A."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "d9ec6fe7ceec4419a8c89551cf0e64f2"
+        },
+        {
+          "sequence": 51,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Shaheen, R."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "0d8bdd39c0674bb5bd36cf33b8131aa1"
+        },
+        {
+          "sequence": 52,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Shuster, D. L."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "c441d4eb7678479bbae80eefc8b570e7"
+        },
+        {
+          "sequence": 53,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Siljeström, S."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "50b3f34cf73248049f94d1fe96fc16f7"
+        },
+        {
+          "sequence": 54,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Smith, C. L."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "5b9d592d9f884925bb994cd4fd527784"
+        },
+        {
+          "sequence": 55,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Spry, J. A."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "192c078cc306419fbb414be2c12c9065"
+        },
+        {
+          "sequence": 56,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Steele, A."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "0c71a201e833453f85fdf77ece3b696e"
+        },
+        {
+          "sequence": 57,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Swindle, T. D."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "48c0aa99b4fb4a88bbafa596a92d29bd"
+        },
+        {
+          "sequence": 58,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "ten Kate, I. L."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "1b1e411ced0145f0b5d962b9a213c3a4"
+        },
+        {
+          "sequence": 59,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Usui, T."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "0fe4f5a5e6c94521a729d9813546ff54"
+        },
+        {
+          "sequence": 60,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Van Kranendonk, M. J."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "f3d4b8010d3b43ecadea441f80035a17"
+        },
+        {
+          "sequence": 61,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Wadhwa, M."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "f471fd17010a4b02be4d67eb07742e3a"
+        },
+        {
+          "sequence": 62,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Weiss, B. P."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "93b9357ed9ca4490ae39c57942bb8488"
+        },
+        {
+          "sequence": 63,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Werner, S. C."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "dd119c98bbcd4b79b1eb5c24aef1b38b"
+        },
+        {
+          "sequence": 64,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Westall, F."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "02996d8cf5be4e1e86d3405e69ed59ed"
+        },
+        {
+          "sequence": 65,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Wheeler, R. M."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "de5088f1e0fb41b7ab2c3d629701c4e0"
+        },
+        {
+          "sequence": 66,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Zipfel, J."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "6b4b09d3ce1548949cd7dab65a1d9914"
+        },
+        {
+          "sequence": 67,
+          "submissionId": 20180006505,
+          "meta": {
+            "author": {
+              "name": "Zorzano, M. P."
+            },
+            "organization": {
+              "name": "International Mars Sample Return Objectives and Samples Team (iMOST)",
+              "location": "International Organization"
+            }
+          },
+          "id": "f35b98c225f4498a9150e9b07b1e3dd7"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20180006505,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2018-10-18T11:52:25.6430000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Seeking the signs of life on Mars is often considered the \"first among equal\" objectives for any potential Mars Sample Return (MSR) campaign. Among the geological settings considered to have the greatest potential for recording evidence of ancient life or its pre-biotic chemistry on Mars are lacustrine (and marine, if ever present) sedimentary depositional environments. This potential, and the possibility of returning samples that could meaningfully address this objective, have been greatly enhanced by investigations of an ancient redox stratified lake system in Gale crater by the Curiosity rover.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "submissionId": 20180006505,
+          "name": "European Space Agency",
+          "location": "Cologne, Germany",
+          "id": "ff3f18ccd4674ec0821acc17d658431e"
+        },
+        {
+          "country": "Germany",
+          "submissionId": 20180006505,
+          "endDate": "2018-04-27T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "European Space Agency",
+                  "location": "Cologne, Germany"
+                }
+              },
+              "meetingId": "9314268491614ead92b64d09718bfc67",
+              "id": "ad64519d1ea54ab1805818d0e70f004e"
+            }
+          ],
+          "name": "International Mars Sample Return Conference",
+          "location": "Berlin",
+          "id": "9314268491614ead92b64d09718bfc67",
+          "startDate": "2018-04-25T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20180006505,
+          "id": "6fe359b2d68d491eaf148a8639346851",
+          "publicationDate": "2018-04-25T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20180006505.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20180006505/downloads/20180006505.pdf",
+            "pdf": "/api/citations/20180006505/downloads/20180006505.pdf",
+            "fulltext": "/api/citations/20180006505/downloads/20180006505.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 272.5628
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20060032242,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "d6612006d4bb49f78431016dbb9d5092",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "Mars Sample Return"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20060032242,
+        "ear": "NO",
+        "id": "aad12de681d74df989f0ba8c5464be1c",
+        "itar": "NO"
+      },
+      "distributionDate": "2018-06-07T00:00:00.0000000+00:00",
+      "title": "Mars Sample Return Spacecraft Systems Architecture",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-23T17:54:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20060032242,
+          "meta": {
+            "author": {
+              "name": "Price, H."
+            },
+            "organization": {}
+          },
+          "id": "dfd889db1451436eb218c42b6b45e489"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20060032242,
+          "meta": {
+            "author": {
+              "name": "Cramer, K."
+            },
+            "organization": {}
+          },
+          "id": "28b74df96f574b6ba43afb9e5c26d81c"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20060032242,
+          "meta": {
+            "author": {
+              "name": "Doudrick, S."
+            },
+            "organization": {}
+          },
+          "id": "42fe241fb5204f6da039f7d3fc844267"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20060032242,
+          "meta": {
+            "author": {
+              "name": "Lee, W."
+            },
+            "organization": {}
+          },
+          "id": "31eeb6c7bd61404e96aa04ba3c83b940"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20060032242,
+          "meta": {
+            "author": {
+              "name": "Matijevic, J."
+            },
+            "organization": {}
+          },
+          "id": "f9ee279e5f5149d4906b5cc6732659c8"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20060032242,
+          "meta": {
+            "author": {
+              "name": "Weinstein, S."
+            },
+            "organization": {}
+          },
+          "id": "1e84923d6dce457aa9b05dec9c7d15f8"
+        },
+        {
+          "sequence": 6,
+          "submissionId": 20060032242,
+          "meta": {
+            "author": {
+              "name": "Lam-Trong, T."
+            },
+            "organization": {}
+          },
+          "id": "aeed4b98cffa45a78793ebf040fc6dda"
+        },
+        {
+          "sequence": 7,
+          "submissionId": 20060032242,
+          "meta": {
+            "author": {
+              "name": "Marsal, O."
+            },
+            "organization": {}
+          },
+          "id": "24cadd5c6a7d4859b2e4cf74fb065c62"
+        },
+        {
+          "sequence": 8,
+          "submissionId": 20060032242,
+          "meta": {
+            "author": {
+              "name": "Micheltree, R."
+            },
+            "organization": {}
+          },
+          "id": "7a2827d6a2f34087ac65a0b5a88c502e"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20060032242,
+      "sourceIdentifiers": [
+        {
+          "number": "hdl:2014/13724",
+          "submissionId": 20060032242,
+          "id": "66bf5100613e44b3b8318ee8585ae863",
+          "type": "HANDLE"
+        },
+        {
+          "submissionId": 20060032242,
+          "id": "f4f1b459efd1463a9f0862ff92259b15",
+          "descriptor": "hdl:2014/13724"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2013-08-23T17:54:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The Mars Sample Return mission plans to collect sets of samples from two different sites on Mars and return them to Earth in 2008.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "meetings": [
+        {
+          "country": "United States",
+          "submissionId": 20060032242,
+          "name": "IEEE Aerospace Conference",
+          "location": "Big Sky, MT",
+          "id": "d8bd777a28d4412b8be8ddae94f82889"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20060032242,
+          "id": "173e9b4a64ad49199326df80cf9c0a82",
+          "publicationDate": "2000-03-18T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 269.8281
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "approverComments": "Items in TRS are protected by copyright, but are furnished with U.S. government purpose use rights.",
+        "containsIndication": true,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20210002573,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": true,
+        "id": "82134f969e764f1586fdd2f323adf8a8",
+        "belongsToAuthors": false
+      },
+      "keywords": [
+        "Mars",
+        "sample",
+        "return",
+        "MSR",
+        "ion",
+        "propulsion",
+        "SEP",
+        "ion",
+        "engine",
+        "solar",
+        "electronic",
+        "propulsion"
+      ],
+      "exportControl": {
+        "isExportControl": "UNSET",
+        "submissionId": 20210002573,
+        "ear": "UNSET",
+        "id": "469babcc299b45048b4335e6dcfae714",
+        "itar": "UNSET"
+      },
+      "created": "2000-07-17T00:00:00.0000000+00:00",
+      "distributionDate": "2000-07-17T00:00:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 0,
+      "abstract": "This paper describes the an on-going study to examine the feasibility of using SEP based on derivatives of the Deep Space 1 ion propulsion system (IPS) technology to enable a Mars Sample Return (MSR mission to be performed from a single medium-class launch vehicle.",
+      "title": "Ion propulsion for a Mars sample return mission",
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20210002573,
+          "meta": {
+            "author": {
+              "name": "Rodgers,   D. H."
+            }
+          },
+          "id": "a64c689de29c46349e05c9ef6073654f"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210002573,
+          "meta": {
+            "author": {
+              "name": "Brophy, J. R."
+            }
+          },
+          "id": "bfd3fdb709e34a708ffc59567c563bab"
+        }
+      ],
+      "disseminated": "METADATA_ONLY",
+      "stiTypeDetails": "Other",
+      "technicalReviewType": "NOT_SET",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20210002573,
+      "sourceIdentifiers": [
+        {
+          "number": "2014/15789",
+          "submissionId": 20210002573,
+          "id": "9db4d44a02424a318ccadd221c95b890",
+          "type": "HANDLE"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20210002573,
+          "publisher": "UNKNOWN",
+          "id": "308105f8c4934f2b8616fbbe58090ce5",
+          "publicationDate": "2000-07-17T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 267.06714
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "approverComments": "Items in TRS are protected by copyright, but are furnished with U.S. government purpose use rights.",
+        "containsIndication": true,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20210001177,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": true,
+        "id": "38bc3a254780427da7f239932159915f",
+        "belongsToAuthors": false
+      },
+      "keywords": [
+        "Mars",
+        "Sample",
+        "Return",
+        "Mars",
+        "Program",
+        "Science",
+        "Flight",
+        "Articles",
+        "Athena",
+        "Rover",
+        "Sample",
+        "Transfer",
+        "Chain",
+        "Mars",
+        "Ascent",
+        "Vehicle"
+      ],
+      "exportControl": {
+        "isExportControl": "UNSET",
+        "submissionId": 20210001177,
+        "ear": "UNSET",
+        "id": "b94a9e91b63e4ed0bf86159bf6ad5e3f",
+        "itar": "UNSET"
+      },
+      "created": "1999-10-04T00:00:00.0000000+00:00",
+      "distributionDate": "1999-10-04T00:00:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 0,
+      "abstract": "The Mars Sample Return (MSR) Project is underway.  A 2003 mission to be launched on a Delta III Class Vehicle and a 2005 mission launched on an Ariane 5 will culminate in carefully selected Mars samples arriving on Earth in 2008.",
+      "title": "The Mars Sample Return Project",
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20210001177,
+          "meta": {
+            "author": {
+              "name": "\"O'Neil, W.\", 'Cazaux, C."
+            }
+          },
+          "id": "26834e22051344438fe67c496586575c"
+        }
+      ],
+      "disseminated": "METADATA_ONLY",
+      "stiTypeDetails": "Other",
+      "technicalReviewType": "NOT_SET",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20210001177,
+      "sourceIdentifiers": [
+        {
+          "number": "2014/18233",
+          "submissionId": 20210001177,
+          "id": "a665c0aa900b4117a14fdfbf447c759b",
+          "type": "HANDLE"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20210001177,
+          "publisher": "UNKNOWN",
+          "id": "3c309b5ac62d4ba2bd33ed1e163fcebf",
+          "publicationDate": "1999-10-04T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    }
+  ],
+  "aggregations": {
+    "created": {
+      "buckets": [
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 812
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 88
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 84
+        },
+        {
+          "key_as_string": "2021",
+          "key": 1609459200000,
+          "doc_count": 81
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 81
+        },
+        {
+          "key_as_string": "2023",
+          "key": 1672531200000,
+          "doc_count": 63
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 62
+        },
+        {
+          "key_as_string": "2020",
+          "key": 1577836800000,
+          "doc_count": 60
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 48
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 45
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 36
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 27
+        },
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 27
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 26
+        },
+        {
+          "key_as_string": "1999",
+          "key": 915148800000,
+          "doc_count": 15
+        },
+        {
+          "key_as_string": "2000",
+          "key": 946684800000,
+          "doc_count": 8
+        },
+        {
+          "key_as_string": "1998",
+          "key": 883612800000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "2002",
+          "key": 1009843200000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2005",
+          "key": 1104537600000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1992",
+          "key": 694224000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1996",
+          "key": 820454400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1997",
+          "key": 852076800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2012",
+          "key": 1325376000000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "author": {
+      "doc_count_error_upper_bound": 12,
+      "sum_other_doc_count": 7517,
+      "buckets": [
+        {
+          "key": "Giuseppe Cataldo",
+          "doc_count": 19
+        },
+        {
+          "key": "Venkatapathy, Ethiraj",
+          "doc_count": 19
+        },
+        {
+          "key": "McCubbin, F. M.",
+          "doc_count": 16
+        },
+        {
+          "key": "Dankanich, John",
+          "doc_count": 15
+        },
+        {
+          "key": "Badescu, Mircea",
+          "doc_count": 12
+        },
+        {
+          "key": "Harrington, A. D.",
+          "doc_count": 12
+        },
+        {
+          "key": "Jeffrey Gramling",
+          "doc_count": 11
+        },
+        {
+          "key": "Munk, Michelle M.",
+          "doc_count": 11
+        },
+        {
+          "key": "Steele, A.",
+          "doc_count": 11
+        },
+        {
+          "key": "Anderson, David J.",
+          "doc_count": 10
+        },
+        {
+          "key": "Glavin, D. P.",
+          "doc_count": 10
+        },
+        {
+          "key": "Nicholas, Austin",
+          "doc_count": 10
+        },
+        {
+          "key": "Zeigler, R. A.",
+          "doc_count": 10
+        },
+        {
+          "key": "Bao, Xiaoqi",
+          "doc_count": 9
+        },
+        {
+          "key": "Ethiraj Venkatapathy",
+          "doc_count": 9
+        },
+        {
+          "key": "Pencil, Eric",
+          "doc_count": 9
+        },
+        {
+          "key": "Bar-Cohen, Yoseph",
+          "doc_count": 8
+        },
+        {
+          "key": "Karp, Ashley",
+          "doc_count": 8
+        },
+        {
+          "key": "Mark Schoenenberger",
+          "doc_count": 8
+        },
+        {
+          "key": "Perino, Scott",
+          "doc_count": 8
+        }
+      ]
+    },
+    "reportNumber": {
+      "doc_count_error_upper_bound": 5,
+      "sum_other_doc_count": 1429,
+      "buckets": [
+        {
+          "key": "ISSN: 0161-5297",
+          "doc_count": 4
+        },
+        {
+          "key": "ISSN: 0273-1177",
+          "doc_count": 3
+        },
+        {
+          "key": "AIAA PAPER 93-2244",
+          "doc_count": 2
+        },
+        {
+          "key": "AIAA Paper 2000-2584",
+          "doc_count": 2
+        },
+        {
+          "key": "AIAA Paper 97-2473",
+          "doc_count": 2
+        },
+        {
+          "key": "ISSN: 1540-7845",
+          "doc_count": 2
+        },
+        {
+          "key": "Report Number: AIAA Paper 97-2473",
+          "doc_count": 2
+        },
+        {
+          "key": "Report Number: KSC-2013-084",
+          "doc_count": 2
+        },
+        {
+          "key": "1999-01-2639",
+          "doc_count": 1
+        },
+        {
+          "key": "2017-k-56",
+          "doc_count": 1
+        },
+        {
+          "key": "20220003629",
+          "doc_count": 1
+        },
+        {
+          "key": "20250010239",
+          "doc_count": 1
+        },
+        {
+          "key": "2407",
+          "doc_count": 1
+        },
+        {
+          "key": "312/99.DTL-1",
+          "doc_count": 1
+        },
+        {
+          "key": "3221",
+          "doc_count": 1
+        },
+        {
+          "key": "3269",
+          "doc_count": 1
+        },
+        {
+          "key": "A-00V0035",
+          "doc_count": 1
+        },
+        {
+          "key": "A-00V0051",
+          "doc_count": 1
+        },
+        {
+          "key": "A-0513522",
+          "doc_count": 1
+        },
+        {
+          "key": "A-060006",
+          "doc_count": 1
+        }
+      ]
+    },
+    "center": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "JPL",
+          "doc_count": 362
+        },
+        {
+          "key": "CDMS",
+          "doc_count": 344
+        },
+        {
+          "key": "JSC",
+          "doc_count": 224
+        },
+        {
+          "key": "ARC",
+          "doc_count": 198
+        },
+        {
+          "key": "MSFC",
+          "doc_count": 107
+        },
+        {
+          "key": "GSFC",
+          "doc_count": 98
+        },
+        {
+          "key": "LaRC",
+          "doc_count": 98
+        },
+        {
+          "key": "HQ",
+          "doc_count": 80
+        },
+        {
+          "key": "GRC",
+          "doc_count": 43
+        },
+        {
+          "key": "KSC",
+          "doc_count": 13
+        },
+        {
+          "key": "2230",
+          "doc_count": 1
+        }
+      ]
+    },
+    "index": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "submissions-2026-10-22-05-25",
+          "doc_count": 1568
+        },
+        {
+          "key": "chorus-2026-10-24-05-58",
+          "doc_count": 6
+        },
+        {
+          "key": "jpl-2026-10-24-06-39",
+          "doc_count": 2
+        }
+      ]
+    },
+    "fundingNumber": {
+      "doc_count_error_upper_bound": 5,
+      "sum_other_doc_count": 674,
+      "buckets": [
+        {
+          "key": "NNA15BB15C",
+          "doc_count": 32
+        },
+        {
+          "key": "80NM0018D0004",
+          "doc_count": 22
+        },
+        {
+          "key": "048290.02.01.01.05",
+          "doc_count": 20
+        },
+        {
+          "key": "NNJ13HA01C",
+          "doc_count": 19
+        },
+        {
+          "key": "NAS7-100",
+          "doc_count": 18
+        },
+        {
+          "key": "829688",
+          "doc_count": 16
+        },
+        {
+          "key": "203959",
+          "doc_count": 15
+        },
+        {
+          "key": "944088.01.10.01",
+          "doc_count": 13
+        },
+        {
+          "key": "WBS 346620.01.13.01.01.01",
+          "doc_count": 13
+        },
+        {
+          "key": "829688.14.02.09.01.03",
+          "doc_count": 11
+        },
+        {
+          "key": "NCC5-679",
+          "doc_count": 11
+        },
+        {
+          "key": "NNA16BD26C",
+          "doc_count": 11
+        },
+        {
+          "key": "80JSC022DA035",
+          "doc_count": 8
+        },
+        {
+          "key": "829688.14.02.10.01",
+          "doc_count": 7
+        },
+        {
+          "key": "GA000",
+          "doc_count": 7
+        },
+        {
+          "key": "NNG15CR66C",
+          "doc_count": 7
+        },
+        {
+          "key": "NNM10AA11C",
+          "doc_count": 7
+        },
+        {
+          "key": "80MSFC18C0011",
+          "doc_count": 6
+        },
+        {
+          "key": "80NM0018D0004P00002",
+          "doc_count": 6
+        },
+        {
+          "key": "811073",
+          "doc_count": 6
+        }
+      ]
+    },
+    "published": {
+      "buckets": [
+        {
+          "key_as_string": "1988",
+          "key": 567993600000,
+          "doc_count": 113
+        },
+        {
+          "key_as_string": "1999",
+          "key": 915148800000,
+          "doc_count": 97
+        },
+        {
+          "key_as_string": "2000",
+          "key": 946684800000,
+          "doc_count": 82
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 67
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 62
+        },
+        {
+          "key_as_string": "1989",
+          "key": 599616000000,
+          "doc_count": 54
+        },
+        {
+          "key_as_string": "2012",
+          "key": 1325376000000,
+          "doc_count": 49
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 39
+        },
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 38
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 38
+        },
+        {
+          "key_as_string": "2011",
+          "key": 1293840000000,
+          "doc_count": 35
+        },
+        {
+          "key_as_string": "2020",
+          "key": 1577836800000,
+          "doc_count": 34
+        },
+        {
+          "key_as_string": "2002",
+          "key": 1009843200000,
+          "doc_count": 33
+        },
+        {
+          "key_as_string": "2021",
+          "key": 1609459200000,
+          "doc_count": 33
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 30
+        },
+        {
+          "key_as_string": "2001",
+          "key": 978307200000,
+          "doc_count": 28
+        },
+        {
+          "key_as_string": "2005",
+          "key": 1104537600000,
+          "doc_count": 27
+        },
+        {
+          "key_as_string": "1991",
+          "key": 662688000000,
+          "doc_count": 26
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 26
+        },
+        {
+          "key_as_string": "1998",
+          "key": 883612800000,
+          "doc_count": 25
+        },
+        {
+          "key_as_string": "2003",
+          "key": 1041379200000,
+          "doc_count": 23
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 21
+        },
+        {
+          "key_as_string": "2008",
+          "key": 1199145600000,
+          "doc_count": 20
+        },
+        {
+          "key_as_string": "1993",
+          "key": 725846400000,
+          "doc_count": 19
+        },
+        {
+          "key_as_string": "2004",
+          "key": 1072915200000,
+          "doc_count": 18
+        },
+        {
+          "key_as_string": "2010",
+          "key": 1262304000000,
+          "doc_count": 18
+        },
+        {
+          "key_as_string": "1997",
+          "key": 852076800000,
+          "doc_count": 16
+        },
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 16
+        },
+        {
+          "key_as_string": "1992",
+          "key": 694224000000,
+          "doc_count": 15
+        },
+        {
+          "key_as_string": "1987",
+          "key": 536457600000,
+          "doc_count": 14
+        },
+        {
+          "key_as_string": "1990",
+          "key": 631152000000,
+          "doc_count": 14
+        },
+        {
+          "key_as_string": "2006",
+          "key": 1136073600000,
+          "doc_count": 14
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 13
+        },
+        {
+          "key_as_string": "1978",
+          "key": 252460800000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "2007",
+          "key": 1167609600000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "1974",
+          "key": 126230400000,
+          "doc_count": 10
+        },
+        {
+          "key_as_string": "1994",
+          "key": 757382400000,
+          "doc_count": 9
+        },
+        {
+          "key_as_string": "1975",
+          "key": 157766400000,
+          "doc_count": 8
+        },
+        {
+          "key_as_string": "2009",
+          "key": 1230768000000,
+          "doc_count": 8
+        },
+        {
+          "key_as_string": "1979",
+          "key": 283996800000,
+          "doc_count": 7
+        },
+        {
+          "key_as_string": "1984",
+          "key": 441763200000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "1995",
+          "key": 788918400000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "1996",
+          "key": 820454400000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "1981",
+          "key": 347155200000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "2023",
+          "key": 1672531200000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "1980",
+          "key": 315532800000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1986",
+          "key": 504921600000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1977",
+          "key": 220924800000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "1982",
+          "key": 378691200000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "1983",
+          "key": 410227200000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "1985",
+          "key": 473385600000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "1972",
+          "key": 63072000000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1973",
+          "key": 94694400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1976",
+          "key": 189302400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1967",
+          "key": -94694400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1969",
+          "key": -31536000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1970",
+          "key": 0,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1971",
+          "key": 31536000000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "distribution": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "PUBLIC",
+          "doc_count": 1576
+        }
+      ]
+    },
+    "stiType": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 1,
+      "buckets": [
+        {
+          "key": "CONFERENCE_PAPER",
+          "doc_count": 689
+        },
+        {
+          "key": "PRESENTATION",
+          "doc_count": 262
+        },
+        {
+          "key": "PREPRINT",
+          "doc_count": 116
+        },
+        {
+          "key": "OTHER",
+          "doc_count": 113
+        },
+        {
+          "key": "ABSTRACT",
+          "doc_count": 103
+        },
+        {
+          "key": "REPRINT",
+          "doc_count": 79
+        },
+        {
+          "key": "CONFERENCE_PROCEEDINGS",
+          "doc_count": 57
+        },
+        {
+          "key": "CONTRACTOR_REPORT",
+          "doc_count": 48
+        },
+        {
+          "key": "POSTER",
+          "doc_count": 28
+        },
+        {
+          "key": "TECHNICAL_MEMORANDUM",
+          "doc_count": 27
+        },
+        {
+          "key": "EXTENDED_ABSTRACT",
+          "doc_count": 15
+        },
+        {
+          "key": "ACCEPTED_MANUSCRIPT",
+          "doc_count": 14
+        },
+        {
+          "key": "TECHNICAL_PUBLICATION",
+          "doc_count": 5
+        },
+        {
+          "key": "BOOK_CHAPTER",
+          "doc_count": 4
+        },
+        {
+          "key": "CONTRACTOR_OR_GRANTEE_REPORT",
+          "doc_count": 4
+        },
+        {
+          "key": "VIDEO",
+          "doc_count": 4
+        },
+        {
+          "key": "WHITE_PAPER",
+          "doc_count": 3
+        },
+        {
+          "key": "THESIS_DISSERTATION",
+          "doc_count": 2
+        },
+        {
+          "key": "CONFERENCE_PUBLICATION",
+          "doc_count": 1
+        },
+        {
+          "key": "Meeting Paper",
+          "doc_count": 1
+        }
+      ]
+    },
+    "subjectCategory": {
+      "doc_count_error_upper_bound": 6,
+      "sum_other_doc_count": 367,
+      "buckets": [
+        {
+          "key": "Lunar And Planetary Science And Exploration",
+          "doc_count": 412
+        },
+        {
+          "key": "Lunar And Planetary Exploration",
+          "doc_count": 137
+        },
+        {
+          "key": "Spacecraft Design, Testing And Performance",
+          "doc_count": 99
+        },
+        {
+          "key": "Astronautics (General)",
+          "doc_count": 85
+        },
+        {
+          "key": "Lunar and Planetary Science and Exploration",
+          "doc_count": 69
+        },
+        {
+          "key": "Spacecraft Propulsion And Power",
+          "doc_count": 58
+        },
+        {
+          "key": "Space Sciences (General)",
+          "doc_count": 55
+        },
+        {
+          "key": "Exobiology",
+          "doc_count": 43
+        },
+        {
+          "key": "Astrodynamics",
+          "doc_count": 33
+        },
+        {
+          "key": "Engineering (General)",
+          "doc_count": 30
+        },
+        {
+          "key": "Spacecraft Design, Testing and Performance",
+          "doc_count": 29
+        },
+        {
+          "key": "Aerodynamics",
+          "doc_count": 27
+        },
+        {
+          "key": "Man/System Technology And Life Support",
+          "doc_count": 24
+        },
+        {
+          "key": "Mechanical Engineering",
+          "doc_count": 23
+        },
+        {
+          "key": "Launch Vehicles And Launch Operations",
+          "doc_count": 22
+        },
+        {
+          "key": "Ground Support Systems And Facilities (Space)",
+          "doc_count": 19
+        },
+        {
+          "key": "Life Sciences (General)",
+          "doc_count": 19
+        },
+        {
+          "key": "Astronomy",
+          "doc_count": 18
+        },
+        {
+          "key": "Fluid Mechanics And Thermodynamics",
+          "doc_count": 17
+        },
+        {
+          "key": "Instrumentation And Photography",
+          "doc_count": 17
+        }
+      ]
+    },
+    "disseminated": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "DOCUMENT_AND_METADATA",
+          "doc_count": 906
+        },
+        {
+          "key": "METADATA_ONLY",
+          "doc_count": 670
+        }
+      ]
+    },
+    "stiTypeDetails": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 7,
+      "buckets": [
+        {
+          "key": "Conference Paper",
+          "doc_count": 689
+        },
+        {
+          "key": "Presentation",
+          "doc_count": 262
+        },
+        {
+          "key": "Preprint (Draft being sent to journal)",
+          "doc_count": 116
+        },
+        {
+          "key": "Abstract",
+          "doc_count": 103
+        },
+        {
+          "key": "Other",
+          "doc_count": 91
+        },
+        {
+          "key": "Reprint (Version printed in journal)",
+          "doc_count": 73
+        },
+        {
+          "key": "Conference Proceedings",
+          "doc_count": 57
+        },
+        {
+          "key": "Contractor Report (CR)",
+          "doc_count": 48
+        },
+        {
+          "key": "Poster",
+          "doc_count": 28
+        },
+        {
+          "key": "Technical Memorandum (TM)",
+          "doc_count": 27
+        },
+        {
+          "key": "Extended Abstract",
+          "doc_count": 15
+        },
+        {
+          "key": "Other - NASA Tech Brief",
+          "doc_count": 15
+        },
+        {
+          "key": "Accepted Manuscript (Version with final changes)",
+          "doc_count": 14
+        },
+        {
+          "key": "Version of Record",
+          "doc_count": 6
+        },
+        {
+          "key": "Other - Collected Works",
+          "doc_count": 5
+        },
+        {
+          "key": "Technical Publication (TP)",
+          "doc_count": 5
+        },
+        {
+          "key": "Book Chapter",
+          "doc_count": 4
+        },
+        {
+          "key": "Contractor or Grantee Report",
+          "doc_count": 4
+        },
+        {
+          "key": "Video",
+          "doc_count": 4
+        },
+        {
+          "key": "White Paper",
+          "doc_count": 3
+        }
+      ]
+    },
+    "organization": {
+      "doc_count_error_upper_bound": 14,
+      "sum_other_doc_count": 1972,
+      "buckets": [
+        {
+          "key": "Jet Propulsion Lab., California Inst. of Tech.",
+          "doc_count": 190
+        },
+        {
+          "key": "NASA Ames Research Center",
+          "doc_count": 150
+        },
+        {
+          "key": "NASA Johnson Space Center",
+          "doc_count": 147
+        },
+        {
+          "key": "Johnson Space Center",
+          "doc_count": 100
+        },
+        {
+          "key": "Ames Research Center",
+          "doc_count": 93
+        },
+        {
+          "key": "NASA Marshall Space Flight Center",
+          "doc_count": 89
+        },
+        {
+          "key": "Langley Research Center",
+          "doc_count": 75
+        },
+        {
+          "key": "NASA Langley Research Center",
+          "doc_count": 74
+        },
+        {
+          "key": "Goddard Space Flight Center",
+          "doc_count": 62
+        },
+        {
+          "key": "Analytical Mechanics Associates (United States)",
+          "doc_count": 61
+        },
+        {
+          "key": "NASA Goddard Space Flight Center",
+          "doc_count": 56
+        },
+        {
+          "key": "National Aeronautics and Space Administration",
+          "doc_count": 52
+        },
+        {
+          "key": "Jet Propulsion Lab",
+          "doc_count": 49
+        },
+        {
+          "key": "California Institute of Technology",
+          "doc_count": 39
+        },
+        {
+          "key": "Jet Propulsion Laboratory",
+          "doc_count": 38
+        },
+        {
+          "key": "Marshall Space Flight Center",
+          "doc_count": 34
+        },
+        {
+          "key": "NASA Glenn Research Center",
+          "doc_count": 34
+        },
+        {
+          "key": "Jacobs (United States)",
+          "doc_count": 33
+        },
+        {
+          "key": "Search for Extraterrestrial Intelligence Inst.",
+          "doc_count": 32
+        },
+        {
+          "key": "Arizona Univ.",
+          "doc_count": 29
+        }
+      ]
+    },
+    "modified": {
+      "buckets": [
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 1541
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 28
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "keyword": {
+      "doc_count_error_upper_bound": 5,
+      "sum_other_doc_count": 1342,
+      "buckets": [
+        {
+          "key": "Mars Sample Return",
+          "doc_count": 67
+        },
+        {
+          "key": "Mars",
+          "doc_count": 64
+        },
+        {
+          "key": "MSR",
+          "doc_count": 18
+        },
+        {
+          "key": "Mars 2020",
+          "doc_count": 16
+        },
+        {
+          "key": "MAV",
+          "doc_count": 11
+        },
+        {
+          "key": "Planetary Protection",
+          "doc_count": 11
+        },
+        {
+          "key": "sample",
+          "doc_count": 11
+        },
+        {
+          "key": "Mars sample return",
+          "doc_count": 10
+        },
+        {
+          "key": "return",
+          "doc_count": 9
+        },
+        {
+          "key": "Mars Ascent Vehicle",
+          "doc_count": 8
+        },
+        {
+          "key": "TPS",
+          "doc_count": 8
+        },
+        {
+          "key": "sample return",
+          "doc_count": 8
+        },
+        {
+          "key": "3MDCP",
+          "doc_count": 7
+        },
+        {
+          "key": "Curation",
+          "doc_count": 7
+        },
+        {
+          "key": "mission",
+          "doc_count": 7
+        },
+        {
+          "key": "HEEET",
+          "doc_count": 6
+        },
+        {
+          "key": "Mars Sample Return (MSR)",
+          "doc_count": 6
+        },
+        {
+          "key": "Red Dragon",
+          "doc_count": 6
+        },
+        {
+          "key": "Aerothermodynamics",
+          "doc_count": 5
+        },
+        {
+          "key": "Extraterrestrial Environment",
+          "doc_count": 5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1955 @@
+{
+  "stats": {
+    "took": 87,
+    "total": 20,
+    "estimate": false,
+    "maxScore": 320.2679
+  },
+  "results": [
+    {
+      "_meta": {
+        "score": 320.2679
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20150020501,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "3814dd81654d4b548dd30a32ad351d54",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "exploration",
+        "landing site",
+        "Mars"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20150020501,
+        "ear": "NO",
+        "id": "98acb4146112479083bed1dffeebb962",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "MSFC-E-DAA-TN27043",
+        "Report Number: MSFC-E-DAA-TN27043"
+      ],
+      "title": "The Land of Opportunity: Human Return to Meridiani Planum",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2015-11-03T17:48:43.4330000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20150020501,
+          "meta": {
+            "author": {
+              "name": "Cohen, Barbara A."
+            },
+            "organization": {
+              "name": "NASA Marshall Space Flight Center",
+              "location": "Huntsville, AL United States"
+            }
+          },
+          "id": "53826e1e245f4dfe8051ba07fcee14df"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20150020501,
+          "meta": {
+            "author": {
+              "name": "Seibert, Michael A."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "c8ddb5d06fcc4ffaa864db53f2027243"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20150020501,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2015-11-03T17:48:43.4330000+00:00",
+      "center": {
+        "code": "MSFC",
+        "name": "Marshall Space Flight Center",
+        "id": "a589fc1e68af409f9d2214bb08863d11"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Meridiani Planum is a broad expanse of Martian real estate possessing extremely safe landing characteristics and extensive areas with high trafficability, with compelling science motivations to decipher the climatic and hydrologic evolution of Mars and potential for resource extraction. We propose southwestern Meridiani Planum as a potential landing site for human exploration of Mars. Figure 1 shows our proposed exploration zone (EZ) and several potential science regions of interest (ROIs)",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "country": "United States",
+          "submissionId": 20150020501,
+          "endDate": "2015-10-30T00:00:00.0000000+00:00",
+          "name": "First Landing Site/Exploration Zone Workshop for Human Missions to the Surface of Mars",
+          "location": "Houston, TX",
+          "id": "69d342514a814e3ea9e64e79d8ba6e3a",
+          "startDate": "2015-10-27T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20150020501,
+          "id": "ca144e9e6b86411bbcf1abd5bbd64bbf",
+          "publicationDate": "2015-10-27T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20150020501.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20150020501/downloads/20150020501.pdf",
+            "pdf": "/api/citations/20150020501/downloads/20150020501.pdf",
+            "fulltext": "/api/citations/20150020501/downloads/20150020501.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 289.57626
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20150019636,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "0a6d9c170e0d4494b830daf7cdcb3766",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20150019636,
+        "ear": "NO",
+        "id": "0d45171214b649a2a64b1f6c377bce6b",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-08-13T09:31:02.4200000+00:00",
+      "otherReportNumbers": [
+        "JSC-CN-34587",
+        "Report Number: JSC-CN-34587"
+      ],
+      "title": "Human Mars Landing Site and Impacts on Mars Surface Operations",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2015-10-22T14:31:03.3030000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20150019636,
+          "meta": {
+            "author": {
+              "name": "Bussey, Ben"
+            },
+            "organization": {
+              "name": "NASA Headquarters",
+              "location": "Washington, DC United States"
+            }
+          },
+          "id": "db22c55651a64ac9b777c188706d33ff"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20150019636,
+          "meta": {
+            "author": {
+              "name": "Hoffman, Stephen J."
+            },
+            "organization": {
+              "name": "Science Applications International Corp.",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "79796a1b709c40f2a808dbf9b59c6d3d"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20150019636,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2015-10-22T14:31:03.3030000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "This paper describes NASA's initial steps for identifying and evaluating candidate Exploration Zones (EZs) and Regions of Interests (ROIs) for the first human crews that will explore the surface of Mars. NASA's current effort to define the exploration of this planet by human crews, known as the Evolvable Mars Campaign (EMC), provides the context in which these EZs and ROIs are being considered. The EMC spans all aspects of a human Mars mission including launch from Earth, transit to and from Mars, and operations on the surface of Mars. Studies related to Mars surface operations and related system capabilities have led to the current definition of an EZ as well as ROIs. An EZ is a collection of ROIs that are located within approximately 100 kilometers of a centralized landing site. ROIs are areas that are relevant for scientific investigation and/or development/maturation of capabilities and resources necessary for a sustainable human presence. The EZ also contains one or more landing sites and a habitation site that will be used by multiple human crews during missions to explore and utilize the ROIs within the EZ. With the EMC as a conceptual basis, the EZ model has been refined to a point where specific site selection criteria for scientific exploration and in situ resource utilization can be defined. In 2015 these criteria were distributed to the planetary sciences community and the in situ resource utilization and civil engineering communities as part of a call for EZ proposals. The resulting \"First Landing Site/Exploration Zone Workshop for Human Missions to the Surface of Mars\" was held in October 2015 during which 47 proposals for EZs and ROIs were presented and discussed. Proposed locations spanned all longitudes and all allowable latitudes (+/- 50 degrees). Proposed justification for selecting one of these EZs also spanned a significant portion of the scientific and resource criteria provided to the community. Workshop results will be used to prepare for follow-on workshops to refine our understanding of proposed EZs and ultimately select a single location to be explored and utilized by human crews. Another significant workshop outcome was a recognition that new data will be needed to refine our understanding of the value of proposed EZs. These new data will come in part from existing spacecraft at Mars and may come from future robotic Mars missions as appropriate consideration is given to these new data needs during mission definition and development.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "meetings": [
+        {
+          "submissionId": 20150019636,
+          "name": "Institute of Electrical and Electronics Engineers",
+          "location": "Piscataway, NJ, United States",
+          "id": "14ac10de8343488687075c4c9cd16505"
+        },
+        {
+          "country": "United States",
+          "submissionId": 20150019636,
+          "endDate": "2016-03-12T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "Institute of Electrical and Electronics Engineers",
+                  "location": "Piscataway, NJ, United States"
+                }
+              },
+              "meetingId": "052692d7e9ec40c398ee6b1736baf201",
+              "id": "ca629932b7cd473289870a89b1c72895"
+            }
+          ],
+          "name": "2016 IEEE Aerospace Conference",
+          "location": "Big Sky, MT",
+          "id": "052692d7e9ec40c398ee6b1736baf201",
+          "startDate": "2016-03-05T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20150019636,
+          "publisher": "IEEE",
+          "id": "8b651dca8ba2430e9e43f6cf3fa08a05",
+          "publicationDate": "2016-03-05T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20160001040,
+          "type": "SEE_ALSO",
+          "title": "Human Mars Landing Site and Impacts on Mars Surface Operations",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20160002370,
+          "type": "SEE_ALSO",
+          "title": "Human Mars Landing Site and Impacts on Mars Surface Operations",
+          "stiType": "PRESENTATION",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 281.59024
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20150021128,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "d8cb7a1b69124af89317c2ed88780e77",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20150021128,
+        "ear": "NO",
+        "id": "1a78301c5aa4470f801918d4a7a8a3ee",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "JSC-CN-34419",
+        "Report Number: JSC-CN-34419"
+      ],
+      "title": "Noctis Landing: A Proposed Landing Site/Exploration Zone for Human Missions to the Surface of Mars",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2015-11-12T15:52:46.0800000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Lee, Pascal"
+            },
+            "organization": {
+              "name": "Search for Extraterrestrial Intelligence Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "b2b6949c81944df9b07cfcca3636cbf6"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Acedillo, Shannen"
+            },
+            "organization": {
+              "name": "Search for Extraterrestrial Intelligence Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "c9b1a6e36e4243a59d85dadfab5026ec"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Braham, Stephen"
+            },
+            "organization": {
+              "name": "Mars Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "d006aa8ba4ae466aac4f7b98eba62dda"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Brown, Adrian"
+            },
+            "organization": {
+              "name": "Search for Extraterrestrial Intelligence Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "de9110c3d79442cc939f7acb50226dae"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Elphic, Richard"
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "f508139aad974e9aaad32a50827ce42b"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Fong, Terry"
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "c5800682cd654110a158e475fa64e1b1"
+        },
+        {
+          "sequence": 6,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Glass, Brian"
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "ca60aae31f3b4e888b880f63fb0efc7f"
+        },
+        {
+          "sequence": 7,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Hoftun, Christopher"
+            },
+            "organization": {
+              "name": "Mars Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "67078dcec2f54ce1a00193d9a3f91fdf"
+        },
+        {
+          "sequence": 8,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Johansen, Brage W."
+            },
+            "organization": {
+              "name": "Mars Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "eb79a00439e5418eb430de806fd793ce"
+        },
+        {
+          "sequence": 9,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Lorber, Kira"
+            },
+            "organization": {
+              "name": "Mars Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "e5e2e6188c3a4a9fbd52ee4000c6569d"
+        },
+        {
+          "sequence": 10,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Mittlefehldt, David"
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "8a85ac3af5e74530b3d85725fc3f118d"
+        },
+        {
+          "sequence": 11,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Takagi, Yuta"
+            },
+            "organization": {
+              "name": "Mars Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "ad55239688e0488087eae06b89c3d9bc"
+        },
+        {
+          "sequence": 12,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Thomas, Peter"
+            },
+            "organization": {
+              "name": "Cornell Univ.",
+              "location": "Ithaca, NY, United States"
+            }
+          },
+          "id": "a39920eb1fdb4cdb92c920466d5d92ce"
+        },
+        {
+          "sequence": 13,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "West, Michael"
+            },
+            "organization": {
+              "name": "Mars Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "b1107fbb749f4d448e0e7dec74bc6ffb"
+        },
+        {
+          "sequence": 14,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "West, Stephen"
+            },
+            "organization": {
+              "name": "Mars Inst.",
+              "location": "Moffett Field, CA, United States"
+            }
+          },
+          "id": "d8d6d5d7798b4d15bf7a3a6af2c53dfe"
+        },
+        {
+          "sequence": 15,
+          "submissionId": 20150021128,
+          "meta": {
+            "author": {
+              "name": "Zolensky, Michael"
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "c118b2921ddc47e9a361161b880fbb21"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20150021128,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2015-11-12T15:52:46.0800000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The proposed Noctis Landing Site/Exploration Zone (LS/EZ) is shown in Figure 1. Our preliminary study suggests that the proposed site meets all key Science and Resources (incl. Civil Engineering) requirements. The site is of significant interest, as the EZ not only offers a large number and wide range of regions of interest (ROIs) for short-term exploration, it is also located strategically at the crossroads between Tharsis and Valles Marineris, which are key for long-term exploration. The proposed site contains Regions of Interest (ROIs) that meet the following Science requirements: -­‐ Access to (1) deposits with a high preservation potential for evidence of past habitability and fossil biosignatures and (2) sites that are promising for present habitability. The site presents a wide variety of ROIs qith likely aqueous features and deposits, including sinous channels and valleys, slope gullies, lobate debris aprons, impact craters with lobate ejecta flows, and \"bathtub ring\" deposits. Neutron spectrometry also suggests hydrogen is present within the topmost 0.3 m or so of 4 to 10 wt% WEH (Water Equivalent Hydrogen). -­‐ Noachian and/or Hesperian rocks in a stratigraphic context that have a high likelihood of containing trapped atmospheric gases. Collapsed canyon rim material with preserved stratigraphy is abundantly present and accessible. -­‐ Exposures of at least two crustal units that have regional or global extents, that are suitable for radiometric dating, and that have relative ages that sample a significant range of martian geological time. Canyons floors in Ius Chasma, Tithonium Chasma, and plateau tops on Tharsis and in Sinai Planum offer access to distinct crustal units of regional extent. -­‐ Access to outcrops with linked morphological and/or geochemical signatures indicative of aqueous or groundwater/ mineral interactions. Iron and sulfur-bearing deposits on canyon floors in Noctis Labyrinthus, and in Ius Chasma (IC) and Tithonium Chasma (TC) offer many such outcrop options. -­‐ Identifiable stratigraphic contacts and cross-cutting relationships from which relative ages can be determined. In place and collapsed canyon walls in NL, TC, and IC offer such opportunities. -­‐ Other types of ROIs include access points to surrounding plateau top areas for longer term regional exploration. A key attribute of the proposed Noctic Landing site is its strategic location to allow the shortest possible surface excusions to Tharsis and Valles Marineris (VM). VM is the feature and region on Mars that exposes the longest record of Mars' geology and evolution through time. Tharsis is the region of Mars that has experienced the longest and most extensive volcanic history, and might still be volcanically active. Some of the youngest lava flows on Mars have been identified on the western flanks of the Tharsis Bulge, i.e., within driving range of future longrange (500 - 1000 km) pressurized rover traverses. The proposed site also contains ROIs that offer the following Resources (incl. Civil Engineering) characteristics: -­‐ Access to raw material that exhibits the potential to (1) be used as feedstock for water-generating in situ resource utilization (ISRU) processes and (2) yield significant quantities (greater than 100 MT) of water. The raw material is likely in the form of hydrated minerals, and possibly ice/regolith mix. The top of the raw material deposit is at the surface. -­‐ Access to a region where infrastructure can be emplaced or constructed. This region is less than 5 km from the LS and contains flat, stable terrain. The region exhibits evidence for an abundant source of loose regolith. Several deep pits in the area combined with the availability of sand suggests that some natural terrain features can be adapted for construction purposes. -­‐ Access to raw material that exhibits the potential to be used as metal feedstock for ISRU and construction purposes. Iron and sulfur-rich mineral surface deposits have been identified in CRISM data in many locations in this area. Noctis Landing is the lowest-altitude location on Mars that straddles both the Tharsis region (above average geothermal gradients) and Valles Marineris (minimal crustal thickness from surface (valley floor) to a subsurface liquid water table. Noctis Landing has the potential for being an ideal site for eventual deep drilling on Mars to access deep subsurface liquid water and potentially encountering extant life. Available data remains insufficient to fully qualify the Noctis Landing site. Additional remote sensing data (visible, Near and Mid-IR, and radar) and surface reconnaissance via a high-mobility robotic rover are recommended. In particular, it will be important to assess the trafficability of the site, and its potential for yielding water and metals as a resource. Access to plateau tops from the Noctis Landing site on the canyon floor should be demonstrated. Future exploration of the site would also be enhanced significantly by the availability of robotic (tele-operatable) surveying and sample-collecting drones. Testing of the use of such collaborative science and exploration technologies should be conducted at terrestrial sites such as the Haughton-Mars Project site on Devon Island, High Arctic, among others. Note: Noctis Landing is not an official Mars nomenclature name for this location. Because the area of the proposed LS/EZ had no name, and because it is close to Noctis Labyrinthus to the West while being distinct from it, the provisional name Noctis Landing is proposed. Noctis means night in Latin.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "country": "United States",
+          "submissionId": 20150021128,
+          "endDate": "2015-10-22T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "8ccaff322ecb48d2811364bf91d9f59d",
+              "meta": {
+                "organization": {
+                  "name": "Lunar and Planetary Inst.",
+                  "location": "Houston, TX, United States"
+                }
+              },
+              "meetingId": "0acfc2b55d2e4e3c99a2c04a8a0a639a",
+              "id": "e02112dd73ba4f82a7da77284590fb21"
+            },
+            {
+              "organizationId": "c48d8d5db08e4b80b5f256cdcd1360dd",
+              "meta": {
+                "organization": {
+                  "name": "Universities Space Research Association",
+                  "location": "Houston, TX, United States"
+                }
+              },
+              "meetingId": "0acfc2b55d2e4e3c99a2c04a8a0a639a",
+              "id": "30689c77ff14422ba4e4c657cc3a24a5"
+            }
+          ],
+          "name": "2015 Annual Meeting of the Lunar Exploration Analysis Group",
+          "location": "Columbia, MD",
+          "id": "0acfc2b55d2e4e3c99a2c04a8a0a639a",
+          "startDate": "2015-10-20T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20150021128,
+          "id": "aeba67f1bc774ab08d04a19b45f84f45",
+          "publicationDate": "2015-10-20T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20150021128.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20150021128/downloads/20150021128.pdf",
+            "pdf": "/api/citations/20150021128/downloads/20150021128.pdf",
+            "fulltext": "/api/citations/20150021128/downloads/20150021128.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 280.57214
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20150013826,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "f0a3f40f03ad4a3fb09c143c20243635",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration",
+        "Astronautics (General)"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20150013826,
+        "ear": "NO",
+        "id": "d66e672a2b1847f595ff33a2b2458567",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-17T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "JSC-CN-33714",
+        "Report Number: JSC-CN-33714"
+      ],
+      "title": "Human Mars Landing Site and Impacts on Mars Surface Operations",
+      "stiType": "ABSTRACT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2015-07-20T17:01:45.3670000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20150013826,
+          "meta": {
+            "author": {
+              "name": "Bussey, Ben"
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "f21afa0f377242229b869cf3649d2550"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20150013826,
+          "meta": {
+            "author": {
+              "name": "Hoffman, Stephen J."
+            },
+            "organization": {
+              "name": "Science Applications International Corp.",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "ade97c3ab13d4e16ad17a6102cce7b06"
+        }
+      ],
+      "stiTypeDetails": "Abstract",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20150013826,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2015-07-20T17:01:45.3670000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": true,
+      "sensitiveInformation": 2,
+      "abstract": "NASA has begun a process to identify and discuss candidate locations where humans could land, live and work on the Martian surface. These locations are referred to as Exploration Zones (EZs). Given current mission concepts, an EZ is a collection of Regions of Interest (ROIs) that are located within approximately 100 kilometers of a centralized landing site. ROIs are areas that are relevant for scientific investigation and/or development/maturation of capabilities and resources necessary for a sustainable human presence. The EZ also contains a landing site and a habitation site that will be used by multiple human crews during missions to explore and utilize the ROIs within the EZ. These candidate EZs will be used by NASA as part of a multi‐year process of determining where and how humans could explore Mars. In the near term this process includes: (a) identifying locations that would maximize the potential science return from future human exploration missions, (b) identifying locations with the potential for resources required to support humans, (c) developing concepts and engineering systems needed by future human crews to conduct operations within an EZ, and (d) identifying key characteristics of the proposed candidate EZs that cannot be evaluated using existing data sets, thus helping to define precursor measurements needed in advance of human missions. Existing and future robotic spacecraft will be tasked to gather data from specific Mars surface sites within the representative EZs to support these NASA activities. The proposed paper will describe NASA's initial steps for identifying and evaluating candidate EZs and ROIs. This includes plans for the \"First Landing Site/Exploration Zone Workshop for Human Missions to the Surface of Mars\" to be held in October 2015 at which proposals for EZs and ROIs will be presented and discussed. It will also include a discussion of how these considerations are (or will be) taken into account as future robotic Mars missions are defined and developed. One or more representative EZs, drawn from similar previous studies involving Mars sites, will be used in the proposed paper to illustrate the process NASA envisions for gathering additional data from robotic precursor missions to assist in making a final selection of an EZ for human crews as well as the steps likely to occur during the buildup of a habitation site. Examples of the systems and operations likely to be used by human crews, assisted by robotic vehicles, to explore the scientific ROIs as well as developing the resource ROIs within the example EZs will be discussed.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "submissionId": 20150013826,
+          "name": "Institute of Electrical and Electronics Engineers",
+          "location": "New York, NY, United States",
+          "id": "88aa154cb11b4926a62c3c514cda421e"
+        },
+        {
+          "country": "United States",
+          "submissionId": 20150013826,
+          "endDate": "2016-03-12T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "Institute of Electrical and Electronics Engineers",
+                  "location": "New York, NY, United States"
+                }
+              },
+              "meetingId": "95cf6bb6fb934c65b86c57ca016f344d",
+              "id": "4445cb2bccf7422aa629eb7b3b392f66"
+            }
+          ],
+          "name": "2016 IEEE Aerospace Conference",
+          "location": "Big Sky, MT",
+          "id": "95cf6bb6fb934c65b86c57ca016f344d",
+          "startDate": "2016-03-05T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20150013826,
+          "id": "3b7620279cbd414ea53d751e6f9a4846",
+          "publicationDate": "2016-03-05T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20160002370,
+          "type": "SEE_ALSO",
+          "title": "Human Mars Landing Site and Impacts on Mars Surface Operations",
+          "stiType": "PRESENTATION",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20160001040,
+          "type": "SEE_ALSO",
+          "title": "Human Mars Landing Site and Impacts on Mars Surface Operations",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20150013826.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20150013826/downloads/20150013826.pdf",
+            "pdf": "/api/citations/20150013826/downloads/20150013826.pdf",
+            "fulltext": "/api/citations/20150013826/downloads/20150013826.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 277.37744
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20160001040,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "8dc3d41e5812460ebbd2b04c1d59a5c3",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20160001040,
+        "ear": "NO",
+        "id": "3697c331597645e7a287c5cae8005ab1",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-11T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "JSC-CN-35066",
+        "Report Number: JSC-CN-35066"
+      ],
+      "title": "Human Mars Landing Site and Impacts on Mars Surface Operations",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2016-01-21T13:41:50.3800000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20160001040,
+          "meta": {
+            "author": {
+              "name": "Hoffman, Stephen J."
+            },
+            "organization": {
+              "name": "Science Applications International Corp.",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "0b45384e50304ddc887696a879d57437"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20160001040,
+          "meta": {
+            "author": {
+              "name": "Bussey, Ben"
+            },
+            "organization": {
+              "name": "NASA Headquarters",
+              "location": "Washington, DC United States"
+            }
+          },
+          "id": "8091b7f1f0304e88a0dddafde3e2b39e"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20160001040,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2016-01-21T13:41:50.3800000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "This paper describes NASA's initial steps for identifying and evaluating candidate Exploration Zones (EZs) and Regions of Interests (ROIs) for the first human crews that will explore the surface of Mars. NASA's current effort to define the exploration of this planet by human crews, known as the Evolvable Mars Campaign (EMC), provides the context in which these EZs and ROIs are being considered. The EMC spans all aspects of a human Mars mission including launch from Earth, transit to and from Mars, and operations on the surface of Mars. An EZ is a collection of ROIs located within approximately 100 kilometers of a centralized landing site. ROIs are areas relevant for scientific investigation and/or development/maturation of capabilities and resources necessary for a sustainable human presence. The EZ also contains one or more landing sites and a habitation site that will be used by multiple human crews during missions to explore and utilize the ROIs within the EZ. With the EMC as a conceptual basis, the EZ model has been refined to a point where specific site selection criteria for scientific exploration and in situ resource utilization can be defined. In 2015 these criteria were distributed to the planetary sciences community and the in situ resource utilization and civil engineering communities as part of a call for EZ proposals. The resulting \"First Landing Site/Exploration Zone Workshop for Human Missions to the Surface of Mars\" was held in October 2015 during which 47 proposals for EZs and ROIs were presented and discussed. Proposed locations spanned all longitudes and all allowable latitudes (+/- 50 degrees). Proposed justification for selecting one of these EZs also spanned a significant portion of the scientific and resource criteria provided to the community. Several important findings resulted from this Workshop including: (a) a strong consensus that, at a scale of 100 km (radius), multiple places on Mars exist that have both sufficient scientific interest to sustain multiple crews of exploring astronauts, AND potential resource deposits for ISRU indicating the current EZ definition is viable and should be retained for now, (b) new data types (needed for more definitive analysis of EZs) argued strongly for a new orbiter mission, and possibly one or more surface missions, to obtain these data, (c) a general consensus that this Workshop was an excellent start to identifying a place where future human missions to Mars can productively explore this planet and learn to live and work there for the long term. Building on these findings, HEOMD and SMD are: (a) refining the EZ selection criteria and overall selection process to improve on lessons learned from the first EZ workshop, (b) using these proposed locations to develop \"reference EZs\" for assessment purposes (primarily engineering assessments), (c) gathering data and conducting analyses to better understanding the different potential sources for water, including the ease of extraction and purification, and (d) assessing trends in additional data that are needed to better characterize EZs proposed at the workshop and how these data needs impact the design and operation of future robotic Mars missions.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "submissionId": 20160001040,
+          "name": "American Inst. of Aeronautics and Astronautics",
+          "location": "Reston, VA, United States",
+          "id": "e8a8bff0f3714ed292d69d5152cf3389"
+        },
+        {
+          "submissionId": 20160001040,
+          "name": "Institute of Electrical and Electronics Engineers",
+          "location": "New York, NY, United States",
+          "id": "2979451e68a342dcb496facc84bb0f89"
+        },
+        {
+          "country": "United States",
+          "submissionId": 20160001040,
+          "endDate": "2016-03-12T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "American Inst. of Aeronautics and Astronautics",
+                  "location": "Reston, VA, United States"
+                }
+              },
+              "meetingId": "561d6a0a32524f35b1000bb0d46081e6",
+              "id": "b4fb6960f0c0486f8741d2e46e7ebb8e"
+            },
+            {
+              "meta": {
+                "organization": {
+                  "name": "Institute of Electrical and Electronics Engineers",
+                  "location": "New York, NY, United States"
+                }
+              },
+              "meetingId": "561d6a0a32524f35b1000bb0d46081e6",
+              "id": "81efce2d79654af0a73f9aa61026dd19"
+            }
+          ],
+          "name": "2016 IEEE Aerospace Conference",
+          "location": "Big Sky, MT",
+          "id": "561d6a0a32524f35b1000bb0d46081e6",
+          "startDate": "2016-03-05T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20160001040,
+          "id": "9adf67cb8ff442b492d736eed7f414a6",
+          "publicationDate": "2016-03-05T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20150013826,
+          "type": "SEE_ALSO",
+          "title": "Human Mars Landing Site and Impacts on Mars Surface Operations",
+          "stiType": "ABSTRACT",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "METADATA_ONLY",
+          "id": 20150019636,
+          "type": "SEE_ALSO",
+          "title": "Human Mars Landing Site and Impacts on Mars Surface Operations",
+          "stiType": "CONFERENCE_PAPER",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        },
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20160002370,
+          "type": "SEE_ALSO",
+          "title": "Human Mars Landing Site and Impacts on Mars Surface Operations",
+          "stiType": "PRESENTATION",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20160001040.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20160001040/downloads/20160001040.pdf",
+            "pdf": "/api/citations/20160001040/downloads/20160001040.pdf",
+            "fulltext": "/api/citations/20160001040/downloads/20160001040.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 235.3328
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20150019642,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "f18c8349621c4f82adc3ae16c2a9d598",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration",
+        "Exobiology"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20150019642,
+        "ear": "NO",
+        "id": "b797d525081a4963945bd166bcfce0a6",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "JSC-CN-34506",
+        "Report Number: JSC-CN-34506"
+      ],
+      "title": "McLaughlin Crater as a Candidate Landing Site for Humans on Mars",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2015-10-22T17:21:03.0830000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20150019642,
+          "meta": {
+            "author": {
+              "name": "Michalski, J. R."
+            },
+            "organization": {
+              "name": "Planetary Science Inst.",
+              "location": "Tucson, AZ, United States"
+            }
+          },
+          "id": "d2386f5ed5ce44bf97bf19005f5f04e5"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20150019642,
+          "meta": {
+            "author": {
+              "name": "Niles, P. B."
+            },
+            "organization": {
+              "name": "NASA Johnson Space Center",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "a940d7fa32a547c0bca77fef3ef246cf"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20150019642,
+          "meta": {
+            "author": {
+              "name": "Sutter, B."
+            },
+            "organization": {
+              "name": "Jacobs Technology, Inc.",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "b7e7a83856dc4e5aa5fd1833566d9bf6"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20150019642,
+          "meta": {
+            "author": {
+              "name": "Bell, M. S."
+            },
+            "organization": {
+              "name": "Jacobs Technology, Inc.",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "7b6782d5a74d4296b7fcf8703a3ecf53"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20150019642,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2015-10-22T17:21:03.0830000+00:00",
+      "center": {
+        "code": "JSC",
+        "name": "Johnson Space Center",
+        "id": "dd46994b91a94cb2a2722617cbbadc55"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "McLaughlin Crater is an ancient (Noachian) Martian impact crater located at 337.6 East, 21.9 North, just south of the dichotomy boundary. This site should be considered for future landed exploration because: a) it is located at the boundary of three types of scientifically important terrain that will yield key results about the geological evolution and habitability of Mars; b) it contains surfaces where radiometric dating can be related to age dates estimated from crater counting, c) it contains volatile-rich rocks that will not only yield interesting results regarding ancient atmospheric chemistry, but will also be high quality, accessible targets for in-situ resource utilization (ISRU), and d) the site within the crater provides a flat, low-risk and low-elevation landing zone, which will facilitate landing large payloads on Mars.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "country": "United States",
+          "submissionId": 20150019642,
+          "endDate": "2015-10-30T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "8ccaff322ecb48d2811364bf91d9f59d",
+              "meta": {
+                "organization": {
+                  "name": "Lunar and Planetary Inst.",
+                  "location": "Houston, TX, United States"
+                }
+              },
+              "meetingId": "054880e8a8fc426c9c5c2c78d3638434",
+              "id": "7c7a0eb53ee1497d9408369b23544bd4"
+            },
+            {
+              "organizationId": "c48d8d5db08e4b80b5f256cdcd1360dd",
+              "meta": {
+                "organization": {
+                  "name": "Universities Space Research Association",
+                  "location": "Houston, TX, United States"
+                }
+              },
+              "meetingId": "054880e8a8fc426c9c5c2c78d3638434",
+              "id": "204113dfc5454737aaedec08894f5317"
+            }
+          ],
+          "name": "Landing Site/Exploration Zone Workshop for Human Missions to the Surface of Mars (2015)",
+          "location": "Houston, TX",
+          "id": "054880e8a8fc426c9c5c2c78d3638434",
+          "startDate": "2015-10-27T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20150019642,
+          "id": "65b105d97bff4d10b9caeecefb67f343",
+          "publicationDate": "2015-10-27T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20150019642.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20150019642/downloads/20150019642.pdf",
+            "pdf": "/api/citations/20150019642/downloads/20150019642.pdf",
+            "fulltext": "/api/citations/20150019642/downloads/20150019642.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 233.30145
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "approverComments": "Items in TRS are protected by copyright, but are furnished with U.S. government purpose use rights.",
+        "containsIndication": true,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20210007773,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": true,
+        "id": "e5ba82fb17374097a5c3daadd1c1ce23",
+        "belongsToAuthors": false
+      },
+      "exportControl": {
+        "isExportControl": "UNSET",
+        "submissionId": 20210007773,
+        "ear": "UNSET",
+        "id": "a0991f1183c340daaebd5e1533602f3c",
+        "itar": "UNSET"
+      },
+      "created": "2017-03-04T00:00:00.0000000+00:00",
+      "distributionDate": "2017-03-04T00:00:00.0000000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 0,
+      "abstract": "The Mars Reconnaissance Orbiter (MRO) entered\r\ninto orbit about Mars on March 10, 2006. After a series of\r\naerobraking and propulsive maneuvers, the spacecraft has\r\nbeen in its sun-synchronous primary science orbit since\r\nSeptember 2006 performing both scientific and Mars\r\nprogrammatic support roles. In addition to MRO’s scientific\r\ninvestigations of Mars, NASA has tasked MRO to provide\r\nreconnaissance of potential landing sites for ongoing and\r\nfuture Mars missions. This paper covers the mission design\r\nand analysis process to characterize MRO’s landing site\r\ncoverage capability for all global locations, with special focus\r\non potential sites for future missions: Gale Crater, Mawrth\r\nVallis, and Noachis Human Exploration Zone.",
+      "title": "Mars Reconnaissance Orbiter Landing Site Reconnaissance Capability",
+      "stiType": "PREPRINT",
+      "distribution": "PUBLIC",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20210007773,
+          "meta": {
+            "author": {
+              "name": "Johnston, M. Daniel"
+            }
+          },
+          "id": "09974347147847c88ace324f553a29b3"
+        },
+        {
+          "sequence": 0,
+          "submissionId": 20210007773,
+          "meta": {
+            "author": {
+              "name": "Brennan, Martin J."
+            }
+          },
+          "id": "7a1cf66eb57e45fb9f84699c1158538f"
+        }
+      ],
+      "disseminated": "METADATA_ONLY",
+      "stiTypeDetails": "Preprint (Draft being sent to journal)",
+      "technicalReviewType": "NOT_SET",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20210007773,
+      "sourceIdentifiers": [
+        {
+          "number": "2014/47599",
+          "submissionId": 20210007773,
+          "id": "4496565d28df48858dce305cd667705d",
+          "type": "HANDLE"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20210007773,
+          "publisher": "Pasadena, CA: Jet Propulsion Laboratory, National Aeronautics and Space Administration, 2017",
+          "id": "c0254f250d774d0fa1a28303a0d0c497",
+          "publicationDate": "2017-03-04T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 226.18877
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20150020456,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "80a7024db97e4250898becbbb4e84548",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Astronomy",
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "Human Missions",
+        "Mars",
+        "near surface ground ice"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20150020456,
+        "ear": "NO",
+        "id": "38b965fdad8348f59f4cbc8ebdb23215",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-17T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "ARC-E-DAA-TN27320",
+        "Report Number: ARC-E-DAA-TN27320"
+      ],
+      "title": "Midlatitude Ice-Rich Ground on Mars: An Important Target for Science and In Situ Resource Utilization on Human Missions",
+      "stiType": "ABSTRACT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2015-11-03T17:48:42.5070000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20150020456,
+          "meta": {
+            "author": {
+              "name": "Stoker, Carol "
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA United States"
+            }
+          },
+          "id": "a9a8c113123542bfbeacfbed665a042f"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20150020456,
+          "meta": {
+            "author": {
+              "name": "Heldmann, Jennifer"
+            },
+            "organization": {
+              "name": "NASA Ames Research Center",
+              "location": "Moffett Field, CA United States"
+            }
+          },
+          "id": "b6cedcf268164af3a7cbf61375bd49a6"
+        }
+      ],
+      "stiTypeDetails": "Abstract",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20150020456,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2015-11-03T17:48:42.5070000+00:00",
+      "center": {
+        "code": "ARC",
+        "name": "Ames Research Center",
+        "id": "4540cd94d24c4bf29f8773a27faf96b2"
+      },
+      "onlyAbstract": true,
+      "sensitiveInformation": 2,
+      "abstract": "The region of ROI is characterized by proven presence of near surface ground ice and numerous periglacial features. Midlatitude ground ice on Mars is of significant scientific interest for understanding the history and evolution of ice stability on Mars, the impact that changes in insolation produced by variations in Mars’ orbital parameters has on the regions climate, and could provide human exploration with a reliable and plentiful in situ resource. For both science and exploration, assessing the astrobiological potential of the ice is important in terms of (1) understanding the potential for life on Mars and (2) evaluating the presence of possible biohazards in advance of human exploration. Heldmann et al. (2014) studied locations on Mars in the Amazonis Planitia region where near surface ground ice was exposed by new impact craters (Byrne et al. 2009). The study examined whether sites in this region were suitable for human exploration including reviewing the evidence for midlatitude ground ice, discussing the possible explanations for its occurrence, assessing its potential habitability for modern life, and evaluating the resource potential. They systematically analyzed remote-sensing data sets to identify a viable landing site. Five sites where ground ice was exposed were examined with HiRise imaging and were classified according to (1) presence of polygons as a proxy for subsurface ice, (2) presence and abundance of rough topographic obstacles (e.g., large cracks, cliffs, uneven topography), (3) rock density, (4) presence and abundance of large boulders, and (5) presence of craters. A suitable landing site was found having ground ice at only 0.15m depth, and no landing site hazards within a 25 km landing ellipse. This paper presents results of that study and examines the relevance of this ROI to the workshop goals.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "country": "United States",
+          "submissionId": 20150020456,
+          "endDate": "2015-10-30T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "8ccaff322ecb48d2811364bf91d9f59d",
+              "meta": {
+                "organization": {
+                  "name": "Universities Space Research Association",
+                  "location": "Houston, TX, United States"
+                }
+              },
+              "meetingId": "8ceae2824e4b45ceb23ca060c8c5e491",
+              "id": "cbb77568117744aebfad37f00e33517e"
+            }
+          ],
+          "name": "First Landing Site/Exploration Zone Workshop for Human Missions to the Surface of Mars",
+          "location": "Houston, TX",
+          "id": "8ceae2824e4b45ceb23ca060c8c5e491",
+          "startDate": "2015-10-27T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20150020456,
+          "id": "ae7917f6af074bc4ad2b34457e706009",
+          "publicationDate": "2015-10-27T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20150020456.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20150020456/downloads/20150020456.pdf",
+            "pdf": "/api/citations/20150020456/downloads/20150020456.pdf",
+            "fulltext": "/api/citations/20150020456/downloads/20150020456.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    }
+  ],
+  "aggregations": {
+    "created": {
+      "buckets": [
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "author": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 53,
+      "buckets": [
+        {
+          "key": "Hoffman, Stephen J.",
+          "doc_count": 4
+        },
+        {
+          "key": "Niles, P. B.",
+          "doc_count": 4
+        },
+        {
+          "key": "Bell, M. S.",
+          "doc_count": 3
+        },
+        {
+          "key": "Bussey, Ben",
+          "doc_count": 3
+        },
+        {
+          "key": "Acedillo, Shannen",
+          "doc_count": 1
+        },
+        {
+          "key": "Ackiss, S. E.",
+          "doc_count": 1
+        },
+        {
+          "key": "Archer, D.",
+          "doc_count": 1
+        },
+        {
+          "key": "Archer, P. D.",
+          "doc_count": 1
+        },
+        {
+          "key": "Archer, P. D., Jr.",
+          "doc_count": 1
+        },
+        {
+          "key": "Arno Rogg",
+          "doc_count": 1
+        },
+        {
+          "key": "Bielski, Paul",
+          "doc_count": 1
+        },
+        {
+          "key": "Braham, Stephen",
+          "doc_count": 1
+        },
+        {
+          "key": "Brennan, Martin J.",
+          "doc_count": 1
+        },
+        {
+          "key": "Brian Glass",
+          "doc_count": 1
+        },
+        {
+          "key": "Brian Hamill",
+          "doc_count": 1
+        },
+        {
+          "key": "Brown, Adrian",
+          "doc_count": 1
+        },
+        {
+          "key": "Burton, A. S.",
+          "doc_count": 1
+        },
+        {
+          "key": "Calef, A. F. J., III",
+          "doc_count": 1
+        },
+        {
+          "key": "Carlos Gomez",
+          "doc_count": 1
+        },
+        {
+          "key": "Clark, B.",
+          "doc_count": 1
+        }
+      ]
+    },
+    "reportNumber": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 12,
+      "buckets": [
+        {
+          "key": "ARC-E-DAA-TN27320",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN48162",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-33714",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-33736",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-34419",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-34505",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-34506",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-34508",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-34509",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-34587",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-34615",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-35066",
+          "doc_count": 1
+        },
+        {
+          "key": "JSC-CN-35549",
+          "doc_count": 1
+        },
+        {
+          "key": "LPI-Contrib-1000",
+          "doc_count": 1
+        },
+        {
+          "key": "MSFC-E-DAA-TN27043",
+          "doc_count": 1
+        },
+        {
+          "key": "NONP-NASA-CD-2000088019",
+          "doc_count": 1
+        },
+        {
+          "key": "Report Number: ARC-E-DAA-TN27320",
+          "doc_count": 1
+        },
+        {
+          "key": "Report Number: ARC-E-DAA-TN48162",
+          "doc_count": 1
+        },
+        {
+          "key": "Report Number: JSC-CN-33714",
+          "doc_count": 1
+        },
+        {
+          "key": "Report Number: JSC-CN-33736",
+          "doc_count": 1
+        }
+      ]
+    },
+    "center": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "JSC",
+          "doc_count": 11
+        },
+        {
+          "key": "ARC",
+          "doc_count": 4
+        },
+        {
+          "key": "HQ",
+          "doc_count": 2
+        },
+        {
+          "key": "MSFC",
+          "doc_count": 2
+        },
+        {
+          "key": "JPL",
+          "doc_count": 1
+        }
+      ]
+    },
+    "index": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "submissions-2026-10-22-05-25",
+          "doc_count": 20
+        }
+      ]
+    },
+    "fundingNumber": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "811073.02.52.01.19",
+          "doc_count": 1
+        },
+        {
+          "key": "954879.02.01.62.01",
+          "doc_count": 1
+        },
+        {
+          "key": "NASw-4574",
+          "doc_count": 1
+        },
+        {
+          "key": "NNA14AB82C",
+          "doc_count": 1
+        },
+        {
+          "key": "NNX10AO25G",
+          "doc_count": 1
+        }
+      ]
+    },
+    "published": {
+      "buckets": [
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 7
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1997",
+          "key": 852076800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1998",
+          "key": 883612800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2000",
+          "key": 946684800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "distribution": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "PUBLIC",
+          "doc_count": 20
+        }
+      ]
+    },
+    "stiType": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "CONFERENCE_PAPER",
+          "doc_count": 12
+        },
+        {
+          "key": "ABSTRACT",
+          "doc_count": 4
+        },
+        {
+          "key": "CONFERENCE_PROCEEDINGS",
+          "doc_count": 2
+        },
+        {
+          "key": "PREPRINT",
+          "doc_count": 1
+        },
+        {
+          "key": "PRESENTATION",
+          "doc_count": 1
+        }
+      ]
+    },
+    "subjectCategory": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Lunar And Planetary Science And Exploration",
+          "doc_count": 18
+        },
+        {
+          "key": "Exobiology",
+          "doc_count": 2
+        },
+        {
+          "key": "Social And Information Sciences (General)",
+          "doc_count": 2
+        },
+        {
+          "key": "Astronautics (General)",
+          "doc_count": 1
+        },
+        {
+          "key": "Astronomy",
+          "doc_count": 1
+        },
+        {
+          "key": "Spacecraft Design, Testing And Performance",
+          "doc_count": 1
+        }
+      ]
+    },
+    "disseminated": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "DOCUMENT_AND_METADATA",
+          "doc_count": 16
+        },
+        {
+          "key": "METADATA_ONLY",
+          "doc_count": 4
+        }
+      ]
+    },
+    "stiTypeDetails": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Conference Paper",
+          "doc_count": 12
+        },
+        {
+          "key": "Abstract",
+          "doc_count": 4
+        },
+        {
+          "key": "Conference Proceedings",
+          "doc_count": 2
+        },
+        {
+          "key": "Preprint (Draft being sent to journal)",
+          "doc_count": 1
+        },
+        {
+          "key": "Presentation",
+          "doc_count": 1
+        }
+      ]
+    },
+    "organization": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 11,
+      "buckets": [
+        {
+          "key": "NASA Johnson Space Center",
+          "doc_count": 8
+        },
+        {
+          "key": "Jacobs Technology, Inc.",
+          "doc_count": 4
+        },
+        {
+          "key": "Science Applications International Corp.",
+          "doc_count": 4
+        },
+        {
+          "key": "Jet Propulsion Lab., California Inst. of Tech.",
+          "doc_count": 3
+        },
+        {
+          "key": "NASA Ames Research Center",
+          "doc_count": 3
+        },
+        {
+          "key": "NASA Headquarters",
+          "doc_count": 2
+        },
+        {
+          "key": "Planetary Science Inst.",
+          "doc_count": 2
+        },
+        {
+          "key": "Purdue Univ.",
+          "doc_count": 2
+        },
+        {
+          "key": "Ames Research Center",
+          "doc_count": 1
+        },
+        {
+          "key": "Center for Astriobiology (CSIC-INTA)",
+          "doc_count": 1
+        },
+        {
+          "key": "Cornell Univ.",
+          "doc_count": 1
+        },
+        {
+          "key": "Georgia Inst. of Tech.",
+          "doc_count": 1
+        },
+        {
+          "key": "Goddard Space Flight Center",
+          "doc_count": 1
+        },
+        {
+          "key": "Honeybee Robotics (United States)",
+          "doc_count": 1
+        },
+        {
+          "key": "Instituto Andaluz de Ciencias de la Tierra",
+          "doc_count": 1
+        },
+        {
+          "key": "Johns Hopkins Univ.",
+          "doc_count": 1
+        },
+        {
+          "key": "Johnson Space Center",
+          "doc_count": 1
+        },
+        {
+          "key": "KBR (United States)",
+          "doc_count": 1
+        },
+        {
+          "key": "Mars Inst.",
+          "doc_count": 1
+        },
+        {
+          "key": "Marshall Space Flight Center",
+          "doc_count": 1
+        }
+      ]
+    },
+    "modified": {
+      "buckets": [
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 20
+        }
+      ]
+    },
+    "keyword": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Mars",
+          "doc_count": 2
+        },
+        {
+          "key": "Human Missions",
+          "doc_count": 1
+        },
+        {
+          "key": "ISRU",
+          "doc_count": 1
+        },
+        {
+          "key": "Lunar Thermal Environments",
+          "doc_count": 1
+        },
+        {
+          "key": "Mars life detection",
+          "doc_count": 1
+        },
+        {
+          "key": "Thermal Analysis",
+          "doc_count": 1
+        },
+        {
+          "key": "astrobiology",
+          "doc_count": 1
+        },
+        {
+          "key": "exploration",
+          "doc_count": 1
+        },
+        {
+          "key": "in-situ resource utilization",
+          "doc_count": 1
+        },
+        {
+          "key": "landing site",
+          "doc_count": 1
+        },
+        {
+          "key": "near surface ground ice",
+          "doc_count": 1
+        },
+        {
+          "key": "resource surveys",
+          "doc_count": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "consultado": "2026-11-14T14:03:49-0500",
+  "api": "https://mars.nasa.gov/rss/api/?feed=raw_images&category=mars2020&feedtype=json&num=100&page=1",
+  "catalogo": "https://mars.nasa.gov/mars2020/multimedia/raw-images/",
+  "total_images": 1055868,
+  "total_images_incl_ingenuity": 1070421,
+  "ultimo_sol": 2031,
+  "ultima_actualizacion_utc": "2026-11-06T15:59:53Z",
+  "muestra": [
+    {
+      "imageid": "ZL0_2024_0846622154_145ECM_N0930000ZCAM10058_1100LMJ",
+      "sol": 2024,
+      "fecha_utc": "2026-10-30T09:14:47.569",
+      "instrumento": "MCZ_LEFT",
+      "credito": "NASA/JPL-Caltech/ASU",
+      "caption": "NASA's Mars Perseverance rover acquired this image using its Left Mastcam-Z camera. Mastcam-Z is a pair of cameras located high on the rover's mast.\n\nThis image was acquired on  Oct. 30, 2026 (Sol 2024) at the local mean solar time of 13:04:04.",
+      "browse_800": "https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/02024/ids/edr/browse/zcam/ZL0_2024_0846622154_145ECM_N0930000ZCAM10058_1100LMJ01_800.jpg",
+      "full_res": "https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/02024/ids/edr/browse/zcam/ZL0_2024_0846622154_145ECM_N0930000ZCAM10058_1100LMJ01.png",
+      "ficha": "https://mars.nasa.gov/mars2020/multimedia/raw-images/ZL0_2024_0846622154_145ECM_N0930000ZCAM10058_1100LMJ"
+    },
+    {
+      "imageid": "LRF_2031_0847237865_241EBY_N0930000SCAM01031_0100I4J",
+      "sol": 2031,
+      "fecha_utc": "2026-11-06T12:16:25.848",
+      "instrumento": "SUPERCAM_RMI",
+      "credito": "NASA/JPL-Caltech/LANL/CNES/IRAP",
+      "caption": "NASA's Mars Perseverance rover acquired this image using the SuperCam Remote Micro-Imager, located at the top of the rover's mast. \n\nThis image was acquired on Nov. 6, 2026 (Sol 2031) at the local mean solar time of 11:30:55.",
+      "browse_800": "https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/02031/ids/edr/browse/scam/LRF_2031_0847237865_241EBY_N0930000SCAM01031_0100I4J01_800.jpg",
+      "full_res": "https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/02031/ids/edr/browse/scam/LRF_2031_0847237865_241EBY_N0930000SCAM01031_0100I4J01.png",
+      "ficha": "https://mars.nasa.gov/mars2020/multimedia/raw-images/LRF_2031_0847237865_241EBY_N0930000SCAM01031_0100I4J"
+    },
+    {
+      "imageid": "LRF_2031_0847235763_228EBY_N0930000SCAM01031_0010I4J",
+      "sol": 2031,
+      "fecha_utc": "2026-11-06T11:41:23.813",
+      "instrumento": "SUPERCAM_RMI",
+      "credito": "NASA/JPL-Caltech/LANL/CNES/IRAP",
+      "caption": "NASA's Mars Perseverance rover acquired this image using the SuperCam Remote Micro-Imager, located at the top of the rover's mast. \n\nThis image was acquired on Nov. 6, 2026 (Sol 2031) at the local mean solar time of 10:56:49.",
+      "browse_800": "https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/02031/ids/edr/browse/scam/LRF_2031_0847235763_228EBY_N0930000SCAM01031_0010I4J01_800.jpg",
+      "full_res": "https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/02031/ids/edr/browse/scam/LRF_2031_0847235763_228EBY_N0930000SCAM01031_0010I4J01.png",
+      "ficha": "https://mars.nasa.gov/mars2020/multimedia/raw-images/LRF_2031_0847235763_228EBY_N0930000SCAM01031_0010I4J"
+    }
+  ],
+  "limitaciones": "Las imágenes crudas no están georreferenciadas, no son un feed en vivo y muchas son primeros planos de instrumentos. No se usan como capa del mapa."
+}

@@ -1,0 +1,2602 @@
+{
+  "stats": {
+    "took": 70,
+    "total": 282,
+    "estimate": false,
+    "maxScore": 212.18048
+  },
+  "results": [
+    {
+      "_meta": {
+        "score": 212.18048
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20190027303,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "ea3298b7785142839e60f73ab892b50f",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "eccnNumber": "",
+        "submissionId": 20190027303,
+        "ear": "NO",
+        "id": "a2e388b960204e93856465b2793247ab",
+        "itar": "NO"
+      },
+      "distributionDate": "2020-02-06T14:22:55.6430000+00:00",
+      "otherReportNumbers": [
+        "GSFC-E-DAA-TN77167",
+        "GSFC-E-DAA-TN69947",
+        "Report Number: GSFC-E-DAA-TN77167",
+        "Report Number: GSFC-E-DAA-TN69947"
+      ],
+      "title": "The Mars Global Dust Storm of 2018",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2019-07-15T13:00:07.2300000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20190027303,
+          "meta": {
+            "author": {
+              "name": "Smith, Michael D."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "b36b147485d74d56ae3f5517c01a467e"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20190027303,
+          "meta": {
+            "author": {
+              "name": "Guzewich, Scott D."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "7116f3e452c142389964bf07eca2eabf"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20190027303,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2019-07-15T13:00:07.2300000+00:00",
+      "center": {
+        "code": "GSFC",
+        "name": "Goddard Space Flight Center",
+        "id": "973fae00c3584b9fb4c762ae9870d0f6"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Mars is a dusty planet. Wind often lifts dust from the surface into the air forming clouds of dust at different locations across Mars. These dust storms typically last up to a couple days and grow to a few hundred km in size. However, once in a long while when conditions are just right, localized dust storms can interact in a way that optically thick suspended dust covers nearly the entire planet remaining aloft for weeks to months. These global-scale dust storms are the most dramatic of all weather phenomena on Mars, greatly altering the thermal structure and dynamics of the Martian atmosphere and significantly changing the global distribution of surface dust. Such a global-scale dust storm occurred during the summer of 2018, the first such event since 2007. The global dust storm was observed by an international fleet of spacecraft in Mars orbit and on the surface of Mars providing an unprecedented view of the initiation, growth, and decay of the storm as well as the physical properties of the dust during the storm's evolution. The 2018 global-scale dust storm was observed to grow from several localized dust-lifting centers with wind-blown dust suspended in the atmosphere encircling Mars after about two weeks of activity. Dust column optical depths recorded by the Opportunity and Curiosity rovers on the surface were the highest ever recorded on Mars. Peak global intensity of the dust storm was reached in early July 2018. Over the next couple months, the dust settled out and the atmosphere returned to its climatological average. Only a small number of global-scale dust storms have been observed on Mars, and so detailed analysis of the observations of this storm will provide important new insight into how these events occur and their effect on the current Mars climate.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "meetings": [
+        {
+          "submissionId": 20190027303,
+          "name": "International Conference On Environmental Systems, Inc.",
+          "location": "Stafford Springs, CT, United States",
+          "id": "6cf4af179adf42d2817c422f20004620"
+        },
+        {
+          "country": "United States",
+          "submissionId": 20190027303,
+          "endDate": "2019-07-11T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "International Conference On Environmental Systems, Inc.",
+                  "location": "Stafford Springs, CT, United States"
+                }
+              },
+              "meetingId": "231222f0ac4e4d9bbe63871822dda52f",
+              "id": "0dc0960e240743e3928d6907e85c5717"
+            }
+          ],
+          "name": "International Conference on Environmental Systems",
+          "location": "Boston, MA",
+          "id": "231222f0ac4e4d9bbe63871822dda52f",
+          "startDate": "2019-07-07T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20190027303,
+          "id": "44ca3d5a35164d8b9a186beb7b26dc6c",
+          "publicationDate": "2019-07-07T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20190027303.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20190027303/downloads/20190027303.pdf",
+            "pdf": "/api/citations/20190027303/downloads/20190027303.pdf",
+            "fulltext": "/api/citations/20190027303/downloads/20190027303.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 202.40056
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 19810060076,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "3ee22b45985d4c7aa4e4efa63ea09824",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 19810060076,
+        "ear": "NO",
+        "id": "96372bd1cf1f4728a7aff36df7b506a8",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-06-21T00:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "NSG-7614",
+          "submissionId": 19810060076,
+          "id": "eb95983beb3f4575a84fa96d18b31045",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Local Mars dust storm generation mechanism",
+      "stiType": "REPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-11T05:40:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 19810060076,
+          "meta": {
+            "author": {
+              "name": "Ryan, J. A."
+            },
+            "organization": {
+              "name": "California State Univ.",
+              "location": "Fullerton, CA, United States"
+            }
+          },
+          "id": "de616d48d9464eb8bbf89f3e2ebee629"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 19810060076,
+          "meta": {
+            "author": {
+              "name": "Sharman, R. D."
+            },
+            "organization": {
+              "name": "California State Univ.",
+              "location": "Fullerton, CA, United States"
+            }
+          },
+          "id": "3af31c5189624812accd6dee229199f3"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 19810060076,
+          "meta": {
+            "author": {
+              "name": "Lucich, R. D."
+            },
+            "organization": {
+              "name": "California State University",
+              "location": "Fullerton, CA, United States"
+            }
+          },
+          "id": "4110478766fa4b96ade0394235f565e3"
+        }
+      ],
+      "stiTypeDetails": "Reprint (Version printed in journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 19810060076,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": "81A44480"
+      },
+      "created": "2013-08-11T05:40:00.0000000+00:00",
+      "center": {
+        "code": "CDMS",
+        "name": "Legacy CDMS",
+        "id": "092d6e0881874968859b972d39a888dc"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "On an areocentric solar longitude of 340 deg, first Mars year of Viking on the surface, a local dust storm was observed at the Viking Lander No. 1 site by Viking Orbiter A. The storm lasted less than one Martian day (sol) with the dust raised affecting the site for about three sols. It is concluded that this storm was caused by baroclinic waves and that the threshold wind speed for saltation was 25-30 m/sec.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "volume": "8",
+          "submissionId": 19810060076,
+          "id": "5a00195b91044815822bb160d255b2ca",
+          "publicationName": "Geophysical Research Letters",
+          "publicationDate": "1981-08-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 201.5722
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 19740041023,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "f4a2260f753b4b79ae44d13d117e188b",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Space Sciences"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 19740041023,
+        "ear": "NO",
+        "id": "66b80ec2304942d49c3e9e06abcc6678",
+        "itar": "NO"
+      },
+      "distributionDate": "2011-08-15T00:00:00.0000000+00:00",
+      "title": "Mars - Clearing of the 1971 dust storm",
+      "stiType": "REPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-08-07T14:33:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 19740041023,
+          "meta": {
+            "author": {
+              "name": "Hartmann, W. K."
+            },
+            "organization": {}
+          },
+          "id": "7167b2c7002448369b9e61e2b7ba914e"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 19740041023,
+          "meta": {
+            "author": {
+              "name": "Price, M. J."
+            },
+            "organization": {
+              "name": "Planetary Science Institute",
+              "location": "Tucson, Ariz., United States"
+            }
+          },
+          "id": "375a47030e9c4865b05473322b84768f"
+        }
+      ],
+      "stiTypeDetails": "Reprint (Version printed in journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 19740041023,
+      "sourceIdentifiers": [
+        {
+          "number": "doi:10.1016/0019-1035(74)90087-6",
+          "submissionId": 19740041023,
+          "id": "8b0e9eb591f44ff584d8ed3bd996845d",
+          "type": "DOI"
+        },
+        {
+          "submissionId": 19740041023,
+          "id": "4d94aa7c6668402e8c0715b32673179c",
+          "descriptor": "doi:10.1016/0019-1035(74)90087-6"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": "74A23773"
+      },
+      "created": "2013-08-07T14:33:00.0000000+00:00",
+      "center": {
+        "code": "CDMS",
+        "name": "Legacy CDMS",
+        "id": "092d6e0881874968859b972d39a888dc"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "A semiquantitative analysis of clearing in the 1971 great dust storm on Mars is presented as a function of time and altitude, using Mariner 9 orange- and visual-light photos. Steady settling of dust approximately accounts for the decline of the storm after Dec. 22, 1971.  Continuous settling cannot be invoked prior to that date; injection of dust into the atmosphere, i.e., a storm resurgence, occurred in mid-December 1971. Theoretical models of optical depth vs time are developed for various distributions of particles in the atmosphere. By interpreting settling in terms of Stokes' law, estimates of the maximum  radii of dust particles throughout the atmosphere have been obtained. Models which best account for the dust-storm decline indicate particles less than 5 microns in diameter high in the atmosphere, with a concentration of larger particles near the ground in the lowest parts of Mars.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "publications": [
+        {
+          "volume": "21",
+          "submissionId": 19740041023,
+          "id": "ce1b8c69b8b14c6b93ccf89d868320a3",
+          "publicationName": "Icarus",
+          "publicationDate": "1974-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 192.41664
+      },
+      "copyright": {
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "MAY_INCLUDE_COPYRIGHT_MATERIAL",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20230015679,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "94a7bd3a7ae74b699c0142341f2ac579",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Behavioral Sciences"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20230015679,
+        "ear": "NO",
+        "id": "1b73162d6a974a7fafd8aa1f0d362382",
+        "itar": "NO"
+      },
+      "distributionDate": "2023-10-31T07:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "811073.02.52.01.10",
+          "submissionId": 20230015679,
+          "id": "61a9b45fd0534adbaffa38440e4e5f87",
+          "type": "WBS"
+        }
+      ],
+      "title": "The B Regional Dust Storm in the New NASA Ames Mars GCM",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2023-10-30T23:13:29.2659180+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "7a9f0f27fd1e5f85bd2531f843abe724",
+          "sequence": 0,
+          "submissionId": 20230015679,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "C M L Batterson"
+            },
+            "organization": {
+              "name": "Bay Area Environmental Research Institute",
+              "location": "Petaluma, California, United States"
+            }
+          },
+          "id": "2250146df5a94f57b7dce06f9b36cb75",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "84bf9e4cb7b24372afb2b9c794f05555"
+        },
+        {
+          "organizationId": "7f9c4cf9cb6f517db6b0fb40eb584c03",
+          "sequence": 1,
+          "submissionId": 20230015679,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "M A Kahre"
+            },
+            "organization": {
+              "name": "Ames Research Center",
+              "location": "Mountain View, California, United States"
+            }
+          },
+          "id": "a43759c9e3744d37b05d97fce16ca6bc",
+          "userType": "CIVIL",
+          "userId": "f881f20da3be4d58b228d59045f9ce65"
+        },
+        {
+          "organizationId": "186ca58a4e2852ffb81b3c00d40d2267",
+          "sequence": 2,
+          "submissionId": 20230015679,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "A F C Bridger"
+            },
+            "organization": {
+              "name": "San Jose State University",
+              "location": "San Jose, United States"
+            }
+          },
+          "id": "c20a7c315647408bb6d47656a619da83",
+          "userType": "OTHER",
+          "userId": "edb220e2c91a4e0cbd9671016190d658"
+        },
+        {
+          "organizationId": "7f9c4cf9cb6f517db6b0fb40eb584c03",
+          "sequence": 3,
+          "submissionId": 20230015679,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "R J Wilson"
+            },
+            "organization": {
+              "name": "Ames Research Center",
+              "location": "Mountain View, California, United States"
+            }
+          },
+          "id": "86bc7ea499664cd196f46d5783b6e346",
+          "userType": "CIVIL",
+          "userId": "3ae0e5c266dc4c54bda4ead45a418304"
+        },
+        {
+          "organizationId": "7a9f0f27fd1e5f85bd2531f843abe724",
+          "sequence": 4,
+          "submissionId": 20230015679,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "R A Urata"
+            },
+            "organization": {
+              "name": "Bay Area Environmental Research Institute",
+              "location": "Petaluma, California, United States"
+            }
+          },
+          "id": "bcd841c1b9b14bada77464b410c1f182",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "76165e80af50425cac0e4cdb43d569b0"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20230015679,
+      "created": "2023-10-30T23:08:45.4091930+00:00",
+      "center": {
+        "code": "ARC",
+        "name": "Ames Research Center",
+        "id": "4540cd94d24c4bf29f8773a27faf96b2"
+      },
+      "onlyAbstract": true,
+      "sensitiveInformation": 2,
+      "abstract": "Introduction\nThe Thermal Emission Spectrometer (TES) and the Mars Climate Sounder (MCS) instruments have been ob- serving global dust and temperature on Mars twice daily for a combined ∼12 Mars Years (MYs). Analysis of these data by [5] reveal three highly repeatable, regional scale dust events occurring annually during years lack- ing a global dust storm (GDS). Named the \"A,\" \"B,\" and \"C\" storms in seasonal order, these recurring dust storms develop in the southern hemisphere of Mars during the perihelion season(Ls =180°–360°)when Mars is closest to the sun and the southern hemisphere experiences sum- mer [5]. The \"A\" and \"C\" storms occur in the southern midlatitudes where they amplify the Hadley circulation causing dynamical warming in the northern hemisphere. In contrast, the \"B\" storm (hereafter, B storm) and its ef- fects are entirely confined to the south pole [5]. All three storms are large enough to inject dust above the boundary layer [8]. As a result, the annually-recurring regional storms produce significant temperature perturbations in the middle atmosphere, raising zonal mean 50 Pa ( 25 km) temperatures above 200 K (Figure 1) [5].\n\nIn this work, we seek to identify the mechanisms responsible for lofting dust into the middle atmosphere during the B storm by simulating the storm with the new NASA Ames Mars Global Climate Model (MGCM). We find that the simulated B storm is driven by a series of dust plumes that form in the high southern latitudes during southern summer solstice. We also find that radiative-dynamic feedbacks between airborne dust and incoming shortwave radiation are crucial for the pluming mechanism.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20230015679,
+        "id": "d1bd0d5623cc4c4a8900ab6542fdbb5a"
+      },
+      "meetings": [
+        {
+          "country": "FR",
+          "submissionId": 20230015679,
+          "endDate": "2022-06-17T07:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "8fafa3fd540c5564b98ef1e4e585ae68",
+              "meta": {
+                "organization": {
+                  "name": "Sorbonne University",
+                  "location": "Paris, France"
+                }
+              },
+              "meetingId": "7c1a090886f14fa19f96cb9e886999df",
+              "id": "f9190e5f03b3420482fa31d5851a2e36"
+            }
+          ],
+          "name": "7th International Workshop on the Mars Atmosphere: Modelling and Observations",
+          "location": "Paris",
+          "id": "7c1a090886f14fa19f96cb9e886999df",
+          "startDate": "2022-06-14T07:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "batterson_mamo2022.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20230015679/downloads/batterson_mamo2022.pdf",
+            "pdf": "/api/citations/20230015679/downloads/batterson_mamo2022.pdf",
+            "fulltext": "/api/citations/20230015679/downloads/batterson_mamo2022.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 188.42865
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20190001691,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "7c68c55b10254267b93207e9f5958369",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "eccnNumber": "",
+        "submissionId": 20190001691,
+        "ear": "NO",
+        "id": "19f278d05d974b21bbf68d9d3f068042",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-11T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "GSFC-E-DAA-TN66591",
+        "GSFC-E-DAA-TN65722",
+        "Report Number: GSFC-E-DAA-TN66591",
+        "Report Number: GSFC-E-DAA-TN65722",
+        "ISSN: 0094-8276",
+        "E-ISSN: 1944-8007"
+      ],
+      "title": "Mars Science Laboratory Observations of the 2018/Mars Year 34 Global Dust Storm",
+      "stiType": "REPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2019-03-20T11:48:27.0600000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Guzewich, Scott D."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "6d8fa7265e5a44c48a1a11288ef4c35e"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Lemmon, M."
+            },
+            "organization": {
+              "name": "Texas A&M Univ.",
+              "location": "College Station, TX, United States"
+            }
+          },
+          "id": "4add5a6abac644178a3b92aabaad08f3"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Smith, C. L."
+            },
+            "organization": {
+              "name": "York University",
+              "location": "Toronto, Ontario, Canada"
+            }
+          },
+          "id": "3dffebb213e2454c80e674b97eb7bcba"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Martinez, G."
+            },
+            "organization": {
+              "name": "Michigan Univ.",
+              "location": "Ann Arbor, MI, United States"
+            }
+          },
+          "id": "723b541014d44cab84793444a1a28960"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "de Vicente-Retortillo, A."
+            },
+            "organization": {
+              "name": "Michigan Univ.",
+              "location": "Ann Arbor, MI, United States"
+            }
+          },
+          "id": "72a579a8fb084c89afbbe78e4004cd99"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Newman, C. E."
+            },
+            "organization": {
+              "name": "Aeolis Research, Inc.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "9ad17d1c046c4b8cb873a84b62a5199f"
+        },
+        {
+          "sequence": 6,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Baker, M."
+            },
+            "organization": {
+              "name": "Johns Hopkins Univ.",
+              "location": "Baltimore, MD, United States"
+            }
+          },
+          "id": "c19eb7f5dc0e4152bce5ae458745b391"
+        },
+        {
+          "sequence": 7,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Campbell, C."
+            },
+            "organization": {
+              "name": "York University",
+              "location": "Toronto, Ontario, Canada"
+            }
+          },
+          "id": "67a3c6e239604879b5dd85a198247025"
+        },
+        {
+          "sequence": 8,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Cooper, B."
+            },
+            "organization": {
+              "name": "York University",
+              "location": "Toronto, Ontario, Canada"
+            }
+          },
+          "id": "208383de134d49eb83fcf4061c485b0e"
+        },
+        {
+          "sequence": 9,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Gomez-Elvira, J."
+            },
+            "organization": {
+              "name": "Centro de Astrobiología (CSIC-INTA)",
+              "location": "Madrid, Spain"
+            }
+          },
+          "id": "d0a22ab598c7489f952d1f3db476eb5c"
+        },
+        {
+          "sequence": 10,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Harri, A.-M."
+            },
+            "organization": {
+              "name": "Finnish Meteorological Institute",
+              "location": "Helsinki, Finland"
+            }
+          },
+          "id": "90642ab916724efc9df163bf3851e0da"
+        },
+        {
+          "sequence": 11,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Hassler, D."
+            },
+            "organization": {
+              "name": "Southwest Research Inst.",
+              "location": "Boulder, CO, United States"
+            }
+          },
+          "id": "a45e950a9bd547dc8304052126519ee4"
+        },
+        {
+          "sequence": 12,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Martin-Torres, F. J."
+            },
+            "organization": {
+              "name": "Lulea Univ. of Technology",
+              "location": "Lulea, Sweden"
+            }
+          },
+          "id": "c0d77e3a2f10406fae6ead405d0b80de"
+        },
+        {
+          "sequence": 13,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "McConnochie, T."
+            },
+            "organization": {
+              "name": "Maryland Univ.",
+              "location": "College Park, MD, United States"
+            }
+          },
+          "id": "e25658c5e19e41c1bc4da5592cf9f8be"
+        },
+        {
+          "sequence": 14,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Moores, J. E."
+            },
+            "organization": {
+              "name": "York University",
+              "location": "Toronto, Ontario, Canada"
+            }
+          },
+          "id": "e1d480d590d749a2a4e2b7db48a370d5"
+        },
+        {
+          "sequence": 15,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Kahanpaa, H."
+            },
+            "organization": {
+              "name": "Finnish Meteorological Institute",
+              "location": "Helsinki, Finland"
+            }
+          },
+          "id": "a29eef7a0f834c0bb62bd1f9cb7f3b9d"
+        },
+        {
+          "sequence": 16,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Khayat, A."
+            },
+            "organization": {
+              "name": "Maryland Univ.",
+              "location": "College Park, MD, United States"
+            }
+          },
+          "id": "4ed817192484434c9180bdb01673580a"
+        },
+        {
+          "sequence": 17,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Richardson, M. I."
+            },
+            "organization": {
+              "name": "Aeolis Research, Inc.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "4140ed872e294dfb9bdd756732c34e45"
+        },
+        {
+          "sequence": 18,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Smith, M. D."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "87bd1a8a91664873b70cb79f0836df94"
+        },
+        {
+          "sequence": 19,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Sullivan, R."
+            },
+            "organization": {
+              "name": "Cornell Univ.",
+              "location": "Ithaca, NY, United States"
+            }
+          },
+          "id": "ab1951774d214a4895f03c5b311c2494"
+        },
+        {
+          "sequence": 20,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "de la Torre Juarez, M."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "e3679c5a512b4687b2ef99645923f663"
+        },
+        {
+          "sequence": 21,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Vasavada, A. R."
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "d9d83e0acfc84a1fadba348ff08574f4"
+        },
+        {
+          "sequence": 22,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Viudez-Moreiras, D."
+            },
+            "organization": {
+              "name": "Centro de Astrobiología (CSIC-INTA)",
+              "location": "Madrid, Spain"
+            }
+          },
+          "id": "f64eee43d2344844a2c35b3e9556f355"
+        },
+        {
+          "sequence": 23,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Zeitlin, C."
+            },
+            "organization": {
+              "name": "Leidos, Inc.",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "id": "9ef040d0c02d417d92d1fdf83a30acbd"
+        },
+        {
+          "sequence": 24,
+          "submissionId": 20190001691,
+          "meta": {
+            "author": {
+              "name": "Zorzano Mier, Maria-Paz"
+            },
+            "organization": {
+              "name": "Centro de Astrobiología (CSIC-INTA)",
+              "location": "Madrid, Spain"
+            }
+          },
+          "id": "138191bb8d8640fbac9099b6e1986e64"
+        }
+      ],
+      "stiTypeDetails": "Reprint (Version printed in journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20190001691,
+      "sourceIdentifiers": [
+        {
+          "number": "doi:10.1029/2018GL080839",
+          "submissionId": 20190001691,
+          "id": "e17be3fe1e534371bdb3bc804811687b",
+          "type": "DOI"
+        },
+        {
+          "submissionId": 20190001691,
+          "id": "7680cdbc762b429dbcf35f4506d2b25d",
+          "descriptor": "doi:10.1029/2018GL080839"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2019-03-20T11:48:27.0600000+00:00",
+      "center": {
+        "code": "GSFC",
+        "name": "Goddard Space Flight Center",
+        "id": "973fae00c3584b9fb4c762ae9870d0f6"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "Mars Science Laboratory Curiosity rover observations of the 2018/Mars year 34 global/planet-encircling dust storm represent the first in situ measurements of a global dust storm with dedicated meteorological sensors since the Viking Landers. The Mars Science Laboratory team planned and executed a science campaign lasting approximately 100 Martian sols to study the storm involving an enhanced cadence of environmental monitoring using the rover's meteorological sensors, cameras, and spectrometers. Mast Camera 880-nanometer optical depth reached 8.5, and Rover Environmental Monitoring Station measurements indicated a 97 percent reduction in incident total ultraviolet solar radiation at the surface, 30 degrees Kelvin reduction in diurnal range of air temperature, and an increase in the semidiurnal pressure tide amplitude to 40 pascals. No active dust-lifting sites were detected within Gale Crater, and global and local atmospheric dynamics were drastically altered during the storm. This work presents an overview of the mission's storm observations and initial results.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "publications": [
+        {
+          "volume": "46",
+          "submissionId": 20190001691,
+          "issue": "1",
+          "issn": "0094-8276",
+          "publisher": "American Geophysical Union, Wiley",
+          "eissn": "1944-8007",
+          "id": "87f7bd2279de4991aa07a16688c25107",
+          "publicationName": "Geophysical Research Letters",
+          "publicationDate": "2019-01-05T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20190001691.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20190001691/downloads/20190001691.pdf",
+            "pdf": "/api/citations/20190001691/downloads/20190001691.pdf",
+            "fulltext": "/api/citations/20190001691/downloads/20190001691.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 183.29791
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 19890001433,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "74ebe5682c1c490980f19b254b92e09c",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 19890001433,
+        "ear": "NO",
+        "id": "1ba344f522b045f7905999877136461b",
+        "itar": "NO"
+      },
+      "distributionDate": "2013-08-29T00:00:00.0000000+00:00",
+      "title": "The great dust storm of 1986",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2013-09-05T19:02:00.0000000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 19890001433,
+          "meta": {
+            "author": {
+              "name": "Martin, L. J."
+            },
+            "organization": {
+              "name": "Lowell Observatory",
+              "location": "Flagstaff, AZ, United States"
+            }
+          },
+          "id": "3877f33365c74cc5adc863e6c741b36b"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 19890001433,
+          "meta": {
+            "author": {
+              "name": "James, P. B."
+            },
+            "organization": {
+              "name": "Lowell Observatory",
+              "location": "Flagstaff, AZ, United States"
+            }
+          },
+          "id": "d089c6a891864885b216bba3e34c6269"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 19890001433,
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": "89N10804"
+      },
+      "created": "2013-09-05T19:02:00.0000000+00:00",
+      "center": {
+        "code": "CDMS",
+        "name": "Legacy CDMS",
+        "id": "092d6e0881874968859b972d39a888dc"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "It is reported that on the global scale, no major dust storm activity was seen during telescopic observations of Mars during the several months or so preceeding this conference. However, the corresponding season on Mars was early fall, which is at the beginning of the dust storm season. It was too early to tell, therefore, if a great dust storm was going to occur that year. Current observations and what they show about present atmospheric conditions and the recession of the South Polar Cap is discussed.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "publications": [
+        {
+          "submissionId": 19890001433,
+          "id": "aaf4285f83214d2d94491808ac304636",
+          "publicationName": "Lunar and Planetary Inst., MECA Symposium on Mars: Evolution of its Climate and Atmosphere",
+          "publicationDate": "1987-01-01T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "19890001433.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/19890001433/downloads/19890001433.pdf",
+            "pdf": "/api/citations/19890001433/downloads/19890001433.pdf",
+            "fulltext": "/api/citations/19890001433/downloads/19890001433.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 181.14738
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "OTHER",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20150014694,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "0039bf21f57d42e5871f03208536a8f8",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Systems Analysis And Operations Research",
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20150014694,
+        "ear": "NO",
+        "id": "77711bc9bad74955916999e0674222cd",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+      "title": "Operations Strategies for the Mars Exploration Rovers During the 2007 Martian Global Dust Storm",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2015-08-03T07:41:43.7070000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20150014694,
+          "meta": {
+            "author": {
+              "name": "Seibert, Michael"
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "986eb122796a4a56aac1b71e718cba6a"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20150014694,
+          "meta": {
+            "author": {
+              "name": "Herman, Jennifer"
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "c1d9ce90c59c4c99ab5cae0a1f251c28"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20150014694,
+          "meta": {
+            "author": {
+              "name": "ElDeeb, Dina"
+            },
+            "organization": {
+              "name": "Jet Propulsion Lab., California Inst. of Tech.",
+              "location": "Pasadena, CA, United States"
+            }
+          },
+          "id": "980a89a9ae2c421381404e808b7b216b"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20150014694,
+      "sourceIdentifiers": [
+        {
+          "number": "hdl:2014/45325",
+          "submissionId": 20150014694,
+          "id": "64743f3202b9424fba6cef953b9e0061",
+          "type": "HANDLE"
+        },
+        {
+          "submissionId": 20150014694,
+          "id": "5d871fc957f8483e950661157a98b1bd",
+          "descriptor": "hdl:2014/45325"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2015-08-03T07:41:43.7070000+00:00",
+      "center": {
+        "code": "JPL",
+        "name": "Jet Propulsion Laboratory",
+        "id": "efbc9c123a0f47caafa95d99b7d2e1a1"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "In June and July 2007 Mars experienced a dust storm that grew to envelop all but the polar latitudes of the planet. This dust storm was the first global dust storm to occur while the twin Mars Exploration Rovers (MER) began surface operations. It is estimated that the dust in the atmosphere prevented over 99.6% of direct sunlight from reaching the surface at the peak of the storm. Data collected indicated that solar array energy output was reduced to approximately 15% of maximum. The reduction in insolation and energy output posed the greatest risk of ending the mission for both rovers at that time.",
+      "isLessonsLearned": false,
+      "disseminated": "METADATA_ONLY",
+      "meetings": [
+        {
+          "submissionId": 20150014694,
+          "name": "Institute of Electrical and Electronics Engineers",
+          "location": "New York, NY, United States",
+          "id": "96074497c5214d9bad91b65b093f23e2"
+        },
+        {
+          "country": "United States",
+          "submissionId": 20150014694,
+          "endDate": "2009-03-14T00:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "Institute of Electrical and Electronics Engineers",
+                  "location": "New York, NY, United States"
+                }
+              },
+              "meetingId": "6c1c4c58a62f49759097bb56cd8cd8ff",
+              "id": "f6c8844687d047c5a0d6a01414ff28ec"
+            }
+          ],
+          "name": "IEEE Aerospace Conference",
+          "location": "Big Sky, MT",
+          "id": "6c1c4c58a62f49759097bb56cd8cd8ff",
+          "startDate": "2009-03-07T00:00:00.0000000+00:00"
+        }
+      ],
+      "publications": [
+        {
+          "submissionId": 20150014694,
+          "id": "e111c5e807ce4d08b50b221f539c4cff",
+          "publicationDate": "2009-03-07T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [],
+      "downloadsAvailable": false,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 180.65074
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "submissionId": 20150008269,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "6241aaa9a19b4be5bc8a73dbc6e894dd",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration",
+        "Geosciences (General)"
+      ],
+      "keywords": [
+        "Thermal tides",
+        "Mars Global Surveyor",
+        "Mars"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20150008269,
+        "ear": "NO",
+        "id": "ac691f784df644e6875d8a9b565ec919",
+        "itar": "NO"
+      },
+      "distributionDate": "2019-07-11T00:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "GSFC-E-DAA-TN21539",
+        "Report Number: GSFC-E-DAA-TN21539"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "NNG06EO90A",
+          "submissionId": 20150008269,
+          "id": "fa91d2091d1e4594ab4298b7bd28d8f5",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "NNX11AM23A",
+          "submissionId": 20150008269,
+          "id": "a426bc02925344c1b04118957b57ceec",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Thermal Tides During the 2001 Martian Global-Scale Dust Storm",
+      "stiType": "REPRINT",
+      "distribution": "PUBLIC",
+      "submittedDate": "2015-05-18T09:17:43.2330000+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20150008269,
+          "meta": {
+            "author": {
+              "name": "Guzewich, Scott D."
+            },
+            "organization": {
+              "name": "Universities Space Research Association",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "965eb7e4bd6b47c3a8bd8bbcac1b749f"
+        },
+        {
+          "sequence": 1,
+          "submissionId": 20150008269,
+          "meta": {
+            "author": {
+              "name": "Wilson, R. John"
+            },
+            "organization": {
+              "name": "National Oceanic and Atmospheric Administration",
+              "location": "Highlands, NJ, United States"
+            }
+          },
+          "id": "69bc90ef08104a09819890bb46bfc196"
+        },
+        {
+          "sequence": 2,
+          "submissionId": 20150008269,
+          "meta": {
+            "author": {
+              "name": "McConnochie, Timothy H."
+            },
+            "organization": {
+              "name": "Maryland Univ.",
+              "location": "College Park, MD, United States"
+            }
+          },
+          "id": "bae7b1976bde4486ac3bc29cd46c5c93"
+        },
+        {
+          "sequence": 3,
+          "submissionId": 20150008269,
+          "meta": {
+            "author": {
+              "name": "Toigo, Anthony D."
+            },
+            "organization": {
+              "name": "Johns Hopkins Univ.",
+              "location": "Laurel, MD, United States"
+            }
+          },
+          "id": "9cd7f7a07da9499bae6640c471c074c0"
+        },
+        {
+          "sequence": 4,
+          "submissionId": 20150008269,
+          "meta": {
+            "author": {
+              "name": "Bandfield, Donald J."
+            },
+            "organization": {
+              "name": "Cornell Univ.",
+              "location": "Ithaca, NY, United States"
+            }
+          },
+          "id": "bafd837dd40445548483cf3b5d4cf7b1"
+        },
+        {
+          "sequence": 5,
+          "submissionId": 20150008269,
+          "meta": {
+            "author": {
+              "name": "Smith, Michael D."
+            },
+            "organization": {
+              "name": "NASA Goddard Space Flight Center",
+              "location": "Greenbelt, MD, United States"
+            }
+          },
+          "id": "3cac9a30961743478fdc95b98ab11663"
+        }
+      ],
+      "stiTypeDetails": "Reprint (Version printed in journal)",
+      "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20150008269,
+      "sourceIdentifiers": [
+        {
+          "number": "doi:10.1002/2013JE004502",
+          "submissionId": 20150008269,
+          "id": "d5e0eefe75d74f12b8b12e0f428e87bc",
+          "type": "DOI"
+        },
+        {
+          "submissionId": 20150008269,
+          "id": "e0d93b990e6f4ce19412ae11c06673b0",
+          "descriptor": "doi:10.1002/2013JE004502"
+        }
+      ],
+      "legacyMeta": {
+        "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+        "accessionNumber": ""
+      },
+      "created": "2015-05-18T09:17:43.2330000+00:00",
+      "center": {
+        "code": "GSFC",
+        "name": "Goddard Space Flight Center",
+        "id": "973fae00c3584b9fb4c762ae9870d0f6"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The 2001 (Mars Year 25) global dust storm radically altered the dynamics of the Martian atmosphere. Using observations from the Thermal Emission Spectrometer onboard the Mars Global Surveyor spacecraft and Mars WRF general circulation model simulations, we examine the changes to thermal tides and planetary waves caused by the storm. We find that the extratropical diurnal migrating tide is dramatically enhanced during the storm, particularly in the southern hemisphere, reaching amplitudes of more than 20 K. The tropical diurnal migrating tide is weakened to almost undetectable levels. The diurnal Kelvin waves are also significantly weakened, particularly during the period of global expansion at Ls=200deg-210deg. In contrast, the westward propagating diurnal wavenumber 2 tide strengthens to 4-8 K at altitudes above 30km. The wavenumber 1 stationary wave reaches amplitudes of 10-12 K at 50deg-70degN, far larger than is typically seen during this time of year. The phase of this stationary wave and the enhancement of the diurnal wavenumber 2 tide appear to be responses to the high-altitude westward propagating equatorial wavenumber 1 structure in dust mixing ratio observed during the storm in previous works. This work provides a global picture of dust storm wave dynamics that reveals the coupling between the tropics and high-latitude wave responses. We conclude that the zonal distribution of thermotidal forcing from atmospheric aerosol concentration is as important to understanding the atmospheric wave response as the total global mean aerosol optical depth.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "publications": [
+        {
+          "volume": "119",
+          "submissionId": 20150008269,
+          "issue": "3",
+          "publisher": "AGU Publications",
+          "id": "73d8f9c2c3d44cb39dcadf9e7b65ea6d",
+          "publicationName": "Journal of Geophysical Research",
+          "publicationDate": "2014-03-06T00:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "20150008269.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20150008269/downloads/20150008269.pdf",
+            "pdf": "/api/citations/20150008269/downloads/20150008269.pdf",
+            "fulltext": "/api/citations/20150008269/downloads/20150008269.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    }
+  ],
+  "aggregations": {
+    "created": {
+      "buckets": [
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 198
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 16
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 14
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 13
+        },
+        {
+          "key_as_string": "2020",
+          "key": 1577836800000,
+          "doc_count": 8
+        },
+        {
+          "key_as_string": "2021",
+          "key": 1609459200000,
+          "doc_count": 7
+        },
+        {
+          "key_as_string": "2023",
+          "key": 1672531200000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "1992",
+          "key": 694224000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "author": {
+      "doc_count_error_upper_bound": 6,
+      "sum_other_doc_count": 1129,
+      "buckets": [
+        {
+          "key": "Smith, M. D.",
+          "doc_count": 8
+        },
+        {
+          "key": "Clancy, R. T.",
+          "doc_count": 5
+        },
+        {
+          "key": "James, P. B.",
+          "doc_count": 5
+        },
+        {
+          "key": "Leovy, C. B.",
+          "doc_count": 5
+        },
+        {
+          "key": "Martin, L. J.",
+          "doc_count": 5
+        },
+        {
+          "key": "Smith, Michael D.",
+          "doc_count": 5
+        },
+        {
+          "key": "Baum, W. A.",
+          "doc_count": 4
+        },
+        {
+          "key": "Christensen, P. R.",
+          "doc_count": 4
+        },
+        {
+          "key": "Haberle, R. M.",
+          "doc_count": 4
+        },
+        {
+          "key": "Haberle, Robert M.",
+          "doc_count": 4
+        },
+        {
+          "key": "Justus, C. G.",
+          "doc_count": 4
+        },
+        {
+          "key": "Lee, S. W.",
+          "doc_count": 4
+        },
+        {
+          "key": "Martin, T. Z.",
+          "doc_count": 4
+        },
+        {
+          "key": "Pollack, J. B.",
+          "doc_count": 4
+        },
+        {
+          "key": "Zurek, R. W.",
+          "doc_count": 4
+        },
+        {
+          "key": "Zurek, Richard W.",
+          "doc_count": 4
+        },
+        {
+          "key": "A. Sánchez-Lavega",
+          "doc_count": 3
+        },
+        {
+          "key": "Alexander Trokhimovskiy",
+          "doc_count": 3
+        },
+        {
+          "key": "Armin Kleinböhl",
+          "doc_count": 3
+        },
+        {
+          "key": "Arvidson, R. E.",
+          "doc_count": 3
+        }
+      ]
+    },
+    "reportNumber": {
+      "doc_count_error_upper_bound": 5,
+      "sum_other_doc_count": 230,
+      "buckets": [
+        {
+          "key": "ISSN: 0148-0227",
+          "doc_count": 13
+        },
+        {
+          "key": "ISSN: 0019-1035",
+          "doc_count": 9
+        },
+        {
+          "key": "ISSN: 0036-8075",
+          "doc_count": 3
+        },
+        {
+          "key": "ISSN: 0161-5297",
+          "doc_count": 3
+        },
+        {
+          "key": "E-ISSN: 1090-2643",
+          "doc_count": 2
+        },
+        {
+          "key": "E-ISSN: 1944-8007",
+          "doc_count": 2
+        },
+        {
+          "key": "ISSN: 0094-8276",
+          "doc_count": 2
+        },
+        {
+          "key": "3111",
+          "doc_count": 1
+        },
+        {
+          "key": "A-98-10813",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA 2020-0254",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA PAPER 72-944",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA PAPER 84-1994",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA Paper 2010-6247",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN30394",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN35501",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN35548",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN40472",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN43266",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN46928",
+          "doc_count": 1
+        },
+        {
+          "key": "ARC-E-DAA-TN5396",
+          "doc_count": 1
+        }
+      ]
+    },
+    "center": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "CDMS",
+          "doc_count": 137
+        },
+        {
+          "key": "GSFC",
+          "doc_count": 39
+        },
+        {
+          "key": "ARC",
+          "doc_count": 30
+        },
+        {
+          "key": "JPL",
+          "doc_count": 19
+        },
+        {
+          "key": "JSC",
+          "doc_count": 14
+        },
+        {
+          "key": "HQ",
+          "doc_count": 9
+        },
+        {
+          "key": "MSFC",
+          "doc_count": 8
+        },
+        {
+          "key": "GRC",
+          "doc_count": 6
+        },
+        {
+          "key": "KSC",
+          "doc_count": 3
+        },
+        {
+          "key": "LaRC",
+          "doc_count": 3
+        }
+      ]
+    },
+    "index": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "submissions-2026-10-22-05-25",
+          "doc_count": 268
+        },
+        {
+          "key": "chorus-2026-10-24-05-58",
+          "doc_count": 13
+        },
+        {
+          "key": "jpl-2026-10-24-06-39",
+          "doc_count": 1
+        }
+      ]
+    },
+    "fundingNumber": {
+      "doc_count_error_upper_bound": 2,
+      "sum_other_doc_count": 156,
+      "buckets": [
+        {
+          "key": "NAS7-100",
+          "doc_count": 19
+        },
+        {
+          "key": "NNA15BB15C",
+          "doc_count": 7
+        },
+        {
+          "key": "NCC5-679",
+          "doc_count": 5
+        },
+        {
+          "key": "80NM0018D0004",
+          "doc_count": 4
+        },
+        {
+          "key": "811073.02.52.01.10",
+          "doc_count": 4
+        },
+        {
+          "key": "NGR-03-003-001",
+          "doc_count": 4
+        },
+        {
+          "key": "588733.04.04",
+          "doc_count": 3
+        },
+        {
+          "key": "80LARC17C0003",
+          "doc_count": 3
+        },
+        {
+          "key": "J-090011",
+          "doc_count": 3
+        },
+        {
+          "key": "J-090015",
+          "doc_count": 3
+        },
+        {
+          "key": "NAS8-60000",
+          "doc_count": 3
+        },
+        {
+          "key": "NGR-03-003-007",
+          "doc_count": 3
+        },
+        {
+          "key": "NNX15AU58G",
+          "doc_count": 3
+        },
+        {
+          "key": "PID2019-109467GB-I00",
+          "doc_count": 3
+        },
+        {
+          "key": "469947.04.20.22",
+          "doc_count": 2
+        },
+        {
+          "key": "IT1742-22",
+          "doc_count": 2
+        },
+        {
+          "key": "NAG8-877",
+          "doc_count": 2
+        },
+        {
+          "key": "NASW-2843",
+          "doc_count": 2
+        },
+        {
+          "key": "NASW-4574",
+          "doc_count": 2
+        },
+        {
+          "key": "NGR-33-010-220",
+          "doc_count": 2
+        }
+      ]
+    },
+    "published": {
+      "buckets": [
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 18
+        },
+        {
+          "key_as_string": "1993",
+          "key": 725846400000,
+          "doc_count": 14
+        },
+        {
+          "key_as_string": "1999",
+          "key": 915148800000,
+          "doc_count": 13
+        },
+        {
+          "key_as_string": "1979",
+          "key": 283996800000,
+          "doc_count": 12
+        },
+        {
+          "key_as_string": "1992",
+          "key": 694224000000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "1973",
+          "key": 94694400000,
+          "doc_count": 10
+        },
+        {
+          "key_as_string": "1991",
+          "key": 662688000000,
+          "doc_count": 10
+        },
+        {
+          "key_as_string": "1981",
+          "key": 347155200000,
+          "doc_count": 9
+        },
+        {
+          "key_as_string": "2020",
+          "key": 1577836800000,
+          "doc_count": 9
+        },
+        {
+          "key_as_string": "1972",
+          "key": 63072000000,
+          "doc_count": 8
+        },
+        {
+          "key_as_string": "2003",
+          "key": 1041379200000,
+          "doc_count": 8
+        },
+        {
+          "key_as_string": "1988",
+          "key": 567993600000,
+          "doc_count": 7
+        },
+        {
+          "key_as_string": "2000",
+          "key": 946684800000,
+          "doc_count": 7
+        },
+        {
+          "key_as_string": "1974",
+          "key": 126230400000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "1995",
+          "key": 788918400000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2010",
+          "key": 1262304000000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "1975",
+          "key": 157766400000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "1977",
+          "key": 220924800000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "1984",
+          "key": 441763200000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "1985",
+          "key": 473385600000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "1987",
+          "key": 536457600000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "2005",
+          "key": 1104537600000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "1976",
+          "key": 189302400000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1978",
+          "key": 252460800000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1986",
+          "key": 504921600000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1990",
+          "key": 631152000000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2002",
+          "key": 1009843200000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1982",
+          "key": 378691200000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "1998",
+          "key": 883612800000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2009",
+          "key": 1230768000000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2012",
+          "key": 1325376000000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2021",
+          "key": 1609459200000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "2001",
+          "key": 978307200000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2004",
+          "key": 1072915200000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1967",
+          "key": -94694400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1969",
+          "key": -31536000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1971",
+          "key": 31536000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1980",
+          "key": 315532800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1983",
+          "key": 410227200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2006",
+          "key": 1136073600000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2008",
+          "key": 1199145600000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2011",
+          "key": 1293840000000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2023",
+          "key": 1672531200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "distribution": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "PUBLIC",
+          "doc_count": 282
+        }
+      ]
+    },
+    "stiType": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "REPRINT",
+          "doc_count": 96
+        },
+        {
+          "key": "CONFERENCE_PAPER",
+          "doc_count": 72
+        },
+        {
+          "key": "ABSTRACT",
+          "doc_count": 28
+        },
+        {
+          "key": "OTHER",
+          "doc_count": 22
+        },
+        {
+          "key": "CONFERENCE_PROCEEDINGS",
+          "doc_count": 16
+        },
+        {
+          "key": "ACCEPTED_MANUSCRIPT",
+          "doc_count": 14
+        },
+        {
+          "key": "CONTRACTOR_REPORT",
+          "doc_count": 12
+        },
+        {
+          "key": "PREPRINT",
+          "doc_count": 9
+        },
+        {
+          "key": "PRESENTATION",
+          "doc_count": 5
+        },
+        {
+          "key": "POSTER",
+          "doc_count": 3
+        },
+        {
+          "key": "TECHNICAL_MEMORANDUM",
+          "doc_count": 3
+        },
+        {
+          "key": "Meeting Paper",
+          "doc_count": 1
+        },
+        {
+          "key": "WHITE_PAPER",
+          "doc_count": 1
+        }
+      ]
+    },
+    "subjectCategory": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 28,
+      "buckets": [
+        {
+          "key": "Lunar And Planetary Exploration",
+          "doc_count": 105
+        },
+        {
+          "key": "Lunar And Planetary Science And Exploration",
+          "doc_count": 63
+        },
+        {
+          "key": "Space Sciences",
+          "doc_count": 20
+        },
+        {
+          "key": "Meteorology And Climatology",
+          "doc_count": 7
+        },
+        {
+          "key": "Fluid Mechanics And Thermodynamics",
+          "doc_count": 5
+        },
+        {
+          "key": "Geosciences (General)",
+          "doc_count": 5
+        },
+        {
+          "key": "Space Sciences (General)",
+          "doc_count": 5
+        },
+        {
+          "key": "Aerospace Medicine",
+          "doc_count": 4
+        },
+        {
+          "key": "Astronautics (General)",
+          "doc_count": 4
+        },
+        {
+          "key": "Energy Production And Conversion",
+          "doc_count": 4
+        },
+        {
+          "key": "Geophysics",
+          "doc_count": 4
+        },
+        {
+          "key": "Lunar and Planetary Science and Exploration",
+          "doc_count": 4
+        },
+        {
+          "key": "Spacecraft Design, Testing And Performance",
+          "doc_count": 4
+        },
+        {
+          "key": "Astronomy",
+          "doc_count": 3
+        },
+        {
+          "key": "Earth Resources and Remote Sensing",
+          "doc_count": 3
+        },
+        {
+          "key": "Spacecraft Propulsion And Power",
+          "doc_count": 3
+        },
+        {
+          "key": "Astrodynamics",
+          "doc_count": 2
+        },
+        {
+          "key": "Astrophysics",
+          "doc_count": 2
+        },
+        {
+          "key": "Communications And Radar",
+          "doc_count": 2
+        },
+        {
+          "key": "Ground Support Systems And Facilities (Space)",
+          "doc_count": 2
+        }
+      ]
+    },
+    "disseminated": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "METADATA_ONLY",
+          "doc_count": 152
+        },
+        {
+          "key": "DOCUMENT_AND_METADATA",
+          "doc_count": 130
+        }
+      ]
+    },
+    "stiTypeDetails": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Reprint (Version printed in journal)",
+          "doc_count": 87
+        },
+        {
+          "key": "Conference Paper",
+          "doc_count": 72
+        },
+        {
+          "key": "Abstract",
+          "doc_count": 28
+        },
+        {
+          "key": "Other",
+          "doc_count": 21
+        },
+        {
+          "key": "Conference Proceedings",
+          "doc_count": 16
+        },
+        {
+          "key": "Contractor Report (CR)",
+          "doc_count": 12
+        },
+        {
+          "key": "Accepted Manuscript (Version with final changes)",
+          "doc_count": 10
+        },
+        {
+          "key": "Preprint (Draft being sent to journal)",
+          "doc_count": 9
+        },
+        {
+          "key": "Version of Record",
+          "doc_count": 9
+        },
+        {
+          "key": "Presentation",
+          "doc_count": 5
+        },
+        {
+          "key": "Accepted Manuscript",
+          "doc_count": 4
+        },
+        {
+          "key": "Poster",
+          "doc_count": 3
+        },
+        {
+          "key": "Technical Memorandum (TM)",
+          "doc_count": 3
+        },
+        {
+          "key": "Meeting Paper",
+          "doc_count": 1
+        },
+        {
+          "key": "Other - Collected Works",
+          "doc_count": 1
+        },
+        {
+          "key": "White Paper",
+          "doc_count": 1
+        }
+      ]
+    },
+    "organization": {
+      "doc_count_error_upper_bound": 5,
+      "sum_other_doc_count": 388,
+      "buckets": [
+        {
+          "key": "NASA Ames Research Center",
+          "doc_count": 41
+        },
+        {
+          "key": "Jet Propulsion Lab., California Inst. of Tech.",
+          "doc_count": 28
+        },
+        {
+          "key": "NASA Goddard Space Flight Center",
+          "doc_count": 27
+        },
+        {
+          "key": "California Institute of Technology, Jet Propulsion Laboratory, Pasadena",
+          "doc_count": 22
+        },
+        {
+          "key": "",
+          "doc_count": 14
+        },
+        {
+          "key": "Goddard Space Flight Center",
+          "doc_count": 14
+        },
+        {
+          "key": "Cornell Univ.",
+          "doc_count": 13
+        },
+        {
+          "key": "Lowell Observatory",
+          "doc_count": 13
+        },
+        {
+          "key": "Washington Univ.",
+          "doc_count": 13
+        },
+        {
+          "key": "NASA Johnson Space Center",
+          "doc_count": 11
+        },
+        {
+          "key": "Arizona State Univ.",
+          "doc_count": 10
+        },
+        {
+          "key": "Colorado Univ.",
+          "doc_count": 10
+        },
+        {
+          "key": "Space Science Institute",
+          "doc_count": 10
+        },
+        {
+          "key": "Geological Survey",
+          "doc_count": 9
+        },
+        {
+          "key": "Analytical Mechanics Associates, Inc.",
+          "doc_count": 7
+        },
+        {
+          "key": "California Univ.",
+          "doc_count": 7
+        },
+        {
+          "key": "Cornell University",
+          "doc_count": 7
+        },
+        {
+          "key": "NASA Marshall Space Flight Center",
+          "doc_count": 7
+        },
+        {
+          "key": "Aeolis Research (United States)",
+          "doc_count": 6
+        },
+        {
+          "key": "Arizona State University",
+          "doc_count": 6
+        }
+      ]
+    },
+    "modified": {
+      "buckets": [
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 266
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "keyword": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 69,
+      "buckets": [
+        {
+          "key": "Mars",
+          "doc_count": 11
+        },
+        {
+          "key": " Atmospheric aerosols",
+          "doc_count": 2
+        },
+        {
+          "key": "Atmosphere",
+          "doc_count": 2
+        },
+        {
+          "key": "dust erosion",
+          "doc_count": 2
+        },
+        {
+          "key": "thermal protection system",
+          "doc_count": 2
+        },
+        {
+          "key": " GCM-global climate model",
+          "doc_count": 1
+        },
+        {
+          "key": " Mars global climate model",
+          "doc_count": 1
+        },
+        {
+          "key": "Aerospace engineering",
+          "doc_count": 1
+        },
+        {
+          "key": "Artificial satellites",
+          "doc_count": 1
+        },
+        {
+          "key": "Carbon Dioxide",
+          "doc_count": 1
+        },
+        {
+          "key": "Carbonates",
+          "doc_count": 1
+        },
+        {
+          "key": "Compact Reconnaissance Imaging Spectrometer for Mars (CRISM)",
+          "doc_count": 1
+        },
+        {
+          "key": "Deep space probes",
+          "doc_count": 1
+        },
+        {
+          "key": "Defense programs",
+          "doc_count": 1
+        },
+        {
+          "key": "Ecologial Life Support Systems for Exploration",
+          "doc_count": 1
+        },
+        {
+          "key": "Extraterrestrial Environment",
+          "doc_count": 1
+        },
+        {
+          "key": "Flight Experiment",
+          "doc_count": 1
+        },
+        {
+          "key": "Geodynamics",
+          "doc_count": 1
+        },
+        {
+          "key": "Ice",
+          "doc_count": 1
+        },
+        {
+          "key": "Iron Compounds",
+          "doc_count": 1
+        }
+      ]
+    }
+  }
+}

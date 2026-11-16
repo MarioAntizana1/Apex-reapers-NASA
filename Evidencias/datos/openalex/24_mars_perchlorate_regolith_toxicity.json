@@ -1,0 +1,1840 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 270,
+    "db_response_time_ms": 69,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Mars perchlorate regolith toxicity) in the full text",
+      "x_new_oql": "get works with (Mars perchlorate regolith toxicity) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Mars perchlorate regolith toxicity",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Mars perchlorate regolith toxicity&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W3173308197",
+      "doi": "https://doi.org/10.3390/soilsystems5030037",
+      "title": "Perchlorate and Agriculture on Mars",
+      "publication_year": 2021,
+      "cited_by_count": 44,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5076360182",
+            "display_name": "Christopher Oze",
+            "orcid": "https://orcid.org/0000-0002-4276-0978",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4276-0978"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I72903472",
+              "display_name": "Occidental College",
+              "ror": "https://ror.org/01mxmpy39",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I72903472"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Christopher Oze",
+          "raw_affiliation_strings": [
+            "Geology Department, Occidental College, 1600 Campus Rd., Los Angeles, CA 90041, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4276-0978",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geology Department, Occidental College, 1600 Campus Rd., Los Angeles, CA 90041, USA",
+              "institution_ids": [
+                "https://openalex.org/I72903472"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002913232",
+            "display_name": "Joshua Beisel",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I72903472",
+              "display_name": "Occidental College",
+              "ror": "https://ror.org/01mxmpy39",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I72903472"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Joshua Beisel",
+          "raw_affiliation_strings": [
+            "Biology Department, Occidental College, 1600 Campus Rd., Los Angeles, CA 90041, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Biology Department, Occidental College, 1600 Campus Rd., Los Angeles, CA 90041, USA",
+              "institution_ids": [
+                "https://openalex.org/I72903472"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5066241803",
+            "display_name": "Edward Dabsys",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I72903472",
+              "display_name": "Occidental College",
+              "ror": "https://ror.org/01mxmpy39",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I72903472"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Edward Dabsys",
+          "raw_affiliation_strings": [
+            "Geology Department, Occidental College, 1600 Campus Rd., Los Angeles, CA 90041, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geology Department, Occidental College, 1600 Campus Rd., Los Angeles, CA 90041, USA",
+              "institution_ids": [
+                "https://openalex.org/I72903472"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5057657552",
+            "display_name": "Jacqueline Dall",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I72903472",
+              "display_name": "Occidental College",
+              "ror": "https://ror.org/01mxmpy39",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I72903472"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jacqueline Dall",
+          "raw_affiliation_strings": [
+            "Geology Department, Occidental College, 1600 Campus Rd., Los Angeles, CA 90041, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geology Department, Occidental College, 1600 Campus Rd., Los Angeles, CA 90041, USA",
+              "institution_ids": [
+                "https://openalex.org/I72903472"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086166994",
+            "display_name": "Gretchen B. North",
+            "orcid": "https://orcid.org/0000-0001-8914-6345",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8914-6345"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I72903472",
+              "display_name": "Occidental College",
+              "ror": "https://ror.org/01mxmpy39",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I72903472"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gretchen North",
+          "raw_affiliation_strings": [
+            "Biology Department, Occidental College, 1600 Campus Rd., Los Angeles, CA 90041, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-8914-6345",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Biology Department, Occidental College, 1600 Campus Rd., Los Angeles, CA 90041, USA",
+              "institution_ids": [
+                "https://openalex.org/I72903472"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5102912278",
+            "display_name": "Allan Scott",
+            "orcid": "https://orcid.org/0000-0002-7385-7633",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7385-7633"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I185492890",
+              "display_name": "University of Canterbury",
+              "ror": "https://ror.org/03y7q9t39",
+              "country_code": "NZ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185492890"
+              ]
+            }
+          ],
+          "countries": [
+            "NZ"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Allan Scott",
+          "raw_affiliation_strings": [
+            "Department of Civil Engineering, University of Canterbury, Private Bag 4800, Christchurch 8041, New Zealand"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Civil Engineering, University of Canterbury, Private Bag 4800, Christchurch 8041, New Zealand",
+              "institution_ids": [
+                "https://openalex.org/I185492890"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5057423572",
+            "display_name": "Alandra Marie Lopez",
+            "orcid": "https://orcid.org/0000-0001-7497-0622",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7497-0622"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alandra Marie Lopez",
+          "raw_affiliation_strings": [
+            "Earth System Science, Stanford University, Stanford, CA 94305, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7497-0622",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth System Science, Stanford University, Stanford, CA 94305, USA",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5085017141",
+            "display_name": "Randall T. Holmes",
+            "orcid": "https://orcid.org/0000-0002-5047-5528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5047-5528"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Randall Holmes",
+          "raw_affiliation_strings": [
+            "Earth System Science, Stanford University, Stanford, CA 94305, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth System Science, Stanford University, Stanford, CA 94305, USA",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5044660683",
+            "display_name": "Scott E. Fendorf",
+            "orcid": "https://orcid.org/0000-0002-9177-1809",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9177-1809"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Scott Fendorf",
+          "raw_affiliation_strings": [
+            "Earth System Science, Stanford University, Stanford, CA 94305, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth System Science, Stanford University, Stanford, CA 94305, USA",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.3390/soilsystems5030037",
+        "doi": "https://doi.org/10.3390/soilsystems5030037",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/soilsystems5030037",
+        "pdf_url": "https://www.mdpi.com/2571-8789/5/3/37/pdf",
+        "source": {
+          "id": "https://openalex.org/S4210173071",
+          "display_name": "Soil Systems",
+          "issn_l": "2571-8789",
+          "issn": [
+            "2571-8789"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1",
+            "poland-20",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Soil Systems",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2571-8789/5/3/37/pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W7167601719",
+      "doi": "https://doi.org/10.1016/j.actaastro.2026.06.066",
+      "title": "Building a living soil on Mars: Sequential phytoremediation and bioreduction of perchlorate in regolith simulants",
+      "publication_year": 2026,
+      "cited_by_count": 0,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5140202698",
+            "display_name": "Sizhe Liu",
+            "orcid": "https://orcid.org/0009-0005-7674-5927",
+            "observed_orcids": [
+              "https://orcid.org/0009-0005-7674-5927"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I82880672",
+              "display_name": "Beihang University",
+              "ror": "https://ror.org/00wk2mp56",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I82880672"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Sizhe Liu",
+          "raw_affiliation_strings": [
+            "Institute of Environmental Biology and Life Support Technology, School of Biological Science and Medical Engineering, Beihang University, Beijing, 100191, China",
+            "International Joint Research Center of Aerospace Biotechnology & Medical Engineering, Beihang University, Beijing, 100191, China"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0005-7674-5927",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Environmental Biology and Life Support Technology, School of Biological Science and Medical Engineering, Beihang University, Beijing, 100191, China",
+              "institution_ids": [
+                "https://openalex.org/I82880672"
+              ]
+            },
+            {
+              "raw_affiliation_string": "International Joint Research Center of Aerospace Biotechnology & Medical Engineering, Beihang University, Beijing, 100191, China",
+              "institution_ids": [
+                "https://openalex.org/I82880672"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5140199510",
+            "display_name": "Wenshuo Wang",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I82880672",
+              "display_name": "Beihang University",
+              "ror": "https://ror.org/00wk2mp56",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I82880672"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Wenshuo Wang",
+          "raw_affiliation_strings": [
+            "Institute of Environmental Biology and Life Support Technology, School of Biological Science and Medical Engineering, Beihang University, Beijing, 100191, China",
+            "International Joint Research Center of Aerospace Biotechnology & Medical Engineering, Beihang University, Beijing, 100191, China",
+            "School of Future Aerospace Technology, Beihang University, Beijing, 100191, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Environmental Biology and Life Support Technology, School of Biological Science and Medical Engineering, Beihang University, Beijing, 100191, China",
+              "institution_ids": [
+                "https://openalex.org/I82880672"
+              ]
+            },
+            {
+              "raw_affiliation_string": "International Joint Research Center of Aerospace Biotechnology & Medical Engineering, Beihang University, Beijing, 100191, China",
+              "institution_ids": [
+                "https://openalex.org/I82880672"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Future Aerospace Technology, Beihang University, Beijing, 100191, China",
+              "institution_ids": [
+                "https://openalex.org/I82880672"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5140206287",
+            "display_name": "Wenlin Wang",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I82880672",
+              "display_name": "Beihang University",
+              "ror": "https://ror.org/00wk2mp56",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I82880672"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Wenlin Wang",
+          "raw_affiliation_strings": [
+            "Institute of Environmental Biology and Life Support Technology, School of Biological Science and Medical Engineering, Beihang University, Beijing, 100191, China",
+            "International Joint Research Center of Aerospace Biotechnology & Medical Engineering, Beihang University, Beijing, 100191, China",
+            "School of Future Aerospace Technology, Beihang University, Beijing, 100191, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Environmental Biology and Life Support Technology, School of Biological Science and Medical Engineering, Beihang University, Beijing, 100191, China",
+              "institution_ids": [
+                "https://openalex.org/I82880672"
+              ]
+            },
+            {
+              "raw_affiliation_string": "International Joint Research Center of Aerospace Biotechnology & Medical Engineering, Beihang University, Beijing, 100191, China",
+              "institution_ids": [
+                "https://openalex.org/I82880672"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Future Aerospace Technology, Beihang University, Beijing, 100191, China",
+              "institution_ids": [
+                "https://openalex.org/I82880672"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5121521074",
+            "display_name": "Beizhen Xie",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I82880672",
+              "display_name": "Beihang University",
+              "ror": "https://ror.org/00wk2mp56",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I82880672"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Beizhen Xie",
+          "raw_affiliation_strings": [
+            "Institute of Environmental Biology and Life Support Technology, School of Biological Science and Medical Engineering, Beihang University, Beijing, 100191, China",
+            "International Joint Research Center of Aerospace Biotechnology & Medical Engineering, Beihang University, Beijing, 100191, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Environmental Biology and Life Support Technology, School of Biological Science and Medical Engineering, Beihang University, Beijing, 100191, China",
+              "institution_ids": [
+                "https://openalex.org/I82880672"
+              ]
+            },
+            {
+              "raw_affiliation_string": "International Joint Research Center of Aerospace Biotechnology & Medical Engineering, Beihang University, Beijing, 100191, China",
+              "institution_ids": [
+                "https://openalex.org/I82880672"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5140190472",
+            "display_name": "Hong Liu",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I82880672",
+              "display_name": "Beihang University",
+              "ror": "https://ror.org/00wk2mp56",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I82880672"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Hong Liu",
+          "raw_affiliation_strings": [
+            "Innovation Center for Medical Engineering &Engineering Medicine, Hangzhou International Innovation Institute, Beihang University, Hangzhou, 311115, China",
+            "Institute of Environmental Biology and Life Support Technology, School of Biological Science and Medical Engineering, Beihang University, Beijing, 100191, China",
+            "International Joint Research Center of Aerospace Biotechnology & Medical Engineering, Beihang University, Beijing, 100191, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Innovation Center for Medical Engineering &Engineering Medicine, Hangzhou International Innovation Institute, Beihang University, Hangzhou, 311115, China",
+              "institution_ids": [
+                "https://openalex.org/I82880672"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institute of Environmental Biology and Life Support Technology, School of Biological Science and Medical Engineering, Beihang University, Beijing, 100191, China",
+              "institution_ids": [
+                "https://openalex.org/I82880672"
+              ]
+            },
+            {
+              "raw_affiliation_string": "International Joint Research Center of Aerospace Biotechnology & Medical Engineering, Beihang University, Beijing, 100191, China",
+              "institution_ids": [
+                "https://openalex.org/I82880672"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5140219755",
+            "display_name": "Hui Liu",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I82880672",
+              "display_name": "Beihang University",
+              "ror": "https://ror.org/00wk2mp56",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I82880672"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Hui Liu",
+          "raw_affiliation_strings": [
+            "Innovation Center for Medical Engineering &Engineering Medicine, Hangzhou International Innovation Institute, Beihang University, Hangzhou, 311115, China",
+            "Institute of Environmental Biology and Life Support Technology, School of Biological Science and Medical Engineering, Beihang University, Beijing, 100191, China",
+            "International Joint Research Center of Aerospace Biotechnology & Medical Engineering, Beihang University, Beijing, 100191, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Innovation Center for Medical Engineering &Engineering Medicine, Hangzhou International Innovation Institute, Beihang University, Hangzhou, 311115, China",
+              "institution_ids": [
+                "https://openalex.org/I82880672"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institute of Environmental Biology and Life Support Technology, School of Biological Science and Medical Engineering, Beihang University, Beijing, 100191, China",
+              "institution_ids": [
+                "https://openalex.org/I82880672"
+              ]
+            },
+            {
+              "raw_affiliation_string": "International Joint Research Center of Aerospace Biotechnology & Medical Engineering, Beihang University, Beijing, 100191, China",
+              "institution_ids": [
+                "https://openalex.org/I82880672"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1016/j.actaastro.2026.06.066",
+        "doi": "https://doi.org/10.1016/j.actaastro.2026.06.066",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.actaastro.2026.06.066",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S179591353",
+          "display_name": "Acta Astronautica",
+          "issn_l": "0094-5765",
+          "issn": [
+            "0094-5765",
+            "1879-2030"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-a",
+            "jufo-1",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Acta Astronautica",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W4401305141",
+      "doi": "https://doi.org/10.1016/j.icarus.2024.116246",
+      "title": "Perchlorates on Mars: Occurrence and implications for putative life on the Red Planet",
+      "publication_year": 2024,
+      "cited_by_count": 38,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5038698642",
+            "display_name": "Piotr Rzymski",
+            "orcid": "https://orcid.org/0000-0002-4713-0801",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4713-0801"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120230055",
+              "display_name": "Poznan University of Medical Sciences",
+              "ror": "https://ror.org/02zbb2597",
+              "country_code": "PL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120230055"
+              ]
+            }
+          ],
+          "countries": [
+            "PL"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Piotr Rzymski",
+          "raw_affiliation_strings": [
+            "Department of Environmental Medicine, Poznan University of Medical Sciences, 60-806 Poznań, Poland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Environmental Medicine, Poznan University of Medical Sciences, 60-806 Poznań, Poland",
+              "institution_ids": [
+                "https://openalex.org/I120230055"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5027933909",
+            "display_name": "Anna Łosiak",
+            "orcid": "https://orcid.org/0000-0002-3255-8688",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3255-8688"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210128123",
+              "display_name": "Instytut Nauk Geologicznych",
+              "ror": "https://ror.org/02yxxe041",
+              "country_code": "PL",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210128123",
+                "https://openalex.org/I99542240"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I99542240",
+              "display_name": "Polish Academy of Sciences",
+              "ror": "https://ror.org/01dr6c206",
+              "country_code": "PL",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I99542240"
+              ]
+            }
+          ],
+          "countries": [
+            "PL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Anna Losiak",
+          "raw_affiliation_strings": [
+            "Institute of Geological Sciences, Polish Academy of Sciences, Wrocław, Poland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Geological Sciences, Polish Academy of Sciences, Wrocław, Poland",
+              "institution_ids": [
+                "https://openalex.org/I4210128123",
+                "https://openalex.org/I99542240"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067174829",
+            "display_name": "Jacob Heinz",
+            "orcid": "https://orcid.org/0000-0002-8237-4713",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8237-4713"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4577782",
+              "display_name": "Technische Universität Berlin",
+              "ror": "https://ror.org/03v4gjf40",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4577782"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jacob Heinz",
+          "raw_affiliation_strings": [
+            "Center for Astronomy and Astrophysics, AG Astrobiology, Technische Universität Berlin, Berlin, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Astronomy and Astrophysics, AG Astrobiology, Technische Universität Berlin, Berlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4577782"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Marta Szukalska",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120230055",
+              "display_name": "Poznan University of Medical Sciences",
+              "ror": "https://ror.org/02zbb2597",
+              "country_code": "PL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120230055"
+              ]
+            }
+          ],
+          "countries": [
+            "PL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Marta Szukalska",
+          "raw_affiliation_strings": [
+            "Laboratory of Environmental Research, Department of Toxicology, Poznan University of Medical Sciences, 60-806 Poznan, Poland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratory of Environmental Research, Department of Toxicology, Poznan University of Medical Sciences, 60-806 Poznan, Poland",
+              "institution_ids": [
+                "https://openalex.org/I120230055"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087672473",
+            "display_name": "Ewa Florek",
+            "orcid": "https://orcid.org/0000-0002-2689-3009",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2689-3009"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120230055",
+              "display_name": "Poznan University of Medical Sciences",
+              "ror": "https://ror.org/02zbb2597",
+              "country_code": "PL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120230055"
+              ]
+            }
+          ],
+          "countries": [
+            "PL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ewa Florek",
+          "raw_affiliation_strings": [
+            "Laboratory of Environmental Research, Department of Toxicology, Poznan University of Medical Sciences, 60-806 Poznan, Poland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratory of Environmental Research, Department of Toxicology, Poznan University of Medical Sciences, 60-806 Poznan, Poland",
+              "institution_ids": [
+                "https://openalex.org/I120230055"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5016997351",
+            "display_name": "Barbara Poniedziałek",
+            "orcid": "https://orcid.org/0000-0002-1601-1703",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1601-1703"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120230055",
+              "display_name": "Poznan University of Medical Sciences",
+              "ror": "https://ror.org/02zbb2597",
+              "country_code": "PL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120230055"
+              ]
+            }
+          ],
+          "countries": [
+            "PL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Barbara Poniedziałek",
+          "raw_affiliation_strings": [
+            "Department of Environmental Medicine, Poznan University of Medical Sciences, 60-806 Poznań, Poland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Environmental Medicine, Poznan University of Medical Sciences, 60-806 Poznań, Poland",
+              "institution_ids": [
+                "https://openalex.org/I120230055"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054863431",
+            "display_name": "Łukasz Kaczmarek",
+            "orcid": "https://orcid.org/0000-0002-5260-6253",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5260-6253",
+              "https://orcid.org/0000-0002-4824-1888"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I59411706",
+              "display_name": "Adam Mickiewicz University in Poznań",
+              "ror": "https://ror.org/04g6bbq64",
+              "country_code": "PL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I59411706"
+              ]
+            }
+          ],
+          "countries": [
+            "PL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Łukasz Kaczmarek",
+          "raw_affiliation_strings": [
+            "Department of Animal Taxonomy and Ecology, Faculty of Biology, Adam Mickiewicz University in Poznań, Uniwersytetu Poznańskiego 6, 61-614 Poznań, Poland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Animal Taxonomy and Ecology, Faculty of Biology, Adam Mickiewicz University in Poznań, Uniwersytetu Poznańskiego 6, 61-614 Poznań, Poland",
+              "institution_ids": [
+                "https://openalex.org/I59411706"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5034285589",
+            "display_name": "Dirk Schulze‐Makuch",
+            "orcid": "https://orcid.org/0000-0002-1923-9746",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1923-9746"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210116314",
+              "display_name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries",
+              "ror": "https://ror.org/01nftxb06",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I315704651",
+                "https://openalex.org/I4210116314"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210152878",
+              "display_name": "GFZ Helmholtz Centre for Geosciences",
+              "ror": "https://ror.org/04z8jg394",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1305996414",
+                "https://openalex.org/I4210152878"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4577782",
+              "display_name": "Technische Universität Berlin",
+              "ror": "https://ror.org/03v4gjf40",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4577782"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Dirk Schulze-Makuch",
+          "raw_affiliation_strings": [
+            "Center for Astronomy and Astrophysics, AG Astrobiology, Technische Universität Berlin, Berlin, Germany",
+            "Department of Plankton and Microbial Ecology, Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB), Stechlin, Germany",
+            "GFZ German Research Center for Geosciences, Section Geomicrobiology, Potsdam, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Astronomy and Astrophysics, AG Astrobiology, Technische Universität Berlin, Berlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4577782"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Plankton and Microbial Ecology, Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB), Stechlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4210116314"
+              ]
+            },
+            {
+              "raw_affiliation_string": "GFZ German Research Center for Geosciences, Section Geomicrobiology, Potsdam, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4210152878"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1016/j.icarus.2024.116246",
+        "doi": "https://doi.org/10.1016/j.icarus.2024.116246",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.icarus.2024.116246",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S172501725",
+          "display_name": "Icarus",
+          "issn_l": "0019-1035",
+          "issn": [
+            "0019-1035",
+            "1090-2643"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Icarus",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1016/j.icarus.2024.116246",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W4398172726",
+      "doi": "https://doi.org/10.1038/s41598-024-62346-y",
+      "title": "Microbial preference for chlorate over perchlorate under simulated shallow subsurface Mars-like conditions",
+      "publication_year": 2024,
+      "cited_by_count": 10,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5113222687",
+            "display_name": "Florian Carlo Fischer",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4577782",
+              "display_name": "Technische Universität Berlin",
+              "ror": "https://ror.org/03v4gjf40",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4577782"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Florian Carlo Fischer",
+          "raw_affiliation_strings": [
+            "Center for Astronomy and Astrophysics, RG Astrobiology, Technische Universität Berlin, Berlin, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Astronomy and Astrophysics, RG Astrobiology, Technische Universität Berlin, Berlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4577782"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5034285589",
+            "display_name": "Dirk Schulze‐Makuch",
+            "orcid": "https://orcid.org/0000-0002-1923-9746",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1923-9746"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210116314",
+              "display_name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries",
+              "ror": "https://ror.org/01nftxb06",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I315704651",
+                "https://openalex.org/I4210116314"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210152878",
+              "display_name": "GFZ Helmholtz Centre for Geosciences",
+              "ror": "https://ror.org/04z8jg394",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1305996414",
+                "https://openalex.org/I4210152878"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4577782",
+              "display_name": "Technische Universität Berlin",
+              "ror": "https://ror.org/03v4gjf40",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4577782"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Dirk Schulze-Makuch",
+          "raw_affiliation_strings": [
+            "Center for Astronomy and Astrophysics, RG Astrobiology, Technische Universität Berlin, Berlin, Germany",
+            "Department of Plankton and Microbial Ecology, Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB), Stechlin, Germany",
+            "GFZ German Research Center for Geosciences, Section Geomicrobiology, Potsdam, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Astronomy and Astrophysics, RG Astrobiology, Technische Universität Berlin, Berlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4577782"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Plankton and Microbial Ecology, Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB), Stechlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4210116314"
+              ]
+            },
+            {
+              "raw_affiliation_string": "GFZ German Research Center for Geosciences, Section Geomicrobiology, Potsdam, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4210152878"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5067174829",
+            "display_name": "Jacob Heinz",
+            "orcid": "https://orcid.org/0000-0002-8237-4713",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8237-4713"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4577782",
+              "display_name": "Technische Universität Berlin",
+              "ror": "https://ror.org/03v4gjf40",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4577782"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Jacob Heinz",
+          "raw_affiliation_strings": [
+            "Center for Astronomy and Astrophysics, RG Astrobiology, Technische Universität Berlin, Berlin, Germany. heinz@tu-berlin.de",
+            "Center for Astronomy and Astrophysics, RG Astrobiology, Technische Universität Berlin, Berlin, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Astronomy and Astrophysics, RG Astrobiology, Technische Universität Berlin, Berlin, Germany. heinz@tu-berlin.de",
+              "institution_ids": [
+                "https://openalex.org/I4577782"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Center for Astronomy and Astrophysics, RG Astrobiology, Technische Universität Berlin, Berlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4577782"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1038/s41598-024-62346-y",
+        "doi": "https://doi.org/10.1038/s41598-024-62346-y",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41598-024-62346-y",
+        "pdf_url": "https://www.nature.com/articles/s41598-024-62346-y.pdf",
+        "source": {
+          "id": "https://openalex.org/S196734849",
+          "display_name": "Scientific Reports",
+          "issn_l": "2045-2322",
+          "issn": [
+            "2045-2322"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "doyens",
+            "jufo-1",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Scientific Reports",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41598-024-62346-y.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W4213440693",
+      "doi": "https://doi.org/10.1089/ast.2021.0100",
+      "title": "Screening the Survival of Cyanobacteria Under Perchlorate Stress. Potential Implications for Mars In Situ Resource Utilization",
+      "publication_year": 2022,
+      "cited_by_count": 38,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5038698642",
+            "display_name": "Piotr Rzymski",
+            "orcid": "https://orcid.org/0000-0002-4713-0801",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4713-0801"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120230055",
+              "display_name": "Poznan University of Medical Sciences",
+              "ror": "https://ror.org/02zbb2597",
+              "country_code": "PL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120230055"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210105474",
+              "display_name": "Universal Scientific Education and Research Network",
+              "ror": "https://ror.org/01n71v551",
+              "country_code": "IR",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210105474"
+              ]
+            }
+          ],
+          "countries": [
+            "IR",
+            "PL"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Piotr Rzymski",
+          "raw_affiliation_strings": [
+            "Department of Environmental Medicine, Poznan University of Medical Sciences, Poznań, Poland",
+            "Integrated Science Association (ISA), Universal Scientific Education and Research Network (USERN), Poznań, Poland"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4713-0801",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Environmental Medicine, Poznan University of Medical Sciences, Poznań, Poland",
+              "institution_ids": [
+                "https://openalex.org/I120230055"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Integrated Science Association (ISA), Universal Scientific Education and Research Network (USERN), Poznań, Poland",
+              "institution_ids": [
+                "https://openalex.org/I4210105474"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5016997351",
+            "display_name": "Barbara Poniedziałek",
+            "orcid": "https://orcid.org/0000-0002-1601-1703",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1601-1703"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120230055",
+              "display_name": "Poznan University of Medical Sciences",
+              "ror": "https://ror.org/02zbb2597",
+              "country_code": "PL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120230055"
+              ]
+            }
+          ],
+          "countries": [
+            "PL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Barbara Poniedziałek",
+          "raw_affiliation_strings": [
+            "Department of Environmental Medicine, Poznan University of Medical Sciences, Poznań, Poland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Environmental Medicine, Poznan University of Medical Sciences, Poznań, Poland",
+              "institution_ids": [
+                "https://openalex.org/I120230055"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5004196090",
+            "display_name": "Natalia Hippmann",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I120230055",
+              "display_name": "Poznan University of Medical Sciences",
+              "ror": "https://ror.org/02zbb2597",
+              "country_code": "PL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I120230055"
+              ]
+            }
+          ],
+          "countries": [
+            "PL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Natalia Hippmann",
+          "raw_affiliation_strings": [
+            "Department of Environmental Medicine, Poznan University of Medical Sciences, Poznań, Poland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Environmental Medicine, Poznan University of Medical Sciences, Poznań, Poland",
+              "institution_ids": [
+                "https://openalex.org/I120230055"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5054863431",
+            "display_name": "Łukasz Kaczmarek",
+            "orcid": "https://orcid.org/0000-0002-5260-6253",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5260-6253",
+              "https://orcid.org/0000-0002-4824-1888"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I59411706",
+              "display_name": "Adam Mickiewicz University in Poznań",
+              "ror": "https://ror.org/04g6bbq64",
+              "country_code": "PL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I59411706"
+              ]
+            }
+          ],
+          "countries": [
+            "PL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Łukasz Kaczmarek",
+          "raw_affiliation_strings": [
+            "Department of Animal Taxonomy and Ecology, Faculty of Biology, Adam Mickiewicz University in Poznań, Poznań, Poland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Animal Taxonomy and Ecology, Faculty of Biology, Adam Mickiewicz University in Poznań, Poznań, Poland",
+              "institution_ids": [
+                "https://openalex.org/I59411706"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1089/ast.2021.0100",
+        "doi": "https://doi.org/10.1089/ast.2021.0100",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1089/ast.2021.0100",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S202896352",
+          "display_name": "Astrobiology",
+          "issn_l": "1531-1074",
+          "issn": [
+            "1531-1074",
+            "1557-8070"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "medline",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320443",
+          "host_organization_name": "Mary Ann Liebert, Inc.",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320443",
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [
+            "Mary Ann Liebert, Inc.",
+            "SAGE Publishing"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Astrobiology",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1089/ast.2021.0100",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W7210274581",
+      "doi": "https://doi.org/10.67784/0043",
+      "title": "Feasibility of cereal crop cultivation on Mars: constraints, regolith limitations, and emerging mitigation strategies",
+      "publication_year": 2026,
+      "cited_by_count": 0,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5109890661",
+            "display_name": "Ioan Oroian",
+            "orcid": "https://orcid.org/0000-0002-6433-9199",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6433-9199"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I208626154",
+              "display_name": "University of Agricultural Sciences and Veterinary Medicine of Cluj-Napoca",
+              "ror": "https://ror.org/05hak1h47",
+              "country_code": "RO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I208626154"
+              ]
+            }
+          ],
+          "countries": [
+            "RO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ioan G. Oroian",
+          "raw_affiliation_strings": [
+            "Department of Environmental Engineering and Protection, Faculty of Agriculture, University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca, Romania"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Environmental Engineering and Protection, Faculty of Agriculture, University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca, Romania",
+              "institution_ids": [
+                "https://openalex.org/I208626154"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5102430742",
+            "display_name": "Arpita Tripathi",
+            "orcid": "https://orcid.org/0000-0001-6104-9666",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6104-9666"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134705546",
+              "display_name": "Teerthanker Mahaveer University",
+              "ror": "https://ror.org/04vkd2013",
+              "country_code": "IN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134705546"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405260859",
+              "display_name": "Mahaveer University",
+              "ror": "https://ror.org/04cv7dg98",
+              "country_code": "IN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4405260859"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Arpita Tripathi",
+          "raw_affiliation_strings": [
+            "Faculty of Education, Teerthanker Mahaveer University, Moradabad, India"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculty of Education, Teerthanker Mahaveer University, Moradabad, India",
+              "institution_ids": [
+                "https://openalex.org/I134705546",
+                "https://openalex.org/I4405260859"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.67784/0043",
+        "doi": "https://doi.org/10.67784/0043",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.67784/0043",
+        "pdf_url": "https://speleo.bio/uploads/article_6a759c4e0c981.pdf",
+        "source": {
+          "id": "https://openalex.org/S7407064639",
+          "display_name": "Extreme Life Biospeology & Astrobiology",
+          "issn_l": "2066-7671",
+          "issn": [
+            "2066-7671",
+            "2067-6360"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Extreme Life, Biospeology &amp; Astrobiology",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://speleo.bio/uploads/article_6a759c4e0c981.pdf",
+        "any_repository_has_fulltext": false
+      }
+    }
+  ],
+  "group_by": []
+}

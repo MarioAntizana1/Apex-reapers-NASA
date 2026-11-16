@@ -1,0 +1,3490 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 907,
+    "db_response_time_ms": 83,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (planetary cartography coordinate systems Mars) in the full text",
+      "x_new_oql": "get works with (planetary cartography coordinate systems Mars) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "planetary cartography coordinate systems Mars",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:planetary cartography coordinate systems Mars&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2969711459",
+      "doi": null,
+      "title": "Mars Geodesy/Cartography Working Group recommendations on Mars cartographic constants and coordinate systems",
+      "publication_year": 2002,
+      "cited_by_count": 88,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5004670937",
+            "display_name": "Tom C. Duxbury",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "T. C. Duxbury",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002878424",
+            "display_name": "R. L. Kirk",
+            "orcid": "https://orcid.org/0000-0003-0842-9226",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0842-9226"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R. L. Kirk",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-0842-9226",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072226979",
+            "display_name": "Brent A. Archinal",
+            "orcid": "https://orcid.org/0000-0002-6654-0742",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6654-0742"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "B. A. Archinal",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-6654-0742",
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5079971659",
+            "display_name": "Greg Neumann",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Greg Neumann",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:CiteSeerX.psu:10.1.1.195.8315",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.195.8315",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "http://astrogeology.usgs.gov/Projects/ISPRS/MEETINGS/ottawa/Duxbury.pdf",
+        "raw_type": "text"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2055693111",
+      "doi": "https://doi.org/10.1016/j.pss.2014.12.007",
+      "title": "Mapping Mars: Geodetic and cartographic aspects",
+      "publication_year": 2014,
+      "cited_by_count": 9,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5050512811",
+            "display_name": "Thiago Statella",
+            "orcid": "https://orcid.org/0000-0002-8656-9147",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8656-9147"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I3018305852",
+              "display_name": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso",
+              "ror": "https://ror.org/02t6f2351",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3018305852"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Thiago Statella",
+          "raw_affiliation_strings": [
+            "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso – IFMT, 95 Zulmira Canavarro, 780025-200 Cuiabá, Brazil"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso – IFMT, 95 Zulmira Canavarro, 780025-200 Cuiabá, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I3018305852"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1016/j.pss.2014.12.007",
+        "doi": "https://doi.org/10.1016/j.pss.2014.12.007",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.pss.2014.12.007",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S105500771",
+          "display_name": "Planetary and Space Science",
+          "issn_l": "0032-0633",
+          "issn": [
+            "0032-0633",
+            "1873-5088"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-2"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Planetary and Space Science",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2126769755",
+      "doi": "https://doi.org/10.1007/s10569-010-9320-4",
+      "title": "Report of the IAU Working Group on Cartographic Coordinates and Rotational Elements: 2009",
+      "publication_year": 2010,
+      "cited_by_count": 470,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5072226979",
+            "display_name": "Brent A. Archinal",
+            "orcid": "https://orcid.org/0000-0002-6654-0742",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6654-0742"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "B. A. Archinal",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey, Flagstaff, AZ, USA",
+            "US Geological Survey, Flagstaff (AZ 86001 - United States)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, Flagstaff, AZ, USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            },
+            {
+              "raw_affiliation_string": "US Geological Survey, Flagstaff (AZ 86001 - United States)",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080552139",
+            "display_name": "Michael F. A’Hearn",
+            "orcid": "https://orcid.org/0000-0002-9362-1193",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9362-1193"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I66946132",
+              "display_name": "University of Maryland, College Park",
+              "ror": "https://ror.org/047s2c258",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I66946132"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. F. A’Hearn",
+          "raw_affiliation_strings": [
+            "University of Maryland, College Park, MD, USA",
+            "University of Maryland (College Park, Maryland 20742 - United States)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Maryland, College Park, MD, USA",
+              "institution_ids": [
+                "https://openalex.org/I66946132"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Maryland (College Park, Maryland 20742 - United States)",
+              "institution_ids": [
+                "https://openalex.org/I66946132"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035044977",
+            "display_name": "E. Bowell",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799389969",
+              "display_name": "Lowell Observatory",
+              "ror": "https://ror.org/0209dk158",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2799389969"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "E. Bowell",
+          "raw_affiliation_strings": [
+            "Lowell Observatory, Flagstaff, AZ, USA",
+            "Lowell Observatory, Flagstaff (AZ 86001 - United States)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Lowell Observatory, Flagstaff, AZ, USA",
+              "institution_ids": [
+                "https://openalex.org/I2799389969"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Lowell Observatory, Flagstaff (AZ 86001 - United States)",
+              "institution_ids": [
+                "https://openalex.org/I2799389969"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5058062643",
+            "display_name": "Albert R. Conrad",
+            "orcid": "https://orcid.org/0000-0003-2872-0061",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2872-0061"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800057969",
+              "display_name": "W.M. Keck Observatory",
+              "ror": "https://ror.org/00ab7ks98",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2800057969"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A. Conrad",
+          "raw_affiliation_strings": [
+            "W.M. Keck Observatory, Kamuela, HI, USA",
+            "W. M. Keck Observatory (65-1120 Mamalahoa Highway, Kamuela, HI 96743 - United States)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "W.M. Keck Observatory, Kamuela, HI, USA",
+              "institution_ids": [
+                "https://openalex.org/I2800057969"
+              ]
+            },
+            {
+              "raw_affiliation_string": "W. M. Keck Observatory (65-1120 Mamalahoa Highway, Kamuela, HI 96743 - United States)",
+              "institution_ids": [
+                "https://openalex.org/I2800057969"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059238348",
+            "display_name": "G. J. Consolmagno",
+            "orcid": "https://orcid.org/0000-0002-2955-6171",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2955-6171"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158090",
+              "display_name": "Vatican Observatory",
+              "ror": "https://ror.org/05h279t85",
+              "country_code": "IT",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158090"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "G. J. Consolmagno",
+          "raw_affiliation_strings": [
+            "Vatican Observatory, Vatican City, Vatican City State",
+            "Vatican Observatory (V-00120 Vatican City State - Italy)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Vatican Observatory, Vatican City, Vatican City State",
+              "institution_ids": [
+                "https://openalex.org/I4210158090"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Vatican Observatory (V-00120 Vatican City State - Italy)",
+              "institution_ids": [
+                "https://openalex.org/I4210158090"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051379191",
+            "display_name": "Régis Courtin",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2800004676",
+              "display_name": "Observatoire de Paris",
+              "ror": "https://ror.org/029nkcm90",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I2800004676"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210120578",
+              "display_name": "Laboratoire d’études spatiales et d’instrumentation en astrophysique",
+              "ror": "https://ror.org/02eptjh02",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I204730241",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I2800004676",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210120578",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4405253946"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. Courtin",
+          "raw_affiliation_strings": [
+            "LESIA, Observatoire de Paris, CNRS, Paris, France",
+            "LESIA - Laboratoire d'études spatiales et d'instrumentation en astrophysique (5, place Jules Janssen 92190 MEUDON - France)",
+            "Pôle Planétologie du LESIA (France)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LESIA, Observatoire de Paris, CNRS, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2800004676",
+                "https://openalex.org/I4210120578"
+              ]
+            },
+            {
+              "raw_affiliation_string": "LESIA - Laboratoire d'études spatiales et d'instrumentation en astrophysique (5, place Jules Janssen 92190 MEUDON - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210120578"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Pôle Planétologie du LESIA (France)",
+              "institution_ids": [
+                "https://openalex.org/I4210120578"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080223167",
+            "display_name": "Toshio Fukushima",
+            "orcid": "https://orcid.org/0000-0001-5968-2139",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5968-2139"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210159940",
+              "display_name": "National Astronomical Observatory of Japan",
+              "ror": "https://ror.org/052rrw050",
+              "country_code": "JP",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1319490839",
+                "https://openalex.org/I199525922",
+                "https://openalex.org/I4210159940"
+              ]
+            }
+          ],
+          "countries": [
+            "JP"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "T. Fukushima",
+          "raw_affiliation_strings": [
+            "National Astronomical Observatory of Japan, Tokyo, Japan",
+            "NAOJ - National Astronomical Observatory of Japan (Osawa 2-21-1, Mitaka, Tokyo, Japan - Japan)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "National Astronomical Observatory of Japan, Tokyo, Japan",
+              "institution_ids": [
+                "https://openalex.org/I4210159940"
+              ]
+            },
+            {
+              "raw_affiliation_string": "NAOJ - National Astronomical Observatory of Japan (Osawa 2-21-1, Mitaka, Tokyo, Japan - Japan)",
+              "institution_ids": [
+                "https://openalex.org/I4210159940"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087206398",
+            "display_name": "Daniel Hestroffer",
+            "orcid": "https://orcid.org/0000-0003-0472-9459",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0472-9459",
+              "https://orcid.org/0000-0002-0769-2818"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2800004676",
+              "display_name": "Observatoire de Paris",
+              "ror": "https://ror.org/029nkcm90",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I2800004676"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I54006703",
+              "display_name": "Institut de Mécanique Céleste et de Calcul des Éphémérides",
+              "ror": "https://ror.org/002zc3t08",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2279609970",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I2800004676",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210107682",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4405255887",
+                "https://openalex.org/I54006703"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "D. Hestroffer",
+          "raw_affiliation_strings": [
+            "IMCCE, Observatoire de Paris, CNRS, Paris, France",
+            "IMCCE - Institut de Mécanique Céleste et de Calcul des Ephémérides (77 av Denfert-Rochereau 75014 Paris - France)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "IMCCE, Observatoire de Paris, CNRS, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2800004676",
+                "https://openalex.org/I54006703"
+              ]
+            },
+            {
+              "raw_affiliation_string": "IMCCE - Institut de Mécanique Céleste et de Calcul des Ephémérides (77 av Denfert-Rochereau 75014 Paris - France)",
+              "institution_ids": [
+                "https://openalex.org/I54006703"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "J. L. Hilton",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210146380",
+              "display_name": "United States Naval Observatory",
+              "ror": "https://ror.org/048s2rn92",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1330347796",
+                "https://openalex.org/I2800735659",
+                "https://openalex.org/I3130687028",
+                "https://openalex.org/I4210146380"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. L. Hilton",
+          "raw_affiliation_strings": [
+            "U.S. Naval Observatory, Washington, DC, USA",
+            "USNO - United States Naval Observatory (3450 Massachusetts Avenue NW, Washington, DC 20392-5420 - United States)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Naval Observatory, Washington, DC, USA",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "USNO - United States Naval Observatory (3450 Massachusetts Avenue NW, Washington, DC 20392-5420 - United States)",
+              "institution_ids": [
+                "https://openalex.org/I4210146380"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052871311",
+            "display_name": "G. A. Krasinsky",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210153663",
+              "display_name": "Institute of Applied Astronomy",
+              "ror": "https://ror.org/04b581c27",
+              "country_code": "RU",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1313323035",
+                "https://openalex.org/I4210096333",
+                "https://openalex.org/I4210153663"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "G. A. Krasinsky",
+          "raw_affiliation_strings": [
+            "Institute for Applied Astronomy, St. Petersburg, Russia",
+            "Institute of Applied Astronomy (St Petersburg - Russia)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute for Applied Astronomy, St. Petersburg, Russia",
+              "institution_ids": [
+                "https://openalex.org/I4210153663"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institute of Applied Astronomy (St Petersburg - Russia)",
+              "institution_ids": [
+                "https://openalex.org/I4210153663"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5047333821",
+            "display_name": "Gregory A. Neumann",
+            "orcid": "https://orcid.org/0000-0003-0644-9944",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0644-9944"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1306266525",
+              "display_name": "Goddard Space Flight Center",
+              "ror": "https://ror.org/0171mag52",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1306266525",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "G. Neumann",
+          "raw_affiliation_strings": [
+            "NASA Goddard Space Flight Center, Greenbelt, MD, USA",
+            "GSFC - NASA Goddard Space Flight Center (Greenbelt, MD 20771 - United States)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Goddard Space Flight Center, Greenbelt, MD, USA",
+              "institution_ids": [
+                "https://openalex.org/I1306266525"
+              ]
+            },
+            {
+              "raw_affiliation_string": "GSFC - NASA Goddard Space Flight Center (Greenbelt, MD 20771 - United States)",
+              "institution_ids": [
+                "https://openalex.org/I1306266525"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5109883793",
+            "display_name": "Jürgen Oberst",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2898391981",
+              "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+              "ror": "https://ror.org/04bwf3e34",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1305996414",
+                "https://openalex.org/I2898391981"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Oberst",
+          "raw_affiliation_strings": [
+            "DLR Berlin Adlershof, Berlin, Germany",
+            "DLR - Deutsches Zentrum für Luft- und Raumfahrt (Berlin - Germany)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "DLR Berlin Adlershof, Berlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I2898391981"
+              ]
+            },
+            {
+              "raw_affiliation_string": "DLR - Deutsches Zentrum für Luft- und Raumfahrt (Berlin - Germany)",
+              "institution_ids": [
+                "https://openalex.org/I2898391981"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110431847",
+            "display_name": "P. Kenneth Seidelmann",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I51556381",
+              "display_name": "University of Virginia",
+              "ror": "https://ror.org/0153tk833",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I51556381"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "P. K. Seidelmann",
+          "raw_affiliation_strings": [
+            "University of Virginia, Charlottesville, VA, USA",
+            "University of Virginia (University of Virginia - United States)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Virginia, Charlottesville, VA, USA",
+              "institution_ids": [
+                "https://openalex.org/I51556381"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Virginia (University of Virginia - United States)",
+              "institution_ids": [
+                "https://openalex.org/I51556381"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5049114233",
+            "display_name": "Philip J. Stooke",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I125749732",
+              "display_name": "Western University",
+              "ror": "https://ror.org/02grkyz14",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I125749732"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "P. Stooke",
+          "raw_affiliation_strings": [
+            "University of Western Ontario, London, Canada",
+            "UWO - University of Western Ontario (1151 Richmond St, London, ON, N6A 3K7, Canada - Canada)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Western Ontario, London, Canada",
+              "institution_ids": [
+                "https://openalex.org/I125749732"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UWO - University of Western Ontario (1151 Richmond St, London, ON, N6A 3K7, Canada - Canada)",
+              "institution_ids": [
+                "https://openalex.org/I125749732"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008498204",
+            "display_name": "David J. Tholen",
+            "orcid": "https://orcid.org/0000-0003-0773-1888",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0773-1888"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I117965899",
+              "display_name": "University of Hawaiʻi at Mānoa",
+              "ror": "https://ror.org/01wspgy28",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I117965899"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1331384533",
+              "display_name": "University of Hawaii System",
+              "ror": "https://ror.org/03tzaeb71",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I1331384533"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I35722693",
+              "display_name": "University of Hawaii at Hilo",
+              "ror": "https://ror.org/02mp2av58",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I35722693"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "D. J. Tholen",
+          "raw_affiliation_strings": [
+            "University of Hawaii, Honolulu, HI, USA",
+            "University of Hawaii, Hilo (Hilo, HI 96720 - United States)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Hawaii, Honolulu, HI, USA",
+              "institution_ids": [
+                "https://openalex.org/I117965899",
+                "https://openalex.org/I1331384533"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Hawaii, Hilo (Hilo, HI 96720 - United States)",
+              "institution_ids": [
+                "https://openalex.org/I35722693"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "P. C. Thomas",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I205783295",
+              "display_name": "Cornell University",
+              "ror": "https://ror.org/05bnh6r87",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I205783295"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210120578",
+              "display_name": "Laboratoire d’études spatiales et d’instrumentation en astrophysique",
+              "ror": "https://ror.org/02eptjh02",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I204730241",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I2800004676",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210120578",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4405253946"
+              ]
+            }
+          ],
+          "countries": [
+            "FR",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "P. C. Thomas",
+          "raw_affiliation_strings": [
+            "Cornell University, Ithaca, NY, USA",
+            "Department of Astronomy, Cornell University (Space Science Building,\r\nIthaca, \r\nNY 14853 - United States)",
+            "LESIA - Laboratoire d'études spatiales et d'instrumentation en astrophysique (5, place Jules Janssen 92190 MEUDON - France)",
+            "Pôle Planétologie du LESIA (France)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Cornell University, Ithaca, NY, USA",
+              "institution_ids": [
+                "https://openalex.org/I205783295"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Astronomy, Cornell University (Space Science Building,\r\nIthaca, \r\nNY 14853 - United States)",
+              "institution_ids": [
+                "https://openalex.org/I205783295"
+              ]
+            },
+            {
+              "raw_affiliation_string": "LESIA - Laboratoire d'études spatiales et d'instrumentation en astrophysique (5, place Jules Janssen 92190 MEUDON - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210120578"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Pôle Planétologie du LESIA (France)",
+              "institution_ids": [
+                "https://openalex.org/I4210120578"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5091456507",
+            "display_name": "I. P. Williams",
+            "orcid": "https://orcid.org/0000-0002-8069-1344",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8069-1344"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I166337079",
+              "display_name": "Queen Mary University of London",
+              "ror": "https://ror.org/026zzn846",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I166337079"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "I. P. Williams",
+          "raw_affiliation_strings": [
+            "Queen Mary University of London, London, UK",
+            "QMUL - Queen Mary University of London (Mile End Road, London E1 4NS - United Kingdom)"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Queen Mary University of London, London, UK",
+              "institution_ids": [
+                "https://openalex.org/I166337079"
+              ]
+            },
+            {
+              "raw_affiliation_string": "QMUL - Queen Mary University of London (Mile End Road, London E1 4NS - United Kingdom)",
+              "institution_ids": [
+                "https://openalex.org/I166337079"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1007/s10569-010-9320-4",
+        "doi": "https://doi.org/10.1007/s10569-010-9320-4",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s10569-010-9320-4",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S153084011",
+          "display_name": "Celestial Mechanics and Dynamical Astronomy",
+          "issn_l": "0923-2958",
+          "issn": [
+            "0923-2958",
+            "1572-9478"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Celestial Mechanics and Dynamical Astronomy",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2804039802",
+      "doi": "https://doi.org/10.5194/ica-proc-1-81-2018",
+      "title": "Planetary Cartography – Activities and Current Challenges",
+      "publication_year": 2018,
+      "cited_by_count": 2,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5006502700",
+            "display_name": "Andrea Naß",
+            "orcid": "https://orcid.org/0000-0001-7172-5170",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7172-5170"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2898391981",
+              "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+              "ror": "https://ror.org/04bwf3e34",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1305996414",
+                "https://openalex.org/I2898391981"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Andrea Nass",
+          "raw_affiliation_strings": [
+            "German Aerospace Center, Institute of Planetary Research, 12489 Berlin, Germany"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7172-5170",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "German Aerospace Center, Institute of Planetary Research, 12489 Berlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I2898391981"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5017937533",
+            "display_name": "Kaichang Di",
+            "orcid": "https://orcid.org/0000-0001-6581-6615",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6581-6615"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19820366",
+              "display_name": "Chinese Academy of Sciences",
+              "ror": "https://ror.org/034t30j35",
+              "country_code": "CN",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I19820366"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210128053",
+              "display_name": "Institute of Remote Sensing and Digital Earth",
+              "ror": "https://ror.org/02cjszf03",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210128053"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kaichang Di",
+          "raw_affiliation_strings": [
+            "Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing 100101, P.R. China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing 100101, P.R. China",
+              "institution_ids": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210128053"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5042845990",
+            "display_name": "S. Elgner",
+            "orcid": "https://orcid.org/0000-0001-7563-804X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7563-804X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2898391981",
+              "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+              "ror": "https://ror.org/04bwf3e34",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1305996414",
+                "https://openalex.org/I2898391981"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Stephan Elgner",
+          "raw_affiliation_strings": [
+            "German Aerospace Center, Institute of Planetary Research, 12489 Berlin, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "German Aerospace Center, Institute of Planetary Research, 12489 Berlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I2898391981"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5049922976",
+            "display_name": "S. van Gasselt",
+            "orcid": "https://orcid.org/0000-0003-2130-6343",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2130-6343"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I124633538",
+              "display_name": "University of Seoul",
+              "ror": "https://ror.org/05en5nh73",
+              "country_code": "KR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124633538"
+              ]
+            }
+          ],
+          "countries": [
+            "KR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Stephan van Gasselt",
+          "raw_affiliation_strings": [
+            "Department of Geoinformatics, University of Seoul, 02504 Seoul, South Korea"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geoinformatics, University of Seoul, 02504 Seoul, South Korea",
+              "institution_ids": [
+                "https://openalex.org/I124633538"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072724024",
+            "display_name": "T. M. Hare",
+            "orcid": "https://orcid.org/0000-0001-8842-389X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8842-389X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Trent Hare",
+          "raw_affiliation_strings": [
+            "U. S. Geological Survey, Astrogeology Team, Flagstaff, AZ 86001, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U. S. Geological Survey, Astrogeology Team, Flagstaff, AZ 86001, USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5034428138",
+            "display_name": "Henrik I. Hargitai",
+            "orcid": "https://orcid.org/0000-0001-6563-6921",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6563-6921"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Henrik Hargitai",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center/ NPP, Moffett Field, CA 94035, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center/ NPP, Moffett Field, CA 94035, USA",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5053838880",
+            "display_name": "I. P. Karachevtseva",
+            "orcid": "https://orcid.org/0000-0002-0013-4186",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0013-4186"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210123507",
+              "display_name": "Moscow State University of Geodesy and Cartography",
+              "ror": "https://ror.org/035jyty51",
+              "country_code": "RU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210123507"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Irina Karachevtseva",
+          "raw_affiliation_strings": [
+            "Moscow State University of Geodesy and Cartography (MIIGAiK), 105064, Moscow, Russia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Moscow State University of Geodesy and Cartography (MIIGAiK), 105064, Moscow, Russia",
+              "institution_ids": [
+                "https://openalex.org/I4210123507"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5037742381",
+            "display_name": "Ákos Keresztúri",
+            "orcid": "https://orcid.org/0000-0001-6420-510X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6420-510X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210128682",
+              "display_name": "HUN-REN Research Centre for Astronomy and Earth Sciences",
+              "ror": "https://ror.org/036wvs663",
+              "country_code": "HU",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210128682",
+                "https://openalex.org/I4387152226"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I7597260",
+              "display_name": "Hungarian Academy of Sciences",
+              "ror": "https://ror.org/02ks8qq67",
+              "country_code": "HU",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I7597260"
+              ]
+            }
+          ],
+          "countries": [
+            "HU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Akos Kereszturi",
+          "raw_affiliation_strings": [
+            "Research Centre for Astronomy and Earth Sciences (MTA CSFK), Budapest, 1112 Hungary"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Research Centre for Astronomy and Earth Sciences (MTA CSFK), Budapest, 1112 Hungary",
+              "institution_ids": [
+                "https://openalex.org/I4210128682",
+                "https://openalex.org/I7597260"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5033928821",
+            "display_name": "Elke Kersten",
+            "orcid": "https://orcid.org/0000-0002-3818-5165",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3818-5165"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2898391981",
+              "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+              "ror": "https://ror.org/04bwf3e34",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1305996414",
+                "https://openalex.org/I2898391981"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Elke Kersten",
+          "raw_affiliation_strings": [
+            "German Aerospace Center, Institute of Planetary Research, 12489 Berlin, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "German Aerospace Center, Institute of Planetary Research, 12489 Berlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I2898391981"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5043993879",
+            "display_name": "A. A. Kokhanov",
+            "orcid": "https://orcid.org/0000-0003-3948-6522",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3948-6522"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210123507",
+              "display_name": "Moscow State University of Geodesy and Cartography",
+              "ror": "https://ror.org/035jyty51",
+              "country_code": "RU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210123507"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alexander Kokhanov",
+          "raw_affiliation_strings": [
+            "Moscow State University of Geodesy and Cartography (MIIGAiK), 105064, Moscow, Russia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Moscow State University of Geodesy and Cartography (MIIGAiK), 105064, Moscow, Russia",
+              "institution_ids": [
+                "https://openalex.org/I4210123507"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5077144470",
+            "display_name": "N. Manaud",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Nicolas Manaud",
+          "raw_affiliation_strings": [
+            "SpaceFrog Design, London, United Kingdom"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "SpaceFrog Design, London, United Kingdom",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020704051",
+            "display_name": "T. Roatsch",
+            "orcid": "https://orcid.org/0000-0001-5712-5005",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5712-5005"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2898391981",
+              "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+              "ror": "https://ror.org/04bwf3e34",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1305996414",
+                "https://openalex.org/I2898391981"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Thomas Roatsch",
+          "raw_affiliation_strings": [
+            "German Aerospace Center, Institute of Planetary Research, 12489 Berlin, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "German Aerospace Center, Institute of Planetary Research, 12489 Berlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I2898391981"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5015020028",
+            "display_name": "Angelo Pio Rossi",
+            "orcid": "https://orcid.org/0000-0002-0137-1984",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0137-1984"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I193619901",
+              "display_name": "Constructor University",
+              "ror": "https://ror.org/02yrs2n53",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I193619901"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Angelo Pio Rossi",
+          "raw_affiliation_strings": [
+            "Department of Physics and Earth Sciences, Jacobs-University Bremen, 28759 Bremen, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Physics and Earth Sciences, Jacobs-University Bremen, 28759 Bremen, Germany",
+              "institution_ids": [
+                "https://openalex.org/I193619901"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020511117",
+            "display_name": "James A. Skinner",
+            "orcid": "https://orcid.org/0000-0002-3644-7010",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3644-7010"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "James Skinner, Jr.",
+          "raw_affiliation_strings": [
+            "U. S. Geological Survey, Astrogeology Team, Flagstaff, AZ 86001, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U. S. Geological Survey, Astrogeology Team, Flagstaff, AZ 86001, USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5002242908",
+            "display_name": "M. Wählisch",
+            "orcid": "https://orcid.org/0000-0003-3286-5685",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3286-5685"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2898391981",
+              "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+              "ror": "https://ror.org/04bwf3e34",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1305996414",
+                "https://openalex.org/I2898391981"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Marita Wählisch",
+          "raw_affiliation_strings": [
+            "German Aerospace Center, Institute of Planetary Research, 12489 Berlin, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "German Aerospace Center, Institute of Planetary Research, 12489 Berlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I2898391981"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.5194/ica-proc-1-81-2018",
+        "doi": "https://doi.org/10.5194/ica-proc-1-81-2018",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5194/ica-proc-1-81-2018",
+        "pdf_url": "https://www.proc-int-cartogr-assoc.net/1/81/2018/ica-proc-1-81-2018.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210217746",
+          "display_name": "Proceedings of the ICA",
+          "issn_l": "2570-2092",
+          "issn": [
+            "2570-2092"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the ICA",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.proc-int-cartogr-assoc.net/1/81/2018/ica-proc-1-81-2018.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W3081369931",
+      "doi": "https://doi.org/10.5194/isprs-archives-xliii-b3-2020-1091-2020",
+      "title": "COORDINATION OF PLANETARY COORDINATE SYSTEM RECOMMENDATIONS BY THE IAU WORKING GROUP ON CARTOGRAPHIC COORDINATES AND ROTATIONAL ELEMENTS – 2020 STATUS AND FUTURE",
+      "publication_year": 2020,
+      "cited_by_count": 2,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5072226979",
+            "display_name": "Brent A. Archinal",
+            "orcid": "https://orcid.org/0000-0002-6654-0742",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6654-0742"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210111045",
+              "display_name": "Astrogeology Science Center",
+              "ror": "https://ror.org/02623eb90",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249",
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "B. A. Archinal",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey, 2255 N. Gemini Drive, Flagstaff, AZ, USA",
+            "Astrogeology Science Center [Flagstaff]"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-6654-0742",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, 2255 N. Gemini Drive, Flagstaff, AZ, USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Astrogeology Science Center [Flagstaff]",
+              "institution_ids": [
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113455050",
+            "display_name": "C. H. Acton",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1293035123",
+              "display_name": "Met Office",
+              "ror": "https://ror.org/01ch2yn61",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1293035123"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "GB",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "C. H. Acton",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, Pasadena, CA, USA",
+            "Jet Propulsion Laboratory",
+            "United Kingdom Met Office [Exeter]"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            },
+            {
+              "raw_affiliation_string": "United Kingdom Met Office [Exeter]",
+              "institution_ids": [
+                "https://openalex.org/I1293035123"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5058062643",
+            "display_name": "Albert R. Conrad",
+            "orcid": "https://orcid.org/0000-0003-2872-0061",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2872-0061"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I138006243",
+              "display_name": "University of Arizona",
+              "ror": "https://ror.org/03m2x1q45",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I138006243"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A. Conrad",
+          "raw_affiliation_strings": [
+            "Large Binocular Telescope Observatory, Tucson, AZ, USA",
+            "University of Arizona"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Large Binocular Telescope Observatory, Tucson, AZ, USA",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "University of Arizona",
+              "institution_ids": [
+                "https://openalex.org/I138006243"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5004670937",
+            "display_name": "Tom C. Duxbury",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I162714631",
+              "display_name": "George Mason University",
+              "ror": "https://ror.org/02jqj7156",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I162714631"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "T. C. Duxbury",
+          "raw_affiliation_strings": [
+            "George Mason University, Fairfax, VA, USA",
+            "Department of Physics and Astronomy [Fairfax]"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "George Mason University, Fairfax, VA, USA",
+              "institution_ids": [
+                "https://openalex.org/I162714631"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Physics and Astronomy [Fairfax]",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087206398",
+            "display_name": "Daniel Hestroffer",
+            "orcid": "https://orcid.org/0000-0003-0472-9459",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0472-9459",
+              "https://orcid.org/0000-0002-0769-2818"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2279609970",
+              "display_name": "Université de Lille",
+              "ror": "https://ror.org/02kzqn938",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I2279609970"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2746051580",
+              "display_name": "Université Paris Sciences et Lettres",
+              "ror": "https://ror.org/013cjyk83",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I2746051580"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2800004676",
+              "display_name": "Observatoire de Paris",
+              "ror": "https://ror.org/029nkcm90",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I2800004676"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I54006703",
+              "display_name": "Institut de Mécanique Céleste et de Calcul des Éphémérides",
+              "ror": "https://ror.org/002zc3t08",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2279609970",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I2800004676",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210107682",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4405255887",
+                "https://openalex.org/I54006703"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "D. Hestroffer",
+          "raw_affiliation_strings": [
+            "IMCCE, Observatoire de Paris, Université PSL, CNRS, Sorbonne Université, Univ. Lille, Paris, France",
+            "Institut de Mécanique Céleste et de Calcul des Ephémérides"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-0472-9459",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "IMCCE, Observatoire de Paris, Université PSL, CNRS, Sorbonne Université, Univ. Lille, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2279609970",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I2800004676",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I54006703"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institut de Mécanique Céleste et de Calcul des Ephémérides",
+              "institution_ids": [
+                "https://openalex.org/I54006703"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5076214728",
+            "display_name": "James L. Hilton",
+            "orcid": "https://orcid.org/0000-0001-9431-4331",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9431-4331"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210146380",
+              "display_name": "United States Naval Observatory",
+              "ror": "https://ror.org/048s2rn92",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1330347796",
+                "https://openalex.org/I2800735659",
+                "https://openalex.org/I3130687028",
+                "https://openalex.org/I4210146380"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. L. Hilton",
+          "raw_affiliation_strings": [
+            "U.S. Naval Observatory, Washington, DC, USA",
+            "US Naval Observatory"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Naval Observatory, Washington, DC, USA",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "US Naval Observatory",
+              "institution_ids": [
+                "https://openalex.org/I4210146380"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5085351043",
+            "display_name": "L. Jordá",
+            "orcid": "https://orcid.org/0000-0001-8735-3308",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8735-3308"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I21491767",
+              "display_name": "Aix-Marseille Université",
+              "ror": "https://ror.org/035xkbk20",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I21491767"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210097422",
+              "display_name": "Laboratoire d’Astrophysique de Marseille",
+              "ror": "https://ror.org/00ssy9q55",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I21491767",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I4210097422",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "L. Jorda",
+          "raw_affiliation_strings": [
+            "Laboratoire d'Astrophysique de Marseille, Marseille, France",
+            "Aix Marseille Université",
+            "Laboratoire d'Astrophysique de Marseille"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire d'Astrophysique de Marseille, Marseille, France",
+              "institution_ids": [
+                "https://openalex.org/I4210097422"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Aix Marseille Université",
+              "institution_ids": [
+                "https://openalex.org/I21491767"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Laboratoire d'Astrophysique de Marseille",
+              "institution_ids": [
+                "https://openalex.org/I4210097422"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5010468362",
+            "display_name": "R. Kirk",
+            "orcid": "https://orcid.org/0000-0003-0842-9226",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0842-9226"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "R. L. Kirk",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey, 2255 N. Gemini Drive, Flagstaff, AZ, USA",
+            "US Geological Survey [Austin]"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey, 2255 N. Gemini Drive, Flagstaff, AZ, USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            },
+            {
+              "raw_affiliation_string": "US Geological Survey [Austin]",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5062581437",
+            "display_name": "S. A. Klioner",
+            "orcid": "https://orcid.org/0000-0003-4682-7831",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4682-7831"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I78650965",
+              "display_name": "Technische Universität Dresden",
+              "ror": "https://ror.org/042aqky30",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I78650965"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "S. A. Klioner",
+          "raw_affiliation_strings": [
+            "Lohrmann Observatory, Technische Universität Dresden, Dresden, Germany",
+            "Techniche Universtât Desden"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Lohrmann Observatory, Technische Universität Dresden, Dresden, Germany",
+              "institution_ids": [
+                "https://openalex.org/I78650965"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Techniche Universtât Desden",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5048808546",
+            "display_name": "Jean‐Luc Margot",
+            "orcid": "https://orcid.org/0000-0001-9798-1797",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9798-1797"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I161318765",
+              "display_name": "University of California, Los Angeles",
+              "ror": "https://ror.org/046rm7j60",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I161318765"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "J.-L. Margot",
+          "raw_affiliation_strings": [
+            "University of California, Los Angeles, CA, USA",
+            "UNIVERSITY OF CALIFORNIA LOS ANGELES USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9798-1797",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of California, Los Angeles, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I161318765"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UNIVERSITY OF CALIFORNIA LOS ANGELES USA",
+              "institution_ids": [
+                "https://openalex.org/I161318765"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112048385",
+            "display_name": "J. Oberst",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2898391981",
+              "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+              "ror": "https://ror.org/04bwf3e34",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1305996414",
+                "https://openalex.org/I2898391981"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4577782",
+              "display_name": "Technische Universität Berlin",
+              "ror": "https://ror.org/03v4gjf40",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4577782"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Oberst",
+          "raw_affiliation_strings": [
+            "DLR Berlin Adlershof, Berlin, Germany",
+            "Technical University of Berlin / Technische Universität Berlin"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "DLR Berlin Adlershof, Berlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I2898391981"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Technical University of Berlin / Technische Universität Berlin",
+              "institution_ids": [
+                "https://openalex.org/I4577782"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072014192",
+            "display_name": "F. Paganelli",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I872623138",
+              "display_name": "Search for Extraterrestrial Intelligence",
+              "ror": "https://ror.org/02dxgk712",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I872623138"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "F. Paganelli",
+          "raw_affiliation_strings": [
+            "SETI Institute, Mountain View, CA, USA",
+            "Search for Extraterrestrial Intelligence Institute"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "SETI Institute, Mountain View, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I872623138"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Search for Extraterrestrial Intelligence Institute",
+              "institution_ids": [
+                "https://openalex.org/I872623138"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108707881",
+            "display_name": "Jinsong Ping",
+            "orcid": "https://orcid.org/0000-0002-4570-885X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4570-885X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19820366",
+              "display_name": "Chinese Academy of Sciences",
+              "ror": "https://ror.org/034t30j35",
+              "country_code": "CN",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I19820366"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210164580",
+              "display_name": "National Astronomical Observatories",
+              "ror": "https://ror.org/058pyyv44",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210164580"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Ping",
+          "raw_affiliation_strings": [
+            "National Astronomical Observatories of CAS, Beijing, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "National Astronomical Observatories of CAS, Beijing, China",
+              "institution_ids": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210164580"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110431847",
+            "display_name": "P. Kenneth Seidelmann",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I51556381",
+              "display_name": "University of Virginia",
+              "ror": "https://ror.org/0153tk833",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I51556381"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "P. K. Seidelmann",
+          "raw_affiliation_strings": [
+            "University of Virginia, Charlottesville, VA, USA",
+            "University of Virginia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Virginia, Charlottesville, VA, USA",
+              "institution_ids": [
+                "https://openalex.org/I51556381"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Virginia",
+              "institution_ids": [
+                "https://openalex.org/I51556381"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008498204",
+            "display_name": "David J. Tholen",
+            "orcid": "https://orcid.org/0000-0003-0773-1888",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0773-1888"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I117965899",
+              "display_name": "University of Hawaiʻi at Mānoa",
+              "ror": "https://ror.org/01wspgy28",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I117965899"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1331384533",
+              "display_name": "University of Hawaii System",
+              "ror": "https://ror.org/03tzaeb71",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I1331384533"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "D. J. Tholen",
+          "raw_affiliation_strings": [
+            "University of Hawaii, Honolulu, HI, USA",
+            "University of Hawaii"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Hawaii, Honolulu, HI, USA",
+              "institution_ids": [
+                "https://openalex.org/I117965899",
+                "https://openalex.org/I1331384533"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Hawaii",
+              "institution_ids": [
+                "https://openalex.org/I117965899",
+                "https://openalex.org/I1331384533"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5091456507",
+            "display_name": "I. P. Williams",
+            "orcid": "https://orcid.org/0000-0002-8069-1344",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8069-1344"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I166337079",
+              "display_name": "Queen Mary University of London",
+              "ror": "https://ror.org/026zzn846",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I166337079"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "I. P. Williams",
+          "raw_affiliation_strings": [
+            "Queen Mary University of London, London, UK",
+            "Queen Mary University of London"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Queen Mary University of London, London, UK",
+              "institution_ids": [
+                "https://openalex.org/I166337079"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Queen Mary University of London",
+              "institution_ids": [
+                "https://openalex.org/I166337079"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.5194/isprs-archives-xliii-b3-2020-1091-2020",
+        "doi": "https://doi.org/10.5194/isprs-archives-xliii-b3-2020-1091-2020",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5194/isprs-archives-xliii-b3-2020-1091-2020",
+        "pdf_url": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B3-2020/1091/2020/isprs-archives-XLIII-B3-2020-1091-2020.pdf",
+        "source": {
+          "id": "https://openalex.org/S2737215817",
+          "display_name": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+          "issn_l": "1682-1750",
+          "issn": [
+            "1682-1750",
+            "1682-1777",
+            "2194-9034"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "norway-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B3-2020/1091/2020/isprs-archives-XLIII-B3-2020-1091-2020.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W3152493297",
+      "doi": "https://doi.org/10.3847/25c2cfeb.63d71b54",
+      "title": "The Need for Recommendations in Support of Planetary Bodies Cartographic Coordinates and Rotational Elements Standards",
+      "publication_year": 2021,
+      "cited_by_count": 2,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5072014192",
+            "display_name": "F. Paganelli",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Flora Paganelli",
+          "raw_affiliation_strings": [
+            "Green Bank Observatory"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Green Bank Observatory",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072226979",
+            "display_name": "Brent A. Archinal",
+            "orcid": "https://orcid.org/0000-0002-6654-0742",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6654-0742"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Brent A. Archinal",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113455050",
+            "display_name": "C. H. Acton",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Charles H. Acton",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5058062643",
+            "display_name": "Albert R. Conrad",
+            "orcid": "https://orcid.org/0000-0003-2872-0061",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2872-0061"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Albert Conrad",
+          "raw_affiliation_strings": [
+            "Large Binocular Telescope Observatory"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Large Binocular Telescope Observatory",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5004670937",
+            "display_name": "Tom C. Duxbury",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I162714631",
+              "display_name": "George Mason University",
+              "ror": "https://ror.org/02jqj7156",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I162714631"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tom C. Duxbury",
+          "raw_affiliation_strings": [
+            "George Mason University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "George Mason University",
+              "institution_ids": [
+                "https://openalex.org/I162714631"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087206398",
+            "display_name": "Daniel Hestroffer",
+            "orcid": "https://orcid.org/0000-0003-0472-9459",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0472-9459",
+              "https://orcid.org/0000-0002-0769-2818"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2746051580",
+              "display_name": "Université Paris Sciences et Lettres",
+              "ror": "https://ror.org/013cjyk83",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I2746051580"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2800004676",
+              "display_name": "Observatoire de Paris",
+              "ror": "https://ror.org/029nkcm90",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I2800004676"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Daniel Hestroffer",
+          "raw_affiliation_strings": [
+            "Observatoire de Paris, Université PSL"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Observatoire de Paris, Université PSL",
+              "institution_ids": [
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I2800004676"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5076214728",
+            "display_name": "James L. Hilton",
+            "orcid": "https://orcid.org/0000-0001-9431-4331",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9431-4331"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210146380",
+              "display_name": "United States Naval Observatory",
+              "ror": "https://ror.org/048s2rn92",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1330347796",
+                "https://openalex.org/I2800735659",
+                "https://openalex.org/I3130687028",
+                "https://openalex.org/I4210146380"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "James L. Hilton",
+          "raw_affiliation_strings": [
+            "U.S. Naval Observatory"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Naval Observatory",
+              "institution_ids": [
+                "https://openalex.org/I4210146380"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5085351043",
+            "display_name": "L. Jordá",
+            "orcid": "https://orcid.org/0000-0001-8735-3308",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8735-3308"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210097422",
+              "display_name": "Laboratoire d’Astrophysique de Marseille",
+              "ror": "https://ror.org/00ssy9q55",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I21491767",
+                "https://openalex.org/I2799535048",
+                "https://openalex.org/I4210097422",
+                "https://openalex.org/I4210148025"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Laurent Jorda",
+          "raw_affiliation_strings": [
+            "Laboratoire d'Astrophysique de Marseille"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire d'Astrophysique de Marseille",
+              "institution_ids": [
+                "https://openalex.org/I4210097422"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002878424",
+            "display_name": "R. L. Kirk",
+            "orcid": "https://orcid.org/0000-0003-0842-9226",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0842-9226"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Randolph. L. Kirk",
+          "raw_affiliation_strings": [
+            "U.S. Geological Survey"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "U.S. Geological Survey",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5062581437",
+            "display_name": "S. A. Klioner",
+            "orcid": "https://orcid.org/0000-0003-4682-7831",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4682-7831"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I78650965",
+              "display_name": "Technische Universität Dresden",
+              "ror": "https://ror.org/042aqky30",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I78650965"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sergei A. Klioner",
+          "raw_affiliation_strings": [
+            "Lohrmann Observatory, Technische Universität Dresden"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Lohrmann Observatory, Technische Universität Dresden",
+              "institution_ids": [
+                "https://openalex.org/I78650965"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5048808546",
+            "display_name": "Jean‐Luc Margot",
+            "orcid": "https://orcid.org/0000-0001-9798-1797",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9798-1797"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I161318765",
+              "display_name": "University of California, Los Angeles",
+              "ror": "https://ror.org/046rm7j60",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I161318765"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jean-Luc Margot",
+          "raw_affiliation_strings": [
+            "University of California at Los Angeles"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of California at Los Angeles",
+              "institution_ids": [
+                "https://openalex.org/I161318765"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112048385",
+            "display_name": "J. Oberst",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2898391981",
+              "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+              "ror": "https://ror.org/04bwf3e34",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1305996414",
+                "https://openalex.org/I2898391981"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Juergen Oberst",
+          "raw_affiliation_strings": [
+            "DLR Berlin Adlershof"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "DLR Berlin Adlershof",
+              "institution_ids": [
+                "https://openalex.org/I2898391981"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108707881",
+            "display_name": "Jinsong Ping",
+            "orcid": "https://orcid.org/0000-0002-4570-885X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4570-885X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210164580",
+              "display_name": "National Astronomical Observatories",
+              "ror": "https://ror.org/058pyyv44",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210164580"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jinsong Ping",
+          "raw_affiliation_strings": [
+            "National Astronomical Observatories of CAS"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "National Astronomical Observatories of CAS",
+              "institution_ids": [
+                "https://openalex.org/I4210164580"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110431847",
+            "display_name": "P. Kenneth Seidelmann",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I51556381",
+              "display_name": "University of Virginia",
+              "ror": "https://ror.org/0153tk833",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I51556381"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Paul K. Seidelmann",
+          "raw_affiliation_strings": [
+            "University of Virginia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Virginia",
+              "institution_ids": [
+                "https://openalex.org/I51556381"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008498204",
+            "display_name": "David J. Tholen",
+            "orcid": "https://orcid.org/0000-0003-0773-1888",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0773-1888"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I117965899",
+              "display_name": "University of Hawaiʻi at Mānoa",
+              "ror": "https://ror.org/01wspgy28",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I117965899"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1331384533",
+              "display_name": "University of Hawaii System",
+              "ror": "https://ror.org/03tzaeb71",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I1331384533"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "David J. Tholen",
+          "raw_affiliation_strings": [
+            "University of Hawaii"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Hawaii",
+              "institution_ids": [
+                "https://openalex.org/I117965899",
+                "https://openalex.org/I1331384533"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5091456507",
+            "display_name": "I. P. Williams",
+            "orcid": "https://orcid.org/0000-0002-8069-1344",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8069-1344"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I166337079",
+              "display_name": "Queen Mary University of London",
+              "ror": "https://ror.org/026zzn846",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I166337079"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Iwan P. Williams",
+          "raw_affiliation_strings": [
+            "Queen Mary University of London"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Queen Mary University of London",
+              "institution_ids": [
+                "https://openalex.org/I166337079"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.3847/25c2cfeb.63d71b54",
+        "doi": "https://doi.org/10.3847/25c2cfeb.63d71b54",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3847/25c2cfeb.63d71b54",
+        "pdf_url": "https://baas.aas.org/pub/2021n4i496/download/pdf",
+        "source": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Bulletin of the AAS",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://baas.aas.org/pub/2021n4i496/download/pdf",
+        "any_repository_has_fulltext": null
+      }
+    }
+  ],
+  "group_by": []
+}

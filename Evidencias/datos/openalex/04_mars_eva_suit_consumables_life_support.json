@@ -1,0 +1,1291 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 1068,
+    "db_response_time_ms": 131,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Mars EVA suit consumables life support) in the full text",
+      "x_new_oql": "get works with (Mars EVA suit consumables life support) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Mars EVA suit consumables life support",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Mars EVA suit consumables life support&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2266878913",
+      "doi": "https://doi.org/10.4271/2008-01-1952",
+      "title": "Designing a Smart Suit for the Moon and Mars",
+      "publication_year": 2008,
+      "cited_by_count": 3,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5012068554",
+            "display_name": "Lawrence H Kuznetz",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Lawrence H Kuznetz",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.4271/2008-01-1952",
+        "doi": "https://doi.org/10.4271/2008-01-1952",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.4271/2008-01-1952",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210202285",
+          "display_name": "SAE technical papers on CD-ROM/SAE technical paper series",
+          "issn_l": "0148-7191",
+          "issn": [
+            "0148-7191",
+            "1083-4958",
+            "2688-3627"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "jufo-1",
+            "norway-1",
+            "poland-40"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "SAE Technical Paper Series",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W148573649",
+      "doi": null,
+      "title": "Life Support for Deep Space and Mars",
+      "publication_year": 2014,
+      "cited_by_count": 5,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5103129264",
+            "display_name": "Harry Jones",
+            "orcid": "https://orcid.org/0000-0003-4183-5381",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4183-5381"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Harry Jones",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center Moffett Field, CA, United States"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4183-5381",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center Moffett Field, CA, United States",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111679947",
+            "display_name": "Edward W. Hodgson",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Edward Hodgson",
+          "raw_affiliation_strings": [
+            "Hamilton Sundstrand Space Systems International, Inc. United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Hamilton Sundstrand Space Systems International, Inc. United States",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5033156864",
+            "display_name": "Mark H. Kliss",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mark Kliss",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:casi.ntrs.nasa.gov:20140011164",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/2060/20140011164",
+        "pdf_url": "http://hdl.handle.net/2060/20140011164",
+        "source": {
+          "id": "https://openalex.org/S4377196257",
+          "display_name": "NASA STI Repository (National Aeronautics and Space Administration)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4210124779",
+          "host_organization_name": "National Aeronautics and Space Administration",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210124779"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "CASI",
+        "raw_type": "ICES-2014-074"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2060/20140011164",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2498546781",
+      "doi": "https://doi.org/10.1109/aero.2016.7500922",
+      "title": "Thermal analysis of astronaut traverse in mechanical counter pressure spacesuit on Mars",
+      "publication_year": 2016,
+      "cited_by_count": 4,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5033202280",
+            "display_name": "Nikhil Vadhavkar",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nikhil Vadhavkar",
+          "raw_affiliation_strings": [
+            "Health Sciences and Technology, Massachusetts Institute of Technology, Cambridge, MA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Health Sciences and Technology, Massachusetts Institute of Technology, Cambridge, MA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5112087433",
+            "display_name": "Jeffrey A. Hoffman",
+            "orcid": "https://orcid.org/0000-0002-7543-6920",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7543-6920"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jeffrey A. Hoffman",
+          "raw_affiliation_strings": [
+            "Department of Aeronautics and Astronautics, Massachusetts Institute of Technology, Cambridge, MA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Aeronautics and Astronautics, Massachusetts Institute of Technology, Cambridge, MA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1109/aero.2016.7500922",
+        "doi": "https://doi.org/10.1109/aero.2016.7500922",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/aero.2016.7500922",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210171417",
+          "display_name": "Proceedings - IEEE Aerospace Conference",
+          "issn_l": "1095-323X",
+          "issn": [
+            "1095-323X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2016 IEEE Aerospace Conference",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W1606527823",
+      "doi": "https://doi.org/10.4271/2007-01-3275",
+      "title": "Space Suit Radiator Performance in Lunar and Mars Environments",
+      "publication_year": 2007,
+      "cited_by_count": 10,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040473517",
+            "display_name": "James Nabity",
+            "orcid": "https://orcid.org/0000-0002-8427-5735",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8427-5735"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210096359",
+              "display_name": "TDA Research (United States)",
+              "ror": "https://ror.org/00rkxs190",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210096359"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "James A. Nabity",
+          "raw_affiliation_strings": [
+            "TDA Research, Inc"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "TDA Research, Inc",
+              "institution_ids": [
+                "https://openalex.org/I4210096359"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039512926",
+            "display_name": "Georgia R. Mason",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210096359",
+              "display_name": "TDA Research (United States)",
+              "ror": "https://ror.org/00rkxs190",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210096359"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Georgia R. Mason",
+          "raw_affiliation_strings": [
+            "TDA Research, Inc"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "TDA Research, Inc",
+              "institution_ids": [
+                "https://openalex.org/I4210096359"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Robert J. Copeland",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210096359",
+              "display_name": "TDA Research (United States)",
+              "ror": "https://ror.org/00rkxs190",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210096359"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Robert J. Copeland",
+          "raw_affiliation_strings": [
+            "TDA Research, Inc"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "TDA Research, Inc",
+              "institution_ids": [
+                "https://openalex.org/I4210096359"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5019906759",
+            "display_name": "Kerry Libberton",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210096359",
+              "display_name": "TDA Research (United States)",
+              "ror": "https://ror.org/00rkxs190",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210096359"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kerry A. Libberton",
+          "raw_affiliation_strings": [
+            "TDA Research, Inc"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "TDA Research, Inc",
+              "institution_ids": [
+                "https://openalex.org/I4210096359"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074529248",
+            "display_name": "Luis Trevino",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Luis A. Trevino",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059462249",
+            "display_name": "Ryan A. Stephan",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ryan A. Stephan",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5112663111",
+            "display_name": "Heather L. Paul",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Heather L. Paul",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.4271/2007-01-3275",
+        "doi": "https://doi.org/10.4271/2007-01-3275",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.4271/2007-01-3275",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210202285",
+          "display_name": "SAE technical papers on CD-ROM/SAE technical paper series",
+          "issn_l": "0148-7191",
+          "issn": [
+            "0148-7191",
+            "1083-4958",
+            "2688-3627"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "jufo-1",
+            "norway-1",
+            "poland-40"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "SAE Technical Paper Series",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ntrs.nasa.gov/api/citations/20070013698/downloads/20070013698.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W7171704327",
+      "doi": "https://doi.org/10.32865/2346/108846",
+      "title": "Mars Portable Life Support System Status and Plan",
+      "publication_year": 2026,
+      "cited_by_count": 0,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5135310868",
+            "display_name": "Ryan Ogilvie",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ryan Ogilvie",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center , Houston , Texas , 77058"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center , Houston , Texas , 77058",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018652835",
+            "display_name": "Cinda Chullen",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Cinda Chullen",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center , Houston , Texas , 77058"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center , Houston , Texas , 77058",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5143867647",
+            "display_name": "Lawrence Barrett",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4405263009",
+              "display_name": "Amentum (United States)",
+              "ror": "https://ror.org/017art439",
+              "country_code": "FR",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4405263009"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lawrence Barrett",
+          "raw_affiliation_strings": [
+            "Amentum , Houston TX , 77078"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Amentum , Houston TX , 77078",
+              "institution_ids": [
+                "https://openalex.org/I4405263009"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5139345492",
+            "display_name": "Madeleine Oliver",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4405263009",
+              "display_name": "Amentum (United States)",
+              "ror": "https://ror.org/017art439",
+              "country_code": "FR",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4405263009"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Madeleine Oliver",
+          "raw_affiliation_strings": [
+            "Amentum , Houston TX , 77078"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Amentum , Houston TX , 77078",
+              "institution_ids": [
+                "https://openalex.org/I4405263009"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5014316723",
+            "display_name": "Bruce C. Conger",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bruce Conger",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center , Houston , Texas , 77058"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center , Houston , Texas , 77058",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.32865/2346/108846",
+        "doi": "https://doi.org/10.32865/2346/108846",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.32865/2346/108846",
+        "pdf_url": "https://ttu-ir.tdl.org/bitstreams/6226f8d6-8ab1-4d26-9332-77bafd41a1be/download",
+        "source": {
+          "id": "https://openalex.org/S4306499376",
+          "display_name": "International Conference on Environmental Systems (ICES)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "55th International Conference on Environmental Systems",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://ttu-ir.tdl.org/bitstreams/6226f8d6-8ab1-4d26-9332-77bafd41a1be/download",
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2480402189",
+      "doi": "https://doi.org/10.1109/aero.2016.7500718",
+      "title": "Human exploration missions to phobos prior to crewed mars surface missions",
+      "publication_year": 2016,
+      "cited_by_count": 11,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5051865112",
+            "display_name": "Michael L. Gernhardt",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michael L. Gernhardt",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center, Houston, TX"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center, Houston, TX",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5078952917",
+            "display_name": "Andrew F. J. Abercromby",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I144472018",
+              "display_name": "Wyle (United States)",
+              "ror": "https://ror.org/02zeryz43",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I144472018",
+                "https://openalex.org/I153156064"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Andrew F. J. Abercromby",
+          "raw_affiliation_strings": [
+            "Wyle Science, Technology and Engineering Group, Houston, TX"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Wyle Science, Technology and Engineering Group, Houston, TX",
+              "institution_ids": [
+                "https://openalex.org/I144472018"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009263173",
+            "display_name": "Omar S. Bekdash",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Omar S. Bekdash",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center, Houston, TX"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center, Houston, TX",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110908260",
+            "display_name": "Steven P. Chappell",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Steven P. Chappell",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center, Houston, TX"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center, Houston, TX",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072602183",
+            "display_name": "Zu Qun Li",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I144472018",
+              "display_name": "Wyle (United States)",
+              "ror": "https://ror.org/02zeryz43",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I144472018",
+                "https://openalex.org/I153156064"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Zu Qun Li",
+          "raw_affiliation_strings": [
+            "Wyle Science, Technology and Engineering Group, Houston, TX"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Wyle Science, Technology and Engineering Group, Houston, TX",
+              "institution_ids": [
+                "https://openalex.org/I144472018"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112709992",
+            "display_name": "Kara H. Beaton",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I144472018",
+              "display_name": "Wyle (United States)",
+              "ror": "https://ror.org/02zeryz43",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I144472018",
+                "https://openalex.org/I153156064"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kara H. Beaton",
+          "raw_affiliation_strings": [
+            "Wyle Science, Technology and Engineering Group, Houston, TX"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Wyle Science, Technology and Engineering Group, Houston, TX",
+              "institution_ids": [
+                "https://openalex.org/I144472018"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059137209",
+            "display_name": "Edwin Z. Crues",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Edwin Z. Crues",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center, Houston, TX"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center, Houston, TX",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5027694606",
+            "display_name": "Paul Bielski",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Paul Bielski",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center, Houston, TX"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center, Houston, TX",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1109/aero.2016.7500718",
+        "doi": "https://doi.org/10.1109/aero.2016.7500718",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/aero.2016.7500718",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210171417",
+          "display_name": "Proceedings - IEEE Aerospace Conference",
+          "issn_l": "1095-323X",
+          "issn": [
+            "1095-323X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2016 IEEE Aerospace Conference",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://zenodo.org/record/1264066",
+        "any_repository_has_fulltext": true
+      }
+    }
+  ],
+  "group_by": []
+}

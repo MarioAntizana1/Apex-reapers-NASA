@@ -1,0 +1,140 @@
+{
+  "copyright": {
+    "thirdPartyPermissionsProduced": false,
+    "disclosedToPublic": false,
+    "containsIndication": false,
+    "publisherPermissionOrRightsToDistribute": false,
+    "belongsToUsGov": false,
+    "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+    "thirdPartyContentCondition": "NOT_SET",
+    "belongsToContractor": false,
+    "disclosedInvention": false,
+    "submissionId": 20150020456,
+    "containsThirdPartyMaterial": false,
+    "belongsToPublisher": false,
+    "id": "80a7024db97e4250898becbbb4e84548",
+    "belongsToAuthors": false
+  },
+  "subjectCategories": [
+    "Astronomy",
+    "Lunar And Planetary Science And Exploration"
+  ],
+  "keywords": [
+    "Human Missions",
+    "Mars",
+    "near surface ground ice"
+  ],
+  "exportControl": {
+    "isExportControl": "NO",
+    "submissionId": 20150020456,
+    "ear": "NO",
+    "id": "38b965fdad8348f59f4cbc8ebdb23215",
+    "itar": "NO"
+  },
+  "distributionDate": "2019-07-17T00:00:00.0000000+00:00",
+  "otherReportNumbers": [
+    "ARC-E-DAA-TN27320",
+    "Report Number: ARC-E-DAA-TN27320"
+  ],
+  "title": "Midlatitude Ice-Rich Ground on Mars: An Important Target for Science and In Situ Resource Utilization on Human Missions",
+  "stiType": "ABSTRACT",
+  "distribution": "PUBLIC",
+  "submittedDate": "2015-11-03T17:48:42.5070000+00:00",
+  "authorAffiliations": [
+    {
+      "sequence": 0,
+      "submissionId": 20150020456,
+      "meta": {
+        "author": {
+          "name": "Stoker, Carol "
+        },
+        "organization": {
+          "name": "NASA Ames Research Center",
+          "location": "Moffett Field, CA United States"
+        }
+      },
+      "id": "a9a8c113123542bfbeacfbed665a042f"
+    },
+    {
+      "sequence": 1,
+      "submissionId": 20150020456,
+      "meta": {
+        "author": {
+          "name": "Heldmann, Jennifer"
+        },
+        "organization": {
+          "name": "NASA Ames Research Center",
+          "location": "Moffett Field, CA United States"
+        }
+      },
+      "id": "b6cedcf268164af3a7cbf61375bd49a6"
+    }
+  ],
+  "stiTypeDetails": "Abstract",
+  "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+  "modified": "2025-08-31T18:39:21.7150190+00:00",
+  "id": 20150020456,
+  "legacyMeta": {
+    "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+    "accessionNumber": ""
+  },
+  "created": "2015-11-03T17:48:42.5070000+00:00",
+  "center": {
+    "code": "ARC",
+    "name": "Ames Research Center",
+    "id": "4540cd94d24c4bf29f8773a27faf96b2"
+  },
+  "onlyAbstract": true,
+  "sensitiveInformation": 2,
+  "abstract": "The region of ROI is characterized by proven presence of near surface ground ice and numerous periglacial features. Midlatitude ground ice on Mars is of significant scientific interest for understanding the history and evolution of ice stability on Mars, the impact that changes in insolation produced by variations in Mars’ orbital parameters has on the regions climate, and could provide human exploration with a reliable and plentiful in situ resource. For both science and exploration, assessing the astrobiological potential of the ice is important in terms of (1) understanding the potential for life on Mars and (2) evaluating the presence of possible biohazards in advance of human exploration. Heldmann et al. (2014) studied locations on Mars in the Amazonis Planitia region where near surface ground ice was exposed by new impact craters (Byrne et al. 2009). The study examined whether sites in this region were suitable for human exploration including reviewing the evidence for midlatitude ground ice, discussing the possible explanations for its occurrence, assessing its potential habitability for modern life, and evaluating the resource potential. They systematically analyzed remote-sensing data sets to identify a viable landing site. Five sites where ground ice was exposed were examined with HiRise imaging and were classified according to (1) presence of polygons as a proxy for subsurface ice, (2) presence and abundance of rough topographic obstacles (e.g., large cracks, cliffs, uneven topography), (3) rock density, (4) presence and abundance of large boulders, and (5) presence of craters. A suitable landing site was found having ground ice at only 0.15m depth, and no landing site hazards within a 25 km landing ellipse. This paper presents results of that study and examines the relevance of this ROI to the workshop goals.",
+  "isLessonsLearned": false,
+  "disseminated": "DOCUMENT_AND_METADATA",
+  "meetings": [
+    {
+      "country": "United States",
+      "submissionId": 20150020456,
+      "endDate": "2015-10-30T00:00:00.0000000+00:00",
+      "sponsors": [
+        {
+          "organizationId": "8ccaff322ecb48d2811364bf91d9f59d",
+          "meta": {
+            "organization": {
+              "name": "Universities Space Research Association",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "meetingId": "8ceae2824e4b45ceb23ca060c8c5e491",
+          "id": "cbb77568117744aebfad37f00e33517e"
+        }
+      ],
+      "name": "First Landing Site/Exploration Zone Workshop for Human Missions to the Surface of Mars",
+      "location": "Houston, TX",
+      "id": "8ceae2824e4b45ceb23ca060c8c5e491",
+      "startDate": "2015-10-27T00:00:00.0000000+00:00"
+    }
+  ],
+  "publications": [
+    {
+      "submissionId": 20150020456,
+      "id": "ae7917f6af074bc4ad2b34457e706009",
+      "publicationDate": "2015-10-27T00:00:00.0000000+00:00"
+    }
+  ],
+  "status": "CURATED",
+  "related": [],
+  "downloads": [
+    {
+      "draft": false,
+      "mimetype": "application/pdf",
+      "name": "20150020456.pdf",
+      "type": "STI",
+      "links": {
+        "original": "/api/citations/20150020456/downloads/20150020456.pdf",
+        "pdf": "/api/citations/20150020456/downloads/20150020456.pdf",
+        "fulltext": "/api/citations/20150020456/downloads/20150020456.txt"
+      }
+    }
+  ],
+  "downloadsAvailable": true,
+  "index": "submissions-2026-10-22-05-25"
+}

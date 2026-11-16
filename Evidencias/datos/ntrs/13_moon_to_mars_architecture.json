@@ -1,0 +1,2906 @@
+{
+  "stats": {
+    "took": 100,
+    "total": 497,
+    "estimate": false,
+    "maxScore": 273.97354
+  },
+  "results": [
+    {
+      "_meta": {
+        "score": 273.97354
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "submissionId": 20240015571,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "f40a6ee5a4ea4d6bbf27a6736d5ab1e2",
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar and Planetary Science and Exploration"
+      ],
+      "keywords": [
+        "Architecture",
+        "Moon to Mars",
+        "Moon",
+        "Mars",
+        "Roadmap",
+        "Systems Engineer",
+        "Systems Engineering",
+        "Elements"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20240015571,
+        "ear": "NO",
+        "id": "eb49e7d8f67b49a081ecdc1544e34fae",
+        "itar": "NO"
+      },
+      "distributionDate": "2024-12-13T05:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "ESDMD-001 Rev-B.1",
+        "NASA/TP-20240015571"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "80KSC023DA016",
+          "submissionId": 20240015571,
+          "id": "c52a54595f1f4d7081190da2fec03bba",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Exploration Systems Development Mission Directorate: Moon to Mars Architecture Definition Document ",
+      "stiType": "TECHNICAL_PUBLICATION",
+      "distribution": "PUBLIC",
+      "submittedDate": "2024-12-04T22:01:19.5380490+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 0,
+          "submissionId": 20240015571,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Nujoud Merancy"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, United States"
+            }
+          },
+          "id": "1d141d4b94e343f4b9955a6c9caf6d4f",
+          "userType": "CIVIL",
+          "userId": "77a436fa011448feb2cfff804adfd764"
+        },
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 1,
+          "submissionId": 20240015571,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Julie A Grantier"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, United States"
+            }
+          },
+          "id": "58b0547a4cfc44eca3be8c467fe4c49c",
+          "userType": "CIVIL",
+          "userId": "613a8a108c85415d9a07cb779e15ff67"
+        },
+        {
+          "organizationId": "e081fcbdcd5059fa8fa7b6c5c6a2c483",
+          "sequence": 2,
+          "submissionId": 20240015571,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Jacob E Bleacher"
+            },
+            "organization": {
+              "name": "Goddard Space Flight Center",
+              "location": "Greenbelt, United States"
+            }
+          },
+          "id": "721991d4df9f41698e1aabe9c981e663",
+          "userType": "CIVIL",
+          "userId": "ac2189704d8543d49e1762b0ca497299"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 3,
+          "submissionId": 20240015571,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Shatel Bhakta"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, United States"
+            }
+          },
+          "id": "a1d46da45dd043b3bf08c5fec984f25e",
+          "userType": "CIVIL",
+          "userId": "b452c0ad2c564f249eadd050320a76e3"
+        },
+        {
+          "organizationId": "68603dff261e5d2d9de5a550aa9e6b30",
+          "sequence": 4,
+          "submissionId": 20240015571,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Kandyce E Goodliff"
+            },
+            "organization": {
+              "name": "Langley Research Center",
+              "location": "Hampton, United States"
+            }
+          },
+          "id": "94ddd4a0fac74bfeb9de42ec1488e6ae",
+          "userType": "CIVIL",
+          "userId": "14e1e7ac0ad4468b89ff536ace0e5059"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 5,
+          "submissionId": 20240015571,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Michelle A Rucker"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, United States"
+            }
+          },
+          "id": "07c22e8ac3f14b28b8604f4c2e30d063",
+          "userType": "CIVIL",
+          "userId": "72674de5a9184bb7be425ac5b78d73a6"
+        },
+        {
+          "organizationId": "68603dff261e5d2d9de5a550aa9e6b30",
+          "sequence": 6,
+          "submissionId": 20240015571,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Patrick R Chai"
+            },
+            "organization": {
+              "name": "Langley Research Center",
+              "location": "Hampton, United States"
+            }
+          },
+          "id": "0da2bfd6f8a146ed9a8b503ba8b89557",
+          "userType": "CIVIL",
+          "userId": "d7c82b8d620240dda7ffdeb092d808d3"
+        },
+        {
+          "organizationId": "7ef327b30938402bb84e0ae4520d5fa2",
+          "sequence": 7,
+          "submissionId": 20240015571,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Michael W Chappell"
+            },
+            "organization": {
+              "name": "COMET Primary"
+            }
+          },
+          "id": "0bd06c569aaf4848b7c2c9a13f2074c1",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "b860a98bea004df5ab5d61c054dc8a0b"
+        },
+        {
+          "organizationId": "e53641f275f15469a1b19a8980e09171",
+          "sequence": 8,
+          "submissionId": 20240015571,
+          "meta": {
+            "author": {
+              "name": "Audrey Morris-Eckart"
+            },
+            "organization": {
+              "name": "National Aeronautics and Space Administration",
+              "location": "Washington, United States"
+            }
+          },
+          "id": "7f769cd982d14ee6b93bd808a6983a6d",
+          "userType": "CIVIL",
+          "userId": "0d46680b40d44fb4bcdaa28678ced9fe"
+        },
+        {
+          "organizationId": "68603dff261e5d2d9de5a550aa9e6b30",
+          "sequence": 9,
+          "submissionId": 20240015571,
+          "meta": {
+            "author": {
+              "name": "Alexus D Cottonham"
+            },
+            "organization": {
+              "name": "Langley Research Center",
+              "location": "Hampton, United States"
+            }
+          },
+          "id": "dc7bd5bbe16a426791bc6c177cba4e31",
+          "userType": "CIVIL",
+          "userId": "0fbee87c4c764c37b2e956bbb394b1fa"
+        }
+      ],
+      "stiTypeDetails": "Technical Publication (TP)",
+      "technicalReviewType": "NASA_PEER_COMMITTEE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20240015571,
+      "created": "2024-12-04T21:56:03.5316650+00:00",
+      "center": {
+        "code": "HQ",
+        "name": "Headquarters",
+        "id": "f0865a34ba1f474d865ab51f212fc69f"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The National Aeronautics and Space Administration (NASA) explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. Extending the reach of humanity through the human exploration of the Moon, Mars, and beyond is key to that mission. NASA’s Moon to Mars Strategy and Objectives document establishes long-term goals and objectives for crewed deep space exploration; however, satisfying NASA’s Moon to Mars Objectives requires an innovative approach to the definition, management, and execution of NASA’s Moon to Mars Architecture. An architecture offers a high-level unifying structure and defines a system.  It provides rules, guidelines, and constraints that define a cohesive and coherent framework that identifies constituent parts, relationships, and connections and establishes how those parts fit and work together. This Architecture Definition Document (ADD) establishes the process for the decomposition of objectives empowers the agency’s success in achieving human exploration of the cosmos. NASA updates this document annually to reflect the maturation of the architecture and the progress NASA and partners make toward achieving exploration objectives. \nThe ADD is not a manifest or requirements document. Instead, it serves as a tool for the programs, projects, and engineers who will implement and execute NASA’s bold ambitions for crewed exploration of deep space. \nAs established in the Moon to Mars Strategy and Objectives, “Why” we explore encompasses three pillars:  Science, Inspiration, and National Posture. Ensuring success in all three areas requires an architectural approach that incorporates innovation, collaboration, and partnerships that can be sustained across a multi-decadal effort. This second revision (Rev-B) of the ADD, developed to support NASA’s 2024 Architecture Concept Review (ACR), incorporates several key updates to support the continued evolution of the architecture. \nSince the last revision of the ADD, NASA has significantly improved the clarity of the objective decomposition, which distills exploration objectives into the characteristics and needs and use cases and functions needed to achieve them. The updated decomposition incorporates findings from internal studies and diverse stakeholder feedback.  A model-based systems engineering approach ensures coherence and consistency, removing inconsistency and repetition. \nRevision B also incorporates advancements to NASA’s Mars architecture, including insight into initial capabilities, systems, and operations necessary to support the Humans to Mars segment.  Updates to objective decomposition for Mars add significant detail to the ADD and hint at areas of forward work and future study. An appendix adds greater depth in the future decisions needed for Mars that will drive lunar needs. They are not the only decisions to be made, but they will have huge effects on subsequent decisions. \nNASA continues to introduce new exploration systems into the architecture. Two new elements — initial surface habitat and lunar surface cargo lander—successfully passed mission concept review in 2024 as a result of extensive analysis, concept refinement, and studies. These elements and their respective reference missions appear in this revision. \nNASA also continues to apply architecture processes to cross-agency efforts and coordination with external stakeholders by including definitions of architecture technology gaps — essential areas for engagement across and beyond the agency. The technology gaps appendix identifies areas that need attention and innovation to enable future exploration. In publishing this information, NASA communicates the technologies and capabilities that may benefit from partnership with industry, academia, other U.S. government agencies, and international space agencies. \nUltimately, NASA established the Moon to Mars Architecture approach to communicate and facilitate humanity’s journey into the universe according to the principles and recurring tenets of NASA’s Moon to Mars Strategy and Objectives. The NASA architecture team thanks their many stakeholders, participants, and partners for their efforts to review and provide feedback. Their support has been critical to the success of this approach.\n",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20240015571,
+        "id": "212322ec76364545b87f1f2a4e90d208"
+      },
+      "publications": [
+        {
+          "submissionId": 20240015571,
+          "publisher": "National Aeronautics and Space Administration",
+          "id": "455dff2637074f3b813234638344873c",
+          "publicationDate": "2025-04-01T04:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "ESDMD-001 - ADD Rev B1 Final.pdf",
+          "notes": "No rule violation, scanner picked up \"CUI\" in acuity and circuits. ",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20240015571/downloads/ESDMD-001%20-%20ADD%20Rev%20B1%20Final.pdf",
+            "pdf": "/api/citations/20240015571/downloads/ESDMD-001%20-%20ADD%20Rev%20B1%20Final.pdf",
+            "fulltext": "/api/citations/20240015571/downloads/ESDMD-001%20-%20ADD%20Rev%20B1%20Final.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 231.10037
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "submissionId": 20250010956,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "id": "8af8390c0b19491e9305b6cbfd3c5845",
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET"
+      },
+      "subjectCategories": [
+        "Lunar and Planetary Science and Exploration"
+      ],
+      "keywords": [
+        "Artemis",
+        "Segment",
+        "Element",
+        "Definition",
+        "Crewed",
+        "Mars ",
+        "Lunar",
+        "Architecture "
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20250010956,
+        "ear": "NO",
+        "id": "4e65f0640d934969b4da90f9ae25eb32",
+        "category": [
+          {
+            "submissionExportControlId": "4e65f0640d934969b4da90f9ae25eb32",
+            "id": "e5de094439c14549a6214cfc148563b5",
+            "category": 0
+          }
+        ],
+        "itar": "NO"
+      },
+      "distributionDate": "2025-12-12T05:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "959547.10.98.10",
+          "submissionId": 20250010956,
+          "id": "8c9e91e5e24a4ec0aca7ad0a83fb1f55",
+          "type": "WBS"
+        }
+      ],
+      "title": "ESDMD-001: Moon to Mars Architecture Definition Document | Revision C - 2025",
+      "stiType": "TECHNICAL_PUBLICATION",
+      "distribution": "PUBLIC",
+      "submittedDate": "2025-12-02T20:24:59.6049840+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "e53641f275f15469a1b19a8980e09171",
+          "sequence": 0,
+          "submissionId": 20250010956,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Nujoud Merancy"
+            },
+            "organization": {
+              "name": "National Aeronautics and Space Administration",
+              "location": "Washington, United States"
+            }
+          },
+          "id": "b9d267fc0984405791c712639617f91a",
+          "userType": "CIVIL",
+          "userId": "77a436fa011448feb2cfff804adfd764"
+        },
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 1,
+          "submissionId": 20250010956,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Julie A Grantier"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, United States"
+            }
+          },
+          "id": "ec59fa01a84c4f21ab65555b72828d67",
+          "userType": "CIVIL",
+          "userId": "613a8a108c85415d9a07cb779e15ff67"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 2,
+          "submissionId": 20250010956,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "George Nelson"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, United States"
+            }
+          },
+          "id": "ea42cf613aff4e5cbf7a3d49b73dfab8",
+          "userType": "CIVIL",
+          "userId": "cc696a6419f740cd866b155c58190c0d"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 3,
+          "submissionId": 20250010956,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Shatel Bhakta"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, United States"
+            }
+          },
+          "id": "4dacfc6ba6b7447781dc7004f99676b5",
+          "userType": "CIVIL",
+          "userId": "b452c0ad2c564f249eadd050320a76e3"
+        },
+        {
+          "organizationId": "68603dff261e5d2d9de5a550aa9e6b30",
+          "sequence": 4,
+          "submissionId": 20250010956,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Paul D Kessler"
+            },
+            "organization": {
+              "name": "Langley Research Center",
+              "location": "Hampton, United States"
+            }
+          },
+          "id": "a980bace4f9e42d699dae75b94654253",
+          "userType": "CIVIL",
+          "userId": "e33342e0d64a49eb98cfd44754fb2de4"
+        },
+        {
+          "organizationId": "68603dff261e5d2d9de5a550aa9e6b30",
+          "sequence": 5,
+          "submissionId": 20250010956,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Patrick R Chai"
+            },
+            "organization": {
+              "name": "Langley Research Center",
+              "location": "Hampton, United States"
+            }
+          },
+          "id": "9993cec4deb44ef285cdc619837da626",
+          "userType": "CIVIL",
+          "userId": "d7c82b8d620240dda7ffdeb092d808d3"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 6,
+          "submissionId": 20250010956,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "James J Hill"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, United States"
+            }
+          },
+          "id": "9e66d393049f4833837cb90690fa7023",
+          "userType": "CIVIL",
+          "userId": "2909a7574b5e4ef6b591c7003fa1258b"
+        },
+        {
+          "organizationId": "ff293352e05b51ca965411fc94f5e325",
+          "sequence": 7,
+          "submissionId": 20250010956,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Tiffany M Nickens"
+            },
+            "organization": {
+              "name": "Marshall Space Flight Center",
+              "location": "Redstone Arsenal, United States"
+            }
+          },
+          "id": "de19cf932c394f71906391b8ab9130db",
+          "userType": "CIVIL",
+          "userId": "561ab20cb7904f29b820e639d93d29c0"
+        },
+        {
+          "organizationId": "7f9c4cf9cb6f517db6b0fb40eb584c03",
+          "sequence": 8,
+          "submissionId": 20250010956,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Sally A Cahill"
+            },
+            "organization": {
+              "name": "Ames Research Center",
+              "location": "Mountain View, United States"
+            }
+          },
+          "id": "382bff5d0d4c40188624820a11a1402d",
+          "userType": "CIVIL",
+          "userId": "1ad91d20ecd24823a985e4cf5ddb49fe"
+        },
+        {
+          "organizationId": "e081fcbdcd5059fa8fa7b6c5c6a2c483",
+          "sequence": 9,
+          "submissionId": 20250010956,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Jacob E Bleacher"
+            },
+            "organization": {
+              "name": "Goddard Space Flight Center",
+              "location": "Greenbelt, United States"
+            }
+          },
+          "id": "9715e026709e43739a4b674cdc5ff115",
+          "userType": "CIVIL",
+          "userId": "ac2189704d8543d49e1762b0ca497299"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 10,
+          "submissionId": 20250010956,
+          "meta": {
+            "author": {
+              "name": "Audrey Morris-Eckart"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, United States"
+            }
+          },
+          "id": "a7bb7478eb3943c6800c176311b58ed6",
+          "userType": "CIVIL",
+          "userId": "0d46680b40d44fb4bcdaa28678ced9fe"
+        },
+        {
+          "organizationId": "68603dff261e5d2d9de5a550aa9e6b30",
+          "sequence": 11,
+          "submissionId": 20250010956,
+          "meta": {
+            "author": {
+              "name": "Alexus Cottonham"
+            },
+            "organization": {
+              "name": "Langley Research Center",
+              "location": "Hampton, United States"
+            }
+          },
+          "id": "e0675d9b2a2c4d82ab50ab1f7cd2e6cd",
+          "userType": "CIVIL",
+          "userId": "0fbee87c4c764c37b2e956bbb394b1fa"
+        },
+        {
+          "organizationId": "e53641f275f15469a1b19a8980e09171",
+          "sequence": 12,
+          "submissionId": 20250010956,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Nathanael McIntyre"
+            },
+            "organization": {
+              "name": "National Aeronautics and Space Administration",
+              "location": "Washington, United States"
+            }
+          },
+          "id": "44e6b7f9d638467f87edcd1da968f3c2",
+          "userType": "CIVIL",
+          "userId": "3540a95f63e8475ab7163161cec052e0"
+        },
+        {
+          "sequence": 13,
+          "submissionId": 20250010956,
+          "meta": {
+            "author": {
+              "name": "Greg Mercer"
+            },
+            "organization": {
+              "name": "NASA Communications Services",
+              "location": "Washington, United States"
+            }
+          },
+          "id": "a4b6ee7efc3443b79079d2b1afe17b0a",
+          "userType": "OTHER",
+          "userId": "9327fb011a204a7abea8d3be71216793"
+        },
+        {
+          "sequence": 14,
+          "submissionId": 20250010956,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Danny Baird"
+            },
+            "organization": {
+              "name": "NASA Communications Services",
+              "location": "Huntsville, United States"
+            }
+          },
+          "id": "3710dbbd702345c981fd5bc63587a7a4",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "1e808c7f3ca64e58a0ced649871c4cc2"
+        }
+      ],
+      "stiTypeDetails": "Technical Publication (TP)",
+      "technicalReviewType": "NASA_PEER_COMMITTEE",
+      "modified": "2026-02-02T14:49:20.3135860+00:00",
+      "id": 20250010956,
+      "created": "2025-12-02T19:59:22.7617890+00:00",
+      "center": {
+        "code": "HQ",
+        "name": "Headquarters",
+        "id": "f0865a34ba1f474d865ab51f212fc69f"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The NASA oIice of primary responsibility for this document is the Exploration Systems Development Mission Directorate (ESDMD) Strategy and Architecture Office (SAO). Visit the Moon to Mars Architecture homepage for the latest version of this document and for more detail on NASA’s Moon to Mars exploration campaign.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20250010956,
+        "id": "397a194f6f0b459998c05eeebc0d0983"
+      },
+      "publications": [
+        {
+          "submissionId": 20250010956,
+          "id": "c265906af8ea4daea6d3d864c395f06c",
+          "publicationDate": "2025-12-12T05:00:00.0000000+00:00",
+          "doi": "10.64631/LQVW3671"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "ADD Revision C - 20260115.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20250010956/downloads/ADD%20Revision%20C%20-%2020260115.pdf",
+            "pdf": "/api/citations/20250010956/downloads/ADD%20Revision%20C%20-%2020260115.pdf",
+            "fulltext": "/api/citations/20250010956/downloads/ADD%20Revision%20C%20-%2020260115.pdf.txt"
+          }
+        },
+        {
+          "draft": true,
+          "mimetype": "application/pdf",
+          "name": "ADD Revision C - 20251211 - with STI cover.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20250010956/downloads/ADD%20Revision%20C%20-%2020251211%20-%20with%20STI%20cover.pdf",
+            "pdf": "/api/citations/20250010956/downloads/ADD%20Revision%20C%20-%2020251211%20-%20with%20STI%20cover.pdf",
+            "fulltext": "/api/citations/20250010956/downloads/ADD%20Revision%20C%20-%2020251211%20-%20with%20STI%20cover.pdf.txt"
+          }
+        },
+        {
+          "draft": true,
+          "mimetype": "application/pdf",
+          "name": "20250010956.pdf",
+          "notes": "Greg Mercy and Danny Baird are contractors, their affiliation is correct as-is (NASA Communications Services).",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20250010956/downloads/20250010956.pdf",
+            "pdf": "/api/citations/20250010956/downloads/20250010956.pdf",
+            "fulltext": "/api/citations/20250010956/downloads/20250010956.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 227.715
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20220014604,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "6a00a2b0ee4840a090cad7162109ae08",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar And Planetary Science And Exploration"
+      ],
+      "keywords": [
+        "Moon to Mars",
+        "Artemis",
+        "Space Launch System",
+        "Orion"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20220014604,
+        "ear": "NO",
+        "id": "f02104aef6aa43d08385409d5fe3eb26",
+        "itar": "NO"
+      },
+      "distributionDate": "2022-10-06T04:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "981698.01.01.22.01",
+          "submissionId": 20220014604,
+          "id": "b207e25bf1904deeade0e0cc4e211b06",
+          "type": "WBS"
+        }
+      ],
+      "title": "Moon to Mars",
+      "stiType": "PRESENTATION",
+      "distribution": "PUBLIC",
+      "submittedDate": "2022-09-27T14:33:28.5008700+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 0,
+          "submissionId": 20220014604,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Kevin Melcher"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, Ohio, United States"
+            }
+          },
+          "id": "fa5a972dacdf421daf6e4fa3e08bdb2b",
+          "userType": "CIVIL",
+          "userId": "b8da71f812db4a729630b71823371b27"
+        }
+      ],
+      "stiTypeDetails": "Presentation",
+      "technicalReviewType": "NASA_TECHNICAL_MANAGEMENT",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20220014604,
+      "created": "2022-09-27T13:51:36.8701790+00:00",
+      "center": {
+        "code": "GRC",
+        "name": "Glenn Research Center",
+        "id": "19eeb25fa404421d9eaa5f876e853e3c"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "This presentation describes aspects of NASA's \"Moon to Mars\" strategy and architecture. It is being presented at the North Ridgeville Senior Center on October 6, 2022 as a NASA Speakers Bureau event. The presentation includes a brief overview of the NASA Glenn Research Center, goals of the \"Moon to Mars\" strategy, and high-level descriptions of the Space Launch System, the Orion spacecraft, and the Artemis program. ",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20220014604,
+        "id": "3fd71446ceaf4d96a3ce41528fc7536c"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20220014604,
+          "sponsors": [
+            {
+              "meta": {
+                "organization": {
+                  "name": "North Ridgeville Senior Center"
+                }
+              },
+              "meetingId": "37072e08f77746f885737979e272ad98",
+              "id": "78f0dd679fe54e7d93ced02955d0dcc1"
+            }
+          ],
+          "name": "North Ridgeville Senior Center Men's Breakfast",
+          "location": "North Ridgeville, OH",
+          "id": "37072e08f77746f885737979e272ad98",
+          "url": "https://www.nridgeville.org/protected/ArticleView.aspx?iid=52YBUY&dasi=33A0",
+          "startDate": "2022-10-06T04:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "NASA Artemis Program Melcher 20220927a.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20220014604/downloads/NASA%20Artemis%20Program%20Melcher%2020220927a.pdf",
+            "pdf": "/api/citations/20220014604/downloads/NASA%20Artemis%20Program%20Melcher%2020220927a.pdf",
+            "fulltext": "/api/citations/20220014604/downloads/NASA%20Artemis%20Program%20Melcher%2020220927a.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 221.76683
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": true,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20230000061,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "45e826e793894d0b8bce76a38d25fa95",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Engineering (General)",
+        "Lunar and Planetary Science and Exploration"
+      ],
+      "keywords": [
+        "Gaps",
+        "Capabilities",
+        "Technology Development",
+        "Moon",
+        "Mars"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20230000061,
+        "ear": "NO",
+        "id": "175674e7833c4cbb8276fa9bdec97c8b",
+        "itar": "NO"
+      },
+      "distributionDate": "2023-03-13T04:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "80HQTR19A0001",
+          "submissionId": 20230000061,
+          "id": "36132e54867745da87e0c1eaa7e97e65",
+          "type": "CONTRACT_GRANT"
+        },
+        {
+          "number": "565001.02.23",
+          "submissionId": 20230000061,
+          "id": "de9ade917a984a2b8f5b53d97263fa7e",
+          "type": "WBS"
+        }
+      ],
+      "title": "Architecture Robustness in NASA’s Moon to Mars Capability Development – FY23 Data Results",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2023-01-05T01:34:37.0502780+00:00",
+      "authorAffiliations": [
+        {
+          "sequence": 0,
+          "submissionId": 20230000061,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Alexander Burg"
+            },
+            "organization": {
+              "name": "Bryce Space and Technology "
+            }
+          },
+          "id": "8079725a2fcc4ac392d820c283c9a915",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "540542af58754e85bce0e26ced8dd5e0"
+        },
+        {
+          "organizationId": "68603dff261e5d2d9de5a550aa9e6b30",
+          "sequence": 1,
+          "submissionId": 20230000061,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Eric Stephen Mcvay"
+            },
+            "organization": {
+              "name": "Langley Research Center",
+              "location": "Hampton, Virginia, United States"
+            }
+          },
+          "id": "1a8da2c4c1494732b4d0fb7e420e7136",
+          "userType": "CIVIL",
+          "userId": "a8a8a4db7d6c43ab893ece49895e1091"
+        },
+        {
+          "organizationId": "68603dff261e5d2d9de5a550aa9e6b30",
+          "sequence": 2,
+          "submissionId": 20230000061,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "David Reeves"
+            },
+            "organization": {
+              "name": "Langley Research Center",
+              "location": "Hampton, Virginia, United States"
+            }
+          },
+          "id": "e97561029e9a42ff9390bf4cb8a7a176",
+          "userType": "CIVIL",
+          "userId": "e17d199b51854df8b3575ec8ed3aca21"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "NASA_PEER_COMMITTEE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20230000061,
+      "created": "2023-01-05T01:17:11.1149260+00:00",
+      "center": {
+        "code": "HQ",
+        "name": "Headquarters",
+        "id": "f0865a34ba1f474d865ab51f212fc69f"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "In preparation for humanity’s return to the Moon, it is important to advance technologies and capabilities that will allow for sustainability on the lunar surface and prepare for human missions to Mars. As charged in Space Policy Directive-1, NASA’s Artemis program will advance and develop technologies on the lunar surface that can be leveraged towards a safe and successful human round-trip mission to Mars. NASA’s Exploration Systems Development Mission Directorate Capabilities Integration Team (ESDMD CIT) is advancing a continuous effort to identify and map gaps between capabilities and anticipated human spaceflight architecture elements. As upcoming exploration missions approach, the architectural design tradespace increasingly narrows. This paper provides an updated exploration of certain architectural and element design choices for upcoming missions to the Moon and Mars, comparing and contrasting capability gaps and classes of capability gaps that are architecture robust with those that are not. In doing so, we identify certain capabilities as relevant, and therefore robust, across varying architectural possibilities while identifying other capabilities as only applicable to specific architectural pathways. Capabilities that are applicable to multiple elements across the architecture have more architectural breadth because of their increased likelihood of remaining relevant even if changes are made to some elements they are mapped to. Correspondingly, capabilities that are applicable to specific elements across the architecture but are necessary under almost any eventuality have more architectural depth because of their increased likelihood of remaining relevant even if architecture changes are made. One of the key analyses in this paper is an exploration of architecture robustness as a function of capability area, as defined by the NASA Technology Taxonomy. These results are then evaluated and analyzed across human spaceflight architecture elements to gain a greater understanding of the relationships between exploration capabilities and the systems that will eventually be implemented. Additional insights regarding investment strategies are also considered. General conclusions about these relationships are drawn.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20230000061,
+        "id": "8cc10e915188472d8a131c22a2f14507"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20230000061,
+          "endDate": "2023-03-11T05:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "71fb4af96d4a59b5a0a2084db7b4ce35",
+              "meta": {
+                "organization": {
+                  "name": "American Institute of Aeronautics and Astronautics",
+                  "location": "Reston, Virginia, United States"
+                }
+              },
+              "meetingId": "ddbe81967db941f1a5ddd6b84eff4ed0",
+              "id": "2c4c5f70840048bc908c01695afb840d"
+            },
+            {
+              "organizationId": "c4a72e0dfb5c47d494dd979886eacb9a",
+              "meta": {
+                "organization": {
+                  "name": "PHM Society",
+                  "location": "Nashville, TN"
+                }
+              },
+              "meetingId": "ddbe81967db941f1a5ddd6b84eff4ed0",
+              "id": "ad2fa28dd54a49888b7acfa3200a69f2"
+            },
+            {
+              "organizationId": "c89d4cba478b520a8c47b5bcac2f6911",
+              "meta": {
+                "organization": {
+                  "name": "Institute of Electrical and Electronics Engineers",
+                  "location": "Piscataway, New Jersey, United States"
+                }
+              },
+              "meetingId": "ddbe81967db941f1a5ddd6b84eff4ed0",
+              "id": "461a475a8ae14ee383ac444942eb57bf"
+            }
+          ],
+          "name": "44th IEEE Aerospace Conference",
+          "location": "Big Sky, MT",
+          "id": "ddbe81967db941f1a5ddd6b84eff4ed0",
+          "url": "https://www.aeroconf.org/",
+          "startDate": "2023-03-04T05:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "redistributedDate": "2023-03-03T18:13:07.6973990",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "name": "IEEE Architecture Robustness_2023.pptx",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20230000061/downloads/IEEE%20Architecture%20Robustness_2023.pptx",
+            "pdf": "/api/citations/20230000061/downloads/IEEE%20Architecture%20Robustness_2023.pptx.pdf",
+            "fulltext": "/api/citations/20230000061/downloads/IEEE%20Architecture%20Robustness_2023.pptx.txt"
+          }
+        },
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "IEEE Architecture Robustness Paper-FY23.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20230000061/downloads/IEEE%20Architecture%20Robustness%20Paper-FY23.pdf",
+            "pdf": "/api/citations/20230000061/downloads/IEEE%20Architecture%20Robustness%20Paper-FY23.pdf",
+            "fulltext": "/api/citations/20230000061/downloads/IEEE%20Architecture%20Robustness%20Paper-FY23.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 219.72047
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20250009282,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": true,
+        "belongsToPublisher": false,
+        "id": "337c57175e5147f3897d842e2a50bec1",
+        "belongsToUsGov": true,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar and Planetary Science and Exploration"
+      ],
+      "keywords": [
+        "Considerations",
+        "Crewed",
+        "Exploration",
+        "Architecture"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20250009282,
+        "ear": "NO",
+        "id": "5a451e6a33534490a25e3436b6e132f4",
+        "category": [
+          {
+            "submissionExportControlId": "5a451e6a33534490a25e3436b6e132f4",
+            "id": "22143bcd92f141f28165802d4f1c9593",
+            "category": 0
+          }
+        ],
+        "itar": "NO"
+      },
+      "distributionDate": "2025-10-04T04:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "IAC-25-B3.1.5"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "80KSC023CA006",
+          "submissionId": 20250009282,
+          "id": "344a42decfb042a5b2cf820ad4250509",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "title": "Why Moon and Mars? How NASA’s Moon to Mars Architecture Paves the Way to Mars",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2025-09-15T19:38:48.2025990+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "e53641f275f15469a1b19a8980e09171",
+          "sequence": 0,
+          "submissionId": 20250009282,
+          "meta": {
+            "author": {
+              "orcidId": "https://orcid.org/0000-0002-2639-5923",
+              "name": "Lori Glaze"
+            },
+            "organization": {
+              "name": "National Aeronautics and Space Administration",
+              "location": "Washington, United States"
+            }
+          },
+          "id": "a8e50112829445259477326a7c145177",
+          "userId": "d07ce8fdcdd94b14a3f54d8ac86857e0"
+        },
+        {
+          "organizationId": "e53641f275f15469a1b19a8980e09171",
+          "sequence": 1,
+          "submissionId": 20250009282,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Lakiesha Hawkins"
+            },
+            "organization": {
+              "name": "National Aeronautics and Space Administration",
+              "location": "Washington, United States"
+            }
+          },
+          "id": "f22edfcbdab44eec9c77ac706d5790a1",
+          "userType": "CIVIL",
+          "userId": "5ba283d0e5964b2eb22c9f67fdf3630b"
+        },
+        {
+          "organizationId": "e53641f275f15469a1b19a8980e09171",
+          "sequence": 2,
+          "submissionId": 20250009282,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Nujoud Merancy"
+            },
+            "organization": {
+              "name": "National Aeronautics and Space Administration",
+              "location": "Washington, United States"
+            }
+          },
+          "id": "d085117b73d94c459e68e8a6f4bd2dc2",
+          "userType": "CIVIL",
+          "userId": "77a436fa011448feb2cfff804adfd764"
+        },
+        {
+          "organizationId": "fdea3daf3b5156699f511edf3e9b9ec4",
+          "sequence": 3,
+          "submissionId": 20250009282,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Julie Grantier"
+            },
+            "organization": {
+              "name": "Glenn Research Center",
+              "location": "Cleveland, United States"
+            }
+          },
+          "id": "c17fc5a330c9452faa8547c264a96374",
+          "userType": "CIVIL",
+          "userId": "613a8a108c85415d9a07cb779e15ff67"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 4,
+          "submissionId": 20250009282,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "George Nelson"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, United States"
+            }
+          },
+          "id": "4b27b95d552643eab17030c065e55bd9",
+          "userType": "CIVIL",
+          "userId": "cc696a6419f740cd866b155c58190c0d"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 5,
+          "submissionId": 20250009282,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Eric Maier"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, United States"
+            }
+          },
+          "id": "6ca206d3289348208ece876f27d844d1",
+          "userType": "CIVIL",
+          "userId": "a6b2e332aeea431eab8505979d28eb48"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 6,
+          "submissionId": 20250009282,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Sarah Luna"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, United States"
+            }
+          },
+          "id": "0f5c06e7f09a40b8804dce9db0ed458d",
+          "userType": "CIVIL",
+          "userId": "cf57cd56cc304525ab1dd6b4cf0917e0"
+        },
+        {
+          "organizationId": "e53641f275f15469a1b19a8980e09171",
+          "sequence": 7,
+          "submissionId": 20250009282,
+          "meta": {
+            "author": {
+              "name": "Greg Mercer"
+            },
+            "organization": {
+              "name": "National Aeronautics and Space Administration",
+              "location": "Washington, United States"
+            }
+          },
+          "id": "d5ed8a871f7a4e1f99712d5695699ad3",
+          "userType": "OTHER",
+          "userId": "9327fb011a204a7abea8d3be71216793"
+        },
+        {
+          "organizationId": "eef860a233cc5daeb0f07bbed95750be",
+          "sequence": 8,
+          "submissionId": 20250009282,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Danny Baird"
+            },
+            "organization": {
+              "name": "ASRC Federal Analytical Service (United States)",
+              "location": "Huntsville, United States"
+            }
+          },
+          "id": "623bec07df024fb69436eccd79d1326e",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "1e808c7f3ca64e58a0ced649871c4cc2"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "NASA_TECHNICAL_MANAGEMENT",
+      "modified": "2025-12-11T18:52:53.5269920+00:00",
+      "id": 20250009282,
+      "created": "2025-09-15T19:34:22.0261180+00:00",
+      "center": {
+        "code": "HQ",
+        "name": "Headquarters",
+        "id": "f0865a34ba1f474d865ab51f212fc69f"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The National Aeronautics and Space Administration (NASA) is establishing a long-term presence on the Moon to prepare humanity for the journey to Mars. Crewed lunar and Mars exploration are not two separate efforts; they are deeply entwined. NASA’s Moon to Mars Architecture [1] — as described in the agency’s Architecture Definition Document [2] — applies a systems engineering approach to achieve the nation’s Moon to Mars Objectives [3], resulting in an evolutionary roadmap that proves capabilities needed for Mars at the Moon while developing requisite flight experience and industrial base.  \n\nNASA has over 60 years of experience in sending humans to — and operating in — low Earth orbit, including two decades of continuous human presence in space aboard the International Space Station. The agency has comparatively little experience with lunar exploration — nine Apollo missions on and around the Moon across five years. Thus far, humanity has only explored Mars with robots.  \n\nThis paper highlights the major differences between these destinations, including the different gravitational\nenvironments, distances, communication delay times, human health and performance challenges, and flight dynamics parameters that a mission must account for. These challenges comprise four main facets of the Moon to Mars endeavour: national posture, engineering and design, operations, and the human system. This paper’s analysis underscores that the first missions to Mars will be among the most arduous engineering challenges in history, far beyond anything yet attempted in spaceflight.  \n\nTo ensure that the first human missions to Mars safely achieve their objectives, NASA will build experience in deep space operations by exploring the Moon. Proving Mars-forward technologies and capabilities during lunar exploration missions will reduce the risk of crewed Mars missions and help NASA develop concepts of operation for long-term, deep space exploration.  \n\nNASA is not waiting for its return to the Moon to begin planning for human Mars missions. Initial planning for Mars, including documenting key driving decisions, has already begun, enabling lunar and Martian exploration to inform one another. This parallel development approach ensures that the lessons NASA learns by returning to the Moon empowers the success of Mars missions, enabling the agency to achieve its exploration goals for the benefit of all humanity.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20250009282,
+        "id": "a34a2623fc834d9e8943e2e543271213"
+      },
+      "meetings": [
+        {
+          "country": "AU",
+          "submissionId": 20250009282,
+          "endDate": "2025-10-03T04:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "d843f4f3dd0352f2808ffc1b2eadd095",
+              "meta": {
+                "organization": {
+                  "name": "European Space Agency",
+                  "location": "Paris, France"
+                }
+              },
+              "meetingId": "b55fa90df168494696c9f680249700d8",
+              "id": "9dfa9a3888e34543a3403f308ca7c54c"
+            }
+          ],
+          "name": "76th International Astronautical Congress (IAC)",
+          "location": "Sydney",
+          "id": "b55fa90df168494696c9f680249700d8",
+          "url": "https://www.iac2025.org/",
+          "startDate": "2025-09-29T04:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "2025 IAC - Why Moon and Mars - 0916 Edits.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20250009282/downloads/2025%20IAC%20-%20Why%20Moon%20and%20Mars%20-%200916%20Edits.pdf",
+            "pdf": "/api/citations/20250009282/downloads/2025%20IAC%20-%20Why%20Moon%20and%20Mars%20-%200916%20Edits.pdf",
+            "fulltext": "/api/citations/20250009282/downloads/2025%20IAC%20-%20Why%20Moon%20and%20Mars%20-%200916%20Edits.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 216.34953
+      },
+      "copyright": {
+        "disclosedInvention": false,
+        "submissionId": 20250005981,
+        "containsThirdPartyMaterial": false,
+        "containsIndication": false,
+        "belongsToPublisher": false,
+        "id": "368560da22c04dd5a27a0ce04486373f",
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Administration and Management",
+        "Engineering (General)"
+      ],
+      "keywords": [
+        "MBSE",
+        " Moon to Mars",
+        " Human Spaceflight",
+        " Systems Engineering"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20250005981,
+        "ear": "NO",
+        "id": "8006621164594e4da1ecb571af5f424e",
+        "itar": "NO"
+      },
+      "distributionDate": "2025-06-16T04:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "959547.10.01.02.10",
+          "submissionId": 20250005981,
+          "id": "663f6c692d8d4131b7fdca3397283c11",
+          "type": "WBS"
+        },
+        {
+          "number": "959547.10.01.01.62",
+          "submissionId": 20250005981,
+          "id": "1a04b37bbe8a42449d12623e34b090cb",
+          "type": "WBS"
+        },
+        {
+          "number": "959547.10.01.01.76",
+          "submissionId": 20250005981,
+          "id": "b5af5f5f313d4c2fb315e65aac04cccd",
+          "type": "WBS"
+        }
+      ],
+      "title": "Benefits of Introducing MBSE Early into NASA’s Lifecycle Phases for the Moon to Mars Architecture",
+      "stiType": "CONFERENCE_PAPER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2025-06-06T20:04:28.7266110+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "02643c9e9b525162877c70e4c186571b",
+          "sequence": 0,
+          "submissionId": 20250005981,
+          "meta": {
+            "author": {
+              "name": "Christopher R May"
+            },
+            "organization": {
+              "name": "The Aerospace Corporation",
+              "location": "El Segundo, California, United States"
+            }
+          },
+          "id": "61113a64be9a43389c2721be0214d6bd",
+          "userType": "OTHER",
+          "userId": "349913db7568417c940baa942d50f202"
+        },
+        {
+          "organizationId": "02643c9e9b525162877c70e4c186571b",
+          "sequence": 1,
+          "submissionId": 20250005981,
+          "meta": {
+            "author": {
+              "name": "Alanna E Carnevale"
+            },
+            "organization": {
+              "name": "The Aerospace Corporation",
+              "location": "El Segundo, California, United States"
+            }
+          },
+          "id": "543c701750054386ba30bb025c0a3ad1",
+          "userType": "OTHER",
+          "userId": "424467729f7145eea4ea3eb53de5bfe3"
+        },
+        {
+          "organizationId": "ff293352e05b51ca965411fc94f5e325",
+          "sequence": 2,
+          "submissionId": 20250005981,
+          "meta": {
+            "author": {
+              "name": "Kevin J Friedman"
+            },
+            "organization": {
+              "name": "Marshall Space Flight Center",
+              "location": "Redstone Arsenal, United States"
+            }
+          },
+          "id": "0e921b1e3dd046f5b71b49498affe334",
+          "userType": "CIVIL",
+          "userId": "d5c8ed9c190248bcb5809c7609b712da"
+        },
+        {
+          "organizationId": "5c929cce29b0585fb37efe77c6e9d156",
+          "sequence": 3,
+          "submissionId": 20250005981,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Jeffrey E Dyas"
+            },
+            "organization": {
+              "name": "Kennedy Space Center",
+              "location": "Merritt Island, Florida, United States"
+            }
+          },
+          "id": "dcf3f1e998834c6db62233fd2b436359",
+          "userType": "CIVIL",
+          "userId": "f0ddad1231674a78ae06926350cb8b9b"
+        }
+      ],
+      "stiTypeDetails": "Conference Paper",
+      "technicalReviewType": "NASA_TECHNICAL_MANAGEMENT",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20250005981,
+      "created": "2025-06-06T19:13:02.4675270+00:00",
+      "center": {
+        "code": "HQ",
+        "name": "Headquarters",
+        "id": "f0865a34ba1f474d865ab51f212fc69f"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "The National Aeronautics and Space Administration's (NASA) Moon to Mars (M2M) architecture is the roadmap for long-term exploration. It sets the course for humanity’s future in space exploration, guiding NASA’s missions from lunar surface operations to the first steps on Mars and the journey beyond. NASA’s M2M Enterprise is a dynamic, complex, and continuously evolving architecture that includes collaboration with partners in industry, academia, and the international community. While significant progress has been made, with key milestones such as the successful launch of Artemis I in 2022, much work remains to develop the new capabilities needed to achieve the Agency’s ambitious goals and objectives. As NASA forges ahead, the Agency is consistently conceptualizing and developing innovative systems to enhance the effectiveness of the overall architecture and meet these objectives. Historically, the early stages of system development have been document-centric, relying heavily on Microsoft Office tools to compile preliminary data and analysis. This approach has led to the creation of extensive paper trails, often resulting in inefficiencies and fragmented collaboration. To accelerate development timelines and enhance communication among teams, a shift away from these document-based methods is needed. This paper outlines a Model-Based Systems Engineering (MBSE) approach aimed at transforming the initial phases of NASA programs and projects. The approach includes a seed model designed for reusability across different concept maturation teams, offering a more integrated, collaborative, and efficient development process. The initial application of the seed model, along with key insights gained, excluding sensitive information, are detailed to convey the importance in continuing to establish this forward trajectory into a model-centric paradigm.",
+      "isLessonsLearned": true,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20250005981,
+        "id": "7c11a770ffa543389b292ca3e8384c32"
+      },
+      "meetings": [
+        {
+          "country": "US",
+          "submissionId": 20250005981,
+          "endDate": "2025-07-24T04:00:00.0000000+00:00",
+          "sponsors": [
+            {
+              "organizationId": "71fb4af96d4a59b5a0a2084db7b4ce35",
+              "meta": {
+                "organization": {
+                  "name": "American Institute of Aeronautics and Astronautics",
+                  "location": "Reston, Virginia, United States"
+                }
+              },
+              "meetingId": "9bed915e0d8f408b95a201f2d406bee3",
+              "id": "7a120166394143a3846e5b0f2c80766b"
+            }
+          ],
+          "name": "ASCEND (Accelerating Space Commerce, Exploration, and New Discovery) ",
+          "location": "Las Vegas, NV",
+          "id": "9bed915e0d8f408b95a201f2d406bee3",
+          "url": "https://www.ascend.events/",
+          "startDate": "2025-07-22T04:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [
+        {
+          "disseminated": "DOCUMENT_AND_METADATA",
+          "id": 20250006008,
+          "type": "SEE_ALSO",
+          "title": "Benefits of Introducing MBSE Early into NASA’s Lifecycle Phases for the Moon to Mars Architecture",
+          "stiType": "PRESENTATION",
+          "distribution": "PUBLIC",
+          "status": "CURATED"
+        }
+      ],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "name": "ASCEND-ESDMD_MBSE-2025.docx",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20250005981/downloads/ASCEND-ESDMD_MBSE-2025.docx",
+            "fulltext": "/api/citations/20250005981/downloads/ASCEND-ESDMD_MBSE-2025.docx.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 215.77939
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20230002706,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "b5d7a466f5b64008a3f2a6ae0291dd01",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Astronautics (General)"
+      ],
+      "keywords": [
+        "Moon-to-Mars Strategy",
+        "M2M Strategy"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20230002706,
+        "ear": "NO",
+        "id": "07fdb1cf79a64526aac965194de6f0b5",
+        "itar": "NO"
+      },
+      "distributionDate": "2023-04-18T04:00:00.0000000+00:00",
+      "otherReportNumbers": [
+        "ESDMD-001"
+      ],
+      "fundingNumbers": [
+        {
+          "number": "80LARC17C0003",
+          "submissionId": 20230002706,
+          "id": "6e91b1b160ca462ea497bc23815292a8",
+          "type": "CONTRACT_GRANT"
+        }
+      ],
+      "submittedDate": "2023-02-28T13:27:59.4503440+00:00",
+      "title": "Exploration Systems Development Mission Directorate (ESDMD) Moon-to-Mars Architecture Definition Document",
+      "stiType": "TECHNICAL_PUBLICATION",
+      "distribution": "PUBLIC",
+      "authorAffiliations": [
+        {
+          "organizationId": "68603dff261e5d2d9de5a550aa9e6b30",
+          "sequence": 0,
+          "submissionId": 20230002706,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Kandyce E Goodliff"
+            },
+            "organization": {
+              "name": "Langley Research Center",
+              "location": "Hampton, Virginia, United States"
+            }
+          },
+          "id": "85f41440a25a418c919ef642469cba3b",
+          "userType": "CIVIL",
+          "userId": "14e1e7ac0ad4468b89ff536ace0e5059"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 1,
+          "submissionId": 20230002706,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Nujoud F Merancy"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "f8791e6d1e8f4a0b921372a0e462c7f3",
+          "userType": "CIVIL",
+          "userId": "77a436fa011448feb2cfff804adfd764"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 2,
+          "submissionId": 20230002706,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Shatel S Bhakta"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "ff8de7bdd4024975aa5dacf7fdcca6ad",
+          "userType": "CIVIL",
+          "userId": "b452c0ad2c564f249eadd050320a76e3"
+        },
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 3,
+          "submissionId": 20230002706,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Michelle A Rucker"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, Texas, United States"
+            }
+          },
+          "id": "8666aaf6460e4f319cda2aa6132da257",
+          "userType": "CIVIL",
+          "userId": "72674de5a9184bb7be425ac5b78d73a6"
+        },
+        {
+          "organizationId": "68603dff261e5d2d9de5a550aa9e6b30",
+          "sequence": 4,
+          "submissionId": 20230002706,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Patrick Rei-Po Chai"
+            },
+            "organization": {
+              "name": "Langley Research Center",
+              "location": "Hampton, Virginia, United States"
+            }
+          },
+          "id": "5cab5072649142dd94490f0ac6d6dbe6",
+          "userType": "CIVIL",
+          "userId": "d7c82b8d620240dda7ffdeb092d808d3"
+        },
+        {
+          "organizationId": "68603dff261e5d2d9de5a550aa9e6b30",
+          "sequence": 5,
+          "submissionId": 20230002706,
+          "meta": {
+            "author": {
+              "name": "Travis E Ashurst"
+            },
+            "organization": {
+              "name": "Langley Research Center",
+              "location": "Hampton, Virginia, United States"
+            }
+          },
+          "id": "0148ece10125473a92a56a71367038bd",
+          "userType": "CIVIL",
+          "userId": "1127f3f140394393be38ff82a175a7e4"
+        },
+        {
+          "organizationId": "68603dff261e5d2d9de5a550aa9e6b30",
+          "sequence": 6,
+          "submissionId": 20230002706,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Patrick A Troutman"
+            },
+            "organization": {
+              "name": "Langley Research Center",
+              "location": "Hampton, Virginia, United States"
+            }
+          },
+          "id": "dc76782b9e1d40569f1a17a2dfd24ae0",
+          "userType": "CIVIL",
+          "userId": "1847a643d5a94ad991058cef391f4714"
+        },
+        {
+          "organizationId": "a25cc56567355a4ea518b280a66764ae",
+          "sequence": 7,
+          "submissionId": 20230002706,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Chel Stromgren"
+            },
+            "organization": {
+              "name": "Analytical Mechanics Associates (United States)",
+              "location": "Hampton, Virginia, United States"
+            }
+          },
+          "id": "f2b8fbe6c25346038f76ebff8bc032f9",
+          "userType": "CONTRACTOR_GRANTEE",
+          "userId": "d594c292ad4141c4ac5e36b8d1c128b6"
+        }
+      ],
+      "stiTypeDetails": "Technical Publication (TP)",
+      "technicalReviewType": "NASA_PEER_COMMITTEE",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20230002706,
+      "created": "2023-02-28T13:08:18.2448590+00:00",
+      "center": {
+        "code": "HQ",
+        "name": "Headquarters",
+        "id": "f0865a34ba1f474d865ab51f212fc69f"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "abstract": "There are many opportunities in executing the ambitious Moon-to-Mars efforts through an integrated architecture. NASA addresses this in its Moon-to-Mars Strategy and Objectives Development2 document (hereafter referred to as the M2M Strategy). Many of these opportunities involve establishing a system engineering framework that can support the breadth of necessary program and system contributions. By applying these needs to nearer-term lunar development, NASA will be instituting the process, procedures, and techniques needed to enable longer-term Mars goals and more. Some of the challenges being addressed in the M2M Strategy are associated with the architecture definition and include broad/changing goals, funding, and external pressures/influences. This document and the methodology outlined for architecture definition have been crafted to contend with these using an iterative and adaptable framework.\n\nThe primary purpose of the Architecture Definition Document (ADD) is to capture the methodology, organization, and decomposition necessary to translate the broad objectives outlined in the M2M Strategy into functions and use cases that can be allocated to implementable programs and projects. Inherent in this process will be the need to communicate the long-term vision, maintain traceability to responsible parties, and iterate on the architectural implementation as innovations and solutions develop. This document will be updated and improved in conjunction with the Architecture Concept Review (ACR) which will be held annually to help unify the Agency and to get buy-in and input from across the Agency on the human exploration architecture. The annual nature of the process provides the opportunity to continually incorporate new developments in technologies and new partnerships, whether they be with industry, the U.S. Government, international entities, or academia.",
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20230002706,
+        "id": "eaa84f22c87541fabc3d66f4c10fd76b"
+      },
+      "status": "CURATED",
+      "publications": [
+        {
+          "submissionId": 20230002706,
+          "publisher": "National Aeronautics and Space Administration",
+          "id": "afd47c855fa44ff889ba5848cf36cd79",
+          "publicationDate": "2023-04-01T04:00:00.0000000+00:00"
+        }
+      ],
+      "redistributedDate": "2023-04-18T21:53:36.6190090",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "M2MADD_ESDMD-001(TP-20230002706).pdf",
+          "notes": "False Positive: Triggered text part of a word, not an indication of CUI content.",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20230002706/downloads/M2MADD_ESDMD-001(TP-20230002706).pdf",
+            "pdf": "/api/citations/20230002706/downloads/M2MADD_ESDMD-001(TP-20230002706).pdf",
+            "fulltext": "/api/citations/20230002706/downloads/M2MADD_ESDMD-001(TP-20230002706).pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    },
+    {
+      "_meta": {
+        "score": 211.54538
+      },
+      "copyright": {
+        "thirdPartyPermissionsProduced": false,
+        "disclosedToPublic": false,
+        "containsIndication": false,
+        "publisherPermissionOrRightsToDistribute": false,
+        "belongsToUsGov": false,
+        "determinationType": "GOV_PUBLIC_USE_PERMITTED",
+        "thirdPartyContentCondition": "NOT_SET",
+        "belongsToContractor": false,
+        "disclosedInvention": false,
+        "licenseType": "NO",
+        "submissionId": 20240000449,
+        "containsThirdPartyMaterial": false,
+        "belongsToPublisher": false,
+        "id": "578bd3d063794d9691f046a53975720f",
+        "belongsToAuthors": false
+      },
+      "subjectCategories": [
+        "Lunar and Planetary Science and Exploration"
+      ],
+      "keywords": [
+        "Architecture",
+        "Moon to Mars",
+        "Mars",
+        "Moon",
+        "Objectives"
+      ],
+      "exportControl": {
+        "isExportControl": "NO",
+        "submissionId": 20240000449,
+        "ear": "NO",
+        "id": "985ee132357c482c9ff337ab549cab5b",
+        "itar": "NO"
+      },
+      "distributionDate": "2024-01-23T05:00:00.0000000+00:00",
+      "fundingNumbers": [
+        {
+          "number": "CM000",
+          "submissionId": 20240000449,
+          "id": "9a35664c7552420aab1f7f4c63f3f111",
+          "type": "OTHER"
+        }
+      ],
+      "title": "Moon to Mars Architecture Executive Overview ",
+      "stiType": "OTHER",
+      "distribution": "PUBLIC",
+      "submittedDate": "2024-01-11T00:19:01.3346080+00:00",
+      "authorAffiliations": [
+        {
+          "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+          "sequence": 0,
+          "submissionId": 20240000449,
+          "meta": {
+            "author": {
+              "orcidId": "",
+              "name": "Nujoud F Merancy"
+            },
+            "organization": {
+              "name": "Johnson Space Center",
+              "location": "Houston, United States"
+            }
+          },
+          "id": "4b97eb40ab334ba79dddd0383e69126b",
+          "userType": "CIVIL",
+          "userId": "77a436fa011448feb2cfff804adfd764"
+        }
+      ],
+      "stiTypeDetails": "Other - Executive Overview for ADD Rev-A, a technical document released by ESDMD",
+      "technicalReviewType": "SINGLE_EXPERT",
+      "modified": "2025-08-31T18:39:21.7150190+00:00",
+      "id": 20240000449,
+      "created": "2024-01-11T00:14:09.9635670+00:00",
+      "center": {
+        "code": "HQ",
+        "name": "Headquarters",
+        "id": "f0865a34ba1f474d865ab51f212fc69f"
+      },
+      "onlyAbstract": false,
+      "sensitiveInformation": 2,
+      "isLessonsLearned": false,
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "cui": {
+        "isCui": false,
+        "submissionId": 20240000449,
+        "id": "bb2b05594c5a4c8a8f07a0ebae479ac9"
+      },
+      "publications": [
+        {
+          "submissionId": 20240000449,
+          "publisher": "National Aeronautics and Space Administration",
+          "id": "a5163a11145e42b7a8ab8a803a7950f1",
+          "publicationDate": "2024-01-23T05:00:00.0000000+00:00"
+        }
+      ],
+      "status": "CURATED",
+      "related": [],
+      "downloads": [
+        {
+          "draft": false,
+          "mimetype": "application/pdf",
+          "name": "23 Executive Overview v15.pdf",
+          "type": "STI",
+          "links": {
+            "original": "/api/citations/20240000449/downloads/23%20Executive%20Overview%20v15.pdf",
+            "pdf": "/api/citations/20240000449/downloads/23%20Executive%20Overview%20v15.pdf",
+            "fulltext": "/api/citations/20240000449/downloads/23%20Executive%20Overview%20v15.pdf.txt"
+          }
+        }
+      ],
+      "downloadsAvailable": true,
+      "index": "submissions-2026-10-22-05-25"
+    }
+  ],
+  "aggregations": {
+    "created": {
+      "buckets": [
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 184
+        },
+        {
+          "key_as_string": "2023",
+          "key": 1672531200000,
+          "doc_count": 61
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 49
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 41
+        },
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 33
+        },
+        {
+          "key_as_string": "2020",
+          "key": 1577836800000,
+          "doc_count": 28
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 19
+        },
+        {
+          "key_as_string": "2021",
+          "key": 1609459200000,
+          "doc_count": 17
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 16
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 10
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 9
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2004",
+          "key": 1072915200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2006",
+          "key": 1136073600000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "author": {
+      "doc_count_error_upper_bound": 6,
+      "sum_other_doc_count": 2123,
+      "buckets": [
+        {
+          "key": "Paul Kessler",
+          "doc_count": 11
+        },
+        {
+          "key": "Nujoud Merancy",
+          "doc_count": 10
+        },
+        {
+          "key": "Andrew Choate",
+          "doc_count": 9
+        },
+        {
+          "key": "Sumrall, Phil",
+          "doc_count": 8
+        },
+        {
+          "key": "Borowski, Stanley K.",
+          "doc_count": 7
+        },
+        {
+          "key": "Evan Anzalone",
+          "doc_count": 7
+        },
+        {
+          "key": "Cheryl Gramling",
+          "doc_count": 6
+        },
+        {
+          "key": "Creech, Steve",
+          "doc_count": 6
+        },
+        {
+          "key": "Melodie Yashar",
+          "doc_count": 6
+        },
+        {
+          "key": "Sanders, Gerald B.",
+          "doc_count": 6
+        },
+        {
+          "key": "Jason Ballard",
+          "doc_count": 5
+        },
+        {
+          "key": "Burke, Laura M.",
+          "doc_count": 4
+        },
+        {
+          "key": "Edwin Z Crues",
+          "doc_count": 4
+        },
+        {
+          "key": "Evan Jensen",
+          "doc_count": 4
+        },
+        {
+          "key": "Julie Kleinhenz",
+          "doc_count": 4
+        },
+        {
+          "key": "Keaton Dodd",
+          "doc_count": 4
+        },
+        {
+          "key": "Larson, William E.",
+          "doc_count": 4
+        },
+        {
+          "key": "May, Todd A.",
+          "doc_count": 4
+        },
+        {
+          "key": "McCurdy, David R.",
+          "doc_count": 4
+        },
+        {
+          "key": "Mercer, Carolyn R.",
+          "doc_count": 4
+        }
+      ]
+    },
+    "reportNumber": {
+      "doc_count_error_upper_bound": 5,
+      "sum_other_doc_count": 508,
+      "buckets": [
+        {
+          "key": "GLEX-2012.09.3.3x12551",
+          "doc_count": 2
+        },
+        {
+          "key": "ICES-2026-189",
+          "doc_count": 2
+        },
+        {
+          "key": "#8049",
+          "doc_count": 1
+        },
+        {
+          "key": "AAS 11-102",
+          "doc_count": 1
+        },
+        {
+          "key": "AAS PAPER 91-066",
+          "doc_count": 1
+        },
+        {
+          "key": "AC-06-A5.2.06",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA PAPER 90-3847",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA PAPER 93-4170",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA Paper 2004-3253",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA Paper 2006-5363",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA Paper 2007-6196",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA Paper 2008-5616",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA Paper 2009-6532",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA Paper 2013-5253",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA Paper 2013-5458",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA Paper 2013-5465",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA Paper 2013-5492",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA Paper 2017-4938",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA Paper 2017ý5272",
+          "doc_count": 1
+        },
+        {
+          "key": "AIAA Paper-2011-7252",
+          "doc_count": 1
+        }
+      ]
+    },
+    "center": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "MSFC",
+          "doc_count": 141
+        },
+        {
+          "key": "JSC",
+          "doc_count": 104
+        },
+        {
+          "key": "GRC",
+          "doc_count": 66
+        },
+        {
+          "key": "HQ",
+          "doc_count": 47
+        },
+        {
+          "key": "KSC",
+          "doc_count": 27
+        },
+        {
+          "key": "ARC",
+          "doc_count": 26
+        },
+        {
+          "key": "LaRC",
+          "doc_count": 26
+        },
+        {
+          "key": "JPL",
+          "doc_count": 23
+        },
+        {
+          "key": "CDMS",
+          "doc_count": 22
+        },
+        {
+          "key": "GSFC",
+          "doc_count": 13
+        },
+        {
+          "key": "2230",
+          "doc_count": 1
+        },
+        {
+          "key": "SSC",
+          "doc_count": 1
+        }
+      ]
+    },
+    "index": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "submissions-2026-10-22-05-25",
+          "doc_count": 497
+        }
+      ]
+    },
+    "fundingNumber": {
+      "doc_count_error_upper_bound": 5,
+      "sum_other_doc_count": 319,
+      "buckets": [
+        {
+          "key": "80MSFC18C0011",
+          "doc_count": 10
+        },
+        {
+          "key": "451582.81.72",
+          "doc_count": 9
+        },
+        {
+          "key": "452582.81.72",
+          "doc_count": 8
+        },
+        {
+          "key": "542193.13.62",
+          "doc_count": 7
+        },
+        {
+          "key": "596118.04.64.62",
+          "doc_count": 7
+        },
+        {
+          "key": "NASA",
+          "doc_count": 6
+        },
+        {
+          "key": "NNC12BA01B",
+          "doc_count": 6
+        },
+        {
+          "key": "251546.04.30.72",
+          "doc_count": 4
+        },
+        {
+          "key": "380742.25.06.62.01",
+          "doc_count": 4
+        },
+        {
+          "key": "452582.03.72",
+          "doc_count": 4
+        },
+        {
+          "key": "452582.11.23",
+          "doc_count": 4
+        },
+        {
+          "key": "573754.20.04.62",
+          "doc_count": 4
+        },
+        {
+          "key": "651937.06.03.72",
+          "doc_count": 4
+        },
+        {
+          "key": "80JSC023DA010",
+          "doc_count": 4
+        },
+        {
+          "key": "959547.10.01.02.72",
+          "doc_count": 4
+        },
+        {
+          "key": "NNA14AB82C",
+          "doc_count": 4
+        },
+        {
+          "key": " 596118.04.25.21.07",
+          "doc_count": 3
+        },
+        {
+          "key": "009562.50.10.62",
+          "doc_count": 3
+        },
+        {
+          "key": "089407.09.23",
+          "doc_count": 3
+        },
+        {
+          "key": "452582.81.23",
+          "doc_count": 3
+        }
+      ]
+    },
+    "published": {
+      "buckets": [
+        {
+          "key_as_string": "2008",
+          "key": 1199145600000,
+          "doc_count": 31
+        },
+        {
+          "key_as_string": "2006",
+          "key": 1136073600000,
+          "doc_count": 24
+        },
+        {
+          "key_as_string": "2007",
+          "key": 1167609600000,
+          "doc_count": 22
+        },
+        {
+          "key_as_string": "2024",
+          "key": 1704067200000,
+          "doc_count": 22
+        },
+        {
+          "key_as_string": "2012",
+          "key": 1325376000000,
+          "doc_count": 20
+        },
+        {
+          "key_as_string": "2010",
+          "key": 1262304000000,
+          "doc_count": 18
+        },
+        {
+          "key_as_string": "2023",
+          "key": 1672531200000,
+          "doc_count": 17
+        },
+        {
+          "key_as_string": "2009",
+          "key": 1230768000000,
+          "doc_count": 14
+        },
+        {
+          "key_as_string": "2011",
+          "key": 1293840000000,
+          "doc_count": 12
+        },
+        {
+          "key_as_string": "2014",
+          "key": 1388534400000,
+          "doc_count": 12
+        },
+        {
+          "key_as_string": "2020",
+          "key": 1577836800000,
+          "doc_count": 11
+        },
+        {
+          "key_as_string": "2005",
+          "key": 1104537600000,
+          "doc_count": 10
+        },
+        {
+          "key_as_string": "2013",
+          "key": 1356998400000,
+          "doc_count": 10
+        },
+        {
+          "key_as_string": "2016",
+          "key": 1451606400000,
+          "doc_count": 10
+        },
+        {
+          "key_as_string": "2017",
+          "key": 1483228800000,
+          "doc_count": 10
+        },
+        {
+          "key_as_string": "1992",
+          "key": 694224000000,
+          "doc_count": 9
+        },
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 9
+        },
+        {
+          "key_as_string": "2018",
+          "key": 1514764800000,
+          "doc_count": 7
+        },
+        {
+          "key_as_string": "2019",
+          "key": 1546300800000,
+          "doc_count": 7
+        },
+        {
+          "key_as_string": "1993",
+          "key": 725846400000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2015",
+          "key": 1420070400000,
+          "doc_count": 6
+        },
+        {
+          "key_as_string": "2004",
+          "key": 1072915200000,
+          "doc_count": 5
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 4
+        },
+        {
+          "key_as_string": "1991",
+          "key": 662688000000,
+          "doc_count": 3
+        },
+        {
+          "key_as_string": "1988",
+          "key": 567993600000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1990",
+          "key": 631152000000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1994",
+          "key": 757382400000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "2001",
+          "key": 978307200000,
+          "doc_count": 2
+        },
+        {
+          "key_as_string": "1978",
+          "key": 252460800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1995",
+          "key": 788918400000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1997",
+          "key": 852076800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "1998",
+          "key": 883612800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2000",
+          "key": 946684800000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2003",
+          "key": 1041379200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2021",
+          "key": 1609459200000,
+          "doc_count": 1
+        },
+        {
+          "key_as_string": "2022",
+          "key": 1640995200000,
+          "doc_count": 1
+        }
+      ]
+    },
+    "distribution": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "PUBLIC",
+          "doc_count": 497
+        }
+      ]
+    },
+    "stiType": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "CONFERENCE_PAPER",
+          "doc_count": 238
+        },
+        {
+          "key": "PRESENTATION",
+          "doc_count": 99
+        },
+        {
+          "key": "ABSTRACT",
+          "doc_count": 46
+        },
+        {
+          "key": "TECHNICAL_MEMORANDUM",
+          "doc_count": 22
+        },
+        {
+          "key": "PREPRINT",
+          "doc_count": 18
+        },
+        {
+          "key": "OTHER",
+          "doc_count": 17
+        },
+        {
+          "key": "POSTER",
+          "doc_count": 11
+        },
+        {
+          "key": "EXTENDED_ABSTRACT",
+          "doc_count": 10
+        },
+        {
+          "key": "WHITE_PAPER",
+          "doc_count": 10
+        },
+        {
+          "key": "TECHNICAL_PUBLICATION",
+          "doc_count": 8
+        },
+        {
+          "key": "CONFERENCE_PROCEEDINGS",
+          "doc_count": 6
+        },
+        {
+          "key": "CONTRACTOR_REPORT",
+          "doc_count": 4
+        },
+        {
+          "key": "REPRINT",
+          "doc_count": 3
+        },
+        {
+          "key": "ACCEPTED_MANUSCRIPT",
+          "doc_count": 2
+        },
+        {
+          "key": "CONTRACTOR_OR_GRANTEE_REPORT",
+          "doc_count": 2
+        },
+        {
+          "key": "CONFERENCE_PUBLICATION",
+          "doc_count": 1
+        }
+      ]
+    },
+    "subjectCategory": {
+      "doc_count_error_upper_bound": 3,
+      "sum_other_doc_count": 142,
+      "buckets": [
+        {
+          "key": "Lunar And Planetary Science And Exploration",
+          "doc_count": 95
+        },
+        {
+          "key": "Lunar and Planetary Science and Exploration",
+          "doc_count": 60
+        },
+        {
+          "key": "Launch Vehicles And Launch Operations",
+          "doc_count": 39
+        },
+        {
+          "key": "Spacecraft Propulsion And Power",
+          "doc_count": 37
+        },
+        {
+          "key": "Man/System Technology And Life Support",
+          "doc_count": 31
+        },
+        {
+          "key": "Spacecraft Design, Testing And Performance",
+          "doc_count": 30
+        },
+        {
+          "key": "Engineering (General)",
+          "doc_count": 26
+        },
+        {
+          "key": "Space Sciences (General)",
+          "doc_count": 17
+        },
+        {
+          "key": "Man/System Technology and Life Support",
+          "doc_count": 15
+        },
+        {
+          "key": "Aerospace Medicine",
+          "doc_count": 14
+        },
+        {
+          "key": "Space Communications, Spacecraft Communications, Command And Tracking",
+          "doc_count": 13
+        },
+        {
+          "key": "Space Processing",
+          "doc_count": 13
+        },
+        {
+          "key": "Astronautics (General)",
+          "doc_count": 11
+        },
+        {
+          "key": "Spacecraft Design, Testing and Performance",
+          "doc_count": 10
+        },
+        {
+          "key": "Cybernetics, Artificial Intelligence and Robotics",
+          "doc_count": 9
+        },
+        {
+          "key": "Life Sciences (General)",
+          "doc_count": 9
+        },
+        {
+          "key": "Lunar And Planetary Exploration",
+          "doc_count": 9
+        },
+        {
+          "key": "Astrodynamics",
+          "doc_count": 8
+        },
+        {
+          "key": "Communications And Radar",
+          "doc_count": 8
+        },
+        {
+          "key": "Propellants And Fuels",
+          "doc_count": 8
+        }
+      ]
+    },
+    "disseminated": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "DOCUMENT_AND_METADATA",
+          "doc_count": 430
+        },
+        {
+          "key": "METADATA_ONLY",
+          "doc_count": 67
+        }
+      ]
+    },
+    "stiTypeDetails": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Conference Paper",
+          "doc_count": 238
+        },
+        {
+          "key": "Presentation",
+          "doc_count": 99
+        },
+        {
+          "key": "Abstract",
+          "doc_count": 46
+        },
+        {
+          "key": "Technical Memorandum (TM)",
+          "doc_count": 22
+        },
+        {
+          "key": "Preprint (Draft being sent to journal)",
+          "doc_count": 18
+        },
+        {
+          "key": "Poster",
+          "doc_count": 11
+        },
+        {
+          "key": "Extended Abstract",
+          "doc_count": 10
+        },
+        {
+          "key": "White Paper",
+          "doc_count": 10
+        },
+        {
+          "key": "Other",
+          "doc_count": 9
+        },
+        {
+          "key": "Technical Publication (TP)",
+          "doc_count": 8
+        },
+        {
+          "key": "Conference Proceedings",
+          "doc_count": 6
+        },
+        {
+          "key": "Contractor Report (CR)",
+          "doc_count": 4
+        },
+        {
+          "key": "Other - NASA Tech Brief",
+          "doc_count": 4
+        },
+        {
+          "key": "Reprint (Version printed in journal)",
+          "doc_count": 3
+        },
+        {
+          "key": "Accepted Manuscript (Version with final changes)",
+          "doc_count": 2
+        },
+        {
+          "key": "Contractor or Grantee Report",
+          "doc_count": 2
+        },
+        {
+          "key": "Other - Human Research Program Project Document",
+          "doc_count": 2
+        },
+        {
+          "key": "Conference Publication (CP)",
+          "doc_count": 1
+        },
+        {
+          "key": "Other - CIF Final Report Summary",
+          "doc_count": 1
+        },
+        {
+          "key": "Other - Executive Overview for ADD Rev-A, a technical document released by ESDMD",
+          "doc_count": 1
+        }
+      ]
+    },
+    "organization": {
+      "doc_count_error_upper_bound": 5,
+      "sum_other_doc_count": 459,
+      "buckets": [
+        {
+          "key": "Johnson Space Center",
+          "doc_count": 101
+        },
+        {
+          "key": "NASA Marshall Space Flight Center",
+          "doc_count": 88
+        },
+        {
+          "key": "Marshall Space Flight Center",
+          "doc_count": 76
+        },
+        {
+          "key": "NASA Glenn Research Center",
+          "doc_count": 56
+        },
+        {
+          "key": "NASA Johnson Space Center",
+          "doc_count": 55
+        },
+        {
+          "key": "Langley Research Center",
+          "doc_count": 42
+        },
+        {
+          "key": "Glenn Research Center",
+          "doc_count": 34
+        },
+        {
+          "key": "Jacobs (United States)",
+          "doc_count": 28
+        },
+        {
+          "key": "Ames Research Center",
+          "doc_count": 27
+        },
+        {
+          "key": "Kennedy Space Center",
+          "doc_count": 24
+        },
+        {
+          "key": "Jet Propulsion Lab., California Inst. of Tech.",
+          "doc_count": 23
+        },
+        {
+          "key": "NASA Kennedy Space Center",
+          "doc_count": 23
+        },
+        {
+          "key": "National Aeronautics and Space Administration",
+          "doc_count": 20
+        },
+        {
+          "key": "KBR (United States)",
+          "doc_count": 19
+        },
+        {
+          "key": "Goddard Space Flight Center",
+          "doc_count": 15
+        },
+        {
+          "key": "NASA Ames Research Center",
+          "doc_count": 13
+        },
+        {
+          "key": "NASA Goddard Space Flight Center",
+          "doc_count": 13
+        },
+        {
+          "key": "NASA Langley Research Center",
+          "doc_count": 13
+        },
+        {
+          "key": "Analytical Mechanics Associates (United States)",
+          "doc_count": 12
+        },
+        {
+          "key": "The Aerospace Corporation",
+          "doc_count": 10
+        }
+      ]
+    },
+    "modified": {
+      "buckets": [
+        {
+          "key_as_string": "2025",
+          "key": 1735689600000,
+          "doc_count": 476
+        },
+        {
+          "key_as_string": "2026",
+          "key": 1767225600000,
+          "doc_count": 21
+        }
+      ]
+    },
+    "keyword": {
+      "doc_count_error_upper_bound": 5,
+      "sum_other_doc_count": 770,
+      "buckets": [
+        {
+          "key": "Mars",
+          "doc_count": 40
+        },
+        {
+          "key": "Moon",
+          "doc_count": 32
+        },
+        {
+          "key": "Architecture",
+          "doc_count": 18
+        },
+        {
+          "key": "Artemis",
+          "doc_count": 15
+        },
+        {
+          "key": "Common Habitat",
+          "doc_count": 12
+        },
+        {
+          "key": "ISRU",
+          "doc_count": 12
+        },
+        {
+          "key": "Moon to Mars",
+          "doc_count": 10
+        },
+        {
+          "key": "Exploration",
+          "doc_count": 9
+        },
+        {
+          "key": "Habitat",
+          "doc_count": 8
+        },
+        {
+          "key": "Lunar",
+          "doc_count": 8
+        },
+        {
+          "key": "Human Spaceflight",
+          "doc_count": 6
+        },
+        {
+          "key": "In Situ Resource Utilization",
+          "doc_count": 6
+        },
+        {
+          "key": "ECLSS",
+          "doc_count": 5
+        },
+        {
+          "key": "Transit Habitat",
+          "doc_count": 5
+        },
+        {
+          "key": "Deep Space",
+          "doc_count": 4
+        },
+        {
+          "key": "Gateway",
+          "doc_count": 4
+        },
+        {
+          "key": "navigation",
+          "doc_count": 4
+        },
+        {
+          "key": "Antioxidant ",
+          "doc_count": 3
+        },
+        {
+          "key": "Autonomy",
+          "doc_count": 3
+        },
+        {
+          "key": "BioNutrients",
+          "doc_count": 3
+        }
+      ]
+    }
+  }
+}

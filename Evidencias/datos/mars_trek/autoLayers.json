@@ -1,0 +1,28 @@
+[
+  {
+    "selected": true,
+    "combined": true,
+    "name":"CTX HiRISE",
+    "trekProjection": "urn:ogc:def:crs:EPSG::104905",
+    "zoomRange": {
+      "from":7,
+      "to":18
+    },
+    "values": [
+      {
+        "from": 11,
+        "facetKeys":"instrument|productCat1",
+        "facetValues":"(CTX HiRISE)|Imagery"
+      },
+      {
+        "from": 7,
+        "facetKeys":"instrument|productCat1",
+        "facetValues":"CTX|Imagery"
+      }
+    ],
+    "isAutoLayer": {
+      "facetKeys":"instrument|productCat1",
+      "facetValues":"(CTX HiRISE)|Imagery"
+    }
+  }
+]

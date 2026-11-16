@@ -1,0 +1,18 @@
+{
+  "generado": "2026-10-24T23:57:54-0500",
+  "bbox_jezero": "77.0,17.9,78.1,19.0",
+  "total_recursos": 18,
+  "correctos": 17,
+  "errores": 1,
+  "features": {
+    "perseverance_traverse.geojson": 332,
+    "mars2020_waypoints.geojson": 7,
+    "landing_ellipse.geojson": 1,
+    "ez_roi_jezero.geojson": 2,
+    "ez_buffer_jezero.geojson": 1,
+    "hydrous_minerals.geojson": 1,
+    "global_geology.geojson": 2,
+    "mars2020_sites.geojson": 2
+  },
+  "servicios": 76
+}

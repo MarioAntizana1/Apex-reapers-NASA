@@ -1,0 +1,698 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 1545,
+    "db_response_time_ms": 155,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Mars surface EVA time duration astronaut) in the full text",
+      "x_new_oql": "get works with (Mars surface EVA time duration astronaut) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Mars surface EVA time duration astronaut",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Mars surface EVA time duration astronaut&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W1533279005",
+      "doi": null,
+      "title": "Interviews with the Apollo lunar surface astronauts in support of planning for EVA systems design",
+      "publication_year": 1994,
+      "cited_by_count": 23,
+      "type": "report",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5038635840",
+            "display_name": "Mary M. Connors",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mary M. Connors",
+          "raw_affiliation_strings": [
+            "NASA Ames Research Center Moffett Field, CA, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Ames Research Center Moffett Field, CA, United States",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108252989",
+            "display_name": "Dean B. Eppler",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Dean Eppler",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5018147139",
+            "display_name": "Daniel G Morrow",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Daniel Morrow",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:repository.hou.usra.edu:20.500.11753/674",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/20.500.11753/674",
+        "pdf_url": "http://hdl.handle.net/20.500.11753/674",
+        "source": {
+          "id": "https://openalex.org/S4306402445",
+          "display_name": "USRA Houston Repository (Lunar and Planetary Institute)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1329765538",
+          "host_organization_name": "Universities Space Research Association",
+          "host_organization_lineage": [
+            "https://openalex.org/I1329765538"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "http://www.lpi.usra.edu/lunar/documents/NTRS/collection2/NASA_TM_108846.pdf",
+        "raw_type": "Technical Report"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/20.500.11753/674",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W4416921094",
+      "doi": "https://doi.org/10.32865/2346/102680",
+      "title": "Localized Environmental Characterization System for the Lunar and Mars Surfaces",
+      "publication_year": 2025,
+      "cited_by_count": 0,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": null,
+            "display_name": "Joshua A. Todd",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4387153765",
+              "display_name": "Collins Aerospace (United States)",
+              "ror": "https://ror.org/04k67r158",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I1306686416",
+                "https://openalex.org/I4387153765"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Joshua A. Todd",
+          "raw_affiliation_strings": [
+            "Collins Aerospace , Windsor Locks , Connecticut , 06096"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Collins Aerospace , Windsor Locks , Connecticut , 06096",
+              "institution_ids": [
+                "https://openalex.org/I4387153765"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5112450415",
+            "display_name": "G. Fletcher",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4387153765",
+              "display_name": "Collins Aerospace (United States)",
+              "ror": "https://ror.org/04k67r158",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I1306686416",
+                "https://openalex.org/I4387153765"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gabriel Fletcher",
+          "raw_affiliation_strings": [
+            "Collins Aerospace , Windsor Locks , Connecticut , 06096"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Collins Aerospace , Windsor Locks , Connecticut , 06096",
+              "institution_ids": [
+                "https://openalex.org/I4387153765"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.32865/2346/102680",
+        "doi": "https://doi.org/10.32865/2346/102680",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.32865/2346/102680",
+        "pdf_url": "https://ttu-ir.tdl.org/bitstreams/91bb3196-0649-451b-a3b1-8d62cf2ebf7c/download",
+        "source": {
+          "id": "https://openalex.org/S4306499376",
+          "display_name": "International Conference on Environmental Systems (ICES)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "54th International Conference on Environmental Systems",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://ttu-ir.tdl.org/bitstreams/91bb3196-0649-451b-a3b1-8d62cf2ebf7c/download",
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2748346229",
+      "doi": null,
+      "title": "Interviews with Apollo Lunar Surface Astronauts in Support of EVA Systems Design",
+      "publication_year": 2010,
+      "cited_by_count": 0,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5108252989",
+            "display_name": "Dean B. Eppler",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149382",
+              "display_name": "Johnson Space Center",
+              "ror": "https://ror.org/04xx4z452",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210124779",
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Dean Eppler",
+          "raw_affiliation_strings": [
+            "NASA Johnson Space Center Houston, TX, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA Johnson Space Center Houston, TX, United States",
+              "institution_ids": [
+                "https://openalex.org/I4210149382"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:casi.ntrs.nasa.gov:20160009346",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/2060/20160009346",
+        "pdf_url": "http://hdl.handle.net/2060/20160009346",
+        "source": {
+          "id": "https://openalex.org/S4377196257",
+          "display_name": "NASA STI Repository (National Aeronautics and Space Administration)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4210124779",
+          "host_organization_name": "National Aeronautics and Space Administration",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210124779"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "CASI",
+        "raw_type": "JSC-CN-29714"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/2060/20160009346",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W3162254808",
+      "doi": "https://doi.org/10.1038/s41526-021-00144-w",
+      "title": "Planetary extravehicular activity (EVA) risk mitigation strategies for long-duration space missions",
+      "publication_year": 2021,
+      "cited_by_count": 61,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5012068133",
+            "display_name": "Blaze Belobrajdic",
+            "orcid": "https://orcid.org/0000-0003-1862-5378",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1862-5378"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91045830",
+              "display_name": "Texas A&M University",
+              "ror": "https://ror.org/01f5ytq51",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91045830"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Blaze Belobrajdic",
+          "raw_affiliation_strings": [
+            "Department of Aerospace Engineering, Texas A&M University, College Station, TX, United States"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1862-5378",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Aerospace Engineering, Texas A&M University, College Station, TX, United States",
+              "institution_ids": [
+                "https://openalex.org/I91045830"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087627284",
+            "display_name": "Kate Melone",
+            "orcid": "https://orcid.org/0000-0003-2676-866X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2676-866X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91045830",
+              "display_name": "Texas A&M University",
+              "ror": "https://ror.org/01f5ytq51",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91045830"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kate Melone",
+          "raw_affiliation_strings": [
+            "Department of Aerospace Engineering, Texas A&M University, College Station, TX, United States"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2676-866X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Aerospace Engineering, Texas A&M University, College Station, TX, United States",
+              "institution_ids": [
+                "https://openalex.org/I91045830"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5045679904",
+            "display_name": "Ana Diaz‐Artiles",
+            "orcid": "https://orcid.org/0000-0002-0459-9327",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0459-9327"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91045830",
+              "display_name": "Texas A&M University",
+              "ror": "https://ror.org/01f5ytq51",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91045830"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Ana Diaz-Artiles",
+          "raw_affiliation_strings": [
+            "Department of Aerospace Engineering, Texas A&M University, College Station, TX, United States. adartiles@tamu.edu",
+            "Department of Aerospace Engineering, Texas A&M University, College Station, TX, United States"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-0459-9327",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Aerospace Engineering, Texas A&M University, College Station, TX, United States. adartiles@tamu.edu",
+              "institution_ids": [
+                "https://openalex.org/I91045830"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Aerospace Engineering, Texas A&M University, College Station, TX, United States",
+              "institution_ids": [
+                "https://openalex.org/I91045830"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1038/s41526-021-00144-w",
+        "doi": "https://doi.org/10.1038/s41526-021-00144-w",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41526-021-00144-w",
+        "pdf_url": "https://www.nature.com/articles/s41526-021-00144-w.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210211936",
+          "display_name": "npj Microgravity",
+          "issn_l": "2373-8065",
+          "issn": [
+            "2373-8065"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "npj Microgravity",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41526-021-00144-w.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W1674907988",
+      "doi": null,
+      "title": "Supported independence on Mars: Design and evaluation of model-based ePartner support for astronauts on Mars",
+      "publication_year": 2015,
+      "cited_by_count": 0,
+      "type": "dissertation",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5072061409",
+            "display_name": "J.W. Baggerman",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "J.W. Baggerman",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:tudelft.nl:uuid:c65ce42f-79a4-40c2-a535-272548d351a4",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://resolver.tudelft.nl/uuid:c65ce42f-79a4-40c2-a535-272548d351a4",
+        "pdf_url": "http://resolver.tudelft.nl/uuid:c65ce42f-79a4-40c2-a535-272548d351a4",
+        "source": {
+          "id": "https://openalex.org/S4306400906",
+          "display_name": "Research Repository (Delft University of Technology)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I98358874",
+          "host_organization_name": "Delft University of Technology",
+          "host_organization_lineage": [
+            "https://openalex.org/I98358874"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "master thesis"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://resolver.tudelft.nl/uuid:c65ce42f-79a4-40c2-a535-272548d351a4",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2339698619",
+      "doi": null,
+      "title": "Integration of Multiple Sensors for Astronaut Navigation on The Lunar Surface",
+      "publication_year": 2011,
+      "cited_by_count": 6,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5100934490",
+            "display_name": "Shaojun He",
+            "orcid": "https://orcid.org/0009-0001-9531-9051",
+            "observed_orcids": [
+              "https://orcid.org/0009-0001-9531-9051"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I52357470",
+              "display_name": "The Ohio State University",
+              "ror": "https://ror.org/00rs6vg23",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I52357470"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Shaojun He",
+          "raw_affiliation_strings": [
+            "the Ohio State University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "the Ohio State University",
+              "institution_ids": [
+                "https://openalex.org/I52357470"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "pmh:oai:etd.ohiolink.edu:osu1324496686",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://rave.ohiolink.edu/etdc/view?acc_num=osu1324496686",
+        "pdf_url": "https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1324496686&disposition=inline",
+        "source": {
+          "id": "https://openalex.org/S4377196344",
+          "display_name": "OhioLink ETD Center (Ohio Library and Information Network)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4210155183",
+          "host_organization_name": "Ohio Library and Information Network",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210155183"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "http://rave.ohiolink.edu/etdc/view?acc_num=osu1324496686",
+        "raw_type": "text"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1324496686&disposition=inline",
+        "any_repository_has_fulltext": true
+      }
+    }
+  ],
+  "group_by": []
+}

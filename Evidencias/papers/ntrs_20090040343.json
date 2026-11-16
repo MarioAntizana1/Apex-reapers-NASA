@@ -1,0 +1,240 @@
+{
+  "copyright": {
+    "thirdPartyPermissionsProduced": false,
+    "disclosedToPublic": false,
+    "containsIndication": false,
+    "publisherPermissionOrRightsToDistribute": false,
+    "belongsToUsGov": false,
+    "determinationType": "PUBLIC_USE_PERMITTED",
+    "thirdPartyContentCondition": "NOT_SET",
+    "belongsToContractor": false,
+    "disclosedInvention": false,
+    "licenseType": "NO",
+    "submissionId": 20090040343,
+    "containsThirdPartyMaterial": false,
+    "belongsToPublisher": false,
+    "id": "0085f4d0c19a4c3799372d607095c4a3",
+    "belongsToAuthors": false
+  },
+  "subjectCategories": [
+    "Lunar And Planetary Science And Exploration"
+  ],
+  "exportControl": {
+    "isExportControl": "NO",
+    "eccnNumber": "",
+    "submissionId": 20090040343,
+    "ear": "NO",
+    "id": "22b936a6d8ad4314a0dd2ff3dd465e0a",
+    "itar": "NO"
+  },
+  "distributionDate": "2009-11-19T05:00:00.0000000+00:00",
+  "otherReportNumbers": [
+    "JSC-CN-19120",
+    "Report Number: JSC-CN-19120"
+  ],
+  "fundingNumbers": [
+    {
+      "number": "604746.02.26.01.01.01.10",
+      "submissionId": 20090040343,
+      "id": "caa5cdc644554e2ea2113435a4bf87a4",
+      "type": "WBS"
+    }
+  ],
+  "title": "Human Exploration of Mars Design Reference Architecture 5.0",
+  "stiType": "CONFERENCE_PAPER",
+  "distribution": "PUBLIC",
+  "submittedDate": "2013-08-24T17:05:00.0000000+00:00",
+  "authorAffiliations": [
+    {
+      "organizationId": "4c6a2b878d76521da887cdcb2564bf90",
+      "sequence": 0,
+      "submissionId": 20090040343,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "Bret G Drake"
+        },
+        "organization": {
+          "name": "Johnson Space Center",
+          "location": "Houston, Texas, United States"
+        }
+      },
+      "id": "ba6b3a53960f4ae7afed5339db290a73",
+      "userType": "CONTRACTOR_GRANTEE",
+      "userId": "658c8e6cb8fc4c3b943210e59fa1322b"
+    },
+    {
+      "organizationId": "435aea0dd7bf56cf8410f37a8120754b",
+      "sequence": 1,
+      "submissionId": 20090040343,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "Stephen J Hoffman"
+        },
+        "organization": {
+          "name": "Space Applications Services (Belgium)",
+          "location": "Zaventem, Belgium"
+        }
+      },
+      "id": "285ee7adc1c24604b2df295127ffe33c",
+      "userType": "CONTRACTOR_GRANTEE",
+      "userId": "fa4d05d0105c4b25970d2883ff9656db"
+    },
+    {
+      "organizationId": "f93929fef1eb5d9bb0bc1f566ba28e6f",
+      "sequence": 2,
+      "submissionId": 20090040343,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "David W Beaty"
+        },
+        "organization": {
+          "name": "Jet Propulsion Lab",
+          "location": "La Cañada Flintridge, California, United States"
+        }
+      },
+      "id": "81dc9ddfbee845c490b4482121d7f52e",
+      "userType": "CONTRACTOR_GRANTEE",
+      "userId": "df9dff849cfd41aa8d0b13cfa1c1a0f2"
+    }
+  ],
+  "stiTypeDetails": "Conference Paper",
+  "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+  "modified": "2025-08-31T18:39:21.7150190+00:00",
+  "id": 20090040343,
+  "legacyMeta": {
+    "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+    "accessionNumber": ""
+  },
+  "created": "2013-08-24T17:05:00.0000000+00:00",
+  "center": {
+    "code": "JSC",
+    "name": "Johnson Space Center",
+    "id": "dd46994b91a94cb2a2722617cbbadc55"
+  },
+  "onlyAbstract": false,
+  "sensitiveInformation": 2,
+  "abstract": "This paper provides a summary of the 2007 Mars Design Reference Architecture 5.0 (DRA 5.0), which is the latest in a series of NASA Mars reference missions. It provides a vision of one potential approach to human Mars exploration including how Constellation systems can be used. The reference architecture provides a common framework for future planning of systems concepts, technology development, and operational testing as well as Mars robotic missions, research that is conducted on the International Space Station, and future lunar exploration missions. This summary the Mars DRA 5.0 provides an overview of the overall mission approach, surface strategy and exploration goals, as well as the key systems and challenges for the first three human missions to Mars.",
+  "isLessonsLearned": false,
+  "disseminated": "DOCUMENT_AND_METADATA",
+  "cui": {
+    "isCui": false,
+    "submissionId": 20090040343,
+    "id": "5b72e50939fc430e9b6197bdead397f0"
+  },
+  "meetings": [
+    {
+      "submissionId": 20090040343,
+      "name": "Institute of Electrical and Electronics Engineers",
+      "location": "New York, NY, United States",
+      "id": "d5a2bb26b8b1429faf8e2f196e41a63a"
+    },
+    {
+      "country": "US",
+      "submissionId": 20090040343,
+      "endDate": "2010-03-13T05:00:00.0000000+00:00",
+      "sponsors": [
+        {
+          "organizationId": "c89d4cba478b520a8c47b5bcac2f6911",
+          "meta": {
+            "organization": {
+              "name": "Institute of Electrical and Electronics Engineers",
+              "location": "Piscataway, New Jersey, United States"
+            }
+          },
+          "meetingId": "bb520c69df48424b958a3fe0396bfe7b",
+          "id": "6825ce9bc06444ae87cf71d2435cf29d"
+        }
+      ],
+      "name": "IEEE Aerospace Conference",
+      "location": "Big Sky, MT",
+      "id": "bb520c69df48424b958a3fe0396bfe7b",
+      "startDate": "2010-03-06T05:00:00.0000000+00:00"
+    }
+  ],
+  "publications": [
+    {
+      "submissionId": 20090040343,
+      "issn": "1095-323X",
+      "publisher": "Institute of Electrical and Electronics Engineers",
+      "id": "7780867035bc412296626c87bb979d3a",
+      "publicationName": "2010 IEEE Aerospace Conference",
+      "publicationDate": "2010-04-15T04:00:00.0000000+00:00",
+      "doi": "10.1109/AERO.2010.5446736"
+    }
+  ],
+  "status": "CURATED",
+  "related": [
+    {
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "id": 20090010571,
+      "type": "SEE_ALSO",
+      "title": "Mars Design Reference Architecture 5.0 Study: Executive Summary",
+      "stiType": "PRESENTATION",
+      "distribution": "PUBLIC",
+      "status": "CURATED"
+    },
+    {
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "id": 20160003093,
+      "type": "SEE_ALSO",
+      "title": "Human Exploration of Mars Design Reference Architecture 5.0, Addendum #2",
+      "stiType": "SPECIAL_PUBLICATION",
+      "distribution": "PUBLIC",
+      "status": "CURATED"
+    },
+    {
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "id": 20090010571,
+      "type": "SEE_ALSO",
+      "title": "Mars Design Reference Architecture 5.0 Study: Executive Summary",
+      "stiType": "PRESENTATION",
+      "distribution": "PUBLIC",
+      "status": "CURATED"
+    },
+    {
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "id": 20160003093,
+      "type": "SEE_ALSO",
+      "title": "Human Exploration of Mars Design Reference Architecture 5.0, Addendum #2",
+      "stiType": "SPECIAL_PUBLICATION",
+      "distribution": "PUBLIC",
+      "status": "CURATED"
+    },
+    {
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "id": 20090012109,
+      "type": "SEE_ALSO",
+      "title": "Human Exploration of Mars Design Reference Architecture 5.0",
+      "stiType": "PRESENTATION",
+      "distribution": "PUBLIC",
+      "status": "CURATED"
+    },
+    {
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "id": 20090012109,
+      "type": "SEE_ALSO",
+      "title": "Human Exploration of Mars Design Reference Architecture 5.0",
+      "stiType": "PRESENTATION",
+      "distribution": "PUBLIC",
+      "status": "CURATED"
+    }
+  ],
+  "downloads": [
+    {
+      "draft": false,
+      "mimetype": "application/pdf",
+      "name": "20090040343.pdf",
+      "type": "STI",
+      "links": {
+        "original": "/api/citations/20090040343/downloads/20090040343.pdf",
+        "pdf": "/api/citations/20090040343/downloads/20090040343.pdf",
+        "fulltext": "/api/citations/20090040343/downloads/20090040343.txt"
+      }
+    }
+  ],
+  "downloadsAvailable": true,
+  "index": "submissions-2026-10-22-05-25"
+}

@@ -1,0 +1,341 @@
+{
+  "copyright": {
+    "thirdPartyPermissionsProduced": false,
+    "disclosedToPublic": false,
+    "containsIndication": false,
+    "publisherPermissionOrRightsToDistribute": false,
+    "belongsToUsGov": false,
+    "determinationType": "PUBLIC_USE_PERMITTED",
+    "thirdPartyContentCondition": "NOT_SET",
+    "belongsToContractor": false,
+    "disclosedInvention": false,
+    "submissionId": 20150021128,
+    "containsThirdPartyMaterial": false,
+    "belongsToPublisher": false,
+    "id": "d8cb7a1b69124af89317c2ed88780e77",
+    "belongsToAuthors": false
+  },
+  "subjectCategories": [
+    "Lunar And Planetary Science And Exploration"
+  ],
+  "exportControl": {
+    "isExportControl": "NO",
+    "submissionId": 20150021128,
+    "ear": "NO",
+    "id": "1a78301c5aa4470f801918d4a7a8a3ee",
+    "itar": "NO"
+  },
+  "distributionDate": "2019-07-12T00:00:00.0000000+00:00",
+  "otherReportNumbers": [
+    "JSC-CN-34419",
+    "Report Number: JSC-CN-34419"
+  ],
+  "title": "Noctis Landing: A Proposed Landing Site/Exploration Zone for Human Missions to the Surface of Mars",
+  "stiType": "CONFERENCE_PAPER",
+  "distribution": "PUBLIC",
+  "submittedDate": "2015-11-12T15:52:46.0800000+00:00",
+  "authorAffiliations": [
+    {
+      "sequence": 0,
+      "submissionId": 20150021128,
+      "meta": {
+        "author": {
+          "name": "Lee, Pascal"
+        },
+        "organization": {
+          "name": "Search for Extraterrestrial Intelligence Inst.",
+          "location": "Moffett Field, CA, United States"
+        }
+      },
+      "id": "b2b6949c81944df9b07cfcca3636cbf6"
+    },
+    {
+      "sequence": 1,
+      "submissionId": 20150021128,
+      "meta": {
+        "author": {
+          "name": "Acedillo, Shannen"
+        },
+        "organization": {
+          "name": "Search for Extraterrestrial Intelligence Inst.",
+          "location": "Moffett Field, CA, United States"
+        }
+      },
+      "id": "c9b1a6e36e4243a59d85dadfab5026ec"
+    },
+    {
+      "sequence": 2,
+      "submissionId": 20150021128,
+      "meta": {
+        "author": {
+          "name": "Braham, Stephen"
+        },
+        "organization": {
+          "name": "Mars Inst.",
+          "location": "Moffett Field, CA, United States"
+        }
+      },
+      "id": "d006aa8ba4ae466aac4f7b98eba62dda"
+    },
+    {
+      "sequence": 3,
+      "submissionId": 20150021128,
+      "meta": {
+        "author": {
+          "name": "Brown, Adrian"
+        },
+        "organization": {
+          "name": "Search for Extraterrestrial Intelligence Inst.",
+          "location": "Moffett Field, CA, United States"
+        }
+      },
+      "id": "de9110c3d79442cc939f7acb50226dae"
+    },
+    {
+      "sequence": 4,
+      "submissionId": 20150021128,
+      "meta": {
+        "author": {
+          "name": "Elphic, Richard"
+        },
+        "organization": {
+          "name": "NASA Ames Research Center",
+          "location": "Moffett Field, CA, United States"
+        }
+      },
+      "id": "f508139aad974e9aaad32a50827ce42b"
+    },
+    {
+      "sequence": 5,
+      "submissionId": 20150021128,
+      "meta": {
+        "author": {
+          "name": "Fong, Terry"
+        },
+        "organization": {
+          "name": "NASA Ames Research Center",
+          "location": "Moffett Field, CA, United States"
+        }
+      },
+      "id": "c5800682cd654110a158e475fa64e1b1"
+    },
+    {
+      "sequence": 6,
+      "submissionId": 20150021128,
+      "meta": {
+        "author": {
+          "name": "Glass, Brian"
+        },
+        "organization": {
+          "name": "NASA Ames Research Center",
+          "location": "Moffett Field, CA, United States"
+        }
+      },
+      "id": "ca60aae31f3b4e888b880f63fb0efc7f"
+    },
+    {
+      "sequence": 7,
+      "submissionId": 20150021128,
+      "meta": {
+        "author": {
+          "name": "Hoftun, Christopher"
+        },
+        "organization": {
+          "name": "Mars Inst.",
+          "location": "Moffett Field, CA, United States"
+        }
+      },
+      "id": "67078dcec2f54ce1a00193d9a3f91fdf"
+    },
+    {
+      "sequence": 8,
+      "submissionId": 20150021128,
+      "meta": {
+        "author": {
+          "name": "Johansen, Brage W."
+        },
+        "organization": {
+          "name": "Mars Inst.",
+          "location": "Moffett Field, CA, United States"
+        }
+      },
+      "id": "eb79a00439e5418eb430de806fd793ce"
+    },
+    {
+      "sequence": 9,
+      "submissionId": 20150021128,
+      "meta": {
+        "author": {
+          "name": "Lorber, Kira"
+        },
+        "organization": {
+          "name": "Mars Inst.",
+          "location": "Moffett Field, CA, United States"
+        }
+      },
+      "id": "e5e2e6188c3a4a9fbd52ee4000c6569d"
+    },
+    {
+      "sequence": 10,
+      "submissionId": 20150021128,
+      "meta": {
+        "author": {
+          "name": "Mittlefehldt, David"
+        },
+        "organization": {
+          "name": "NASA Johnson Space Center",
+          "location": "Houston, TX, United States"
+        }
+      },
+      "id": "8a85ac3af5e74530b3d85725fc3f118d"
+    },
+    {
+      "sequence": 11,
+      "submissionId": 20150021128,
+      "meta": {
+        "author": {
+          "name": "Takagi, Yuta"
+        },
+        "organization": {
+          "name": "Mars Inst.",
+          "location": "Moffett Field, CA, United States"
+        }
+      },
+      "id": "ad55239688e0488087eae06b89c3d9bc"
+    },
+    {
+      "sequence": 12,
+      "submissionId": 20150021128,
+      "meta": {
+        "author": {
+          "name": "Thomas, Peter"
+        },
+        "organization": {
+          "name": "Cornell Univ.",
+          "location": "Ithaca, NY, United States"
+        }
+      },
+      "id": "a39920eb1fdb4cdb92c920466d5d92ce"
+    },
+    {
+      "sequence": 13,
+      "submissionId": 20150021128,
+      "meta": {
+        "author": {
+          "name": "West, Michael"
+        },
+        "organization": {
+          "name": "Mars Inst.",
+          "location": "Moffett Field, CA, United States"
+        }
+      },
+      "id": "b1107fbb749f4d448e0e7dec74bc6ffb"
+    },
+    {
+      "sequence": 14,
+      "submissionId": 20150021128,
+      "meta": {
+        "author": {
+          "name": "West, Stephen"
+        },
+        "organization": {
+          "name": "Mars Inst.",
+          "location": "Moffett Field, CA, United States"
+        }
+      },
+      "id": "d8d6d5d7798b4d15bf7a3a6af2c53dfe"
+    },
+    {
+      "sequence": 15,
+      "submissionId": 20150021128,
+      "meta": {
+        "author": {
+          "name": "Zolensky, Michael"
+        },
+        "organization": {
+          "name": "NASA Johnson Space Center",
+          "location": "Houston, TX, United States"
+        }
+      },
+      "id": "c118b2921ddc47e9a361161b880fbb21"
+    }
+  ],
+  "stiTypeDetails": "Conference Paper",
+  "technicalReviewType": "TECHNICAL_REVIEW_TYPE_NONE",
+  "modified": "2025-08-31T18:39:21.7150190+00:00",
+  "id": 20150021128,
+  "legacyMeta": {
+    "__type": "LegacyMetaIndex, StrivesApi.ServiceModel",
+    "accessionNumber": ""
+  },
+  "created": "2015-11-12T15:52:46.0800000+00:00",
+  "center": {
+    "code": "JSC",
+    "name": "Johnson Space Center",
+    "id": "dd46994b91a94cb2a2722617cbbadc55"
+  },
+  "onlyAbstract": false,
+  "sensitiveInformation": 2,
+  "abstract": "The proposed Noctis Landing Site/Exploration Zone (LS/EZ) is shown in Figure 1. Our preliminary study suggests that the proposed site meets all key Science and Resources (incl. Civil Engineering) requirements. The site is of significant interest, as the EZ not only offers a large number and wide range of regions of interest (ROIs) for short-term exploration, it is also located strategically at the crossroads between Tharsis and Valles Marineris, which are key for long-term exploration. The proposed site contains Regions of Interest (ROIs) that meet the following Science requirements: -­‐ Access to (1) deposits with a high preservation potential for evidence of past habitability and fossil biosignatures and (2) sites that are promising for present habitability. The site presents a wide variety of ROIs qith likely aqueous features and deposits, including sinous channels and valleys, slope gullies, lobate debris aprons, impact craters with lobate ejecta flows, and \"bathtub ring\" deposits. Neutron spectrometry also suggests hydrogen is present within the topmost 0.3 m or so of 4 to 10 wt% WEH (Water Equivalent Hydrogen). -­‐ Noachian and/or Hesperian rocks in a stratigraphic context that have a high likelihood of containing trapped atmospheric gases. Collapsed canyon rim material with preserved stratigraphy is abundantly present and accessible. -­‐ Exposures of at least two crustal units that have regional or global extents, that are suitable for radiometric dating, and that have relative ages that sample a significant range of martian geological time. Canyons floors in Ius Chasma, Tithonium Chasma, and plateau tops on Tharsis and in Sinai Planum offer access to distinct crustal units of regional extent. -­‐ Access to outcrops with linked morphological and/or geochemical signatures indicative of aqueous or groundwater/ mineral interactions. Iron and sulfur-bearing deposits on canyon floors in Noctis Labyrinthus, and in Ius Chasma (IC) and Tithonium Chasma (TC) offer many such outcrop options. -­‐ Identifiable stratigraphic contacts and cross-cutting relationships from which relative ages can be determined. In place and collapsed canyon walls in NL, TC, and IC offer such opportunities. -­‐ Other types of ROIs include access points to surrounding plateau top areas for longer term regional exploration. A key attribute of the proposed Noctic Landing site is its strategic location to allow the shortest possible surface excusions to Tharsis and Valles Marineris (VM). VM is the feature and region on Mars that exposes the longest record of Mars' geology and evolution through time. Tharsis is the region of Mars that has experienced the longest and most extensive volcanic history, and might still be volcanically active. Some of the youngest lava flows on Mars have been identified on the western flanks of the Tharsis Bulge, i.e., within driving range of future longrange (500 - 1000 km) pressurized rover traverses. The proposed site also contains ROIs that offer the following Resources (incl. Civil Engineering) characteristics: -­‐ Access to raw material that exhibits the potential to (1) be used as feedstock for water-generating in situ resource utilization (ISRU) processes and (2) yield significant quantities (greater than 100 MT) of water. The raw material is likely in the form of hydrated minerals, and possibly ice/regolith mix. The top of the raw material deposit is at the surface. -­‐ Access to a region where infrastructure can be emplaced or constructed. This region is less than 5 km from the LS and contains flat, stable terrain. The region exhibits evidence for an abundant source of loose regolith. Several deep pits in the area combined with the availability of sand suggests that some natural terrain features can be adapted for construction purposes. -­‐ Access to raw material that exhibits the potential to be used as metal feedstock for ISRU and construction purposes. Iron and sulfur-rich mineral surface deposits have been identified in CRISM data in many locations in this area. Noctis Landing is the lowest-altitude location on Mars that straddles both the Tharsis region (above average geothermal gradients) and Valles Marineris (minimal crustal thickness from surface (valley floor) to a subsurface liquid water table. Noctis Landing has the potential for being an ideal site for eventual deep drilling on Mars to access deep subsurface liquid water and potentially encountering extant life. Available data remains insufficient to fully qualify the Noctis Landing site. Additional remote sensing data (visible, Near and Mid-IR, and radar) and surface reconnaissance via a high-mobility robotic rover are recommended. In particular, it will be important to assess the trafficability of the site, and its potential for yielding water and metals as a resource. Access to plateau tops from the Noctis Landing site on the canyon floor should be demonstrated. Future exploration of the site would also be enhanced significantly by the availability of robotic (tele-operatable) surveying and sample-collecting drones. Testing of the use of such collaborative science and exploration technologies should be conducted at terrestrial sites such as the Haughton-Mars Project site on Devon Island, High Arctic, among others. Note: Noctis Landing is not an official Mars nomenclature name for this location. Because the area of the proposed LS/EZ had no name, and because it is close to Noctis Labyrinthus to the West while being distinct from it, the provisional name Noctis Landing is proposed. Noctis means night in Latin.",
+  "isLessonsLearned": false,
+  "disseminated": "DOCUMENT_AND_METADATA",
+  "meetings": [
+    {
+      "country": "United States",
+      "submissionId": 20150021128,
+      "endDate": "2015-10-22T00:00:00.0000000+00:00",
+      "sponsors": [
+        {
+          "organizationId": "8ccaff322ecb48d2811364bf91d9f59d",
+          "meta": {
+            "organization": {
+              "name": "Lunar and Planetary Inst.",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "meetingId": "0acfc2b55d2e4e3c99a2c04a8a0a639a",
+          "id": "e02112dd73ba4f82a7da77284590fb21"
+        },
+        {
+          "organizationId": "c48d8d5db08e4b80b5f256cdcd1360dd",
+          "meta": {
+            "organization": {
+              "name": "Universities Space Research Association",
+              "location": "Houston, TX, United States"
+            }
+          },
+          "meetingId": "0acfc2b55d2e4e3c99a2c04a8a0a639a",
+          "id": "30689c77ff14422ba4e4c657cc3a24a5"
+        }
+      ],
+      "name": "2015 Annual Meeting of the Lunar Exploration Analysis Group",
+      "location": "Columbia, MD",
+      "id": "0acfc2b55d2e4e3c99a2c04a8a0a639a",
+      "startDate": "2015-10-20T00:00:00.0000000+00:00"
+    }
+  ],
+  "publications": [
+    {
+      "submissionId": 20150021128,
+      "id": "aeba67f1bc774ab08d04a19b45f84f45",
+      "publicationDate": "2015-10-20T00:00:00.0000000+00:00"
+    }
+  ],
+  "status": "CURATED",
+  "related": [],
+  "downloads": [
+    {
+      "draft": false,
+      "mimetype": "application/pdf",
+      "name": "20150021128.pdf",
+      "type": "STI",
+      "links": {
+        "original": "/api/citations/20150021128/downloads/20150021128.pdf",
+        "pdf": "/api/citations/20150021128/downloads/20150021128.pdf",
+        "fulltext": "/api/citations/20150021128/downloads/20150021128.txt"
+      }
+    }
+  ],
+  "downloadsAvailable": true,
+  "index": "submissions-2026-10-22-05-25"
+}

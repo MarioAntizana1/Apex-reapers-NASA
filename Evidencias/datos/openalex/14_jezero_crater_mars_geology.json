@@ -1,0 +1,4722 @@
+{
+  "meta": {
+    "notice": "No API key, so this request shares one free daily budget ($0.10) with everyone on your network's IP address. The mailto parameter doesn't raise this limit. Get a free key with its own $1/day at https://openalex.org/settings/api and add api_key=YOUR_KEY to your requests. An AI agent can get one for its user in one call: POST https://api.openalex.org/api-keys with {\"email\": \"<your user's email>\"}; we email them a link, and the key works once they click it. Docs for agents: https://help.openalex.org/llms.txt",
+    "count": 1369,
+    "db_response_time_ms": 81,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "get works with (Jezero crater Mars geology) in the full text",
+      "x_new_oql": "get works with (Jezero crater Mars geology) in the full text",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "Jezero crater Mars geology",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:Jezero crater Mars geology&per_page=6",
+      "order": "best matches first",
+      "order_default": true
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W3107052864",
+      "doi": "https://doi.org/10.3133/sim3464",
+      "title": "Geologic map of Jezero crater and the Nili Planum region, Mars",
+      "publication_year": 2020,
+      "cited_by_count": 46,
+      "type": "report",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5064030380",
+            "display_name": "Vivian Zheng Sun",
+            "orcid": "https://orcid.org/0000-0003-1480-7369",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1480-7369"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Vivian Z. Sun",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1480-7369",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5079710286",
+            "display_name": "Kathryn M. Stack",
+            "orcid": "https://orcid.org/0000-0003-3444-6695",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3444-6695"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kathryn M. Stack",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-3444-6695",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.3133/sim3464",
+        "doi": "https://doi.org/10.3133/sim3464",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3133/sim3464",
+        "pdf_url": "https://pubs.usgs.gov/sim/3464/sim3464_pamphlet.pdf",
+        "source": {
+          "id": "https://openalex.org/S2764444101",
+          "display_name": "Scientific investigations map",
+          "issn_l": "2329-1311",
+          "issn": [
+            "2329-1311",
+            "2329-132X",
+            "2333-7923"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [
+            "poland-20",
+            "russia-white-list-4"
+          ],
+          "host_organization": "https://openalex.org/P4310319934",
+          "host_organization_name": "United States Geological Survey",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319934",
+            "https://openalex.org/P4310316088"
+          ],
+          "host_organization_lineage_names": [
+            "United States Geological Survey",
+            "United States Department of the Interior"
+          ],
+          "type": "journal"
+        },
+        "license": "public-domain",
+        "license_id": "https://openalex.org/licenses/public-domain",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Scientific Investigations Map",
+        "raw_type": "report-component"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://pubs.usgs.gov/sim/3464/sim3464_pamphlet.pdf",
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W4310088460",
+      "doi": "https://doi.org/10.1126/sciadv.abo4856",
+      "title": "Geological, multispectral, and meteorological imaging results from the Mars 2020 Perseverance rover in Jezero crater",
+      "publication_year": 2022,
+      "cited_by_count": 74,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5013004995",
+            "display_name": "James F. Bell III",
+            "orcid": "https://orcid.org/0000-0002-2006-4074",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2006-4074"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "James F. Bell",
+          "raw_affiliation_strings": [
+            "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-2006-4074",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5021573194",
+            "display_name": "J. N. Maki",
+            "orcid": "https://orcid.org/0000-0002-7887-0343",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7887-0343"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Justin N. Maki",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7887-0343",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5079267352",
+            "display_name": "Sanna Holm‐Alwmark",
+            "orcid": "https://orcid.org/0000-0002-0146-9324",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0146-9324"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I124055696",
+              "display_name": "University of Copenhagen",
+              "ror": "https://ror.org/035b05819",
+              "country_code": "DK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124055696"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I187531555",
+              "display_name": "Lund University",
+              "ror": "https://ror.org/012a77v79",
+              "country_code": "SE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I187531555"
+              ]
+            }
+          ],
+          "countries": [
+            "DK",
+            "SE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sanna Alwmark",
+          "raw_affiliation_strings": [
+            "Department of Geology, Lund University, 22362 Lund, Sweden",
+            "Niels Bohr Institute, University of Copenhagen, 2100 Copenhagen, Denmark"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-0146-9324",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Lund University, 22362 Lund, Sweden",
+              "institution_ids": [
+                "https://openalex.org/I187531555"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Niels Bohr Institute, University of Copenhagen, 2100 Copenhagen, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5021455837",
+            "display_name": "Bethany L. Ehlmann",
+            "orcid": "https://orcid.org/0000-0002-2745-3240",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2745-3240"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bethany L. Ehlmann",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-2745-3240",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5055568306",
+            "display_name": "Sarah A. Fagents",
+            "orcid": "https://orcid.org/0000-0002-3943-3335",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3943-3335"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I117965899",
+              "display_name": "University of Hawaiʻi at Mānoa",
+              "ror": "https://ror.org/01wspgy28",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I117965899"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1331384533",
+              "display_name": "University of Hawaii System",
+              "ror": "https://ror.org/03tzaeb71",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I1331384533"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sarah A. Fagents",
+          "raw_affiliation_strings": [
+            "Hawai’i Institute of Geophysics and Planetology, University of Hawaii, Honolulu, HI 96822, USA",
+            "Hawai'i Institute of Geophysics and Planetology, University of Hawaii, Honolulu, HI 96822, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-3943-3335",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Hawai’i Institute of Geophysics and Planetology, University of Hawaii, Honolulu, HI 96822, USA",
+              "institution_ids": [
+                "https://openalex.org/I117965899",
+                "https://openalex.org/I1331384533"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Hawai'i Institute of Geophysics and Planetology, University of Hawaii, Honolulu, HI 96822, USA",
+              "institution_ids": [
+                "https://openalex.org/I117965899",
+                "https://openalex.org/I1331384533"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013688746",
+            "display_name": "J. P. Grotzinger",
+            "orcid": "https://orcid.org/0000-0001-9324-1257",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9324-1257"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "John P. Grotzinger",
+          "raw_affiliation_strings": [
+            "California Institute of Technology, Pasadena, CA 91125, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9324-1257",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "California Institute of Technology, Pasadena, CA 91125, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086990810",
+            "display_name": "Sanjeev Gupta",
+            "orcid": "https://orcid.org/0000-0001-6415-1332",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6415-1332"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I47508984",
+              "display_name": "Imperial College London",
+              "ror": "https://ror.org/041kmwe10",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I47508984"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sanjeev Gupta",
+          "raw_affiliation_strings": [
+            "Department of Earth Science and Engineering, Imperial College London, London, UK"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-6415-1332",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Science and Engineering, Imperial College London, London, UK",
+              "institution_ids": [
+                "https://openalex.org/I47508984"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008066634",
+            "display_name": "Alexander G. Hayes",
+            "orcid": "https://orcid.org/0000-0001-6397-2630",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6397-2630",
+              "https://orcid.org/0000-0002-3094-4016"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I205783295",
+              "display_name": "Cornell University",
+              "ror": "https://ror.org/05bnh6r87",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I205783295"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alexander Hayes",
+          "raw_affiliation_strings": [
+            "Department of Astronomy, Cornell University, Ithaca, NY 14850, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-6397-2630",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Astronomy, Cornell University, Ithaca, NY 14850, USA",
+              "institution_ids": [
+                "https://openalex.org/I205783295"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5046744135",
+            "display_name": "K. E. Herkenhoff",
+            "orcid": "https://orcid.org/0000-0002-3153-6663",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3153-6663"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210111045",
+              "display_name": "Astrogeology Science Center",
+              "ror": "https://ror.org/02623eb90",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249",
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ken E. Herkenhoff",
+          "raw_affiliation_strings": [
+            "USGS Astrogeology Science Center, Flagstaff, AZ 86001, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-3153-6663",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "USGS Astrogeology Science Center, Flagstaff, AZ 86001, USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074154716",
+            "display_name": "Briony H. N. Horgan",
+            "orcid": "https://orcid.org/0000-0001-6314-9724",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6314-9724",
+              "https://orcid.org/0000-0002-7052-0795"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I219193219",
+              "display_name": "Purdue University West Lafayette",
+              "ror": "https://ror.org/02dqehb95",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I219193219"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Briony H. N. Horgan",
+          "raw_affiliation_strings": [
+            "Department of Earth, Atmospheric, and Planetary Sciences, Purdue University, West Lafayette, IN 47907, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-6314-9724",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth, Atmospheric, and Planetary Sciences, Purdue University, West Lafayette, IN 47907, USA",
+              "institution_ids": [
+                "https://openalex.org/I219193219"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060430598",
+            "display_name": "J. R. Johnson",
+            "orcid": "https://orcid.org/0000-0002-5586-4901",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5586-4901"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I145311948",
+              "display_name": "Johns Hopkins University",
+              "ror": "https://ror.org/00za53h95",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I145311948"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2802946424",
+              "display_name": "Johns Hopkins University Applied Physics Laboratory",
+              "ror": "https://ror.org/029pp9z10",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I145311948",
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jeffrey R. Johnson",
+          "raw_affiliation_strings": [
+            "Johns Hopkins University Applied Physics Laboratory, Laurel, MD 20723, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-5586-4901",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Johns Hopkins University Applied Physics Laboratory, Laurel, MD 20723, USA",
+              "institution_ids": [
+                "https://openalex.org/I145311948",
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002672516",
+            "display_name": "K. M. Kinch",
+            "orcid": "https://orcid.org/0000-0002-4629-8880",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4629-8880"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I124055696",
+              "display_name": "University of Copenhagen",
+              "ror": "https://ror.org/035b05819",
+              "country_code": "DK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ],
+          "countries": [
+            "DK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kjartan B. Kinch",
+          "raw_affiliation_strings": [
+            "Niels Bohr Institute, University of Copenhagen, 2100 Copenhagen, Denmark"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4629-8880",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Niels Bohr Institute, University of Copenhagen, 2100 Copenhagen, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5000002636",
+            "display_name": "Mark T Lemmon",
+            "orcid": "https://orcid.org/0000-0002-4504-5136",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4504-5136"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1298453700",
+              "display_name": "Space Science Institute",
+              "ror": "https://ror.org/046a9q865",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I1298453700"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mark T. Lemmon",
+          "raw_affiliation_strings": [
+            "Space Science Institute, Boulder, CO 80301, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4504-5136",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Space Science Institute, Boulder, CO 80301, USA",
+              "institution_ids": [
+                "https://openalex.org/I1298453700"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040582675",
+            "display_name": "Morten Bo Madsen",
+            "orcid": "https://orcid.org/0000-0001-8909-5111",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8909-5111"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I124055696",
+              "display_name": "University of Copenhagen",
+              "ror": "https://ror.org/035b05819",
+              "country_code": "DK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ],
+          "countries": [
+            "DK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Morten B. Madsen",
+          "raw_affiliation_strings": [
+            "Niels Bohr Institute, University of Copenhagen, 2100 Copenhagen, Denmark"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-8909-5111",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Niels Bohr Institute, University of Copenhagen, 2100 Copenhagen, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5004924815",
+            "display_name": "Jorge I. Núñez",
+            "orcid": "https://orcid.org/0000-0003-0930-6674",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0930-6674"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I145311948",
+              "display_name": "Johns Hopkins University",
+              "ror": "https://ror.org/00za53h95",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I145311948"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2802946424",
+              "display_name": "Johns Hopkins University Applied Physics Laboratory",
+              "ror": "https://ror.org/029pp9z10",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I145311948",
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jorge I. Núñez",
+          "raw_affiliation_strings": [
+            "Johns Hopkins University Applied Physics Laboratory, Laurel, MD 20723, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-0930-6674",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Johns Hopkins University Applied Physics Laboratory, Laurel, MD 20723, USA",
+              "institution_ids": [
+                "https://openalex.org/I145311948",
+                "https://openalex.org/I2802946424"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5003493585",
+            "display_name": "Gerhard Paar",
+            "orcid": "https://orcid.org/0000-0003-3198-8640",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3198-8640"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I13402291",
+              "display_name": "Joanneum Research",
+              "ror": "https://ror.org/049bdss47",
+              "country_code": "AT",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I13402291"
+              ]
+            }
+          ],
+          "countries": [
+            "AT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gerhard Paar",
+          "raw_affiliation_strings": [
+            "Joanneum Research, Graz 8010, Austria"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-3198-8640",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Joanneum Research, Graz 8010, Austria",
+              "institution_ids": [
+                "https://openalex.org/I13402291"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5062392107",
+            "display_name": "Melissa Susanne Rice",
+            "orcid": "https://orcid.org/0000-0002-8370-4139",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8370-4139"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I52669646",
+              "display_name": "Western Washington University",
+              "ror": "https://ror.org/05wn7r715",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I52669646"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Melissa Rice",
+          "raw_affiliation_strings": [
+            "Western Washington University, Bellingham, WA 98225, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8370-4139",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Western Washington University, Bellingham, WA 98225, USA",
+              "institution_ids": [
+                "https://openalex.org/I52669646"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5114055985",
+            "display_name": "James W. Rice",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "James W. Rice",
+          "raw_affiliation_strings": [
+            "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054737731",
+            "display_name": "Nicole Schmitz",
+            "orcid": "https://orcid.org/0000-0001-6481-6189",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6481-6189"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2898391981",
+              "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+              "ror": "https://ror.org/04bwf3e34",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1305996414",
+                "https://openalex.org/I2898391981"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nicole Schmitz",
+          "raw_affiliation_strings": [
+            "German Aerospace Center (DLR), Berlin 12489, Germany"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-6481-6189",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "German Aerospace Center (DLR), Berlin 12489, Germany",
+              "institution_ids": [
+                "https://openalex.org/I2898391981"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087425797",
+            "display_name": "R. Sullivan",
+            "orcid": "https://orcid.org/0000-0003-4191-598X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4191-598X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I205783295",
+              "display_name": "Cornell University",
+              "ror": "https://ror.org/05bnh6r87",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I205783295"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Robert Sullivan",
+          "raw_affiliation_strings": [
+            "Department of Astronomy, Cornell University, Ithaca, NY 14850, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4191-598X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Astronomy, Cornell University, Ithaca, NY 14850, USA",
+              "institution_ids": [
+                "https://openalex.org/I205783295"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5077057388",
+            "display_name": "Alicia Fallacaro Vaughan",
+            "orcid": "https://orcid.org/0000-0002-2853-4843",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2853-4843"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210111045",
+              "display_name": "Astrogeology Science Center",
+              "ror": "https://ror.org/02623eb90",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249",
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alicia Vaughan",
+          "raw_affiliation_strings": [
+            "USGS Astrogeology Science Center, Flagstaff, AZ 86001, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-2853-4843",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "USGS Astrogeology Science Center, Flagstaff, AZ 86001, USA",
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I4210111045"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5050376527",
+            "display_name": "M. J. Wolff",
+            "orcid": "https://orcid.org/0000-0002-1127-8329",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1127-8329"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1298453700",
+              "display_name": "Space Science Institute",
+              "ror": "https://ror.org/046a9q865",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I1298453700"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mike J. Wolff",
+          "raw_affiliation_strings": [
+            "Space Science Institute, Boulder, CO 80301, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-1127-8329",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Space Science Institute, Boulder, CO 80301, USA",
+              "institution_ids": [
+                "https://openalex.org/I1298453700"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5026565079",
+            "display_name": "Andreas Bechtold",
+            "orcid": "https://orcid.org/0000-0001-7018-1685",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7018-1685"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I129774422",
+              "display_name": "University of Vienna",
+              "ror": "https://ror.org/03prydq77",
+              "country_code": "AT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I129774422"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I138211613",
+              "display_name": "Austrian Academy of Sciences",
+              "ror": "https://ror.org/03anc3s24",
+              "country_code": "AT",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I138211613"
+              ]
+            }
+          ],
+          "countries": [
+            "AT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Andreas Bechtold",
+          "raw_affiliation_strings": [
+            "Austrian Academy of Sciences, Vienna 1010, Austria",
+            "Department of Lithospheric Research, University of Vienna, 1090 Vienna, Austria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Austrian Academy of Sciences, Vienna 1010, Austria",
+              "institution_ids": [
+                "https://openalex.org/I138211613"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Lithospheric Research, University of Vienna, 1090 Vienna, Austria",
+              "institution_ids": [
+                "https://openalex.org/I129774422"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5019668167",
+            "display_name": "Tanja Bosak",
+            "orcid": "https://orcid.org/0000-0001-5179-5323",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5179-5323"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tanja Bosak",
+          "raw_affiliation_strings": [
+            "Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA 02139, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5179-5323",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA 02139, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5075555834",
+            "display_name": "Louise Duflot",
+            "orcid": "https://orcid.org/0000-0001-5732-2009",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5732-2009"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I52669646",
+              "display_name": "Western Washington University",
+              "ror": "https://ror.org/05wn7r715",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I52669646"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Louise E. Duflot",
+          "raw_affiliation_strings": [
+            "Western Washington University, Bellingham, WA 98225, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5732-2009",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Western Washington University, Bellingham, WA 98225, USA",
+              "institution_ids": [
+                "https://openalex.org/I52669646"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5010476713",
+            "display_name": "Alberto González Fairén",
+            "orcid": "https://orcid.org/0000-0002-2938-6010",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2938-6010"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I205783295",
+              "display_name": "Cornell University",
+              "ror": "https://ror.org/05bnh6r87",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I205783295"
+              ]
+            }
+          ],
+          "countries": [
+            "ES",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alberto G. Fairén",
+          "raw_affiliation_strings": [
+            "Astrobiology Center (CSIC-INTA), Madrid, Spain",
+            "Department of Astronomy, Cornell University, Ithaca, NY 14850, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-2938-6010",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Astrobiology Center (CSIC-INTA), Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Astronomy, Cornell University, Ithaca, NY 14850, USA",
+              "institution_ids": [
+                "https://openalex.org/I205783295"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054627570",
+            "display_name": "Bradley Garczynski",
+            "orcid": "https://orcid.org/0000-0002-7668-3675",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7668-3675"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I219193219",
+              "display_name": "Purdue University West Lafayette",
+              "ror": "https://ror.org/02dqehb95",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I219193219"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Brad Garczynski",
+          "raw_affiliation_strings": [
+            "Department of Earth, Atmospheric, and Planetary Sciences, Purdue University, West Lafayette, IN 47907, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7668-3675",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth, Atmospheric, and Planetary Sciences, Purdue University, West Lafayette, IN 47907, USA",
+              "institution_ids": [
+                "https://openalex.org/I219193219"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5048961733",
+            "display_name": "R. Jaumann",
+            "orcid": "https://orcid.org/0000-0002-9759-6597",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9759-6597"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I75951250",
+              "display_name": "Freie Universität Berlin",
+              "ror": "https://ror.org/046ak2485",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I75951250"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ralf Jaumann",
+          "raw_affiliation_strings": [
+            "Institute for Geological Sciences, Freie Universitaet Berlin, 14195 Berlin, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute for Geological Sciences, Freie Universitaet Berlin, 14195 Berlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I75951250"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5062356577",
+            "display_name": "Marco Merusi",
+            "orcid": "https://orcid.org/0000-0003-0570-9177",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0570-9177"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I124055696",
+              "display_name": "University of Copenhagen",
+              "ror": "https://ror.org/035b05819",
+              "country_code": "DK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ],
+          "countries": [
+            "DK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Marco Merusi",
+          "raw_affiliation_strings": [
+            "Niels Bohr Institute, University of Copenhagen, 2100 Copenhagen, Denmark"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-0570-9177",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Niels Bohr Institute, University of Copenhagen, 2100 Copenhagen, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5010094079",
+            "display_name": "Chase Million",
+            "orcid": "https://orcid.org/0000-0003-2732-3486",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2732-3486"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Chase Million",
+          "raw_affiliation_strings": [
+            "Million Concepts LLC, Louisville, KY 40203, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2732-3486",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Million Concepts LLC, Louisville, KY 40203, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039433592",
+            "display_name": "Eleni Maria Ravanis",
+            "orcid": "https://orcid.org/0000-0002-0911-4341",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0911-4341"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I117965899",
+              "display_name": "University of Hawaiʻi at Mānoa",
+              "ror": "https://ror.org/01wspgy28",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I117965899"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1331384533",
+              "display_name": "University of Hawaii System",
+              "ror": "https://ror.org/03tzaeb71",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I1331384533"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Eleni Ravanis",
+          "raw_affiliation_strings": [
+            "Hawai’i Institute of Geophysics and Planetology, University of Hawaii, Honolulu, HI 96822, USA",
+            "Hawai'i Institute of Geophysics and Planetology, University of Hawaii, Honolulu, HI 96822, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-0911-4341",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Hawai’i Institute of Geophysics and Planetology, University of Hawaii, Honolulu, HI 96822, USA",
+              "institution_ids": [
+                "https://openalex.org/I117965899",
+                "https://openalex.org/I1331384533"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Hawai'i Institute of Geophysics and Planetology, University of Hawaii, Honolulu, HI 96822, USA",
+              "institution_ids": [
+                "https://openalex.org/I117965899",
+                "https://openalex.org/I1331384533"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5012125604",
+            "display_name": "David L. Shuster",
+            "orcid": "https://orcid.org/0000-0003-2507-9977",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2507-9977"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I95457486",
+              "display_name": "University of California, Berkeley",
+              "ror": "https://ror.org/01an7q238",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I95457486"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "David L. Shuster",
+          "raw_affiliation_strings": [
+            "Department of Earth and Planetary Science, University of California, Berkeley, Berkeley, CA 94720, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2507-9977",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth and Planetary Science, University of California, Berkeley, Berkeley, CA 94720, USA",
+              "institution_ids": [
+                "https://openalex.org/I95457486"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5079020310",
+            "display_name": "Justin I. Simon",
+            "orcid": "https://orcid.org/0000-0002-3969-8958",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3969-8958"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Justin Simon",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-3969-8958",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5015941907",
+            "display_name": "Michael St. Clair",
+            "orcid": "https://orcid.org/0000-0002-7877-3148",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7877-3148"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Michael St. Clair",
+          "raw_affiliation_strings": [
+            "Million Concepts LLC, Louisville, KY 40203, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7877-3148",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Million Concepts LLC, Louisville, KY 40203, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087749334",
+            "display_name": "Christian Tate",
+            "orcid": "https://orcid.org/0000-0003-3467-0099",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3467-0099"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I205783295",
+              "display_name": "Cornell University",
+              "ror": "https://ror.org/05bnh6r87",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I205783295"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Christian Tate",
+          "raw_affiliation_strings": [
+            "Department of Astronomy, Cornell University, Ithaca, NY 14850, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-3467-0099",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Astronomy, Cornell University, Ithaca, NY 14850, USA",
+              "institution_ids": [
+                "https://openalex.org/I205783295"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038017364",
+            "display_name": "Sebastian H. G. Walter",
+            "orcid": "https://orcid.org/0000-0003-2692-6162",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2692-6162"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I75951250",
+              "display_name": "Freie Universität Berlin",
+              "ror": "https://ror.org/046ak2485",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I75951250"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sebastian Walter",
+          "raw_affiliation_strings": [
+            "Institute for Geological Sciences, Freie Universitaet Berlin, 14195 Berlin, Germany"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2692-6162",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute for Geological Sciences, Freie Universitaet Berlin, 14195 Berlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I75951250"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111886220",
+            "display_name": "B. P. Weiss",
+            "orcid": "https://orcid.org/0000-0003-3113-3415",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3113-3415"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63966007",
+              "display_name": "Massachusetts Institute of Technology",
+              "ror": "https://ror.org/042nb2s44",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Benjamin Weiss",
+          "raw_affiliation_strings": [
+            "Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA 02139, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-3113-3415",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA 02139, USA",
+              "institution_ids": [
+                "https://openalex.org/I63966007"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Alyssa M. Bailey",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alyssa M. Bailey",
+          "raw_affiliation_strings": [
+            "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5001061621",
+            "display_name": "Tanguy Bertrand",
+            "orcid": "https://orcid.org/0000-0002-2302-9776",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2302-9776"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1280536761",
+              "display_name": "Ames Research Center",
+              "ror": "https://ror.org/02acart68",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1280536761",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tanguy Bertrand",
+          "raw_affiliation_strings": [
+            "NASA/Ames Research Center, Moffett Field, CA 94035, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-2302-9776",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NASA/Ames Research Center, Moffett Field, CA 94035, USA",
+              "institution_ids": [
+                "https://openalex.org/I1280536761"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5041029530",
+            "display_name": "Olivier Beyssac",
+            "orcid": "https://orcid.org/0000-0001-8879-4762",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8879-4762"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210123595",
+              "display_name": "Muséum national d'Histoire naturelle",
+              "ror": "https://ror.org/03wkt5x30",
+              "country_code": "FR",
+              "type": "archive",
+              "lineage": [
+                "https://openalex.org/I4210123595"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210145605",
+              "display_name": "Institut de minéralogie, de physique des matériaux et de cosmochimie",
+              "ror": "https://ror.org/05abgg682",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2802818602",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210098836",
+                "https://openalex.org/I4210123595",
+                "https://openalex.org/I4210131494",
+                "https://openalex.org/I4210145605",
+                "https://openalex.org/I4210166444"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Olivier Beyssac",
+          "raw_affiliation_strings": [
+            "Institut de Minéralogie, Physique des Matériaux et Cosmochimie, CNRS, Muséum National d’Histoire Naturelle, Sorbonne University, Paris 75005, France"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-8879-4762",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institut de Minéralogie, Physique des Matériaux et Cosmochimie, CNRS, Muséum National d’Histoire Naturelle, Sorbonne University, Paris 75005, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210123595",
+                "https://openalex.org/I4210145605"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5012574220",
+            "display_name": "Adrian Jon Brown",
+            "orcid": "https://orcid.org/0000-0002-9352-6989",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9352-6989"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210134236",
+              "display_name": "Shenzhen Planck Innovation (China)",
+              "ror": "https://ror.org/03b252479",
+              "country_code": "CN",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210134236"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4387154002",
+              "display_name": "Matériaux Divisés, Interfaces, Réactivité, Electrochimie",
+              "ror": "https://ror.org/00m587853",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I21491767",
+                "https://openalex.org/I4387154002"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Adrian J. Brown",
+          "raw_affiliation_strings": [
+            "Plancius Research, Severna Park, MD 21146, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-9352-6989",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Plancius Research, Severna Park, MD 21146, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210134236",
+                "https://openalex.org/I4387154002"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5050572272",
+            "display_name": "Piluca Caballo-Perucha",
+            "orcid": "https://orcid.org/0000-0002-9570-2595",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9570-2595"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I13402291",
+              "display_name": "Joanneum Research",
+              "ror": "https://ror.org/049bdss47",
+              "country_code": "AT",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I13402291"
+              ]
+            }
+          ],
+          "countries": [
+            "AT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Piluca Caballo-Perucha",
+          "raw_affiliation_strings": [
+            "Joanneum Research, Graz 8010, Austria"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-9570-2595",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Joanneum Research, Graz 8010, Austria",
+              "institution_ids": [
+                "https://openalex.org/I13402291"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002933040",
+            "display_name": "M. A. Caplinger",
+            "orcid": "https://orcid.org/0009-0005-1707-9004",
+            "observed_orcids": [
+              "https://orcid.org/0009-0005-1707-9004"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800753661",
+              "display_name": "Malin Space Science Systems (United States)",
+              "ror": "https://ror.org/00v5n6851",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michael A. Caplinger",
+          "raw_affiliation_strings": [
+            "Malin Space Science Systems Inc., San Diego, CA 92121, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Malin Space Science Systems Inc., San Diego, CA 92121, USA",
+              "institution_ids": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5047069514",
+            "display_name": "Christy M. Caudill",
+            "orcid": "https://orcid.org/0000-0003-2587-1147",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2587-1147"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I125749732",
+              "display_name": "Western University",
+              "ror": "https://ror.org/02grkyz14",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I125749732"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Christy M. Caudill",
+          "raw_affiliation_strings": [
+            "University of Western Ontario, London, ON N6A 3K7, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2587-1147",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Western Ontario, London, ON N6A 3K7, Canada",
+              "institution_ids": [
+                "https://openalex.org/I125749732"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5058074474",
+            "display_name": "Francesca Cary",
+            "orcid": "https://orcid.org/0000-0001-9217-0960",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9217-0960"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I117965899",
+              "display_name": "University of Hawaiʻi at Mānoa",
+              "ror": "https://ror.org/01wspgy28",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I117965899"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1331384533",
+              "display_name": "University of Hawaii System",
+              "ror": "https://ror.org/03tzaeb71",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I1331384533"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Francesca Cary",
+          "raw_affiliation_strings": [
+            "Hawai’i Institute of Geophysics and Planetology, University of Hawaii, Honolulu, HI 96822, USA",
+            "Hawai'i Institute of Geophysics and Planetology, University of Hawaii, Honolulu, HI 96822, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9217-0960",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Hawai’i Institute of Geophysics and Planetology, University of Hawaii, Honolulu, HI 96822, USA",
+              "institution_ids": [
+                "https://openalex.org/I117965899",
+                "https://openalex.org/I1331384533"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Hawai'i Institute of Geophysics and Planetology, University of Hawaii, Honolulu, HI 96822, USA",
+              "institution_ids": [
+                "https://openalex.org/I117965899",
+                "https://openalex.org/I1331384533"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087925524",
+            "display_name": "E. Cisneros",
+            "orcid": "https://orcid.org/0000-0003-3859-058X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3859-058X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ernest Cisneros",
+          "raw_affiliation_strings": [
+            "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5000617106",
+            "display_name": "E. A. Cloutis",
+            "orcid": "https://orcid.org/0000-0001-7301-0929",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7301-0929"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I872945872",
+              "display_name": "The University of Winnipeg",
+              "ror": "https://ror.org/02gdzyx04",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I872945872"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Edward A. Cloutis",
+          "raw_affiliation_strings": [
+            "University of Winnipeg, Winnipeg, MB R3B 2E9, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7301-0929",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Winnipeg, Winnipeg, MB R3B 2E9, Canada",
+              "institution_ids": [
+                "https://openalex.org/I872945872"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5019541710",
+            "display_name": "Nathan Cluff",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nathan Cluff",
+          "raw_affiliation_strings": [
+            "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5063524705",
+            "display_name": "P. Corlies",
+            "orcid": "https://orcid.org/0000-0002-6417-9316",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6417-9316"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I205783295",
+              "display_name": "Cornell University",
+              "ror": "https://ror.org/05bnh6r87",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I205783295"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Paul Corlies",
+          "raw_affiliation_strings": [
+            "Department of Astronomy, Cornell University, Ithaca, NY 14850, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-6417-9316",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Astronomy, Cornell University, Ithaca, NY 14850, USA",
+              "institution_ids": [
+                "https://openalex.org/I205783295"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5084385690",
+            "display_name": "K. Crawford",
+            "orcid": "https://orcid.org/0000-0001-7496-7546",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7496-7546"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kelsie Crawford",
+          "raw_affiliation_strings": [
+            "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7496-7546",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031605161",
+            "display_name": "S. Curtis",
+            "orcid": "https://orcid.org/0009-0004-6071-5865",
+            "observed_orcids": [
+              "https://orcid.org/0009-0004-6071-5865"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I52669646",
+              "display_name": "Western Washington University",
+              "ror": "https://ror.org/05wn7r715",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I52669646"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sabrina Curtis",
+          "raw_affiliation_strings": [
+            "Western Washington University, Bellingham, WA 98225, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Western Washington University, Bellingham, WA 98225, USA",
+              "institution_ids": [
+                "https://openalex.org/I52669646"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067377441",
+            "display_name": "R. Deen",
+            "orcid": "https://orcid.org/0000-0002-5693-641X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5693-641X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Robert Deen",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-5693-641X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087550305",
+            "display_name": "Darian T. Dixon",
+            "orcid": "https://orcid.org/0000-0003-1042-3069",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1042-3069"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800753661",
+              "display_name": "Malin Space Science Systems (United States)",
+              "ror": "https://ror.org/00v5n6851",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Darian Dixon",
+          "raw_affiliation_strings": [
+            "Malin Space Science Systems Inc., San Diego, CA 92121, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1042-3069",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Malin Space Science Systems Inc., San Diego, CA 92121, USA",
+              "institution_ids": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5103200682",
+            "display_name": "Christopher T. Donaldson",
+            "orcid": "https://orcid.org/0000-0002-0919-8397",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0919-8397"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800753661",
+              "display_name": "Malin Space Science Systems (United States)",
+              "ror": "https://ror.org/00v5n6851",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Christopher Donaldson",
+          "raw_affiliation_strings": [
+            "Malin Space Science Systems Inc., San Diego, CA 92121, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-0919-8397",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Malin Space Science Systems Inc., San Diego, CA 92121, USA",
+              "institution_ids": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039692631",
+            "display_name": "M. Barrington",
+            "orcid": "https://orcid.org/0000-0002-2900-713X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2900-713X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I205783295",
+              "display_name": "Cornell University",
+              "ror": "https://ror.org/05bnh6r87",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I205783295"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Megan Barrington",
+          "raw_affiliation_strings": [
+            "Department of Astronomy, Cornell University, Ithaca, NY 14850, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Astronomy, Cornell University, Ithaca, NY 14850, USA",
+              "institution_ids": [
+                "https://openalex.org/I205783295"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5024075187",
+            "display_name": "Michelle Ficht",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800753661",
+              "display_name": "Malin Space Science Systems (United States)",
+              "ror": "https://ror.org/00v5n6851",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michelle Ficht",
+          "raw_affiliation_strings": [
+            "Malin Space Science Systems Inc., San Diego, CA 92121, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Malin Space Science Systems Inc., San Diego, CA 92121, USA",
+              "institution_ids": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5055227980",
+            "display_name": "Stephanie Fleron",
+            "orcid": "https://orcid.org/0000-0001-7413-3912",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7413-3912"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I124055696",
+              "display_name": "University of Copenhagen",
+              "ror": "https://ror.org/035b05819",
+              "country_code": "DK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ],
+          "countries": [
+            "DK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Stephanie Fleron",
+          "raw_affiliation_strings": [
+            "University of Copenhagen, Copenhagen 1165, Denmark"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7413-3912",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Copenhagen, Copenhagen 1165, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5063180827",
+            "display_name": "Michael Hansen",
+            "orcid": "https://orcid.org/0000-0001-8144-5412",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8144-5412"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I124055696",
+              "display_name": "University of Copenhagen",
+              "ror": "https://ror.org/035b05819",
+              "country_code": "DK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ],
+          "countries": [
+            "DK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michael Hansen",
+          "raw_affiliation_strings": [
+            "University of Copenhagen, Copenhagen 1165, Denmark"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-8144-5412",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Copenhagen, Copenhagen 1165, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "David Harker",
+            "orcid": "https://orcid.org/0000-0001-6397-9082",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6397-9082"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800753661",
+              "display_name": "Malin Space Science Systems (United States)",
+              "ror": "https://ror.org/00v5n6851",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "David Harker",
+          "raw_affiliation_strings": [
+            "Malin Space Science Systems Inc., San Diego, CA 92121, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-6397-9082",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Malin Space Science Systems Inc., San Diego, CA 92121, USA",
+              "institution_ids": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038626849",
+            "display_name": "Rachel Howson",
+            "orcid": "https://orcid.org/0000-0002-1891-4308",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1891-4308"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800753661",
+              "display_name": "Malin Space Science Systems (United States)",
+              "ror": "https://ror.org/00v5n6851",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rachel Howson",
+          "raw_affiliation_strings": [
+            "Malin Space Science Systems Inc., San Diego, CA 92121, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-1891-4308",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Malin Space Science Systems Inc., San Diego, CA 92121, USA",
+              "institution_ids": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5081375120",
+            "display_name": "Joshua Huggett",
+            "orcid": "https://orcid.org/0009-0002-0244-9613",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-0244-9613"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800753661",
+              "display_name": "Malin Space Science Systems (United States)",
+              "ror": "https://ror.org/00v5n6851",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Joshua Huggett",
+          "raw_affiliation_strings": [
+            "Malin Space Science Systems Inc., San Diego, CA 92121, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Malin Space Science Systems Inc., San Diego, CA 92121, USA",
+              "institution_ids": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002209869",
+            "display_name": "Samantha Jacob",
+            "orcid": "https://orcid.org/0000-0001-9950-1486",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9950-1486"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Samantha Jacob",
+          "raw_affiliation_strings": [
+            "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9950-1486",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5090115385",
+            "display_name": "Elsa H. Jensen",
+            "orcid": "https://orcid.org/0000-0002-9825-2534",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9825-2534"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800753661",
+              "display_name": "Malin Space Science Systems (United States)",
+              "ror": "https://ror.org/00v5n6851",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Elsa Jensen",
+          "raw_affiliation_strings": [
+            "Malin Space Science Systems Inc., San Diego, CA 92121, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-9825-2534",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Malin Space Science Systems Inc., San Diego, CA 92121, USA",
+              "institution_ids": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059966448",
+            "display_name": "Ole Bjarlin Jensen",
+            "orcid": "https://orcid.org/0000-0002-4295-5951",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4295-5951"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I124055696",
+              "display_name": "University of Copenhagen",
+              "ror": "https://ror.org/035b05819",
+              "country_code": "DK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ],
+          "countries": [
+            "DK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ole B. Jensen",
+          "raw_affiliation_strings": [
+            "Niels Bohr Institute, University of Copenhagen, 2100 Copenhagen, Denmark"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Niels Bohr Institute, University of Copenhagen, 2100 Copenhagen, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5020792237",
+            "display_name": "M. J. Jodhpurkar",
+            "orcid": "https://orcid.org/0000-0002-5125-6650",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5125-6650"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohini Jodhpurkar",
+          "raw_affiliation_strings": [
+            "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-5125-6650",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5078077580",
+            "display_name": "J. Joseph",
+            "orcid": "https://orcid.org/0000-0001-9860-351X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9860-351X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I205783295",
+              "display_name": "Cornell University",
+              "ror": "https://ror.org/05bnh6r87",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I205783295"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jonathan Joseph",
+          "raw_affiliation_strings": [
+            "Department of Astronomy, Cornell University, Ithaca, NY 14850, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Astronomy, Cornell University, Ithaca, NY 14850, USA",
+              "institution_ids": [
+                "https://openalex.org/I205783295"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5128874507",
+            "display_name": "Christian Juarez",
+            "orcid": "https://orcid.org/0000-0003-3321-8084",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3321-8084"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800753661",
+              "display_name": "Malin Space Science Systems (United States)",
+              "ror": "https://ror.org/00v5n6851",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Christian Juarez",
+          "raw_affiliation_strings": [
+            "Malin Space Science Systems Inc., San Diego, CA 92121, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-3321-8084",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Malin Space Science Systems Inc., San Diego, CA 92121, USA",
+              "institution_ids": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5082358047",
+            "display_name": "Linda C. Kah",
+            "orcid": "https://orcid.org/0000-0001-7172-2033",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7172-2033"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I75027704",
+              "display_name": "University of Tennessee at Knoxville",
+              "ror": "https://ror.org/020f3ap87",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I75027704"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Linda C. Kah",
+          "raw_affiliation_strings": [
+            "Department of Earth and Planetary Sciences, University of Tennessee, Knoxville, TN 37916, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7172-2033",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth and Planetary Sciences, University of Tennessee, Knoxville, TN 37916, USA",
+              "institution_ids": [
+                "https://openalex.org/I75027704"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009997172",
+            "display_name": "Oak Kanine",
+            "orcid": "https://orcid.org/0000-0002-9204-6107",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9204-6107"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Oak Kanine",
+          "raw_affiliation_strings": [
+            "California Institute of Technology, Pasadena, CA 91125, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-9204-6107",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "California Institute of Technology, Pasadena, CA 91125, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5034387359",
+            "display_name": "Jessica Z. Kristensen",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I124055696",
+              "display_name": "University of Copenhagen",
+              "ror": "https://ror.org/035b05819",
+              "country_code": "DK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ],
+          "countries": [
+            "DK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jessica Kristensen",
+          "raw_affiliation_strings": [
+            "University of Copenhagen, Copenhagen 1165, Denmark"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Copenhagen, Copenhagen 1165, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009888443",
+            "display_name": "Tex Kubacki",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800753661",
+              "display_name": "Malin Space Science Systems (United States)",
+              "ror": "https://ror.org/00v5n6851",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tex Kubacki",
+          "raw_affiliation_strings": [
+            "Malin Space Science Systems Inc., San Diego, CA 92121, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Malin Space Science Systems Inc., San Diego, CA 92121, USA",
+              "institution_ids": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5081980801",
+            "display_name": "Kristiana Lapo",
+            "orcid": "https://orcid.org/0000-0002-1352-6154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1352-6154"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I52669646",
+              "display_name": "Western Washington University",
+              "ror": "https://ror.org/05wn7r715",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I52669646"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kristiana Lapo",
+          "raw_affiliation_strings": [
+            "Western Washington University, Bellingham, WA 98225, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Western Washington University, Bellingham, WA 98225, USA",
+              "institution_ids": [
+                "https://openalex.org/I52669646"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5017535967",
+            "display_name": "Angela Magee",
+            "orcid": "https://orcid.org/0000-0001-5414-8519",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5414-8519"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800753661",
+              "display_name": "Malin Space Science Systems (United States)",
+              "ror": "https://ror.org/00v5n6851",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Angela Magee",
+          "raw_affiliation_strings": [
+            "Malin Space Science Systems Inc., San Diego, CA 92121, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5414-8519",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Malin Space Science Systems Inc., San Diego, CA 92121, USA",
+              "institution_ids": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5066830891",
+            "display_name": "Michael Maimone",
+            "orcid": "https://orcid.org/0000-0003-0828-4661",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0828-4661"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800753661",
+              "display_name": "Malin Space Science Systems (United States)",
+              "ror": "https://ror.org/00v5n6851",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michael Maimone",
+          "raw_affiliation_strings": [
+            "Malin Space Science Systems Inc., San Diego, CA 92121, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-0828-4661",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Malin Space Science Systems Inc., San Diego, CA 92121, USA",
+              "institution_ids": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052221985",
+            "display_name": "Greg L. Mehall",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Greg L. Mehall",
+          "raw_affiliation_strings": [
+            "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5055844302",
+            "display_name": "L. K. Mehall",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Laura Mehall",
+          "raw_affiliation_strings": [
+            "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5001586955",
+            "display_name": "J. Mollerup",
+            "orcid": "https://orcid.org/0000-0001-5285-9501",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5285-9501"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I52669646",
+              "display_name": "Western Washington University",
+              "ror": "https://ror.org/05wn7r715",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I52669646"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jess Mollerup",
+          "raw_affiliation_strings": [
+            "Western Washington University, Bellingham, WA 98225, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5285-9501",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Western Washington University, Bellingham, WA 98225, USA",
+              "institution_ids": [
+                "https://openalex.org/I52669646"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5024604848",
+            "display_name": "Daniel Viúdez‐Moreiras",
+            "orcid": "https://orcid.org/0000-0001-8442-3788",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8442-3788"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134820265",
+              "display_name": "Consejo Superior de Investigaciones Científicas",
+              "ror": "https://ror.org/02gfc7t72",
+              "country_code": "ES",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210117279",
+              "display_name": "Instituto Nacional de Técnica Aeroespacial",
+              "ror": "https://ror.org/02m44ak47",
+              "country_code": "ES",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I4210117279"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Daniel Viúdez-Moreiras",
+          "raw_affiliation_strings": [
+            "Astrobiology Center (CSIC-INTA), Madrid, Spain",
+            "National Institute for Aerospace Technology, Madrid, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-8442-3788",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Astrobiology Center (CSIC-INTA), Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I134820265"
+              ]
+            },
+            {
+              "raw_affiliation_string": "National Institute for Aerospace Technology, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I4210117279"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5085256840",
+            "display_name": "K. Paris",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kristen Paris",
+          "raw_affiliation_strings": [
+            "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5019932215",
+            "display_name": "K. E. Powell",
+            "orcid": "https://orcid.org/0000-0002-1281-1551",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1281-1551"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kathryn E. Powell",
+          "raw_affiliation_strings": [
+            "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-1281-1551",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5064003977",
+            "display_name": "Frank Preusker",
+            "orcid": "https://orcid.org/0000-0001-9005-4202",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9005-4202"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2898391981",
+              "display_name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+              "ror": "https://ror.org/04bwf3e34",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1305996414",
+                "https://openalex.org/I2898391981"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Frank Preusker",
+          "raw_affiliation_strings": [
+            "German Aerospace Center (DLR), Berlin 12489, Germany"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9005-4202",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "German Aerospace Center (DLR), Berlin 12489, Germany",
+              "institution_ids": [
+                "https://openalex.org/I2898391981"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067057530",
+            "display_name": "J. B. Proton",
+            "orcid": "https://orcid.org/0000-0003-2085-2748",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2085-2748"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Jon Proton",
+          "raw_affiliation_strings": [
+            "Opscode LLC, Healdsburg, CA 95448, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2085-2748",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Opscode LLC, Healdsburg, CA 95448, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067071838",
+            "display_name": "Corrine Rojas",
+            "orcid": "https://orcid.org/0000-0002-2791-9805",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2791-9805"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Corrine Rojas",
+          "raw_affiliation_strings": [
+            "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-2791-9805",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5045350760",
+            "display_name": "Danny Sallurday",
+            "orcid": "https://orcid.org/0000-0001-7917-1483",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7917-1483"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800753661",
+              "display_name": "Malin Space Science Systems (United States)",
+              "ror": "https://ror.org/00v5n6851",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Danny Sallurday",
+          "raw_affiliation_strings": [
+            "Malin Space Science Systems Inc., San Diego, CA 92121, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7917-1483",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Malin Space Science Systems Inc., San Diego, CA 92121, USA",
+              "institution_ids": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Kim Saxton",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kim Saxton",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5003431927",
+            "display_name": "Eva Linghan Scheller",
+            "orcid": "https://orcid.org/0000-0002-9981-5802",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9981-5802"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Eva Scheller",
+          "raw_affiliation_strings": [
+            "California Institute of Technology, Pasadena, CA 91125, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-9981-5802",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "California Institute of Technology, Pasadena, CA 91125, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5065344807",
+            "display_name": "Christina H. Seeger",
+            "orcid": "https://orcid.org/0000-0003-4993-9724",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4993-9724"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Christina H. Seeger",
+          "raw_affiliation_strings": [
+            "California Institute of Technology, Pasadena, CA 91125, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4993-9724",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "California Institute of Technology, Pasadena, CA 91125, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061776045",
+            "display_name": "M. Starr",
+            "orcid": "https://orcid.org/0000-0002-7523-9273",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7523-9273"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800753661",
+              "display_name": "Malin Space Science Systems (United States)",
+              "ror": "https://ror.org/00v5n6851",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mason Starr",
+          "raw_affiliation_strings": [
+            "Malin Space Science Systems Inc., San Diego, CA 92121, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7523-9273",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Malin Space Science Systems Inc., San Diego, CA 92121, USA",
+              "institution_ids": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5103203109",
+            "display_name": "N. Stein",
+            "orcid": "https://orcid.org/0000-0003-2199-6751",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2199-6751"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nathan Stein",
+          "raw_affiliation_strings": [
+            "California Institute of Technology, Pasadena, CA 91125, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2199-6751",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "California Institute of Technology, Pasadena, CA 91125, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5004919372",
+            "display_name": "Nathalie N. Turenne",
+            "orcid": "https://orcid.org/0000-0003-3972-8472",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3972-8472"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I872945872",
+              "display_name": "The University of Winnipeg",
+              "ror": "https://ror.org/02gdzyx04",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I872945872"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nathalie Turenne",
+          "raw_affiliation_strings": [
+            "University of Winnipeg, Winnipeg, MB R3B 2E9, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-3972-8472",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Winnipeg, Winnipeg, MB R3B 2E9, Canada",
+              "institution_ids": [
+                "https://openalex.org/I872945872"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5001754913",
+            "display_name": "Jason K. Van Beek",
+            "orcid": "https://orcid.org/0000-0002-6772-4914",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6772-4914"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jason Van Beek",
+          "raw_affiliation_strings": [
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-6772-4914",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, USA",
+              "institution_ids": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072526007",
+            "display_name": "A. Winhold",
+            "orcid": "https://orcid.org/0000-0003-1699-1868",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1699-1868"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Andrew G. Winhold",
+          "raw_affiliation_strings": [
+            "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1699-1868",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Space Exploration, Arizona State University, Tempe, AZ 85281, USA",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5081600401",
+            "display_name": "Rachel Yingling",
+            "orcid": "https://orcid.org/0000-0001-7368-443X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7368-443X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800753661",
+              "display_name": "Malin Space Science Systems (United States)",
+              "ror": "https://ror.org/00v5n6851",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rachel Yingling",
+          "raw_affiliation_strings": [
+            "Malin Space Science Systems Inc., San Diego, CA 92121, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7368-443X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Malin Space Science Systems Inc., San Diego, CA 92121, USA",
+              "institution_ids": [
+                "https://openalex.org/I2800753661"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1126/sciadv.abo4856",
+        "doi": "https://doi.org/10.1126/sciadv.abo4856",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1126/sciadv.abo4856",
+        "pdf_url": "https://www.science.org/doi/pdf/10.1126/sciadv.abo4856?download=true",
+        "source": {
+          "id": "https://openalex.org/S2737427234",
+          "display_name": "Science Advances",
+          "issn_l": "2375-2548",
+          "issn": [
+            "2375-2548"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-a",
+            "doyens",
+            "jufo-3",
+            "ki-jl-3",
+            "medline",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315823",
+          "host_organization_name": "American Association for the Advancement of Science",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315823"
+          ],
+          "host_organization_lineage_names": [
+            "American Association for the Advancement of Science"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Science Advances",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.science.org/doi/pdf/10.1126/sciadv.abo4856?download=true",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W3117584495",
+      "doi": null,
+      "title": "Photo-Geologic Mapping of the Mars 2020 Landing Site, Jezero Crater, Mars",
+      "publication_year": 2020,
+      "cited_by_count": 3,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5028861074",
+            "display_name": "Nathan Robert Williams",
+            "orcid": "https://orcid.org/0000-0003-0602-484X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0602-484X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "N. R. Williams",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5079710286",
+            "display_name": "Kathryn M. Stack",
+            "orcid": "https://orcid.org/0000-0003-3444-6695",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3444-6695"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "K. M. Stack",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-3444-6695",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5000969977",
+            "display_name": "Fred John Calef",
+            "orcid": "https://orcid.org/0000-0002-5132-3980",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5132-3980"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "F. J. Calef",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-5132-3980",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5064030380",
+            "display_name": "Vivian Zheng Sun",
+            "orcid": "https://orcid.org/0000-0003-1480-7369",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1480-7369"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "V. Z. Sun",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-1480-7369",
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036436018",
+            "display_name": "Kenneth H. Williford",
+            "orcid": "https://orcid.org/0000-0003-0633-408X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0633-408X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Kenneth H. Williford",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5020967937",
+            "display_name": "Kenneth Anthony Farley",
+            "orcid": "https://orcid.org/0000-0002-7846-7546",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7846-7546"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "K. A. Farley",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-7846-7546",
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "mag:3117584495",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2020LPI....51.2254W/abstract",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306518943",
+          "display_name": "Lunar and Planetary Science Conference",
+          "issn_l": "0270-9511",
+          "issn": [
+            "0270-9511"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Lunar and Planetary Science Conference",
+        "raw_type": null
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2774077668",
+      "doi": "https://doi.org/10.1130/abs/2017am-306001",
+      "title": "GEOLOGIC MAPPING AND STRATIGRAPHIC ANALYSIS OF A CANDIDATE MARS 2020 LANDING SITE: JEZERO CRATER, MARS",
+      "publication_year": 2017,
+      "cited_by_count": 3,
+      "type": "conference-paper",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5016590808",
+            "display_name": "Shannon M. Cofield",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Shannon M. Cofield",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5079710286",
+            "display_name": "Kathryn M. Stack",
+            "orcid": "https://orcid.org/0000-0003-3444-6695",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3444-6695"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Kathryn M. Stack",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1130/abs/2017am-306001",
+        "doi": "https://doi.org/10.1130/abs/2017am-306001",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1130/abs/2017am-306001",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4220651000",
+          "display_name": "Abstracts with programs - Geological Society of America",
+          "issn_l": "0016-7592",
+          "issn": [
+            "0016-7592"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
+          "host_organization": "https://openalex.org/P4310319845",
+          "host_organization_name": "Geological Society of America",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319845"
+          ],
+          "host_organization_lineage_names": [
+            "Geological Society of America"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geological Society of America Abstracts with Programs",
+        "raw_type": "proceedings-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W3037391258",
+      "doi": "https://doi.org/10.13140/rg.2.2.12930.38082",
+      "title": "Geologic mapping and stratigraphic analysis of a candidate Mars 2020 landing site: Jezero crater, Mars",
+      "publication_year": 2017,
+      "cited_by_count": 1,
+      "type": "article",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5016590808",
+            "display_name": "Shannon M. Cofield",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Cofield, Shannon",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5079710286",
+            "display_name": "Kathryn M. Stack",
+            "orcid": "https://orcid.org/0000-0003-3444-6695",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3444-6695"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Stack, Kathryn M",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "mag:3037391258",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2018LPI....49.2563C/abstract",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306518891",
+          "display_name": "LPI",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "LPI",
+        "raw_type": null
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.13140/rg.2.2.12930.38082",
+        "any_repository_has_fulltext": null
+      }
+    },
+    {
+      "id": "https://openalex.org/W2971824673",
+      "doi": "https://doi.org/10.1002/essoar.10501294.1",
+      "title": "Machine-Learning-Driven New Geologic Discoveries at Mars Rover Landing Sites: Jezero Crater and NE Syrtis",
+      "publication_year": 2019,
+      "cited_by_count": 12,
+      "type": "preprint",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5067612292",
+            "display_name": "Murat Dündar",
+            "orcid": "https://orcid.org/0000-0001-5752-468X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5752-468X",
+              "https://orcid.org/0000-0002-3956-8088"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55769427",
+              "display_name": "Indiana University – Purdue University Indianapolis",
+              "ror": "https://ror.org/05gxnyn08",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55769427",
+                "https://openalex.org/I592451"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Murat Dundar",
+          "raw_affiliation_strings": [
+            "Indiana University-Purdue University Indianapolis",
+            "Computer & Information Science Dept., Indiana University-Purdue University, Indianapolis, IN, USA,"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5752-468X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Indiana University-Purdue University Indianapolis",
+              "institution_ids": [
+                "https://openalex.org/I55769427"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Computer & Information Science Dept., Indiana University-Purdue University, Indianapolis, IN, USA,",
+              "institution_ids": [
+                "https://openalex.org/I55769427"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5021455837",
+            "display_name": "Bethany L. Ehlmann",
+            "orcid": "https://orcid.org/0000-0002-2745-3240",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2745-3240"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1334627681",
+              "display_name": "Jet Propulsion Laboratory",
+              "ror": "https://ror.org/027k65916",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I122411786",
+                "https://openalex.org/I1334627681",
+                "https://openalex.org/I4210124779"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bethany L Ehlmann",
+          "raw_affiliation_strings": [
+            "California Institute of Technology",
+            "Div. of Geological & Planetary Sciences, California Institute of Technology, Pasadena, CA, USA,",
+            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-2745-3240",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "California Institute of Technology",
+              "institution_ids": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Div. of Geological & Planetary Sciences, California Institute of Technology, Pasadena, CA, USA,",
+              "institution_ids": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1334627681"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5004999366",
+            "display_name": "E. K. Leask",
+            "orcid": "https://orcid.org/0000-0002-3220-4003",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3220-4003"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I122411786",
+              "display_name": "California Institute of Technology",
+              "ror": "https://ror.org/05dxps055",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ellen Leask",
+          "raw_affiliation_strings": [
+            "California Institute of Technology",
+            "Div. of Geological & Planetary Sciences, California Institute of Technology, Pasadena, CA, USA,"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-3220-4003",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "California Institute of Technology",
+              "institution_ids": [
+                "https://openalex.org/I122411786"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Div. of Geological & Planetary Sciences, California Institute of Technology, Pasadena, CA, USA,",
+              "institution_ids": [
+                "https://openalex.org/I122411786"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1002/essoar.10501294.1",
+        "doi": "https://doi.org/10.1002/essoar.10501294.1",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1002/essoar.10501294.1",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "posted-content"
+      },
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://arxiv.org/pdf/1909.02387",
+        "any_repository_has_fulltext": true
+      }
+    }
+  ],
+  "group_by": []
+}
