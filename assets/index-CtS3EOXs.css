@@ -47,7 +47,7 @@ aside.sidebar {
   scrollbar-width: thin;
   scrollbar-color: rgba(255, 255, 255, 0.18) transparent;
 }
-aside.sidebar::-webkit-scrollbar { width: 6px; }
+aside.sidebar::-webkit-scrollbar { width: 5px; }
 aside.sidebar::-webkit-scrollbar-thumb { background: rgba(255, 255, 255, 0.18); border-radius: 3px; }
 
 footer {
@@ -313,17 +313,17 @@ section.map > .map-resources > summary { box-sizing: border-box; }
 /* 10. Panel lateral: barra de desplazamiento discreta y último bloque con aire -- */
 aside.sidebar {
   scrollbar-width: thin;
-  scrollbar-color: rgba(140, 200, 170, 0.35) transparent;
+  scrollbar-color: rgba(140, 200, 170, 0.22) transparent;
   padding-bottom: 14px;
   padding-right: 6px;
 }
-aside.sidebar::-webkit-scrollbar { width: 6px; }
+aside.sidebar::-webkit-scrollbar { width: 5px; }
 aside.sidebar::-webkit-scrollbar-track { background: transparent; }
 aside.sidebar::-webkit-scrollbar-thumb {
-  background: rgba(140, 200, 170, 0.32);
+  background: rgba(140, 200, 170, 0.2);
   border-radius: 999px;
 }
-aside.sidebar::-webkit-scrollbar-thumb:hover { background: rgba(140, 200, 170, 0.55); }
+aside.sidebar::-webkit-scrollbar-thumb:hover { background: rgba(140, 200, 170, 0.45); }
 
 /* 11. Recursos desplegados: nunca se salen de la ventana ---------------------- */
 section.map > .map-resources[open] {
