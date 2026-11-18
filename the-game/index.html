@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Game · Globo de Marte</title>
+  <link rel="stylesheet" href="./node_modules/cesium/Build/Cesium/Widgets/widgets.css">
+  <style>
+    :root{color-scheme:dark;font:16px system-ui;background:#100c0b;color:#fff1e8}
+    body{margin:0} #mapa{position:fixed;inset:0} #panel{position:absolute;top:1rem;left:1rem;max-width:min(27rem,calc(100vw - 4rem));background:#211914ed;border:1px solid #735545;border-radius:.75rem;padding:1rem}
+    h1{margin:.15rem 0 .65rem;letter-spacing:-.04em}p{margin:.7rem 0}small,a{color:#f3be9d}
+    nav{display:flex;flex-wrap:wrap;gap:.45rem} h2{font-size:1rem;margin:.8rem 0 .45rem}button{font:inherit;color:inherit;border:1px solid #916650;background:#3e2a21;padding:.55rem;border-radius:.35rem;min-height:44px;cursor:pointer}
+    button:hover{background:#59362a}button:focus-visible{outline:2px solid #ffd59c;outline-offset:2px}
+  </style>
+  <script>window.CESIUM_BASE_URL='./node_modules/cesium/Build/Cesium/'</script>
+  <script src="./node_modules/cesium/Build/Cesium/Cesium.js" defer></script>
+  <script src="./globo.js" type="module"></script>
+</head>
+<body>
+  <main id="mapa" aria-label="Globo navegable de Marte"></main>
+  <aside id="panel">
+    <small>THE GAME / PILOTO CESIUM</small>
+    <h1>Marte sin recortes</h1>
+    <nav aria-label="Vistas de prueba">
+      <button id="global">Marte global</button>
+      <button id="jezero">Acercar a Jezero</button>
+      <button id="borde">Cruzar el borde de Jezero</button>
+    </nav>
+    <h2 id="turismo">Destinos turísticos</h2>
+    <nav id="destinos" aria-labelledby="turismo"></nav>
+    <p id="estado" role="status">Cargando relieve global…</p>
+    <small>Arrastra para navegar, usa la rueda para acercarte y Ctrl + arrastre para inclinar. <a href="https://trek.nasa.gov/mars/">NASA/JPL</a> · Viking, MOLA y CTX.</small>
+  </aside>
+</body>
+</html>
